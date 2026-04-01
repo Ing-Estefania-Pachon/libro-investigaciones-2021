@@ -2,13 +2,21 @@ project:
   type: book
   output-dir: docs
 book:
-  title: "Investigaciones en Gestión del Riesgo"
+  title: "Investigaciones en gestión del riesgo de desastres para Colombia"
   author: "UNGRD"
   chapters:
     - index.qmd
-    - 01_documento_completo.qmd
+    - 00_intro_legal.qmd
+    - art_01_actualizacion_de_los_coeficientes_s.qmd
+    - art_02_mitigacion_del_riesgo_sismico_de_la.qmd
+    - art_03_evaluacion_probabilista_del_riesgo_.qmd
+    - art_04_contribucion_de_la_geodesia_espacia.qmd
+    - art_05_animales_en_la_gestion_del_riesgo_d.qmd
+    - art_06_iniciativas_para_la_reduccion_del_r.qmd
+    - art_07_la_perspectiva_historica_en_la_gest.qmd
 
 format:
   html:
     theme: [cosmo, theme.scss]
     toc: true
+    number-sections: false

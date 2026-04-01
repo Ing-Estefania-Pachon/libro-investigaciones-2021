@@ -1,12 +1,12 @@
 ---
 title: "Inicio"
-subtitle: "Investigaciones en Gestión del Riesgo"
+subtitle: "Investigaciones en gestión del riesgo de desastres para Colombia"
 author: "UNGRD"
 date: "2021"
 title-block-banner: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=2072"
 title-block-banner-color: "white"
 ---
 
-# Investigaciones en Gestión del Riesgo
+# Investigaciones en gestión del riesgo de desastres para Colombia
 
 Bienvenido a la versión digital interactiva.
