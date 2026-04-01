@@ -1,7 +1,11 @@
 
+/*-- scss:defaults --*/
+/* Aquí definimos las variables institucionales */
 $primary: #004b87; 
 $secondary: #f2a900; 
 
+/*-- scss:rules --*/
+/* Estilos para el banner y tipografía */
 .title-block-banner {
   background-color: $primary !important;
   color: white !important;
@@ -11,5 +15,12 @@ $secondary: #f2a900;
   margin-bottom: 2rem;
 }
 
-body { font-family: 'Open Sans', sans-serif; line-height: 1.6; }
-h1, h2, h3 { font-weight: 700; color: #333333; }
+body {
+  font-family: 'Open Sans', sans-serif;
+  line-height: 1.6;
+}
+
+h1, h2, h3 {
+  font-weight: 700;
+  color: #333333;
+}
