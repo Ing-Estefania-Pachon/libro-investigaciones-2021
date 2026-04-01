@@ -1,0 +1,66 @@
+---
+title: "Información Legal"
+subtitle: "14° Conferencia Internacional IDRIM 2024"
+author:
+  - name: "Unidad Nacional para la Gestión del Riesgo de Desastres"
+    affiliations:
+      - name: "Subdirección para el Conocimiento del Riesgo - UNGRD"
+date: "2025"
+title-block-banner: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=2072"
+title-block-banner-color: "white"
+---
+
+# Información Legal
+
+
+**Iván Duque Márquez** Presidente de la República
+
+**Eduardo José González Angulo** Director, Unidad Nacional para la Gestión del Riesgo de Desastres
+
+**Gerardo Jaramillo Montenegro** Subdirector General, Unidad Nacional para la Gestión del Riesgo de Desastres
+
+**Lina Dorado** Subdirectora para el Conocimiento del Riesgo, Unidad Nacional para la Gestión del Riesgo de Desastres
+
+**Comisión Nacional Asesora para la Investigación en Gestión del Riesgo de Desastres (CNAIGRD)**
+
+### Editores
+* **Lina Dorado**, UNGRD.
+* **Argiro Ramírez & Clara Beatriz Ocampo**, MINCIENCIAS.
+* **Omar Joaquín Agudelo**, CEPREVE.
+* **Marta Calvache**, SGC.
+* **Fabio Andrés Bernal**, IDEAM.
+* **Leonor Aydé Rodríguez**, IGAC.
+* **Wilson Ramírez & Dorotea Cardona**, IAvH.
+* **Capitán de Corbeta Cesar Grisales, Capitán Leonardo Marriaga & Diana Quintana**, DIMAR.
+* **Alexander Figueroa & María Angélica Arenas**, MINAMBIENTE.
+* **Carolina Queruz & Enrique Bolívar**, MEN.
+* **Juan Pablo Londoño**, Universidad de la Salle.
+* **Lina Ospina Ostios**, Universidad del Valle.
+* **Carlos Arturo García**, REDULAC/RRD, Capítulo Colombia.
+* **Cristian Jaimes**, IDIGER.
+
+### Equipo Técnico y Coordinación
+* **Subdirección para el Conocimiento del Riesgo, UNGRD:** Luisa Fernanda Cadena Amado, Doralba Restrepo M., Mauricio Romero Torres.
+* **Coordinación editorial:** Mauricio Romero Torres.
+* **Revisión de estilo:** Kelly Barbosa.
+* **Diseño y diagramación:** Jonathan Reyes (Comunicaciones), Hugo Niño, Alejandro Herrera, Hugo Vanstralen y Diana Mancera.
+
+::: {.callout-note appearance="simple"}
+**Proceso de arbitraje:** Revisión por pares doble ciega para cada capítulo.
+:::
+
+**ISBN obra digital:** 978-958-5509-19-1  
+**Copyright:** © Unidad Nacional para la Gestión del Riesgo de Desastres, abril de 2021  
+Bogotá, Colombia. Todos los derechos reservados.  
+**Licencia:** Atribución NoComercial-SinDerivadas 2.5 Colombia. Distribución gratuita – versión digital.
+
+---
+
+### Citación sugerida
+Comisión Nacional Asesora para la Investigación en Gestión del Riesgo de Desastres (CNAIGRD) (Eds.). 2021. *Investigaciones en gestión del riesgo de desastres para Colombia. Avances, perspectivas y casos de estudio*. Unidad Nacional para la Gestión del Riesgo de Desastres. Bogotá, Colombia. 384 p.
+
+**Reseña bibliográfica:** 384 páginas: figuras, tablas.  
+CDD 363.34 C733
+
+*Figura de portada: mapa de velocidades geodésicas expresadas en el ITRF2008 de estaciones GNSS localizadas en Colombia del proyecto GeoRED (SGC).*
+

@@ -1,0 +1,38 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Libro de Investigaciones 2021"
+  author: "UNGRD & IDRIM Society"
+  date: "2025"
+  repo-url: https://github.com/libro-investigaciones-2021
+  repo-actions: [edit, issue]
+  downloads: [pdf, epub]
+  sharing: [twitter, facebook, linkedin]
+  
+  navbar:
+    right:
+      - icon: github
+        href: https://github.com/libro-investigaciones-2021
+
+  chapters:
+    - index.qmd
+    - 00_legal.qmd
+    - part: "Sesiones de la Conferencia"
+      chapters:
+        - 01_memorias_completas.qmd
+
+format:
+  html:
+    theme:
+      light: [cosmo, theme.scss]
+      dark: [darkly, theme.scss]
+    toc: true
+    toc-depth: 3
+    number-sections: false
+    code-fold: true
+
+crossref:
+  fig-prefix: "Figura"
+  tbl-prefix: "Tabla"
