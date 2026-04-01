@@ -1,17 +1,12 @@
 ---
 title: "Inicio"
-subtitle: "14° Conferencia Internacional IDRIM 2024"
-author:
-  - name: "Unidad Nacional para la Gestión del Riesgo de Desastres"
-    affiliations:
-      - name: "Subdirección para el Conocimiento del Riesgo - UNGRD"
-date: "2025"
+subtitle: "Investigaciones en gestión del riesgo de desastres para Colombia"
+author: "Unidad Nacional para la Gestión del Riesgo de Desastres"
+date: "2021"
 title-block-banner: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=2072"
 title-block-banner-color: "white"
 ---
 
-# Comunidades Resilientes a los Desastres por la Vida
+# Investigaciones en gestión del riesgo de desastres para Colombia
 
-Bienvenidos al libro digital interactivo de las Memorias IDRIM 2024, Colombia.
-
-Utilice el menú lateral para navegar por las sesiones y visualizar los contenidos multimedia integrados.
+Bienvenidos a la versión digital interactiva de las investigaciones 2021.
