@@ -2,14 +2,11 @@ project:
   type: book
   output-dir: docs
 book:
-  title: "Investigaciones en gestión del riesgo de desastres para Colombia"
+  title: "Investigaciones en Gestión del Riesgo"
   author: "UNGRD"
   chapters:
     - index.qmd
-    - 00_legal.qmd
-    - part: "Investigaciones 2021"
-      chapters:
-        - art_evaluaci_n_probabilista_d.qmd
+    - 01_documento_completo.qmd
 
 format:
   html:

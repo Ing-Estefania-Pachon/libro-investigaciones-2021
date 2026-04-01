@@ -1,3 +1,12 @@
+---
+title: "Documento Completo"
+subtitle: "Investigaciones en Gestión del Riesgo"
+author: "UNGRD"
+date: "2021"
+title-block-banner: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=2072"
+title-block-banner-color: "white"
+---
+
 Investigaciones en gestión del riesgo de desastres para Colombia
 
 Avances, perspectivas y casos de estudio
