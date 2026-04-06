@@ -6,15 +6,14 @@ book:
   author: "UNGRD"
   chapters:
     - index.qmd
-    - 00_intro_legal.qmd
-    - cap_01_actualizacion_de_los_coeficientes_s.qmd
-    - cap_02_mitigacion_del_riesgo_sismico_de_la.qmd
-    - cap_03_evaluacion_probabilista_del_riesgo_.qmd
-    - cap_04_contribucion_de_la_geodesia_espacia.qmd
-    - cap_05_nociones_performativas_del_reasenta.qmd
-    - cap_06_animales_en_la_gestion_del_riesgo_d.qmd
-    - cap_07_iniciativas_para_la_reduccion_del_r.qmd
-    - cap_09_la_perspectiva_historica_en_la_gest.qmd
+    - capitulos/cap_01_actualizacion_de_los_coeficientes_s.qmd
+    - capitulos/cap_02_mitigacion_del_riesgo_sismico_de_la.qmd
+    - capitulos/cap_03_evaluacion_probabilista_del_riesgo_.qmd
+    - capitulos/cap_04_contribucion_de_la_geodesia_espacia.qmd
+    - capitulos/cap_05_nociones_performativas_del_reasenta.qmd
+    - capitulos/cap_06_animales_en_la_gestion_del_riesgo_d.qmd
+    - capitulos/cap_07_iniciativas_para_la_reduccion_del_r.qmd
+    - capitulos/cap_09_la_perspectiva_historica_en_la_gest.qmd
 
 format:
   html:
