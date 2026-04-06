@@ -1,0 +1,91 @@
+---
+title: "Capítulo 5: Animales en la gestión del riesgo"
+subtitle: "Investigaciones en gestión del riesgo de desastres para Colombia"
+author: "UNGRD"
+date: "2021"
+title-block-banner: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=2072"
+---
+
+
+# Capítulo 5: Animales en la gestión del riesgo
+
+Recopilación, búsqueda, selección, filtración de información y de datos de los últimos 10 años, revisión bibliográfica a partir de diferentes fuentes como documentos oficiales, textos escritos y digítales; nacionales e internacionales identificando los aspectos asociados al manejo, salud y seguridad de los animales en la gestión del riesgo de los desastres y su papel en la sociedad, que permiten llevar a cabo una adecuada guía para la toma de decisiones frente a los animales en emergencias y desastres, garantizando la seguridad del personal operativo que interviene. Se priorizan el análisis a las acciones que contemplan estándares asociados al enfoque One Health y se prepara el contenido de una manera significativa y agregándole contenido relevante por parte de cada uno de los autores.
+
+**CONFLICTO DE INTERESES**
+
+Los autores declaran no tener conflicto de interés.
+
+**IDENTIFICACIÓN POR AUTOR**
+
+Diego Alexander Hernández Pulido [CvLAC](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001613874)
+
+Nicolás Hernández Gallo [CvLAC](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001318004)
+
+Leonardo Arias Bernal [CvLAC](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000382086)
+
+Rodrigo Forero Carrillo [CvLAC](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001711791)
+
+Gonzalo Jiménez Alonso [CvLAC](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000284300)
+
+BIBLIOGRAFÍA {#bibliografía-1 .list-paragraph}
+============
+
+1.  Barrett A., & Osofsky S. (2014). *Unprecedented challenges, holistic solutions. One Health: Interdependence of People, Other Species and the Planet*. New York: Cambridge University Press, págs. 364-365.
+
+2.  Sispvet, Sociedad Interamericana de Salud Pública. (2009). \"Declaración de Bonito\". Bonito: Memorias de la I Conferencia Mundial de Salud Pública Veterinaria. *III Congreso Brasilero de Salud Pública Veterinaria*. pág. 85.
+
+3.  World Bank. (2012). *People, pathogens and our planet: the economics of one health*. Washington, DC: World Bank.
+
+4.  Díaz, A., Murillo, J., & Trelles, S. (2015). *La Gestión del Riesgo y la Atención de Animales en Desastres*; Recuperado de <http://repositorio.iica.int/bitstream/11324/2602/1/BVE17038690e.pdf>
+
+5.  Federal Emergency Management Agency FEMA (2015). *Animals in Disasters* IS-10. A: Awareness and Preparedness. Recuperado de <https://training.fema.gov/is/courseoverview.aspx?code=IS-10.a>
+
+6.  Gibbs, E., & Paul, J. (2014). The evolution of One Health: a decade of progress and challenges for the future. *Veterinary Record*, pages. 85-91. <https://doi.org/10.1136/vr.g143>
+
+7.  Myers, S., & Patz, J. (2009). Emerging threats to human health from global environmental change. *Annual Review of Environment Resource*. pages. 223-252. 5. <https://doi.org/10.1146/annurev.environ.033108.102650>
+
+8.  Christensen, N., Leege, L. (2015). *The environment and you*. Boston: Pearson Ed.
+
+9.  Bergaglio, J., Palau, H., & Senesi, S. (2017). Instrumentación de un protocolo de bienestar animal y su impacto sobre una explotación ganadera en la provincia de buenos aires. *Agronomía & Ambiente*, *37*(1). Recuperado de <http://agronomiayambiente.agro.uba.ar/index.php/AyA/article/view/62>
+
+10. Rojas, H., Stuardo, L. (2005). Políticas y prácticas de bienestar animal en los países de América: estudio preliminar. *Revue scientifique et technique (International Office of Epizootics)*, *24*(2), 549-565. <https://doi.org/10.20506/rst.24.2.1589>
+
+11. Wingfield, W., & Palmer, S. (2009). *Veterinary disaster response*. John Wiley & Blackwell Ed.
+
+12. Organización Mundial de Sanidad Animal OIE. (2016). *Directrices sobre gestión de desastres y reducción de los riesgos en relación con la sanidad, el bienestar animal y la Salud Pública veterinaria*. Recuperado de <https://www.oie.int/fileadmin/Home/esp/Animal_Welfare/docs/pdf/Otros/Gestiondesastres-ESP.pdf>
+
+13. Noji, E. (2000). *Impacto de los desastres en la Salud Pública*. Bogotá Colombia. Organización Panamericana de la Salud Ed.
+
+14. Arcos, P. I., Castro, R., & Busto, F. (2002). Desastres y Salud Pública: un abordaje desde el marco teórico de la epidemiología. *Revista Española de Salud Pública*, *76*, 121-132. <https://doi.org/10.1590/S1135-57272002000200006>
+
+15. Gimenez, R., Gimenez, T., & May, K. (2009). *Technical large animal emergency rescue*. John Wiley & Sons Ed.
+
+16. Grandin, T., & Johnson, C. (2006). *Animals in translation: Using the mysteries of autism to decode animal behavior*. SUNY Press.
+
+17. Stoltenow, C. (2008). Animal Biosecurity and Protection. North Dakota State University. Recuperado de <https://www.ag.ndsu.edu/livestockextension/animal-biosecurity-and-protection/files/ansc488agrosecurityhandout.pdf>
+
+18. Dickstein, S. (2019). *The Role of the Wildlife Rehabilitator in Disaster Preparedness and Response*. <https://www.hsdl.org/?view&did=456385>
+
+19. Salcedo, S., & Guzmán, L. (2014). A*gricultura familiar en América Latina y el Caribe: recomendaciones de política*. Santiago de Chile, Chile. Food and Agriculture Organization of the United Nations FAO 2014. <http://www.fao.org/3/i3788s/i3788s.pdf>
+
+20. Food and Agriculture Organization of the United Nations FAO. (2018). *The impact of Disasters and crises on agriculture and food security*. FAO ed. <http://www.fao.org/3/I8656EN/i8656en.pdf>
+
+21. Maudlin, I., Eisler, M. (2009). Neglected and endemic zoonoses. Philosophical Transactions of the Royal Society London B, 364(1530), 2777-2787. <https://doi.org/10.1098/rstb.2009.0067>.
+
+22. Chatham House. (2010). *Shifting from emergency response to prevention of pandemic disease threats at source. Londres*, Chatham House. <https://www.chathamhouse.org/publications/papers/view/109284>
+
+23. Okello, AL., Gibbs, PJ., & Vandersmissen, A. (2011). One Health and the neglected zoonoses: turning rhetoric into reality. *Veterinary Records*, 169, 281-285. <https://doi.org/10.1136/vr.d5378>
+
+24. Macpherson, C. N. (2012). *Dogs, zoonoses and public health*. CABI Ed. <https://doi.org/10.1079/9781845938352.0000>
+
+25. Schoenbach, V. J. (1999). *Comprendiendo los Fundamentos de la Epidemiología-un texto en desarrollo*. University of North carolina. <http://www.epidemiolog.net/es/endesarrollo/TablaDeContenidos.htm>
+
+26. Mota, R., Velarde, C., & Cajiao, M. (2016). *Bienestar animal una visión global en Iberoamérica*. Editor ELSEVIER.
+
+27. Ordóñez, G. A. (2000). Salud ambiental: conceptos y actividades. *Revista Panamericana de Salud Pública*, *7*, 137-147. <https://doi.org/10.1590/S1020-49892000000300001>
+
+28. Wingfield, W. E., Nash, S. L., Palmer, S. B., & Upp, J. J. (2013). *Veterinary Disaster Medicine: Working Animals*. Wayne E. Wingfield Ed.
+
+29. Garcia, R. P. (Ed.). (2018). *One welfare: a framework to improve animal welfare and human well-being*. Osfordshire, UK: CABI Ed.
+
+**7**
