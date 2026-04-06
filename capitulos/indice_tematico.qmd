@@ -1,0 +1,11 @@
+---
+title: "Índice temático"
+subtitle: "Investigaciones en gestión del riesgo de desastres para Colombia"
+author: "UNGRD"
+date: "2021"
+title-block-banner: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=2072"
+number-sections: false
+---
+
+
+[]{#_Toc47894938 .anchor}Índice temático
