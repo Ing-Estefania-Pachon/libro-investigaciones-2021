@@ -1,0 +1,15 @@
+---
+title: "IDENTIFICACIÓN DE AUTOR**"
+subtitle: "Investigaciones en gestión del riesgo de desastres para Colombia"
+author: "UNGRD"
+date: "2021"
+title-block-banner: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=2072"
+---
+
+# **IDENTIFICACIÓN DE AUTOR**
+
+
+William Oswaldo Gaviria Gutiérrez	[https://orcid.org/0000-0003-4228-4665](https://orcid.org/0000-0003-4228-4665)  
+Viviana Ramírez Loaiza		[https://orcid.org/0000-0003-3203-2472](https://orcid.org/0000-0003-3203-2472)  
+Lina Andrea Zambrano Hernández	[https://orcid.org/0000-0001-8675-3203](https://orcid.org/0000-0001-8675-3203)
+

@@ -1,0 +1,22 @@
+---
+title: "BIBLIOGRÁFIA**"
+subtitle: "Investigaciones en gestión del riesgo de desastres para Colombia"
+author: "UNGRD"
+date: "2021"
+title-block-banner: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=2072"
+---
+
+# **BIBLIOGRÁFIA**
+
+
+1. American Society of Civil Engineers. *Minimum Design Loads for Buildings and Other Structures*. ASCE 7 \- 10/16.   
+2. Luco, N., Ellingwood, B., Hamburger, R.O., Hooper, J.D., Kimball, J.K, and Kircher, C. (2007). Risk-targeted versus current seismic design maps for the conterminous United States. *SEAOC 2007 Convention Proceedings*.  
+3. Esteva, L. (1967). Criterios para la construcción de espectros para diseño sísmico. *Tercer Simposio Panamericano de Estructuras.* Universidad Central de Venezuela. Caracas.  
+4. Rosenblueth E. (1976). Optimum design for infrequent disturbances. *Journal of the Structural Division ST9*, 1807-1825.  
+5. Salgado, M., Ordaz, M., Cardona, O.D. (2017). Coeficientes de diseño sismo resistente óptimos para Colombia. *VIII Congreso Nacional de Ingeniería Sísmica*. Barranquilla.  
+6. Salgado, M., Ordaz, M., Singh, K.S., Cardona, O.D., Reinoso, E., Aguado, A., Zuloaga, D., Huerta, B., Bernal, G. (2018). Homogeneous and Continous Probabilistic Seismic Hazard Model for Latin America and The Caribbean. *16th European Conference on Earthquake Engineering*. Tessalonniki.  
+7. Ordaz, M., Martinelli F., Aguilar, A., Arboleda, J., Meletti, C., D'Amico, V. (2018). R-CRISIS. Program for computng seismic hazard. [www.r-crisis.com](http://www.r-crisis.com)  
+8. Departamento Nacional de Planeación. (2015). *Tipologías Departamentales y Municipales: Una propuesta para comprender las entidades territoriales colombianas*. Dirección de Desarrollo Territorial Sostenible. Grupo de Estudios Territoriales. Recuperado de https://colaboracion.dnp.gov.co/CDT/Estudios%20Econmicos/2015may28%20Tipologias.pdf
+
+**2**
+

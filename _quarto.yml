@@ -6,21 +6,43 @@ book:
   author: "UNGRD"
   chapters:
     - index.qmd
-    - art_01_actualizacion_de_los_coeficientes_s.qmd
-    - art_02_mitigacion_del_riesgo_sismico_de_la.qmd
-    - art_03_evaluacion_probabilista_del_riesgo_.qmd
-    - art_04_contribucion_de_la_geodesia_espacia.qmd
-    - art_05_nociones_performativas_del_reasenta.qmd
-    - art_06_animales_en_la_gestion_del_riesgo_d.qmd
-    - art_07_iniciativas_para_la_reduccion_del_r.qmd
-    - art_08_comunicacion_del_riesgo_reflexiones.qmd
-    - art_09_la_perspectiva_historica_en_la_gest.qmd
-    - art_10_estudio_de_riesgo_por_movimientos_e.qmd
-    - art_11_de_la_percepcion_de_la_amenaza_a_su.qmd
-    - art_12_obras_costeras_y_clima_maritimo.qmd
-    - art_13_modelo_de_gestion_y_analisis_del_ri.qmd
-    - art_14_gestion_del_riesgo_por_inundaciones.qmd
-    - art_15_indice_tematico.qmd
+    - cap_01_prologo.qmd
+    - cap_02_actualizacion_de_los_coeficientes_s.qmd
+    - cap_03_anexo_1_espectros_de_diseno_propues.qmd
+    - cap_04_agradecimientos.qmd
+    - cap_05_identificacion_del_autor.qmd
+    - cap_06_bibliografia.qmd
+    - cap_07_mitigacion_del_riesgo_sismico_de_la.qmd
+    - cap_08_agradecimientos.qmd
+    - cap_09_identificacion_del_autor.qmd
+    - cap_10_evaluacion_probabilista_del_riesgo_.qmd
+    - cap_11_identificacion_del_autor.qmd
+    - cap_12_bibliografia.qmd
+    - cap_13_contribucion_de_la_geodesia_espacia.qmd
+    - cap_14_nociones_performativas_del_reasenta.qmd
+    - cap_15_resumen.qmd
+    - cap_16_palabras_clave.qmd
+    - cap_17_abstract.qmd
+    - cap_18_keywords.qmd
+    - cap_19_conflicto_de_intereses.qmd
+    - cap_20_agradecimientos.qmd
+    - cap_21_identificacion_de_autor.qmd
+    - cap_22_bibliografia.qmd
+    - cap_23_animales_en_la_gestion_del_riesgo_d.qmd
+    - cap_24_bibliografia.qmd
+    - cap_25_iniciativas_para_la_reduccion_del_r.qmd
+    - cap_26_comunicacion_del_riesgo_reflexiones.qmd
+    - cap_27_la_perspectiva_historica_en_la_gest.qmd
+    - cap_28_estudio_de_riesgo_por_movimientos_e.qmd
+    - cap_29_agradecimientos.qmd
+    - cap_30_identificacion_del_autor.qmd
+    - cap_31_de_la_percepcion_de_la_amenaza_a_su.qmd
+    - cap_32_conflicto_de_interes.qmd
+    - cap_33_bibliografia.qmd
+    - cap_34_obras_costeras_y_clima_maritimo_cas.qmd
+    - cap_35_modelo_de_gestion_y_analisis_del_ri.qmd
+    - cap_36_gestion_del_riesgo_por_inundaciones.qmd
+    - cap_37_indice_tematico.qmd
 
 format:
   html:

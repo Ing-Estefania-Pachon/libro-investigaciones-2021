@@ -1,0 +1,103 @@
+---
+title: "BIBLIOGRÁFIA**"
+subtitle: "Investigaciones en gestión del riesgo de desastres para Colombia"
+author: "UNGRD"
+date: "2021"
+title-block-banner: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=2072"
+---
+
+# **BIBLIOGRÁFIA**
+
+
+1\. 	Wilhite, D. A. (1993). The Enigma of Drought. En: D. A. Wilhite (ed.), *Drought Assessment, Management, and Planning: Theory and Case Studies*. Boston, MA: Springer US; pp. 3-15.  https://doi.org/10.1007/978-1-4615-3224-8\_1
+
+2\. 	UNGRD (Unidad Nacional para la Gestión del Riesgo de Desastres), Ingeniar Risk Intelligence. (2018). *Atlas de Riesgo de Colombia: revelando desastres latentes*. Bogotá. 264 p.
+
+3\. 	Mckee, T. B., Doesken, N. J. & Kleist, J. (1993, January). *The relationship of drought frequency and duration to time scales*. AMS 8th Conference on Applied Climatology. Anaheim, California.
+
+4\. 	IDEAM. (2019). *Estudio Nacional del Agua 2018*. Bogota. 452 p.
+
+5\. 	UNGRD \- (Unidad Nacional para la Gestión del Riesgo de Desastres). (2016). *Fenómeno El Niño: Análisis comparativo 1997-1998/2014-2016*. Bogotá.142 p.
+
+6\. 	Melo, S., Riveros, L., Romero, G., Álvarez, A., Diaz, C. & Calderon, S. (2017). *Efectos Económicos de Futuras Sequías en Colombia: Estimación a partir del Fenómeno El Niño 2015*. Bogotá.
+
+7\. 	Salgado-Gálvez, M.A., Bernal, G.A., Zuloaga, D., Marulanda, M. C., Cardona, O-D. & Henao, S. (2017). Probabilistic Seismic Risk Assessment in Manizales, Colombia: Quantifying Losses for Insurance Purposes. *International Journal of Disaster Risk Science*, 8, 296–307. https://doi.org/10.1007/s13753-017-0137-6
+
+8\. 	Bernal GA, Salgado-Gálvez MA, Zuloaga D, Tristancho J, González D, Cardona O-D. (2017). Integration of Probabilistic and Multi-Hazard Risk Assessment Within Urban Development Planning and Emergency Preparedness and Response: Application to Manizales, Colombia. *International Journal of Disaster Risk Science,* 8(3), 270-83. https://doi.org/10.1007/s13753-017-0135-8
+
+9\. 	Cardona, O-D., Ordaz, M. G., Mora, M. G., Salgado-Gálvez, M. A, Bernal, G. A., Zuloaga-Romero, D, et al. (2014). Global risk assessment: A fully probabilistic seismic and tropical cyclone wind risk assessment. *International Journal of Disaster Risk Reduction*, 10, Part B, 461-76. https://doi.org/10.1016/j.ijdrr.2014.05.006
+
+10\. 	Salgado-Gálvez MA, Cardona OD, Carreño M, Barbat A. (2015). Probabilistic seismic hazard and risk assessment in Spain. En A. H. Barbat (Ed). *Monograph Series in Earthquake Engineering*. https://www.scipedia.com/public/Salgado-Galvez\_et\_al\_2015a
+
+11\. 	Torres, M. A., Jaimes, M. A., Reinoso, E. & Ordaz, M. (2014). Event-based approach for probabilistic flood risk assessment. *International Journal of River Basin Management,* 12(4), 377-89. https://doi.org/10.1080/15715124.2013.847844
+
+12\. 	Jenkins, S., Magill, C., McAneney. J. & Blong, R. (2012). Regional ash fall hazard I: a probabilistic assessment methodology. *Bulletin of Volcanology*, 74(7), 1699-712. https://doi.org/10.1007/s00445-012-0627-8
+
+13\. 	Quijano, J. A., Jaimes, M. A , Torres, M. A., Reinoso, E., Castellanos, L., Escamilla, J., et al. (2015). Event-based approach for probabilistic agricultural drought risk assessment under rainfed conditions. *Natural  Hazards*, 76(2), 1297-318. https://doi.org/10.1007/s11069-014-1550-4
+
+14\. 	Bernal, G. A., Escovar, M. A., Zuloaga, D., & Cardona, O. D. (2017). Agricultural Drought Risk Assessment in Northern Brazil: An Innovative Fully Probabilistic Approach. En V. Marchezini,  B. Wiesner, S. Saito, L. Londe (Eds.), *Reduction of Vulnerability to Disasters: from Knowledge to Action*. RiMa Edito, pp. 331-56.
+
+15\. 	Steduto, P., Hsiao, T. C., Fereres, E. & Raes, D. (2012). *Crop yield response to water.* FAO Irrigation and Drainage Paper 66, pp 174-180.
+
+16\. 	UNISDR (United Nations International Strategy for Disaster Reduction). (2009). *Terminología sobre Reducción del Riesgo de Desastres.* Estrategia Internacional para la Reducción Desastres de las Naciones Unidas, 43 p.
+
+17\. 	Funk, C., Peterson, P., Landsfeld, M., Pedreros, D., Verdin, J., Shukla, S., et al. (2015) The climate hazards infrared precipitation with stations \- A new environmental record for monitoring extremes. *Scientific Data*, *2*, 150066, 1-21. https://doi.org/10.1038/sdata.2015.66
+
+18\. 	Sheffield, J., Goteti. G. & Wood, E. F. (2006) Development of a 50-year high-resolution global dataset of meteorological forcings for land surface modeling. *Journal of Climate, 19*(13), 3088-111. https://doi.org/10.1175/JCLI3790.1
+
+19\. 	Copernicus Climate Change Service. (2017). *ERA5: Fifth generation of ECMWF atmospheric reanalyses of the global climate.* Copernicus Climate Change Service Climate Data Store (CDS). https://cds.climate.copernicus.eu/cdsapp\#\!/home
+
+20\. 	Urrea, V., Ochoa, A. & Mesa, O. (2017). V*alidación de la base de datos de precipitación CHIRPS para Colombia a escala diaria, mensual y anual en el periodo 1981-2014.* Universidad Nacional de Colombia Sede Medellín.
+
+21\. 	Verdin, A, Rajagopalan, B., Kleiber, W. & Funk. C. (2015). A Bayesian kriging approach for blending satellite and ground precipitation observations. *Water Resources Ressearch, 51*(2), 908-21. https://doi.org/10.1002/2014WR015963
+
+22\. 	IPCC (Intergovernmental Panel on Climate Change). (2013). *Climate Change 2013 \- The Physical Science Basis*. Cambridge: Cambridge University Press; 1535 p.
+
+23\. 	Mishra, A. K. & Singh, V. P. (2010). A review of drought concepts. *Journal of Hydrology, 391*,1-2, 202-16. https://doi.org/10.1016/j.jhydrol.2010.07.012
+
+24\. 	IDEAM (Instituto de Hidrología, Meteorología y Estudios Ambientales). (2020). *Coberturas Nacionales. Mapas de coberturas de la tierra. Ecosistemas. Monitoreo de suelos y coberturas de la tierra*. http://www.ideam.gov.co/web/ecosistemas/coberturas-nacionales
+
+25\. 	DANE (Departamento Administrativo Nacional de Estadística). (2016). *III Censo Nacional Agropecuario 2014\.* Tomo 2, Resultados.
+
+26\. 	DANE (Departamento Administrativo Nacional de Estadística). (2019). *Encuesta Nacional Agropecuaria \- ENA 2017*. Bogotá, pp. 1-31.
+
+27\. 	MADR (Ministerio de Agricultura y Desarrollo Rural). (2016). *Producción nacional por producto*. Evaluaciones Agropecuarias del Ministerio de Agricultura y Desarrollo Rural. Agronet.
+
+28\. 	FAO/IIASA/ISRIC/ISSCAS/JRC. *Harmonized World Soil Database (version 1.2)*. (2012). FAO, Rome, Italy and IIASA, Laxenburg, Austria.
+
+29\. 	FAO (Food and Agriculture Organization of the United Nations) (2018). *The impact of disasters and crises on agriculture and food security*. 168 p.
+
+30\. 	Banimahd, S. A. & Khalili, D. (2013). Factors Influencing Markov Chains Predictability Characteristics, Utilizing SPI, RDI, EDI and SPEI Drought Indices in Different Climatic Zones. *Water Resources Management, 27*(11), 3911-28. https://doi.org/10.1007/s11269-013-0387-z
+
+31\. 	Wilks, D. S. (2006). *Statistical methods in the atmospheric sciences*. International Geophysics Series. 464 p.
+
+32\. 	Allen, R. G., Pereira, L. S., Raes, D. & Smith, M. (1998). Crop evapotranspiration: Guidelines for computing crop requirements. *Irrigation and Drainage Paper No 56*, FAO. 300 p.
+
+33\. 	Raes, D. (2009). *The ETo Calculator Reference Manual.* Food and Agricultural Organization of the United Nations (FAO), Rome, pp 1-38. 
+
+34\. 	Wilhite, D. A. & Glantz, M. H. (1985). Understanding the Drought Phenomenon: The Role of Definitions. *Water International, 10*(3), 111-20. https://doi.org/10.1080/02508068508686328
+
+35\. 	Jayanthi, H. Assessing the agricultural drought risks for principal rainfed crops due to changing climate scenarios using satellite estimated rainfall in Africa. *Background Paper GAR Global Assessment Report on Disaster Risk Reduction.* 28 p.
+
+36\. 	Palmer W. C. (1965). *Meteorological Drought.* U.S. Weather Bureau, Research Paper No. 45\. 58 p.
+
+37\. 	Mckee, T. B., Doesken, N. J. & Kleist, J. (1993). The relationship of drought frequency and duration to time scales. *8th Conference Applied Climatology*, pp. 179-84.
+
+38\. 	Byun, H. R. & Wilhite, D. A. (1999). Objective quantification of drought severity and duration. *Journal of Climate, 12*(9):2747-56. https://doi.org/10.1175/1520-0442(1999)012\<2747:OQODSA\>2.0.CO;2
+
+39\. 	Tsakiris, G., Pangalou, D. & Vangelis, H. (2007). Regional drought assessment based on the Reconnaissance Drought Index (RDI). *Water Resour Managament, 21*(5), 821-33. https://doi.org/10.1007/s11269-006-9105-4
+
+40\. 	Vicente-Serrano, S. M., Beguería, S. & López-Moreno, J. I. (2010). A multiscalar drought index sensitive to global warming: The standardized precipitation evapotranspiration index. *Journal of Climate, 23*(7), 1696-718. https://doi.org/10.1175/2009JCLI2909.1
+
+41\. 	Verdin, A., Funk, C., Rajagopalan, B. & Kleiber, W. (2016). Kriging and local polynomial methods for blending satellite-derived and gauge precipitation estimates to support hydrologic early warning systems. *IEEE Transactions on Geoscience and Remote Sensing, 54*(5), 2552-62. https://doi.org/10.1109/TGRS.2015.2502956
+
+42\. 	ArcGIS. (2020). C*ómo funcional el kriging. Conceptos del conjunto de herramientas de interpolación ráster*. https://desktop.arcgis.com/es/arcmap/10.3/tools/spatial-analyst-toolbox/understanding-interpolation-analysis.htm
+
+43\. 	Li, J. & Heap, A. D. (2008). A Review of Spatial Interpolation Methods for Environmental Scientists. *Geoscience Australia,* Record 2008/23, 137\.
+
+44\. 	Sheppard, J. & Hoyle, F. (2018). *Water availability. Healthy Soils for Sustainable Farms programme*. Avon Catchment Council, Department of Agriculture and Food, Western Australia. http://soilquality.org.au/factsheets/water-availability
+
+45\. 	Raes, D., Steduto, P., Hsiao. T. C. & Fereres, E. (2011). *FAO cropwater productivity model to simulate yield response to water AquaCrop.* Reference Manual of AQUACROP. 56 p.
+
+**4**
+
