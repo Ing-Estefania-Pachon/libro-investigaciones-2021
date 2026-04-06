@@ -4,10 +4,7 @@ subtitle: "Investigaciones en gestión del riesgo de desastres para Colombia"
 author: "UNGRD"
 date: "2021"
 title-block-banner: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=2072"
-title-block-banner-color: "white"
 ---
-
-
 
 **Investigaciones en gestión del riesgo de desastres para Colombia**
 
@@ -244,4 +241,3 @@ Paula Andrea Villegas González & Nelson Obregón Neira
 **Lina Andrea Zambrano Hernández** **|** Programa de Psicología y Observatorio Psicosocial para la Gestión del Riesgo de Desastres. Universidad de Manizales, Manizales, Colombia
 
 **Nisley Zúñiga Estacio** **|** Grupo de Investigación Georiesgos, Observatorio Sismológico y Geofísico del Suroccidente Colombiano (OSSO), Universidad del Valle, Ciudad Universitaria, Cali, Colombia
-
