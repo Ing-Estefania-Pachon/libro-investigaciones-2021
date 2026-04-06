@@ -1,58 +1,11 @@
 ---
-title: "Capítulo 4. []{#_Toc47894927 .anchor}Contribución de la geodesia espacial en la gestión del riesgo en Colombia. Casos de estudio"
+title: "Capítulo 3. Contribución de la geodesia espacial..."
 subtitle: "Investigaciones en gestión del riesgo de desastres para Colombia"
 author: "UNGRD"
 date: "2021"
 title-block-banner: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=2072"
 number-sections: false
 ---
-
-[]{#_Toc47894927 .anchor}Contribución de la geodesia espacial en la gestión del riesgo en Colombia. Casos de estudio
-
-**Héctor Mora-Páez^1\*^, Fredy Díaz Mila^1^, Takeshi Sagiya^2^, Leidy Giraldo Londoño^1^ & Yuli Corchuelo Cuervo^1^**
-
-^1^Servicio Geológico Colombiano, Dirección de Geoamenazas, Grupo Investigaciones Geodésicas Espaciales, Diagonal 53 \# 34-53, Bogotá, Colombia
-
-^2^Centro de Investigación en Mitigación de Desastres, Universidad de Nagoya, Japón
-
-\*Autor de contacto: Héctor Mora Páez, Servicio Geológico Colombiano, Grupo Investigaciones Geodésicas Espaciales, Diagonal 53 \# 34-53, Bogotá, Colombia. Correo-e: <hmora@sgc.gov.co>
-
-**Resumen**
-
-Con el fin de avanzar en el conocimiento de los fenómenos que ocurren en la corteza terrestre en la esquina noroccidental de Suramérica y suroriental de Centroamérica, región de alta complejidad tectónica, el Servicio Geológico Colombiano emplea diferentes tipos de instrumentación, métodos y técnicas, y entre ellas de geodesia espacial, correspondiente a la aplicación en estudios geodinámicos de los conceptos de geodesia tectónica y geodesia de imágenes. En geodesia espacial, basado en posicionamiento GNSS de alta precisión, se han determinado las velocidades en estaciones geodésicas permanentes de operación continúa localizadas en las placas de Nazca, Suramérica y Caribe, y en los bloques Norte de los Andes y Panamá. Estas velocidades permiten confirmar la subducción oblicua de la placa de Nazca por debajo de Suramérica; la acumulación de deformación en el límite de placas Nazca-Suramérica en el margen Colombia-Ecuador, sugiriendo la posibilidad de generación de un sismo fuerte en esta zona; el movimiento general en sentido sur-norte del Bloque Norte de los Andes, hasta la latitud 7.5°N, donde presentan cambio de tendencia hacia el noreste; la convergencia de la placa Caribe en dirección sureste, así como la colisión del bloque de Panamá con respecto al Bloque Norte de los Andes. El concepto de geodesia de imágenes se ha orientado por ahora, al estudio de subsidencia en la ciudad de Bogotá mediante la aplicación de técnicas interferométricas de radar de apertura sintética-InSAR, empleando imágenes del sensor TerraSAR-X, cuyos resultados, combinados con los obtenidos con GPS, permiten establecer valores cuantitativos de este fenómeno en varios sectores de la ciudad. Los resultados obtenidos en las dos aplicaciones constituyen importante insumo en la gestión del riesgo, los primeros, a ser considerados en los estudios de la amenaza sísmica del país, y los segundos, en la planeación urbana de la ciudad de Bogotá, en especial para considerar aspectos del crecimiento horizontal y vertical de las construcciones.
-
-**Palabras clave**
-
-GNSS, geodinámica, Bloque Norte de los Andes, InSAR, subsidencia, tectónica de placas
-
-**Contribution of Space Geodesy in Risk Management in Colombia. Study cases**
-
-**Abstract**
-
-In order to advance in the knowledge of the phenomena that occur in the earth\'s crust in the northwestern corner of South America and southeast of Central America, a region of high tectonic complexity, the Colombian Geological Survey has been using different types of instrumentation, methods and techniques, and among them of space geodesy, corresponding to the application in geodynamic studies of the tectonic and imaging geodesy concepts. Space geodesy, based on high-precision GNSS positioning, velocities have been estimated at GPS permanent stations of continuous operation located on the Nazca, South America, and Caribbean plates, and also in the North Andean and Panama blocks. These velocities confirm the oblique subduction of the Nazca plate beneath South America plate; the accumulation of deformation at the Nazca-South America plate boundary on the Colombia-Ecuador margin, suggesting the possibility of generating a strong earthquake in this area; the general motion in the south-north direction of the North Andean Block, up to latitude 7.5°N, where they present a trend change towards the northeast; the convergence of the Caribbean plate in a southeast direction, as well as the collision of the Panama block with the North Andean Block. The concept of imaging geodesy has been oriented so far, to the study of the land subsidence in the Bogotá city by applying Interferometric radar techniques-InSAR. Results obtained using images from the TerraSAR-X sensor have been combined with those obtained with GPS in order to establish quantitative values ​​of the land-subsidence in several areas of the city. The results obtained in the two applications constitute an important input in risk management, the first one, to be considered in the studies of the seismic hazard in the country, and the second one, in the urban planning of the Bogotá city especially to consider aspects of horizontal and vertical growth of buildings.
-
-**Keywords**
-
-GNSS, geodynamics, North Andean Block, InSAR, subsidence, plate tectonics
-
-INTRODUCCIÓN
-============
-
-La Tierra es eminentemente un sistema dinámico. Los procesos que ocurren en el interior de la Tierra y el movimiento de grandes volúmenes en la superficie terrestre se ligan estrechamente a la tectónica de placas, y a ello, la sismicidad y el volcanismo. De igual manera, los movimientos de grandes masas tanto en la atmósfera como en los océanos se asocian a procesos dinámicos. Muchas inquietudes que han surgido, generalmente relacionadas con geoamenazas, ciclo hidrológico e incluso acerca del cambio global, entre otras, no pueden explicarse si no se tiene conocimiento y entendimiento de los procesos relacionados con transporte de masas en el sistema Tierra. Para detectar movimientos asociados a procesos dinámicos que ocurren en el sistema Tierra, con alta precisión y resoluciones temporales, se emplean técnicas de geodesia espacial, en dos de sus componentes: geodesia de posicionamiento y geodesia de imágenes. Así, los grandes avances en las técnicas geodésicas espaciales y el rápido desarrollo de sistemas y fortalecimiento de las capacidades de transmisión de datos dan lugar al surgimiento de una verdadera revolución en el campo de estudio de la geodesia, tanto global como regional y local, permitiendo su aplicación en diversas disciplinas del conocimiento, entre ellas las relacionadas con las geociencias. La observación de desplazamientos en la superficie terrestre permite establecer el estado de deformación de la corteza terrestre, y su posible asociación con la ocurrencia de sismos, tsunamis, erupciones volcánicas, entre diversos tipos de amenazas \[1\]. Este artículo presenta dos casos de aplicación de técnicas geodésicas espaciales que contribuyen aportando nuevo conocimiento para la gestión del riesgo en Colombia.
-
-GEODESIA ESPACIAL GPS Y EL ESTUDIO DE LA DEFORMACIÓN DE LA CORTEZA TERRESTRE EN COLOMBIA
-========================================================================================
-
-La esquina noroccidental de Suramérica y sureste de Centroamérica es una zona de alto interés científico en las geociencias donde se conjugan diferentes elementos de orden tectónico y volcánico. No hay otra parte en el mundo en la cual exista una placa tectónica mayor subduciendo por debajo de una gran placa continental a lo largo de una trinchera de casi 6,000 km, como es el caso de la subducción de la placa de Nazca por debajo de Suramérica \[2\]. Esta región se caracteriza por una directa relación de la actividad tectónica y volcánica con la interacción de las placas tectónicas de Suramérica, Nazca, Cocos y Caribe y los bloques Norte de los Andes, Maracaibo, Chocó y Panamá acuñados dentro de dichas placas, Figura 1 \[3 -15\].
-
-![A close up of a map Description automatically generated](../media/image138.jpeg){width="5.381492782152231in" height="4.833479877515311in"}
-
-**Figura 1.** Marco tectónico de la zona de estudio. Fuente del mapa: ETOPO1 \[16\].
-
-Esta compleja tectónica dinámica e intensa deformación interplaca se manifiesta en una alta densidad de fallas, muchas de las cuales se consideran como activas o potencialmente activas. Además, la sismicidad se distribuye sobre un área que corresponde a un límite amplio que abarca el noroeste de Suramérica, Centro América y suroeste del Caribe, complejidad referida por Trenkamp \[12\] como un Margen amplio de placas. Dicha condición, junto con el potencial de ocurrencia de grandes sismos megathrust y tsunamis relacionados con la zona de subducción en el océano Pacífico, significa que un alto porcentaje de la población colombiana habita bajo una amenaza permanente de ocurrencia de sismos y tsunamis, con el potencial de causar grandes daños en términos de pérdida de vidas y destrucción de infraestructura \[17\]. Otra amenaza se asocia a los volcanes activos localizados en la región norte de los Andes, que tienen el potencial de generar erupciones devastadoras como la ocurrida en el volcán Nevado del Ruiz en noviembre 13 de 1985, el segundo peor desastre a nivel mundial de origen volcánico del siglo pasado \[18-19\].
-
- Impacto de la geodesia espacial GNSS con propósitos científicos
----------------------------------------------------------------
 
 Dada la complejidad de la región y la potencialidad de ocurrencia de grandes sismos y tsunamis así como de erupciones volcánicas entre otros eventos de origen geológico, se requiere adelantar un estudio sistemático para determinar la actual situación de la deformación de la corteza terrestre. Hay una conciencia creciente a nivel mundial acerca de la valiosa contribución de la geodesia espacial para la observación detallada, análisis y comprensión de la cinemática de la corteza terrestre en regiones tectónicamente activas. Los estudios geodésicos espaciales son ahora el principal método para el estudio de la cinemática en los límites de placas en la superficie terrestre; las mediciones geodésicas espaciales se estiman en virtud de un marco global de referencia, lo cual permite medir los movimientos en los límites de placas así como los movimientos relativos globales al interior de las placas \[20\]. Así, las redes integradas GPS/GNSS suministran un excelente marco de referencia para el estudio de los procesos tanto en la tierra sólida como en la tierra atmosférica, a escalas globales, regionales y locales. La posición de las estaciones geodésicas a través del tiempo permite generar campos de velocidad para constreñir modelos de bloques cinemáticos y de zonas de deformación en límites de placas \[21\].
 
@@ -681,3 +634,5 @@ Leidy Giraldo Londoño <https://orcid.org/orcid.org/0000-0002-7892-1999>
 68. Eineder, M., Runge, H., Boerner, E., Bamler, R., Adam, N., Schättler, B., Breit, H. & Suchandt, S. (2003). *SAR interferometry with Terrasar-X. FRINGE 2003 Workshop*, Frascati, Italy, 1 - 5 December 2003 (ESA SP-550, June 2004).
 
 69. Ferretti, A., Monti-Guarnieri, A., Prati, C. & Rocca F. (2007). *InSAR Principles: Guidelines for SAR Interferometry Processing and Interpretation*. ESA Publications, Postbus 299 2200 AG Noordwijk, The Netherlands 48 p.
+
+**5**
