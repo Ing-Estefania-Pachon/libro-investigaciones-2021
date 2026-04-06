@@ -8,6 +8,7 @@ number-sections: false
 ---
 
 
+
 [Índice temático 505](#_Toc47894938)
 
 > Gabriel Bernal & Omar Darío Cardona Rafael Fernández, Luis Yamin, Juan Carlos Reyes, Angie Garcia, Gustavo Fuentes & Juan EcheverryOmar Darío Cardona, Gabriel Bernal, María Alejandra EscovarHéctor Mora-Páez, Fredy Díaz Mila, Takeshi Sagiya, Leidy Giraldo Londoño & Yuli Corchuelo CuervoWilliam Oswaldo Gaviria Gutiérrez, Viviana Ramírez Loaiza & Lina Andrea Zambrano HernándezDiego Hernández Pulido, Nicolás Hernández Gallo, Leonardo Arias Bernal, Rodrigo Forero Carrillo & Gonzalo Jiménez AlonsoVíctor Leonardo López JiménezJavier Thomas & Julio RubioNathalie García-Millán, Jorge A. Vélez-Correa, Karen A. Sánchez-Estupiñán, Nisley Zúñiga Estacio, Yeli C. Castillo-González, Alba N. Castaño-Castaño, Jorge A. Diaz-Rentería & Elkin De J. Salcedo-HurtadoCesar Augusto Hidalgo M. & Johnny Alexander Vega G.Rafael Muñoz Quintero, Daniela Jácome Hernández, Alejandro Franco Rojas & Alexander Padilla GonzálezSerguei Lonin & Julio MonroyOswaldo Coca-Domínguez, Constanza Ricaurte-Villota & David Fernando Morales GiraldoPaula Andrea Villegas González & Nelson Obregón Neira

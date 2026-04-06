@@ -8,4 +8,5 @@ number-sections: false
 ---
 
 
+
 [Actualización de los coeficientes sísmicos de diseño estructural para la Norma Colombiana de Construcción Sismo Resistente NSR-22 4](#_Toc47894924)

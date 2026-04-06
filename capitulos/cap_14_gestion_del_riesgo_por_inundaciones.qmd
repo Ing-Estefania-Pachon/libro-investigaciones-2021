@@ -8,4 +8,5 @@ number-sections: false
 ---
 
 
+
 [Gestión del riesgo por inundaciones: un metamodelo para el desarrollo de artefactos participativos. Caso de estudio en la ecorregión de La Mojana (Colombia) 473](#_Toc47894937)
