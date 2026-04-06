@@ -6,17 +6,24 @@ book:
   author: "UNGRD"
   chapters:
     - index.qmd
-    - 00_intro_legal.qmd
     - art_01_actualizacion_de_los_coeficientes_s.qmd
     - art_02_mitigacion_del_riesgo_sismico_de_la.qmd
     - art_03_evaluacion_probabilista_del_riesgo_.qmd
     - art_04_contribucion_de_la_geodesia_espacia.qmd
-    - art_05_animales_en_la_gestion_del_riesgo_d.qmd
-    - art_06_iniciativas_para_la_reduccion_del_r.qmd
-    - art_07_la_perspectiva_historica_en_la_gest.qmd
+    - art_05_nociones_performativas_del_reasenta.qmd
+    - art_06_animales_en_la_gestion_del_riesgo_d.qmd
+    - art_07_iniciativas_para_la_reduccion_del_r.qmd
+    - art_08_comunicacion_del_riesgo_reflexiones.qmd
+    - art_09_la_perspectiva_historica_en_la_gest.qmd
+    - art_10_estudio_de_riesgo_por_movimientos_e.qmd
+    - art_11_de_la_percepcion_de_la_amenaza_a_su.qmd
+    - art_12_obras_costeras_y_clima_maritimo.qmd
+    - art_13_modelo_de_gestion_y_analisis_del_ri.qmd
+    - art_14_gestion_del_riesgo_por_inundaciones.qmd
+    - art_15_indice_tematico.qmd
 
 format:
   html:
-    theme: [cosmo, theme.scss]
+    theme: cosmo
     toc: true
     number-sections: false
