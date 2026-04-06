@@ -1,0 +1,114 @@
+---
+title: "Capítulo 12. Gestión del riesgo por inundaciones: un metamodelo para el desarrollo de artefactos participativos. Caso de estudio en la ecorregión de La Mojana (Colombia)"
+subtitle: "Investigaciones en gestión del riesgo de desastres para Colombia"
+author: "UNGRD"
+date: "2021"
+title-block-banner: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=2072"
+---
+
+
+# Capítulo 12. Gestión del riesgo por inundaciones: un metamodelo para el desarrollo de artefactos participativos. Caso de estudio en la ecorregión de La Mojana (Colombia)
+
+23. Villegas González, P. A. (2018). *Gestión del riesgo por inundaciones: un metamodelo para el desarrollo de artefactos participativos Modelos integrados de sistemas socio-ecológicos: caso de estudio en la ecorregión de la Mojana*. Pontificia Universidad Javeriana.
+
+24. Villegas-González, P. A., Ramos-Cañón. A. M., González-Méndez, M., González-Salazar, R. E., Durán Gaviria, E. D., De Plaza Solórzano, J. S., et al. (2017). *Gestión del riesgo en Colombia: vulnerabilidad, reducción y manejo de desastres*. Bogotá, D. C. 111 p.
+
+25. UNGRD (Unidad Nacional para la Gestión del Riesgo de Desastres). (2018). *Evaluación probabilística del riesgo por inundación lenta en municipios priorizados*. Bogotá.
+
+26. Wooldridge, M., Jennings, N. R., & Kinny, D. (2000). The Gaia Methodology for Agent-Oriented Analysis and Design. *Autonomous Agents and Multi-Agent Systems*, 3(3), 285-312. <https://doi.org/10.1023/A:1010071910869>
+
+27. Villegas, P. A., Melgarejo, M. & Pérez, E. (2014). *MOJANA: Modelo Organizacional Jerárquico de Agentes Naturales del Agua*. Pontificia Universidad Javeriana
+
+28. Pulido, H. A. (2015). *Modelo de interacción social para agentes artificiales en la arquitectura Mojana* (Tesis de grado). Universidad Distrital Francisco José de Caldas. Bogotá, D.C.
+
+29. DNP (Departamento Nacional de Planeación). (2010). *Orientaciones conceptuales y metodológicas para la formulación de visiones de desarrollo territorial*. Dirección de Desarrollo Territorial Sostenible, Subdirección de Ordenamiento y Desarrollo Territorial. Bogotá, D.C.
+
+30. Berger, T., Birner, R., McCarthy, N., DíAz, J., & Wittmer, H. (2007). Capturing the complexity of water uses and water users within a multi-agent framework. *Water Resources Management*, 21(1), 129-148. <https://doi.org/10.1007/s11269-006-9045-z>
+
+**Lista de pares revisores**
+
+**Roberto Ariel Abeldaño** \| Universidad de la Sierra Sur y CONACYT, México
+
+**Ana Beatriz Acevedo Jaramillo** \| Departamento de Ingeniería Civil, Universidad EAFIT, Medellín, Colombia
+
+**Melissa Acosta \|** Universidad de la Costa, Barranquilla, Colombia
+
+**Franck A. Audemard M.** \|Escuela de Geología, Minas y Geofísica, Universidad Central de Venezuela
+
+**Edier Aristizábal** \| Departamento de Geociencias y Medio Ambiente, Universidad Nacional de Colombia, Sede Medellín
+
+**Álvaro Ávila-Díaz** \| Department of Agricultural Engineering, Universidade Federal de Viçosa, Brasil
+
+**José Emilio Baró Suárez** \| Facultad de Geografía, Universidad Autónoma del Estado de México, México
+
+**Gustavo Barrantes** \| Escuela de Ciencias Geográficas, Universidad Nacional, Costa Rica
+
+**Huáscar Bolívar Vallejo** \| Universidad Mayor de San Simón, Bolivia
+
+**Mireille Escudero** \| Instituto de Ingeniería, Universidad Nacional de México, Ciudad de México, México
+
+**María Adelaida Farah** \| Facultad de Estudios Ambientales y Rurales, Pontificia Universidad Javeriana, Colombia
+
+**Silvia E. Fontana** \| Universidad Católica de Córdoba, Argentina
+
+**Jorge Pedro Galve** \| Departamento de Geodinámica, Universidad de Granada, España
+
+**Helbert García-Delgado** \| Servicio Geológico Colombiano, Grupo de evaluación de amenazas por movimientos en masa, Colombia
+
+**Victor Manuel García Lemus** \| Presidente de la Red Universitaria de las Américas y el Cribe para la RRD
+
+**Miguel Ángel Imaz** \| Universidad Autónoma de Baja California Sur, México
+
+**Miguel Ángel Jaimes Téllez** \| Instituto de Ingeniería, UNAM, México
+
+**Santiago Henao Villegas** \|Facultad de Medicina Veterinaria y Zootecnia, Escuela de Graduados, Universidad CES, Medellín, Colombia
+
+**David Ortega-Gaucin** \| Instituto Mexicano de Tecnología del Agua, México
+
+**Juan Diego Jaramillo Fernández** \| Departamento de Ingeniería Civil, Universidad EAFIT, Medellín, Colombia
+
+**Andrés León Prieto** \| Universidad del Bosque - Escuela Colombiana de Medicina, Colombia
+
+**Ana Lucía Maldonado** \| Instituto de Investigaciones en Educación, Universidad Veracruzana, Xalapa, México
+
+**Roberto J. Marín** \| Facultad de Ingeniería, Universidad de Antioquia, Medellín, Colombia
+
+**Hazel Marsh** \| University of East Anglia, Reino Unido
+
+**Mónica Elizabeth Mejía Escalante** \| Escuela del Hábitat, Facultad de Arquitectura, Universidad Nacional de Colombia, Sede Medellín
+
+**Ricardo J. Molares B.** \| Perito oceanógrafo -- DIMAR -- CP3, Colombia
+
+**Erick Cajigal Molina** \| Universidad Autónoma del Carmen, México
+
+**Claudia Montero-Liberona** \| Facultad de Comunicaciones, Pontificia Universidad Católica de Chile, Chile
+
+**Nelson Obregón** \| Instituto Javeriano del Agua, Pontificia Universidad Javeriana, Colombia
+
+**Juan Andrés Oviedo Amézquita** \| FC Control y Diseño de Estructuras SAS, Colombia
+
+**Aceneth Perafán Cabrera** \| Departamento de Historia, Universidad del Valle, Colombia
+
+**Rogelio Pineda Murillo** \| Consultor, Planificación Territorial, Desarrollo Sostenible y Medio Ambiente, Geografía y Cambio Climático, Colombia
+
+**Carlos E. Reinoza** \| CICESE - Centro de Investigación Científica y de Educación Superior de Ensenada, Baja California, México
+
+**Eduardo Reinoso** \|Instituto de Ingeniería, UNAM, México
+
+**Miguel Enrique Sarmiento** \| Dirección de Gestión del Ordenamiento Ambiental y Territorial, CAR de Cundinamarca, Colombia
+
+**Juan Sebastián de Plaza Solórzano** \| Universidad Católica de Colombia
+
+**Olga Patricia Quintero García** \| Corpocaldas, Manizales, Colombia
+
+**Vladimir G. Toro** \| Facultad de Ingeniería, Universidad de Antioquia, Medellín, Colombia
+
+**Mauricio A. Torres Méndez** \| Universidad de Concepción, Chile
+
+**Diego Soler Tovar** \| Universidad de la Salle, Bogotá, Colombia
+
+**Hernando Uribe Castro** \| Universidad Autónoma de Occidente, Cali, Colombia
+
+**Jairo Andrés Valcárcel Torres** \| I+R Consultores en Ingeniería y Riesgos. S.A.S, Bogotá, D.C, Colombia
+
+**Francisco A. Velandia** \| Escuela de Geología, Universidad Industrial de Santander, Bucaramanga, Colombia
