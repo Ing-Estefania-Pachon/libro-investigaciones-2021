@@ -1,5 +1,5 @@
 ---
-title: "Capítulo 1. Actualización de los coeficientes sísmicos..."
+title: "Capítulo 9. La perspectiva histórica en la gestión..."
 subtitle: "Investigaciones en gestión del riesgo de desastres para Colombia"
 author: "UNGRD"
 date: "2021"
@@ -8,4 +8,4 @@ number-sections: false
 ---
 
 
-[Actualización de los coeficientes sísmicos de diseño estructural para la Norma Colombiana de Construcción Sismo Resistente NSR-22 4](#_Toc47894924)
+[La perspectiva histórica en la gestión del riesgo de desastres: aplicación en Santiago de Cali, Colombia 301](#_Toc47894932)

@@ -1,5 +1,5 @@
 ---
-title: "Capítulo 1. Actualización de los coeficientes sísmicos..."
+title: "Capítulo 10. Estudio de riesgo por movimientos en masa..."
 subtitle: "Investigaciones en gestión del riesgo de desastres para Colombia"
 author: "UNGRD"
 date: "2021"
@@ -8,4 +8,4 @@ number-sections: false
 ---
 
 
-[Actualización de los coeficientes sísmicos de diseño estructural para la Norma Colombiana de Construcción Sismo Resistente NSR-22 4](#_Toc47894924)
+[Estudio de riesgo por movimientos en masa en cuencas hidrográficas abastecedoras en el suroeste antioqueño usando métodos probabilistas 339](#_Toc47894933)

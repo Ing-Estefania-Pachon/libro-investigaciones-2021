@@ -1,5 +1,5 @@
 ---
-title: "Capítulo 1. Actualización de los coeficientes sísmicos..."
+title: "Capítulo 13. Modelo de gestión y análisis del riesgo..."
 subtitle: "Investigaciones en gestión del riesgo de desastres para Colombia"
 author: "UNGRD"
 date: "2021"
@@ -8,4 +8,4 @@ number-sections: false
 ---
 
 
-[Actualización de los coeficientes sísmicos de diseño estructural para la Norma Colombiana de Construcción Sismo Resistente NSR-22 4](#_Toc47894924)
+[Modelo de gestión y análisis del riesgo por erosión costera. Caso de estudio departamento de Córdoba 433](#_Toc47894936)
