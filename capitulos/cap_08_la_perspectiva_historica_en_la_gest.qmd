@@ -1,11 +1,12 @@
 ---
-title: "Capítulo 8. La perspectiva histórica en la gestión..."
+title: "Capítulo 8. La perspectiva histórica en la gestión"
 subtitle: "Investigaciones en gestión del riesgo de desastres para Colombia"
 author: "UNGRD"
 date: "2021"
 title-block-banner: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=2072"
 number-sections: false
 ---
+
 
 []{#_Toc47894932 .anchor}La perspectiva histórica en la gestión del riesgo de desastres: aplicación en Santiago de Cali, Colombia
 
@@ -63,7 +64,7 @@ Es así como podemos afirmar que la ocurrencia de desastres causados por fenóme
 
 El principal objetivo de un estudio histórico o de historicidad sobre fenómenos naturales o de los desastres es aumentar el grado de conocimiento de su ocurrencia en una región, aspecto que se materializa con la identificación y tipificación del mayor número de eventos ocurridos y la determinación precisa de sus parámetros físicos y efectos socioeconómicos, logrando con ello tener mejores elementos para la toma de decisiones en cuanto a las medidas de mitigación o prevención, e insumos fundamentales para la calibración de los modelos de amenaza. Sin embargo, acorde con Salcedo-Hurtado \[3\] se puede decir que la importancia real de los estudios históricos sobre los fenómenos naturales amenazantes o de desastres depende de la aplicación para la cual se desarrolla el estudio, conforme a objetivos prácticos, los cuales pueden ser directos o indirectos (Fig. 1).
 
-![](../media/image177.emf){width="6.530555555555556in" height="3.673611111111111in"}
+![](./media/image177.emf){width="6.530555555555556in" height="3.673611111111111in"}
 
 **Figura 1.** Objetivos de los estudios históricos para la gestión del riesgo. **Fuente:** elaboración propia.
 
@@ -107,7 +108,7 @@ Dada su localización geográfica, en el municipio se distinguen claramente tres
 
 A nivel hídrico, el sistema se conforma por ecosistemas acuáticos lóticos y lénticos, tales como ríos, quebradas, nacimientos, humedales y aguas subterráneas. Los ríos Cauca, Cali, Aguacatal, Pance, Meléndez, Lili y Cañaveralejo forman la red hídrica que ha determinado focos de desarrollo habitacional y económico en el municipio de Santiago de Cali, desde las zonas altas de las cuencas hasta su desembocadura o canalización en la zona baja de la ciudad \[4\].
 
-![](../media/image178.emf){width="5.375523840769904in" height="7.59405949256343in"}
+![](./media/image178.emf){width="5.375523840769904in" height="7.59405949256343in"}
 
 **Figura 2.** Mapa de localización de la ciudad de Santiago de Cali. **Fuente:** elaboración propia.
 
@@ -131,7 +132,7 @@ Después de reunir la mayor cantidad de información, se analiza individualmente
 | Existe otro método para el desarrollo de estudios históricos denominado extensivista. Se refiere a la búsqueda de fuentes de información que den cuenta de la ocurrencia de eventos que no aparecen registrados en bases de datos, ni catálogos oficialmente conocidos. Con este método extiende el conocimiento de eventos históricos ocurridos. |
 +---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-![](../media/image179.emf){width="3.440850831146107in" height="3.9702974628171477in"}
+![](./media/image179.emf){width="3.440850831146107in" height="3.9702974628171477in"}
 
 Figura 3. Diseño metodológico intensivista. Se representa esquemáticamente el tratamiento de la información histórica desde su búsqueda hasta la elaboración de catálogos y cartografía. Fuente: elaboración propia.
 
@@ -247,7 +248,7 @@ En la Figura 4 se presenta un histograma que sintetiza el resultado del número 
   --
   --
 
-![](../media/image180.emf){width="6.312905730533683in" height="3.643564085739283in"}
+![](./media/image180.emf){width="6.312905730533683in" height="3.643564085739283in"}
 
 **Figura 4.** Distribución por año del número de sismos para el municipio de Santiago de Cali, ocurridos en el periodo 1566-2018. Fuente: elaboración propia.
 
@@ -261,7 +262,7 @@ En la Figura 5 se presenta la distribución espacial de los eventos sísmicos en
 
 Se puede observar que los sismos que han generado algún impacto sobre el municipio se concentran en gran medida en la zona límite del Valle del Cauca con el Chocó, Quindío y Risaralda \[25--34\].
 
-![A close up of a map Description automatically generated](../media/image181.jpeg){width="5.00135498687664in" height="7.069306649168854in"}
+![A close up of a map Description automatically generated](./media/image181.jpeg){width="5.00135498687664in" height="7.069306649168854in"}
 
 **Figura 5.** Mapa histórico de eventos sísmicos de influencia en Santiago de Cali. Se representan los eventos sísmicos en diferente tamaño y color de acuerdo con su magnitud. Fuente: elaboración propia.
 
@@ -280,11 +281,11 @@ Con respecto al número de noticias por movimientos en masa encontrados para el 
 
 > El histograma del número de eventos por año denota tres periodos marcados en los cuales el promedio de noticias se duplica o triplica con respecto al primer periodo (Fig. 7). El primer periodo va desde 1949 a 1983, donde el promedio de eventos es 2. El segundo comprende los años 1984 a 1992 con promedio de 4 eventos por año, y finalmente, el tercero corresponde al periodo 1991--2018, donde se aprecian en promedio 9 eventos por año \[47--53\].
 
-![](../media/image182.emf){width="6.199840332458443in" height="3.6138615485564305in"}
+![](./media/image182.emf){width="6.199840332458443in" height="3.6138615485564305in"}
 
 Figura 6. Distribución anual del número de noticias de movimientos en masa por año en el municipio de Santiago de Cali, periodo 1949--2018. Fuente: elaboración propia.
 
-![](../media/image183.emf){width="6.288327865266842in" height="3.297029746281715in"}
+![](./media/image183.emf){width="6.288327865266842in" height="3.297029746281715in"}
 
 **Figura 7.** Distribución anual del número de eventos por año de movimientos en masa en el municipio Santiago de Cali en periodo 1949--2018. Fuente: elaboración propia.
 
@@ -292,15 +293,15 @@ En lo que se refiere a la distribución en el área de estudio, el 66% de los ev
 
 De la historicidad revisada se encontró, que las zonas más afectadas corresponden a las comunas 20, 18 y 1 (Fig. 8b**)** donde se presentan movimientos en masa tipo deslizamientos de tierra y flujo, provocados por la inestabilidad del terreno en temporada de lluvias. En la comuna 20, los movimientos en masa se concentran principalmente en Siloé, el barrio Brisas de Mayo y Tierra Blanca, en la comuna 18 en el barrio Los Chorros y, finalmente, en la comuna 1 en los barrios Terrón Colorado y Aguacatal (Fig. 9). Los corregimientos de la ciudad también sufren por el desenlace de este fenómeno natural, siendo Felidia, La Buitrera, Los Andes y El Saladito los más afectados (Fig. 10).
 
-![](../media/image184.emf){width="6.0396041119860016in" height="2.484563648293963in"}
+![](./media/image184.emf){width="6.0396041119860016in" height="2.484563648293963in"}
 
 **Figura 8.** Distribución del número por movimientos en masa (MM) por localización en el municipio de Santiago de Cali, durante el periodo 1949 -2018. Representa la distribución de eventos entre el área urbana y rural (izquierda), y la distribución del número de eventos por comunas (derecha). Fuente: elaboración propia.
 
-![](../media/image185.emf){width="5.41496719160105in" height="3.41584208223972in"}
+![](./media/image185.emf){width="5.41496719160105in" height="3.41584208223972in"}
 
 **Figura 9.** Distribución de eventos de movimientos en masa por barrios en el municipio de Santiago de Cali, durante el periodo 1949 -2018. Fuente: elaboración propia.
 
-![](../media/image186.emf){width="4.533603455818023in" height="2.6819444444444445in"}
+![](./media/image186.emf){width="4.533603455818023in" height="2.6819444444444445in"}
 
 **Figura 10.** Número de eventos de movimientos en masa por corregimiento en el municipio de Santiago de Cali, durante el periodo 1949 -2018. Fuente: elaboración propia.
 
@@ -308,11 +309,11 @@ De la historicidad revisada se encontró, que las zonas más afectadas correspon
 
 **Con la información obtenida y debidamente espacializada se presentan a continuación los mapas de movimientos en masa para la zona urbana y rural del municipio de Santiago de Cali (Fig. 11 y 12).**
 
-![A close up of a map Description automatically generated](../media/image187.png){width="4.373657042869641in" height="6.186046587926509in"}
+![A close up of a map Description automatically generated](./media/image187.png){width="4.373657042869641in" height="6.186046587926509in"}
 
 **Figura 11. Historicidad de movimiento en masa zona urbana. Los colores representan la frecuencia de eventos en cada barrio. Fuente:** elaboración propia.
 
-![](../media/image188.png){width="4.287882764654418in" height="6.064727690288714in"}
+![](./media/image188.png){width="4.287882764654418in" height="6.064727690288714in"}
 
 **Figura 12.** Historicidad de movimientos en masa zona rural. Los colores y tamaños de los círculos representan la cantidad de registros por movimientos en masa. Fuente: elaboración propia.
 
@@ -339,33 +340,33 @@ El territorio colombiano se caracteriza por tener un régimen bimodal, es decir,
 
 En la búsqueda de información en diferentes fuentes, se encontró un total de 227 eventos relevantes por inundaciones en el municipio de Santiago de Cali para el periodo comprendido entre 1949 y 2018 \[57-- 59\]. En la Figura 13 se muestra el histograma con número de reportes de eventos de inundación que se presentaron por cada año de la ventana de tiempo seleccionada \[60--65\].
 
-![](../media/image189.emf){width="5.595657261592301in" height="3.188117891513561in"}
+![](./media/image189.emf){width="5.595657261592301in" height="3.188117891513561in"}
 
 **Figura 13.** Número de reportes sobre eventos por año inundación en el municipio de Santiago de Cali, encontrados en el periodo entre 1949--2018. **Fuente:** elaboración propia.
 
 En la Figura 14a se muestra el número de eventos por inundación que se han presentado en cada una de las comunas del municipio durante el periodo indicado. En la Figura 14b se muestran los eventos por inundación registrados en la zona rural del municipio, donde el corregimiento que más eventos se han registrado es el de Navarro con 40 registros. Seguido por el corregimiento de Pance con 18 eventos registrados. Los corregimientos de El Hormiguero y Montebello se han registrado siete y seis eventos respectivamente. Por último, se encuentran los corregimientos de La Buitrera, La Castilla y Pichinde con un evento cada uno.
 
-![](../media/image190.emf){width="5.79207895888014in" height="2.92007217847769in"}
+![](./media/image190.emf){width="5.79207895888014in" height="2.92007217847769in"}
 
 **Figura 14.** Distribución de eventos por inundación en el municipio de Santiago de Cali para el periodo de 1949-2018 (izquierda). Registro de eventos por comunas. Registro por corregimientos (derecha). Fuente: elaboración propia.
 
 Las inundaciones que se presentan en el municipio son pluviales y fluviales (Fig. 15). Se observa que 195 de las inundaciones ocurridas en el municipio Santiago de Cali son pluviales, correspondientes al 61% del total de las inundaciones y 125 son de tipo fluvial, es decir el 39% de total de los eventos que se registraron en el municipio.
 
-![](../media/image191.emf){width="4.058333333333334in" height="2.286046587926509in"}
+![](./media/image191.emf){width="4.058333333333334in" height="2.286046587926509in"}
 
 **Figura 15.** Número de eventos por tipo de inundación en el municipio de Santiago de Cali, periodo 1949 -- 2018. Fuente: elaboración propia.
 
 Las Figuras 16, 17 y 18 muestran la representación cartográfica o distribución espacial de los eventos por inundación reportados en la ciudad Santiago de Cali.
 
-![A close up of a map Description automatically generated](../media/image192.png){width="4.8511351706036745in" height="6.861385608048994in"}
+![A close up of a map Description automatically generated](./media/image192.png){width="4.8511351706036745in" height="6.861385608048994in"}
 
 **Figura 16.** Historicidad de eventos de inundación fluvial y pluvial en la zona urbana del municipio de Santiago de Cali. Fuente: elaboración propia.
 
-![A close up of a map Description automatically generated](../media/image193.png){width="4.905601487314086in" height="6.9384208223972in"}
+![A close up of a map Description automatically generated](./media/image193.png){width="4.905601487314086in" height="6.9384208223972in"}
 
 **Figura 17.** Historicidad de eventos de inundación fluvial en la zona rural del municipio de Santiago de Cali. Fuente: elaboración propia.
 
-![A close up of a map Description automatically generated](../media/image194.png){width="5.677297681539808in" height="8.029898293963255in"}
+![A close up of a map Description automatically generated](./media/image194.png){width="5.677297681539808in" height="8.029898293963255in"}
 
 **Figura 18.** Historicidad de eventos de inundación pluvial en la zona rural del municipio de Santiago de Cali. Fuente: elaboración propia.
 

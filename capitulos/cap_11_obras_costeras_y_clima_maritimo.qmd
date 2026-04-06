@@ -1,11 +1,12 @@
 ---
-title: "Capítulo 11. Obras costeras y clima marítimo..."
+title: "Capítulo 11. Obras costeras y clima marítimo"
 subtitle: "Investigaciones en gestión del riesgo de desastres para Colombia"
 author: "UNGRD"
 date: "2021"
 title-block-banner: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=2072"
 number-sections: false
 ---
+
 
 []{#_Toc47894935 .anchor}Obras costeras y clima marítimo: casos del Caribe colombiano
 
@@ -65,25 +66,25 @@ Uno de los primeros ejemplos presentados aquí, se refiere al efecto de los taja
 
 En los años 50, el ingeniero español Iribarren proyectó el espolón más largo en Colombia de aquella época (150 metros construidos), considerando que el *fin de la deriva litoral* de sedimentos del río Magdalena en el margen occidental es la ciudad de Cartagena, concretamente el extremo de su flecha litoral de Bocagrande (Fig. 1). Por otro lado, actualmente se considera \[7, 8\] que el fin de la deriva litoral por el lado oriental es la Boca de la Barra de la Ciénaga Grande de Santa Marta, la parte más *frágil* de la flecha litoral conformada por la deriva, separando el mar Caribe y la ciénaga. Una vez diagnosticado el tramo de influencia del río, se puede realizar el análisis de los procesos de erosión-sedimentación, relacionados con el aporte de las arenas por el río, la principal fuente de sedimentos en esta región (la abrasión de acantilados) produce una cantidad de sedimentos, pero se sabe que es una fuente secundaria para la mayoría de las costas en el mundo \[9\]).
 
-![A picture containing car, old, sitting, table Description automatically generated](../media/image234.jpeg){width="5.15422353455818in" height="3.0325820209973755in"}
+![A picture containing car, old, sitting, table Description automatically generated](./media/image234.jpeg){width="5.15422353455818in" height="3.0325820209973755in"}
 
 **Figura 1.** Características de la dinámica litoral de la flecha de Bocagrande: a) Espolón de Iribarren; b) Ciudad antigua, *head-land*; la línea amarilla demuestra el perfil de equilibrio en planta de Hsu que evidencia que en la época colonial existió una comunicación entre el mar y la bahía de Las Animas. Fuente: Google Earth (2019), autores.
 
 Los tajamares de las Bocas de Ceniza interrumpieron el transporte de la deriva litoral de sedimentos. El efecto negativo fue observado prácticamente de inmediato en el retroceso de la flecha de la Ciénaga de Mallorquín. La dinámica multianual de esta flecha se presenta en la Figura 2.
 
-![A close up of a map Description automatically generated](../media/image235.png){width="4.016040026246719in" height="3.915262467191601in"}
+![A close up of a map Description automatically generated](./media/image235.png){width="4.016040026246719in" height="3.915262467191601in"}
 
 **Figura 2.** Comportamiento de la línea de costa en la zona norte del departamento del Atlántico entre 1935 y 1996 \[10\], se reproduce bajo licencia Creative Commons.
 
 Era de esperar que la respuesta del sistema costero en forma de retroceso tuviera efecto en los tiempos directamente proporcionales a la distancia de la fuente de arena (Bocas de Ceniza). Por lo tanto, el caso de desaparición de la Isla Verde en los años 1935 a 1947 fue detalladamente estudiado en \[10\], entre otros. En \[11\] incluso calculan una tasa de desplazamiento de sedimentos en el tramo de Isla Verde a Puerto Colombia de 430 m/año, formando nuevas acumulaciones de arena frente a la costa de este municipio. Lo sorprendente es que, en distancias de más de una centena de kilómetros desde la boca del río, el estudio \[12\] demostró una respuesta drástica en la zona norte de Cartagena (Fig. 3) para los años 60--70 del siglo pasado con un retroceso de orden de 100 m, es decir, unos 30 años después de la culminación de la obra de los tajamares.
 
-![A picture containing person Description automatically generated](../media/image236.png){width="4.932516404199475in" height="2.783261154855643in"}
+![A picture containing person Description automatically generated](./media/image236.png){width="4.932516404199475in" height="2.783261154855643in"}
 
 **Figura 3.** Variación multianual de la línea de costa en el sector Manzanillo del Mar (zona norte de Cartagena de Indias). Imagen del fondo: Google Earth. Estudio geomático \[12\].
 
 Por el otro lado de la desembocadura del río Magdalena, la isla de Salamanca aún sigue sufriendo el impacto de las obras de los años 30 (Fig. 4), dónde el retroceso para los últimos 60 a 70 años es del orden de los 800 metros.
 
-![A close up of an animal Description automatically generated](../media/image237.png){width="6.1375in" height="2.775in"}
+![A close up of an animal Description automatically generated](./media/image237.png){width="6.1375in" height="2.775in"}
 
 **Figura 4.** Retroceso costero (línea azul) con respecto a la cartografía del año 1944 en el sector de la Isla Salamanca. Se observa el efecto del déficit de sedimentos provocado por las obras de tajamares. Tramo: Barranquilla-Ciénaga. Fuente: \[7\].
 
@@ -91,7 +92,7 @@ Siendo los tajamares de Bocas de Ceniza la principal causa de erosión costera d
 
 El primer factor (*head-land*) ha venido generando una manifestación natural de los procesos morfodinámicos en planta, mientras que el segundo (infraestructura urbana) provocó un déficit de sedimentos a lo largo del perfil activo subacuático. La Figura 5 muestra la forma no equilibrada de la línea de costa, el resultado del enrocado y también permite observar que debajo de la superficie del agua, entre 1 y 5 m de profundidad (a distancias de 100 y 800 m de la orilla) hay un déficit de sedimentos. Mientras que este déficit exista, ningún espolón con longitudes inferiores a las distancias señaladas y ningún relleno hidráulico de la parte seca de la playa recuperarían la situación crítica, plenamente antrópica.
 
-![DSCN3265](../media/image238.jpeg){width="3.3243274278215225in" height="2.4930555555555554in"} ![A close up of a map Description automatically generated](../media/image239.png){width="2.4977099737532806in" height="2.493312554680665in"}
+![DSCN3265](./media/image238.jpeg){width="3.3243274278215225in" height="2.4930555555555554in"} ![A close up of a map Description automatically generated](./media/image239.png){width="2.4977099737532806in" height="2.493312554680665in"}
 
 **Figura 5.** Izquierda: vista de Cartagena desde el espolón Iribarren hacia head-land de la ciudad vieja (Fig. 1). Derecha: Perfiles subacuáticos de la playa de Bocagrande (puntos negros) con un perfil promedio (en rojo) y el perfil de equilibrio de Dean (en azul). Fuente: propia.
 
@@ -99,23 +100,23 @@ Cabe mencionar que las inundaciones de las calles marginales al malecón de Boca
 
 El efecto de los ciclones tropicales sobre las costas del Caribe colombiano es poco evaluado. La Figura 6 (arriba) muestra el mapa sinóptico correspondiente al ciclón tropical Tomas (año 2010) en el centro del Caribe en su categoría de depresión tropical. Al momento de esperar las ondas de mar de fondo irradiadas por el ciclón y provenientes de él hacía las costas colombianas, el modelo espectral de oleaje (Fig. 6 abajo) implementado en el Centro de Investigaciones Oceanográficas e Hidrográficas del Caribe \[13, 14\] mostró un efecto particular: La Zona de Convergencia Intertropical, atraída por el sistema de baja presión asociado al centro de la D.T. Tomas, generó vientos fuertes y oleaje que afectaron de manera progresiva todas las costas del Caribe colombiano desde del Golfo de Urabá (en menor medida) hasta la Guajira (daños importantes y retroceso de la línea de costa en algunos sectores superando 50-80 m), evidenciado en posterior inspección física por parte de las autoridades \[15\]. Por lo anterior, es importante tener en cuenta el clima marítimo en el momento de toma de decisiones sobre las posibles medidas de mitigación de impactos de la naturaleza.
 
-![A close up of a map Description automatically generated](../media/image240.png){width="4.844828302712161in" height="3.232625765529309in"}
+![A close up of a map Description automatically generated](./media/image240.png){width="4.844828302712161in" height="3.232625765529309in"}
 
-![](../media/image241.png){width="6.137110673665791in" height="4.137931977252843in"}
+![](./media/image241.png){width="6.137110673665791in" height="4.137931977252843in"}
 
 **Figura 6.** Arriba: Situación sinóptica para el día 3 de noviembre del 2010, indicando el paso de la depresión tropical Tomas. Fuente: Centro Nacional de Huracanes, 2010. Abajo: Pronóstico de oleaje con el sistema SPOA para la fecha 02/11/2010 \[13\].
 
 Ahora bien, si las condiciones climáticas son tan relevantes, sin discutir los eventos más extremos posibles ocurridos en las costas del Caribe, es evidente que nuestra actuación sobre las medidas de recuperación de playas no es siempre adecuada. Las razones de una mala interpretación de la dinámica marina y costera principalmente se encuentran en el desconocimiento o desconsideración de las causas de los procesos costeros. Las fotos de la Figura 7 demuestran completa ausencia de las arenas en dos sectores del Golfo de Morrosquillo donde en épocas anteriores se encontraban playas, como lo refieren los nativos del sector. La razón de ser construidas estas obras era la expectativa de ganar las playas mediante unas obras duras, sin considerar la viabilidad técnica y sin estudios previos.
 
-![A rocky shore next to a body of water Description automatically generated](../media/image242.jpeg){width="5.986010498687664in" height="3.805770997375328in"}
+![A rocky shore next to a body of water Description automatically generated](./media/image242.jpeg){width="5.986010498687664in" height="3.805770997375328in"}
 
-![Captura de pantalla 2018-11-15 a las 09](../media/image243.png){width="6.044390857392826in" height="3.5in"}
+![Captura de pantalla 2018-11-15 a las 09](./media/image243.png){width="6.044390857392826in" height="3.5in"}
 
 **Figura 7.** Fotos de obras de protección costera en el Golfo de Morrosquillo, donde se evidencia su obsolescencia. Arriba: Berrugas. Abajo: Santiago de Tolú. Fuente: propia.
 
 El caso del Golfo de Morrosquillo es un ejemplo muy ilustrativo, cuando en el medio de más de 150 espolones construidos, ninguno resulta ser útil. Desde la época de los trabajos de Lorin et al. \[16\], mediante el análisis de granulometría de sedimentos del fondo fue determinado que la deriva litoral en este golfo proviene desde el río Sinú, abasteciendo con el material arenoso al menos la mitad de sus playas. El estudio \[17\], basado en la modelación numérica de la deriva litoral de sedimentos, confirmó esta conclusión. Sin embargo, si se analiza el avance de la acreción del delta del río Sinú (Fig. 8), es evidente de que la formación deltaica de las últimas décadas frenó el aporte de sedimentos, tanto para el norte, como para el sur de la desembocadura \[18\]. El golfo actualmente no posee los sedimentos arenosos en abundancia, como en el pasado, tanto en sus orillas, como el mar afuera. El anterior es un caso que está asociado con la posición geográfica (que influye directamente en la energía del oleaje y la capacidad potencial de transporte de sedimentos) combinada con cambios morfodinámicos en la fuente del material, naturales \[18\] o antrópicos \[8\]. De hecho, si en el estudio \[8\] se afirma la construcción de embalses en el cauce del río mucho más arriba de su delta, estancando los sedimentos gruesos, entonces en el trabajo \[18\] se señalan, como las causas del crecimiento del delta, tanto los procesos naturales, como la construcción alrededor del año 1938 de un canal próximo a la costa, resultando el abandono del delta de la bahía de Cispatá y la formación del delta de Tinajones (Fig. 8b).
 
-![A picture containing sitting, water, board, rainbow Description automatically generated](../media/image244.jpeg){width="2.943956692913386in" height="2.563221784776903in"}![A picture containing sitting, holding, water, mountain Description automatically generated](../media/image245.jpeg){width="2.941349518810149in" height="2.5609525371828523in"}
+![A picture containing sitting, water, board, rainbow Description automatically generated](./media/image244.jpeg){width="2.943956692913386in" height="2.563221784776903in"}![A picture containing sitting, holding, water, mountain Description automatically generated](./media/image245.jpeg){width="2.941349518810149in" height="2.5609525371828523in"}
 
 **Figura 8.** Delta del río Sinú en acreción. Fuente: Google Earth, 2019. Izquierda: Dimensiones del delta crecido desde el año 1938. Derecha: Dirección del cauce antiguo (1) según \[18\] y el brazo de Tinajones (2); la línea amarilla está trazada por el contorno visible en la figura izquierda de cambios fisiográficos y de vegetación.
 
@@ -123,7 +124,7 @@ Las dimensiones de acreción del delta, observadas en la Figura 8, se estiman al
 
 En el caso del río Magdalena el impacto fue causado por una mega obra construida entre 1930 y 1936, sin embargo, en el clima de olas existe suficiente energía para el transporte del material; para el caso de los aportantes más pequeños, las alteraciones en la fuente de sedimentos pueden ser poco apreciables, pero las consecuencias igualmente notorias. Es el caso del río Turbo. La Figura 9 demuestra la evolución de la línea de costa del sector entre 1946 y 2005.
 
-![A picture containing piece, holding, sitting, cake Description automatically generated](../media/image246.jpeg){width="4.0538342082239724in" height="6.809232283464567in"}
+![A picture containing piece, holding, sitting, cake Description automatically generated](./media/image246.jpeg){width="4.0538342082239724in" height="6.809232283464567in"}
 
 **Figura 9.** Variación de la línea de costa entre la desembocadura del río Turbo, la flecha de Yarumal y la flecha de Punta de Las Vacas entre 1946 (foto aérea) y 2005. (Golfo de Urabá). Los contornos en color representan áreas erosionadas (rojo) y sedimentadas (verde) \[19\].
 

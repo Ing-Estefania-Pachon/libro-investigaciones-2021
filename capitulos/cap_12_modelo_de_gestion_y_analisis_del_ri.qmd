@@ -1,11 +1,12 @@
 ---
-title: "Capítulo 12. Modelo de gestión y análisis del riesgo..."
+title: "Capítulo 12. Modelo de gestión y análisis del riesgo"
 subtitle: "Investigaciones en gestión del riesgo de desastres para Colombia"
 author: "UNGRD"
 date: "2021"
 title-block-banner: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=2072"
 number-sections: false
 ---
+
 
 []{#_Toc47894936 .anchor}Modelo de gestión y análisis del riesgo por erosión costera. Caso de estudio departamento de Córdoba
 
@@ -53,11 +54,11 @@ Por último, para poder llegar a los Planes Locales de Ordenamiento del Territor
 
 El Departamento de Córdoba tiene 172.67 km de línea de costa (WGS-1984-UTM) sobre el mar Caribe, de los cuales 115.62 km son acantilados y 57.05 km son playas y manglares \[4\], se divide administrativamente en cinco municipios costeros: Los Córdobas, Puerto Escondido, Moñitos, San Bernardo del Viento y San Antero (Fig. 1).
 
-![A picture containing text Description automatically generated](../media/image247.jpeg){width="6.435583989501312in" height="4.54982283464567in"}**Figura 1.** Área de estudio: Departamento de Córdoba (Municipios de Los Córdobas, Puerto Escondido, Moñitos, San Bernardo del Viento y San Antero).
+![A picture containing text Description automatically generated](./media/image247.jpeg){width="6.435583989501312in" height="4.54982283464567in"}**Figura 1.** Área de estudio: Departamento de Córdoba (Municipios de Los Córdobas, Puerto Escondido, Moñitos, San Bernardo del Viento y San Antero).
 
 El corregimiento de Santander de la Cruz hace parte del municipio de Moñitos (Córdoba) y se encuentra entre la punta Coquito y la punta de la Cruz o del Cementerio (Fig. 2). El acceso al corregimiento es por una vía destapada de 9 km desde la entrada sur de la cabecera municipal de Moñitos. El paisaje lo conforman un mosaico de cultivos de plátano, palmas de coco, pastos y bosques.
 
-![A screenshot of a cell phone Description automatically generated](../media/image248.jpeg){width="6.324295713035871in" height="4.471145013123359in"}**Figura 2.** Ubicación del área de estudio para alternativas de adaptación (Santander de la Cruz) y monitoreo basado en cambios de línea de costa (Localidades de municipios).
+![A screenshot of a cell phone Description automatically generated](./media/image248.jpeg){width="6.324295713035871in" height="4.471145013123359in"}**Figura 2.** Ubicación del área de estudio para alternativas de adaptación (Santander de la Cruz) y monitoreo basado en cambios de línea de costa (Localidades de municipios).
 
 LINEAMIENTOS PARA LA GESTIÓN DEL RIESGO POR EROSIÓN COSTERA (PLAN DE ACCIÓN 2016 -- 2020, DEPARTAMENTO DE CÓRDOBA)
 ==================================================================================================================
@@ -102,7 +103,7 @@ Finalmente, el avance del plan de acción 2016--2020 para la Gestión del Riesgo
 
 El plan de acción y los lineamientos se integraron bajo un esquema conceptual (Fig. 3), donde en primera instancia, se debe tener en cuenta las perspectivas marinas y continentales, esto significa que cada zona tomará en cuenta las condiciones ambientales intrínsecas, este es la premisa para llevar a cabo este proceso, conocer los parámetros naturales y sociales de cada zona o región. Otro factor de gran importancia son los impactos generados por el cambio climático, las variaciones del clima a gran escala en espacio y tiempo, las decisiones que se tomen deberán tener en cuenta las condiciones de cambio de climático futuro como factores de riesgo y estrategias de adaptación.
 
-![A close up of text on a white background Description automatically generated](../media/image249.png){width="6.692853237095363in" height="4.525in"}
+![A close up of text on a white background Description automatically generated](./media/image249.png){width="6.692853237095363in" height="4.525in"}
 
 **Figura 3.** Esquema conceptual de los lineamientos para la gestión del riesgo por erosión costera.
 
@@ -118,9 +119,9 @@ Los resultados de amenaza y vulnerabilidad por erosión costera para el departam
 
 En cuanto la vulnerabilidad de la población y los ecosistemas por erosión, la zona costera de Córdoba presenta una vulnerabilidad media de 26%, alta de 69%, y muy alta de 5%. En este último rango se encuentran los sectores de Santander de la Cruz, Moñitos y La Rada \[4\] (Fig. 4b).
 
-![A close up of a map Description automatically generated](../media/image250.jpeg){width="4.999877515310586in" height="3.8635411198600176in"}
+![A close up of a map Description automatically generated](./media/image250.jpeg){width="4.999877515310586in" height="3.8635411198600176in"}
 
-![A close up of a map Description automatically generated](../media/image251.jpeg){width="5.020933945756781in" height="3.8798129921259843in"}
+![A close up of a map Description automatically generated](./media/image251.jpeg){width="5.020933945756781in" height="3.8798129921259843in"}
 
 **Figura 4.** Mapas de amenaza (arriba) y vulnerabilidad (abajo) por erosión costera en el departamento de Córdoba. Modificado de Ricaurte-Villota *et al*. \[4\]. Con permiso de modificación.
 
@@ -149,7 +150,7 @@ Tabla 1. Resultados de los cambios en la línea de costa para cada sector.
   Playas de San Bernardo del Viento   La tendencia en La Y es de acreción (4.66 m/año), con algunos tramos de estabilidad (Fig. 5f). En Brisas del Mar la tendencia es hacia la acreción (4.2 m/año) (Fig. 5g). En Los Tambos la tendencia es hacia la acreción costera, la cual alcanzo los 12.18 m/año (Fig. 5h). ACRECIÓN.
   Santander de la Cruz                Presenta una tendencia general hacia la erosión costera con tasas de hasta -4 m/año (Fig. 5i). MUY ALTA.
 
-![A screenshot of a map Description automatically generated](../media/image252.png){width="6.047931977252843in" height="7.272221128608924in"}
+![A screenshot of a map Description automatically generated](./media/image252.png){width="6.047931977252843in" height="7.272221128608924in"}
 
 **Figura 5.** Cambios en línea de costa tendenciales para las zonas de monitoreo del departamento. (**a**) Minuto de Dios y Puerto Rey, (**b**) playa El Bolivitar, (**c**) playa Brisas del Caribe, (**d**) Moñitos, (**e**) La Rada, (**f**) La Y, (**g**) Brisas del Mar, (**h**) Los Tambos, (**i**) Santander de la Cruz. Clasificación: Muy Alta (LRR\<-1 m/año), Alta (-1\>LRR\<-0.5), Estable (-0.5\<LRR\>0.5) y Acreción (LRR\>0.5).
 
@@ -218,7 +219,7 @@ Santander de la Cruz es una de las áreas más afectadas por la erosión costera
 
 Debido a la proximidad de las casas con el mar, se hace necesario un plan de reubicación para la primera línea de viviendas y una reforestación de manglar en toda la zona litoral, principalmente en las áreas aledañas a los ríos. A pesar de la presencia de afluentes y que la deriva litoral no presenta ninguna intervención de obras de contención, la dinámica del oleaje no permite la sedimentación en la costa y la tendencia históricamente se ha marcado por procesos de retrocesos de la línea (Fig. 6b). Por otro lado, se hace importante la intervención de arrecifes artificiales en pro de reducir la energía incidente de las olas sobre la costa. Se debe tener control de la extracción de arena que padecen las playas actualmente y los procesos de deforestación del manglar alrededor de los ríos, cada una de estas intervenciones aportan al desequilibrio del sistema.
 
-![https://lh5.googleusercontent.com/2FHRngVETMEs62\_SuUBuv-j7xiTfc8BwwtEdDuIbkoeUuk16kpqnwwivYV9AQss9Nm6YbJajMrHdHsxFINHIdsyrmH51Qi7J2N6KMk9OeSNkkxsWcMLBeXqPm1fsn73qniiqHYxo](../media/image253.png){width="6.125in" height="2.339770341207349in"}
+![https://lh5.googleusercontent.com/2FHRngVETMEs62\_SuUBuv-j7xiTfc8BwwtEdDuIbkoeUuk16kpqnwwivYV9AQss9Nm6YbJajMrHdHsxFINHIdsyrmH51Qi7J2N6KMk9OeSNkkxsWcMLBeXqPm1fsn73qniiqHYxo](./media/image253.png){width="6.125in" height="2.339770341207349in"}
 
 **Figura 6.** Estado identificado (2017) de zona costera de Santander de la Cruz (a) y Modelo conceptual de las alternativas para el control de la erosión costera en Santander de la Cruz (b).
 
@@ -242,7 +243,7 @@ A partir del análisis de las alternativas de mitigación definidas en la secci�
 
 A partir del estudio de cambios en la línea de costa entre los años 1981 y 2018, es decir 37 años de intervalo, usando imágenes de sensores remotos (1981, 2004, 2007, 2011, 2015 y 2018), y tomando como base la regresión lineal del DSAS (LRR), se realizó la proyección de la línea de costa hasta el año 2028, el cual mostró como se perderían viviendas que se localizan en la primera línea, generando pérdida de infraestructura local (Fig. 7a). La alternativa de reubicación en el corregimiento de Santander de La Cruz es poco factible debido a dos razones principales. La primera, es la falta de confianza de los habitantes en los gobiernos locales o regionales, así como la poca capacidad y voluntad institucional para llevar a cabo una alternativa de gran magnitud, debido a que se requeriría de buena planificación, negociaciones con propietarios y amplios recursos económicos, que garanticen el éxito de una reubicación para minimizar los impactos en los pobladores y el corregimiento. La segunda, es el uso turístico y recreacional del 33% de las construcciones en el frente de playa (Fig. 7b), lo que dificultaría la voluntad de sus dueños frente a una negociación de relocalización por no poder ejercer la actividad económica. Solo el grupo de viviendas de uso residencial podrían ser manejadas con este tipo de intervención.
 
-![A close up of a map Description automatically generated](../media/image254.jpeg){width="3.1345931758530186in" height="4.17624343832021in"}![A close up of a map Description automatically generated](../media/image255.jpeg){width="3.1392410323709536in" height="4.181587926509186in"}
+![A close up of a map Description automatically generated](./media/image254.jpeg){width="3.1345931758530186in" height="4.17624343832021in"}![A close up of a map Description automatically generated](./media/image255.jpeg){width="3.1392410323709536in" height="4.181587926509186in"}
 
 **Figura 7.** Mapa de tendencia de evolución de línea de costa y proyección a 10 años (2028) (izquierda). Mapa de uso y estado de las viviendas, divido espacialmente en cuatro grupos (A, B, C y D) (derecha).
 
@@ -252,7 +253,7 @@ Para este análisis se realizó el levantamiento topográfico del acantilado a t
 
 La Punta de la Cruz ha retrocedido desde 1981 una distancia de 170.20 m con una tasa de erosión de -5.21 m/año. El acantilado presenta pendientes fuertes y escarpadas contrastantes en su base con el nivel plano de la playa expuesta en su base durante condiciones de baja energía del oleaje. Se determinó que existen dos tipos de movimientos en masa en este sector. Uno relacionado con la caída de bloques en las puntas con litologías de mayor resistencia y otro, deslizamientos traslacionales con componente rotacional en la zona intermedia de litologías blandas meteorizadas (Fig. 8). Por lo tanto, se recomienda a corto plazo realizar una estabilización con el perfilamiento de taludes y la revegetalización de las bermas, a mediano plazo un revestimiento con roca o geotextiles en la base del acantilado y finalmente, a largo plazo realizar una barrera perpendicular a la línea de costa apoyada por la regeneración artificial de sedimentos que requeriría estudios específicos de ingeniería para su diseño.
 
-![A close up of a map Description automatically generated](../media/image256.jpeg){width="4.76873031496063in" height="6.715242782152231in"}
+![A close up of a map Description automatically generated](./media/image256.jpeg){width="4.76873031496063in" height="6.715242782152231in"}
 
 **Figura 8.** Modelos de elevación y pendiente en el sector acantilado de Punta de la Cruz.
 
@@ -264,7 +265,7 @@ Los sedimentos de las playas de Santander de la Cruz corresponden a arenas finas
 
 En Santander de La Cruz la arena es también una materia prima cuyo uso es destinado principalmente como material de construcción. Por consiguiente, se recomienda minimizar la extracción de material de las playas en Santander a través de la concientización de la población o la regulación del material extraído, para que no sobrepase la capacidad de carga del sistema natural.
 
-![](../media/image257.emf){width="0.27152777777777776in" height="0.30625in"}![A close up of a map Description automatically generated](../media/image258.tiff){width="6.241666666666666in" height="7.9945330271216095in"}
+![](./media/image257.emf){width="0.27152777777777776in" height="0.30625in"}![A close up of a map Description automatically generated](./media/image258.tiff){width="6.241666666666666in" height="7.9945330271216095in"}
 
 **Figura 9.** Mapas de distribución de parámetros estadísticos de sedimentos: Media (**a**), Selección (**b**), Simetría (**c**), Curtosis (**d**) (+ estaciones de muestreo).
 
@@ -300,7 +301,7 @@ En cuanto a medidas blandas que incluyen ecosistemas, se realizó una revisión 
 
 El comportamiento del oleaje a partir de la serie sintética de la boya virtual (BV\_03) ubicada a 35 km al noroeste de Santander de la Cruz, mostró que para la época seca (diciembre marzo) el oleaje presenta máximos con alturas de ola promedio de 1.35 ± 0.56 m con un periodo de 6.5 s y una probabilidad del 37% de ocurrencia de olas provenientes del NNO, seguido de direcciones al NO y O-NO. En contraste, para los meses de abril a noviembre (época húmeda), la altura de la ola disminuye hasta un promedio de 1.08 ± 0.56 m, un periodo de 6.4 s y la dirección predominante proviene del tercer cuadrante (entre 180° y 270°), con mayor probabilidad del oeste-noroeste \[25\]. Durante los días de muestreo, la altura de ola osciló entre 0.67 y 0.28 m con un promedio de 0.45 ± 0.12 m. La dirección predominante en la zona fue de 306.00º (provenientes del Noroeste) (Fig. 10).
 
-![A picture containing computer Description automatically generated](../media/image259.png){width="5.732171916010499in" height="3.0729166666666665in"}
+![A picture containing computer Description automatically generated](./media/image259.png){width="5.732171916010499in" height="3.0729166666666665in"}
 
 **Figura 10.** Nivel del agua y dirección de procedencia del oleaje durante los días 24 al 26 de julio de 2018.
 
@@ -310,13 +311,13 @@ La reforestación de manglar es ideal para cualquier playa o zona estuarina, pue
 
 Los resultados obtenidos al analizar los años 2012 a 2018 muestran que los manglares de Santander de la Cruz, se redujeron por efecto del aumento de la frontera agrícola en el área. Para el año 2012, se calculó una cobertura de manglar de 15.66 ha ubicada en los alrededores de las riberas de las quebradas Pequín, arroyo Culebra y quebrada San Martín, las cuales fueron reducidas hasta llegar a 8.20 ha aproximadamente para el año 2018, lo que corresponde una pérdida del 47.6% de la cobertura inicial de estos manglares (Fig. 11a, b).
 
-![SdlC\_manglar\_2](../media/image260.png){width="6.0in" height="4.023179133858267in"}
+![SdlC\_manglar\_2](./media/image260.png){width="6.0in" height="4.023179133858267in"}
 
 **Figura 11.** Coberturas de manglar en los años 2012 (izquierda) y 2018 (derecha); muestran que los manglares de Santander de la Cruz, se reducen por efecto del aumento de la frontera agrícola que ocurre en el área.
 
 La temperatura del agua fluctuó entre 29.70 y 33.80 °C y la salinidad entre 24.32 y 34.90; el pH mostró condiciones de basicidad con valores entre 7.06 hasta 8.29. El oxígeno disuelto (OD) osciló entre 4.65 y 8.90 mg/L, encontrándose las mayores concentraciones en los arroyos y quebradas. Estos resultados indicaron que para el momento de la medición (24 de julio de 2018), el agua, tanto en los arroyos, quebradas y pequeños caños, se encontraba estancada y no había comunicación aparente con el mar; de allí, los valores obtenidos: aguas con características salobres o dulces. En algunos lugares, se pudo observar mucha materia orgánica natural (hojarasca, algas, trozos de trocos), que hacen que se aumente el proceso de baja de oxígeno y afectan el movimiento del agua (Fig. 12).
 
-![Imagen que contiene exterior, árbol, cielo, agua Descripción generada con confianza muy alta](../media/image261.jpeg){width="2.9476060804899387in" height="2.1354166666666665in"}![Imagen que contiene exterior, árbol, cielo, naturaleza Descripción generada con confianza muy alta](../media/image262.jpeg){width="3.125in" height="2.135579615048119in"}
+![Imagen que contiene exterior, árbol, cielo, agua Descripción generada con confianza muy alta](./media/image261.jpeg){width="2.9476060804899387in" height="2.1354166666666665in"}![Imagen que contiene exterior, árbol, cielo, naturaleza Descripción generada con confianza muy alta](./media/image262.jpeg){width="3.125in" height="2.135579615048119in"}
 
 **Figura 12.** Boca del arroyo Culebra y quebrada San Martín.
 
@@ -334,11 +335,11 @@ Los arrecifes artificiales se han utilizado con éxito en algunos países de Eur
 
 En el modelo batimétrico y el perfil transversal se puede observar una franja rocosa sumergida (Fig. 13 y 14), la cual tiene características naturales para la conformación de un arrecife. Un fragmento de roca obtenido en campo muestra que corresponde a la continuidad de las lutitas de la Unidad Moñitos sobre la que se incrustan nemátodos y briozoos entre otros organismos que forman biohermos (acumulaciones biogénicas). Esta estructura podría utilizarse como base la conformación de una barrera natural y con mayor resistencia que permita la reducción de energía del oleaje al que se expone el área de estudio durante los primeros meses del año.
 
-![A close up of a map Description automatically generated](../media/image263.tiff){width="5.008333333333334in" height="7.345010936132983in"}
+![A close up of a map Description automatically generated](./media/image263.tiff){width="5.008333333333334in" height="7.345010936132983in"}
 
 **Figura 13.** Modelo batimétrico para Santander de la Cruz.
 
-![C:\\David\_Morales\\Proyectos Geociencias 2018\\GEO - Mitigación Erosión costera CVS\\6.SIG\\salidas graficas\\SdlC\_perfilSE-NW-central.png](../media/image264.png){width="4.983594706911636in" height="1.7604166666666667in"}
+![C:\\David\_Morales\\Proyectos Geociencias 2018\\GEO - Mitigación Erosión costera CVS\\6.SIG\\salidas graficas\\SdlC\_perfilSE-NW-central.png](./media/image264.png){width="4.983594706911636in" height="1.7604166666666667in"}
 
 **Figura 14.** Perfil en el área central del área de estudio, nótese la elevación de la franja rocosa a aproximadamente 400 m de la línea de costa.
 
@@ -354,7 +355,7 @@ En el modelo batimétrico y el perfil transversal se puede observar una franja r
 
 Se encontró que no es posible hacer siembra de corales en la bahía, ya que la temperatura sobrepasa el rango permitido para un estado óptimo de estos organismos. Lo mismo pasa con la salinidad, la cual se encuentra por debajo del intervalo adecuado para su crecimiento. Esto explica la ausencia de este ecosistema en cercanías a la zona de estudio. Con respecto a la turbidez, los mayores valores de SST se encontraron al norte de la bahía; mientras que los menores (correspondientes con las mayores transparencias), se encontraron en la parte más alejada de la costa, donde la influencia continental es menor. Se procede con otro tipo de ecosistemas que sirvan como barreras vivas (Fig. 15).
 
-![](../media/image265.png){width="4.428706255468066in" height="4.466666666666667in"}
+![](./media/image265.png){width="4.428706255468066in" height="4.466666666666667in"}
 
 **Figura 15.** Concentración de SST (mg/l) en la bahía frente a Santander de la Cruz.
 
@@ -396,7 +397,7 @@ Para empezar, se tomó como información base el diagnóstico por erosión coste
 
 Posteriormente, en cada sitio critico se realizaron modelos conceptuales de alternativas de mitigación basada en ecosistemas o en construcción con la naturaleza \[10\], donde se hizo una aproximación al estado actual y al estado ideal con las obras o estrategias que mitigarían la erosión costera. Obtenidos estos modelos fue necesario validar las alternativas propuestas en estos, verificar si son válidos, realizables y acordes con los procesos ambientales, de igual manera priorizarlos a corto, mediano y largo plazo. Para obtener esto, se realizaron diferentes estudios de detalle en el poblado de Santander de la Cruz, iniciando por discriminar las variables que dependían de cada alternativa (físicas, bióticos, sociales y económicos), para finalmente obtener un listado priorizado de las alternativas viables y las descartadas que se deben ejecutar para prevenir y mitigar los procesos de la erosión costera en el poblado.
 
-![A screenshot of a social media post Description automatically generated](../media/image266.tiff){width="5.5625in" height="6.687527340332458in"}
+![A screenshot of a social media post Description automatically generated](./media/image266.tiff){width="5.5625in" height="6.687527340332458in"}
 
 **Figura 16.** Esquema metodológico propuesto como modelo de gestión del riesgo para la erosión costera.
 
@@ -580,7 +581,7 @@ ZONA DE ESTUDIO
 
 La Mojana es una ecorregión (Fig. 1) de especial importancia en Colombia que hace parte del complejo de humedales de la Depresión Momposina, la cual es una cuenca hidrográfica sedimentaria de 24,650 km^2^ reguladora de los caudales de los ríos Magdalena, Cauca y San Jorge. Estos humedales cumplen la función de amortiguación de inundaciones ya que permiten distribuir las cabezas de agua originadas por lluvias en las partes altas de la región Andina, facilitando la decantación y acumulación de sedimentos, funciones de control indispensables para la Costa Caribe \[6\]. La ecorregión se localiza en jurisdicción de cuatro departamentos (Sucre, Bolívar, Córdoba y Antioquia) y comprende 28 municipios, con una población de alrededor de 929,669 habitantes y una superficie de 28,461 Km^2^ \[7\].
 
-![Imagen que contiene texto, mapa Descripción generada automáticamente](../media/image267.jpeg){width="2.6655697725284337in" height="3.043478783902012in"}
+![Imagen que contiene texto, mapa Descripción generada automáticamente](./media/image267.jpeg){width="2.6655697725284337in" height="3.043478783902012in"}
 
 Figura 1. Mapa de la ecorregión de la Mojana (Fondo de Adaptación).
 
@@ -614,7 +615,7 @@ Según Kroes el diseño "es un proceso de invención, una generación inteligent
 
 El sistema de ecuaciones consta de las correspondientes al movimiento horizontal, la ecuación de continuidad y las ecuaciones de transporte. El conjunto de ecuaciones diferenciales parciales en combinación con condiciones iniciales y de frontera se resuelven en una cuadrícula de diferencias finitas.
 
-![Imagen que contiene objeto Descripción generada automáticamente](../media/image268.jpeg){width="4.091734470691164in" height="1.9069772528433946in"}
+![Imagen que contiene objeto Descripción generada automáticamente](./media/image268.jpeg){width="4.091734470691164in" height="1.9069772528433946in"}
 
 Figura 2. Representación de las ecuaciones de aguas someras \[17\].
 
@@ -651,7 +652,7 @@ La información de los talleres se construyó principalmente con el apoyo de las
 
 En los talleres llevados a cabo en septiembre del año 2013 en el municipio de San Marcos (Sucre), se identificó con las comunidades que el eje estructurante de las dinámicas del territorio en la región de la Mojana es el agua. Los municipios que habitan esta zona del país están rodeados por agua y allí se presentan inundaciones lentas. En los talleres con las comunidades se observa que el municipio de San Marcos se encuentra rodeado por ciénagas y caños. El problema más relevante que han tenido durante los últimos años ha sido la inundación ocasionada por el Fenómeno de la Niña 2010--2011. Respecto a esta situación hay diferentes percepciones. Los niños consideran que la inundación es un sinónimo de alegría y recreación. Sin embargo, no les gusta que se suspendan las clases en el Colegio. Respecto a los adultos, se identifican problemas en la medida que tuvieron que desplazarse a otros lugares, hubo daños en las viviendas y problemas en los cultivos. En la Figura 3, se observa la descripción que hace la comunidad sobre los efectos de las inundaciones.
 
-![Imagen que contiene texto Descripción generada automáticamente](../media/image269.jpeg){width="3.6521741032370953in" height="2.7393372703412076in"}
+![Imagen que contiene texto Descripción generada automáticamente](./media/image269.jpeg){width="3.6521741032370953in" height="2.7393372703412076in"}
 
 Figura 3. Descripción de inundaciones, en el municipio de San Marcos (Sucre) \[21\].
 
@@ -661,13 +662,13 @@ En los talleres realizados con la Unidad Nacional para la Gestión del Riesgo de
 
 Además de la relación de la inundación con las actividades productivas, también se encontró una relación con la salud. Durante los talleres con las comunidades se identificó que durante los meses de lluvias se presentan epidemias como se observa en la Figura 3 que afectan principalmente a los niños. En los recorridos territoriales que se hicieron en el año 2017, se identificó que las personas se mueven de sus viviendas y no se adaptan, solo en los momentos que el agua empieza a afectar la salud de los habitantes o cuando la vivienda se ha inundado totalmente. Según los relatos, cuando el agua supera los 40 cm y se queda estancada durante varios meses (más de un mes) se empiezan a generar problemas de salud. En estos momentos la comunidad se une y coopera de diferentes formas. Por ejemplo, facilitando entre varias personas el transporte de los niños al centro de salud en canoas.
 
-![Imagen que contiene texto Descripción generada automáticamente](../media/image270.jpeg){width="4.034782370953631in" height="2.7683781714785654in"}
+![Imagen que contiene texto Descripción generada automáticamente](./media/image270.jpeg){width="4.034782370953631in" height="2.7683781714785654in"}
 
 Figura 4. Calendario estacional en el municipio de Magangué (Bolívar) \[22\].
 
 En los talleres llevados a cabo en la UNGRD durante el año 2018 \[22\], se pudo identificar la cooperación como una fortaleza de las comunidad que la hace menos vulnerable. Durante la inundación, las personas se unen para vigilar las viviendas evacuadas, hay personas transmitiendo comunicados de la situación con el apoyo de megáfonos, se hacen monitoreos en el río, y también se unen para hacer la comida y trabajar en equipo en los campamentos (albergues). Diferentes entidades apoyan la situación de emergencia, y allí se destaca el papel de los organismos de socorro y aquellos relacionados con la gestión del riesgo en el municipio como: La Policía, La Defensa Civil, La Iglesia, La Alcaldía y La Emisora. Del procesamiento del trabajo de campo, resultan relatos y análisis que son el insumo para el metamodelo \[20\], y las variables que resultan claves para el análisis de la vulnerabilidad se presentan en la Figura 5.
 
-![Imagen que contiene texto, mapa Descripción generada automáticamente](../media/image271.jpeg){width="6.420819116360455in" height="2.900919728783902in"}
+![Imagen que contiene texto, mapa Descripción generada automáticamente](./media/image271.jpeg){width="6.420819116360455in" height="2.900919728783902in"}
 
 Figura 5. Elementos claves para el diseño del metamodelo a partir del trabajo de campo en la ecorregión de la Mojana.
 
@@ -736,7 +737,7 @@ Un ejemplo de los protocolos presentados en los modelos se presenta en la Figura
 
 -   Clase alta: cuando está rodeado de agentes clase alta (A) o no tiene vecinos (N) en su vecindad de Moore, el agente decide tomar todos los recursos de la tierra para su beneficio individual. Este agente tiende a competir con los mismos individuos de su clase. Cuando está rodeado de algún agente clase baja (B), o media (M) en su vecindad de Moore, el agente decide cooperar, pues también es consiente que la sociedad debería ser equitativa y por esta razón decide donar parte de sus recursos con sus vecinos.
 
-![Imagen que contiene captura de pantalla Descripción generada automáticamente](../media/image272.jpg){width="5.573333333333333in" height="5.293333333333333in"}
+![Imagen que contiene captura de pantalla Descripción generada automáticamente](./media/image272.jpg){width="5.573333333333333in" height="5.293333333333333in"}
 
 Figura 6. Modelos de interacción. a reglas clase baja. b y c reglas clase media. d y e reglas clase alta. Para la estructura de un autómata celular se puede definir una vecindad establecida para cada celda, la que consiste en un conjunto contiguo de celdas. Esta vecindad puede estar formada por las celdas inmediatamente contiguas a la celda en cuestión (vecindad de Von Neuman , cuatro celdas, o vecindad de Moore, ocho celdas).
 
@@ -756,7 +757,7 @@ Fueron desarrollados diferentes modelos que generaron artefactos, esto a partir 
 
 **Variables a modelar:** en el aplicativo se consideran dos tipos de agentes que emulan el comportamiento de la población en la ecorregión: agrícolas y anfibios. Al comienzo el sistema inicializa el número total de agentes (agrícolas y anfibios); para cada uno de los cuales las rutinas son las mismas por población (i.e. buscar, moverse, asentarse, reproducirse y morir). La principal diferencia entre los dos tipos de agentes consiste en que el proceso de asentarse depende de la condición del territorio (i.e. seco o inundado).
 
-![Imagen que contiene texto Descripción generada automáticamente](../media/image273.jpeg){width="3.6868580489938756in" height="3.5229166666666667in"}
+![Imagen que contiene texto Descripción generada automáticamente](./media/image273.jpeg){width="3.6868580489938756in" height="3.5229166666666667in"}
 
 Figura 7. Componentes modelo MOJANA \[25\].
 
@@ -764,12 +765,12 @@ Figura 7. Componentes modelo MOJANA \[25\].
 
 **Implementación:** se hizo en la plataforma NetLogo y los detalles se pueden encontrar en \[25\] . En la Figura 8 se observa la interfase del artefacto construido en NetLogo.
 
-![Imagen que contiene captura de pantalla Descripción generada automáticamente](../media/image274.jpeg){width="6.1375in" height="3.1375in"}
+![Imagen que contiene captura de pantalla Descripción generada automáticamente](./media/image274.jpeg){width="6.1375in" height="3.1375in"}
 
 Figura 8. Interfase del modelo MOJANA \[25\]*.*
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![Imagen que contiene captura de pantalla Descripción generada automáticamente](../media/image275.jpg){width="2.90625in" height="1.5729166666666667in"}   ![Imagen que contiene captura de pantalla Descripción generada automáticamente](../media/image276.jpg){width="2.95420384951881in" height="1.5826093613298338in"}
+  ![Imagen que contiene captura de pantalla Descripción generada automáticamente](./media/image275.jpg){width="2.90625in" height="1.5729166666666667in"}   ![Imagen que contiene captura de pantalla Descripción generada automáticamente](./media/image276.jpg){width="2.95420384951881in" height="1.5826093613298338in"}
   -------------------------------------------------------------------------------------------------------------------------------------------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Figura 9.** Resultados del modelo MOJANA (izquierda) Cantidad de agentes por clases sociales. (derecha) Cantidad de agentes por tipos de agentes.
@@ -789,7 +790,7 @@ Las poblaciones humanas se representan por un sistema de agentes que toman prove
 
 **Variables a modelar:** similar al modelo MOJANA.
 
-![Imagen que contiene captura de pantalla Descripción generada automáticamente](../media/image277.jpeg){width="6.1375in" height="3.1951388888888888in"}
+![Imagen que contiene captura de pantalla Descripción generada automáticamente](./media/image277.jpeg){width="6.1375in" height="3.1951388888888888in"}
 
 **Figura 10.** Interfase del modelo MOJANACOOP \[20\] .
 
@@ -821,7 +822,7 @@ Tabla 4. Reglas de cálculo para la vulnerabilidad social.
   Vulnerabilidad social            Corresponde a la sumatoria de las variables anteriores          Vulnerabilidad social baja    0-1.49
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------ ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![Imagen que contiene captura de pantalla Descripción generada automáticamente](../media/image278.png){width="2.917073490813648in" height="1.5627176290463691in"}   ![Imagen que contiene captura de pantalla Descripción generada automáticamente](../media/image279.png){width="3.021255468066492in" height="1.5627176290463691in"}
+  ![Imagen que contiene captura de pantalla Descripción generada automáticamente](./media/image278.png){width="2.917073490813648in" height="1.5627176290463691in"}   ![Imagen que contiene captura de pantalla Descripción generada automáticamente](./media/image279.png){width="3.021255468066492in" height="1.5627176290463691in"}
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------ ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Figura *11*.** Resultados del modelo MOJANACOOP. Cantidad de agentes por clases sociales *(izquierda)*. Cantidad de agentes acorde a los niveles de vulnerabilidad social (derecha).
@@ -845,7 +846,7 @@ MOJANAREAL: Modelo Organizacional Jerárquico de Agentes Naturales del Agua en t
 
 Figura 12.
 
-> ![Imagen que contiene suelo, interior, mesa, pared Descripción generada automáticamente](../media/image280.jpeg){width="5.762892607174103in" height="2.0346970691163606in"}
+> ![Imagen que contiene suelo, interior, mesa, pared Descripción generada automáticamente](./media/image280.jpeg){width="5.762892607174103in" height="2.0346970691163606in"}
 
 Figura 12. MOJANAREAL.
 

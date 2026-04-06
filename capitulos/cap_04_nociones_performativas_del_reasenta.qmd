@@ -1,11 +1,12 @@
 ---
-title: "Capítulo 4. Nociones performativas del reasentamiento..."
+title: "Capítulo 4. Nociones performativas del reasentamiento"
 subtitle: "Investigaciones en gestión del riesgo de desastres para Colombia"
 author: "UNGRD"
 date: "2021"
 title-block-banner: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=2072"
 number-sections: false
 ---
+
 
 []{#_Toc47894928 .anchor}Nociones performativas del reasentamiento social por riesgo de desastre en Colombia: componentes psicosociales estratégicos para la sostenibilidad
 
@@ -97,7 +98,7 @@ Los resultados del presente estudio se categorizaron en diez componentes psicoso
 
 Se establece una correlación entre los países donde se encontró mayor prevalencia de bibliografía según componente. Es preciso mencionar que los países que abordan la totalidad o gran mayoría de estos son Colombia y México situación que no sería menor dado que como ya han expresado otros estudios, estos países concentran la mayor cantidad de daños y pérdidas asociados a situaciones de desastre en América Latina \[CEPAL\].
 
-![](../media/image165.emf){width="5.285690069991251in" height="4.989362423447069in"}
+![](./media/image165.emf){width="5.285690069991251in" height="4.989362423447069in"}
 
 ***Figura 1.** La figura sintetiza los componentes psicosociales del reasentamiento social y la relación que se genera entre ellas. Participación y organización social junto con el componente institucional resultan ser los vectores de los ocho componentes restantes. Fuente: propia.*
 

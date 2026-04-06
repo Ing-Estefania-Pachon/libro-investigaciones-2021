@@ -1,11 +1,12 @@
 ---
-title: "Capítulo 6. Iniciativas para la reducción del riesgo..."
+title: "Capítulo 6. Iniciativas para la reducción del riesgo"
 subtitle: "Investigaciones en gestión del riesgo de desastres para Colombia"
 author: "UNGRD"
 date: "2021"
 title-block-banner: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=2072"
 number-sections: false
 ---
+
 
 []{#_Toc47894930 .anchor}Iniciativas para la reducción del riesgo de desastres en el programa de Ingeniería Ambiental y Sanitaria de la Universidad de La Salle: un tema de responsabilidad social universitaria
 
@@ -83,7 +84,7 @@ La historia de Colombia registra otros eventos catastróficos como el deslizamie
 
 Las estadísticas recientes en materia de desastres muestran que en los últimos tres decenios Colombia ha sido uno de los países más maltratados por los desastres de origen natural en toda América, la mayoría de estos debido a las inundaciones y deslizamientos que ocurren periódicamente en épocas de fuertes y frecuentes lluvias. La ola invernal ocurrida en el país entre septiembre de 2010 y mayo de 2011 debido al fenómeno de La Niña --calificado por la Administración Nacional Atmosférica y Oceánica (NOAA) como el evento más importante de este tipo desde 1950-- causó 1233 inundaciones y cerca de 800 deslizamientos, y según el informe de la Comisión Económica para América Latina y el Caribe (CEPAL) \[5\] dejó como resultado 3,219,239 colombianos damnificados, 875,000 hogares afectados, 1,374 muertos, 1,016 personas desaparecidas y 56,393 lesionados (Fig. 1).
 
-![](../media/image166.emf){width="6.49319116360455in" height="2.520936132983377in"}
+![](./media/image166.emf){width="6.49319116360455in" height="2.520936132983377in"}
 
 **Figura 1.** Registro de afectados por departamento en la ola invernal 2010-2011. Fuente: CEPAL \[5\]. RUD consolidado.
 

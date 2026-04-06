@@ -1,11 +1,12 @@
 ---
-title: "Capítulo 7. Comunicación del riesgo: reflexiones..."
+title: "Capítulo 7. Comunicación del riesgo: reflexiones"
 subtitle: "Investigaciones en gestión del riesgo de desastres para Colombia"
 author: "UNGRD"
 date: "2021"
 title-block-banner: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=2072"
 number-sections: false
 ---
+
 
 []{#_Toc47894931 .anchor}Comunicación del riesgo: reflexiones y experiencias locales en el departamento del Valle del Cauca
 
@@ -139,7 +140,7 @@ Thomas \[8\] considera que el taller democratiza las relaciones pedagógicas, un
 
 Dimensión comunicativa que ayuda a complejizar y diagnosticar los sentidos que los actores elaboran de las problemáticas del riesgo. Pero también, como segunda dimensión, el taller permite de manera colectiva discutir y diseñar estrategias y/o acciones contextualizadas de cara a las necesidades de cada zona o lugar. En el caso que nos ocupa, permite diseñar estrategias comunicativas que, sin desconocer el saber experto, logre conectarse con los lenguajes y repertorios comunicativos de las comunidades.
 
-![](../media/image167.jpeg){width="6.177083333333333in" height="1.4448162729658793in"}
+![](./media/image167.jpeg){width="6.177083333333333in" height="1.4448162729658793in"}
 
 **Figura 1.** Taller Sevilla, Valle del Cauca. En este taller los participantes con sus ojos vendados (**A** y **B**), que simulan la noche, experimentan a través de sonidos, cómo reaccionarían ante un sismo, para salvaguardar sus vidas, como permanecer inmóvil en el piso, por ejemplo (**C**).
 
@@ -166,7 +167,7 @@ Mónica Rivera es una maestra de escuela pública en el corregimiento de Dapa, z
 
 El corregimiento de Dapa, en medio del verano y las quemas, tiene otro problema que hace más preocupante la situación: la escasez de agua y la distancia del área urbana. Según comentan sus habitantes, en general el municipio tiene dificultad con el "precioso liquido", porque su abastecimiento depende de la ciudad de Cali. "Sin agua para las necesidades básicas, imagínese el problema con estos incendios"; afirma la profesora. Y, efectivamente, es enorme el problema de los incendios en la zona rural yumbeña, que ha puesto al gobierno local y sus instituciones, ante un reto de grandes proporciones a la hora de dar respuesta inmediata y efectiva. El año 2015 quizás haya sido uno de los más complicados al respecto, para el mes de agosto ya se reportaban 500 hectáreas quemadas y las causas eran señaladas en los medios de comunicación, de la siguiente manera: \"La gente se confía y realiza quemas controladas que terminan saliéndose de sus manos y terminan generando incendios. Son contados los incendios que no son generados por el hombre, ya sea por imprudencia o por piromanía\", concluyó el comandante del Cuerpo de Bomberos de Yumbo, al periódico El País.
 
-![DSC05649](../media/image173.jpeg){width="3.4854166666666666in" height="4.245138888888889in"}
+![DSC05649](./media/image173.jpeg){width="3.4854166666666666in" height="4.245138888888889in"}
 
 **Figura 2. Panorámica comuna 1, Yumbo. Los barrios de esta comuna tienen como rasgo en común ubicarse en una zona de ladera, con historia de excavaciones mineras y altos índices de deslizamientos.**
 
@@ -189,7 +190,7 @@ El diagnóstico inicial de las estrategias comunicativas que los entes de gobier
 
 Teniendo en cuenta este hallazgo, y reconociendo que las comunidades dependen de las comunicaciones que las instituciones producen y circulan sobre los riesgos, se pensó en los talleres como una posibilidad para que las comunidades mismas pudiesen diseñar y comunicar con sus propias estrategias. Del conjunto de estrategias posibles, se escogió al fanzine por su versatilidad, flexibilidad y potencial comunicativo, en tanto es la comunidad con sus saberes y recursos, quienes elaboran y ponen a circular los fanzines. Además, estos pueden ser una herramienta importante para la prevención y advertir sobre situaciones problemáticas. Lo más significativo de esta estrategia, es la producción colectiva de conocimiento y el diseño colectivo de la comunicación que se valora pertinente socializar.
 
-![](../media/image174.jpeg){width="5.915277777777778in" height="1.4680555555555554in"}
+![](./media/image174.jpeg){width="5.915277777777778in" height="1.4680555555555554in"}
 
 **Figura 3.** Taller Fanzine. Jamundí. Luego de las explicaciones sobre la importancia de la comunicación del riesgo (**A**), los participantes diseñan en grupos (**B**) un fanzine, a partir de problemáticas identificadas en los territorios donde habitan (**C**).
 

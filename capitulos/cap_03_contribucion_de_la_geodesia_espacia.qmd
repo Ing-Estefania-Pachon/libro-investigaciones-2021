@@ -1,11 +1,59 @@
 ---
-title: "Capítulo 3. Contribución de la geodesia espacial..."
+title: "Capítulo 3. Contribución de la geodesia espacial en la gestión"
 subtitle: "Investigaciones en gestión del riesgo de desastres para Colombia"
 author: "UNGRD"
 date: "2021"
 title-block-banner: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=2072"
 number-sections: false
 ---
+
+
+[]{#_Toc47894927 .anchor}Contribución de la geodesia espacial en la gestión del riesgo en Colombia. Casos de estudio
+
+**Héctor Mora-Páez^1\*^, Fredy Díaz Mila^1^, Takeshi Sagiya^2^, Leidy Giraldo Londoño^1^ & Yuli Corchuelo Cuervo^1^**
+
+^1^Servicio Geológico Colombiano, Dirección de Geoamenazas, Grupo Investigaciones Geodésicas Espaciales, Diagonal 53 \# 34-53, Bogotá, Colombia
+
+^2^Centro de Investigación en Mitigación de Desastres, Universidad de Nagoya, Japón
+
+\*Autor de contacto: Héctor Mora Páez, Servicio Geológico Colombiano, Grupo Investigaciones Geodésicas Espaciales, Diagonal 53 \# 34-53, Bogotá, Colombia. Correo-e: <hmora@sgc.gov.co>
+
+**Resumen**
+
+Con el fin de avanzar en el conocimiento de los fenómenos que ocurren en la corteza terrestre en la esquina noroccidental de Suramérica y suroriental de Centroamérica, región de alta complejidad tectónica, el Servicio Geológico Colombiano emplea diferentes tipos de instrumentación, métodos y técnicas, y entre ellas de geodesia espacial, correspondiente a la aplicación en estudios geodinámicos de los conceptos de geodesia tectónica y geodesia de imágenes. En geodesia espacial, basado en posicionamiento GNSS de alta precisión, se han determinado las velocidades en estaciones geodésicas permanentes de operación continúa localizadas en las placas de Nazca, Suramérica y Caribe, y en los bloques Norte de los Andes y Panamá. Estas velocidades permiten confirmar la subducción oblicua de la placa de Nazca por debajo de Suramérica; la acumulación de deformación en el límite de placas Nazca-Suramérica en el margen Colombia-Ecuador, sugiriendo la posibilidad de generación de un sismo fuerte en esta zona; el movimiento general en sentido sur-norte del Bloque Norte de los Andes, hasta la latitud 7.5°N, donde presentan cambio de tendencia hacia el noreste; la convergencia de la placa Caribe en dirección sureste, así como la colisión del bloque de Panamá con respecto al Bloque Norte de los Andes. El concepto de geodesia de imágenes se ha orientado por ahora, al estudio de subsidencia en la ciudad de Bogotá mediante la aplicación de técnicas interferométricas de radar de apertura sintética-InSAR, empleando imágenes del sensor TerraSAR-X, cuyos resultados, combinados con los obtenidos con GPS, permiten establecer valores cuantitativos de este fenómeno en varios sectores de la ciudad. Los resultados obtenidos en las dos aplicaciones constituyen importante insumo en la gestión del riesgo, los primeros, a ser considerados en los estudios de la amenaza sísmica del país, y los segundos, en la planeación urbana de la ciudad de Bogotá, en especial para considerar aspectos del crecimiento horizontal y vertical de las construcciones.
+
+**Palabras clave**
+
+GNSS, geodinámica, Bloque Norte de los Andes, InSAR, subsidencia, tectónica de placas
+
+**Contribution of Space Geodesy in Risk Management in Colombia. Study cases**
+
+**Abstract**
+
+In order to advance in the knowledge of the phenomena that occur in the earth\'s crust in the northwestern corner of South America and southeast of Central America, a region of high tectonic complexity, the Colombian Geological Survey has been using different types of instrumentation, methods and techniques, and among them of space geodesy, corresponding to the application in geodynamic studies of the tectonic and imaging geodesy concepts. Space geodesy, based on high-precision GNSS positioning, velocities have been estimated at GPS permanent stations of continuous operation located on the Nazca, South America, and Caribbean plates, and also in the North Andean and Panama blocks. These velocities confirm the oblique subduction of the Nazca plate beneath South America plate; the accumulation of deformation at the Nazca-South America plate boundary on the Colombia-Ecuador margin, suggesting the possibility of generating a strong earthquake in this area; the general motion in the south-north direction of the North Andean Block, up to latitude 7.5°N, where they present a trend change towards the northeast; the convergence of the Caribbean plate in a southeast direction, as well as the collision of the Panama block with the North Andean Block. The concept of imaging geodesy has been oriented so far, to the study of the land subsidence in the Bogotá city by applying Interferometric radar techniques-InSAR. Results obtained using images from the TerraSAR-X sensor have been combined with those obtained with GPS in order to establish quantitative values ​​of the land-subsidence in several areas of the city. The results obtained in the two applications constitute an important input in risk management, the first one, to be considered in the studies of the seismic hazard in the country, and the second one, in the urban planning of the Bogotá city especially to consider aspects of horizontal and vertical growth of buildings.
+
+**Keywords**
+
+GNSS, geodynamics, North Andean Block, InSAR, subsidence, plate tectonics
+
+INTRODUCCIÓN
+============
+
+La Tierra es eminentemente un sistema dinámico. Los procesos que ocurren en el interior de la Tierra y el movimiento de grandes volúmenes en la superficie terrestre se ligan estrechamente a la tectónica de placas, y a ello, la sismicidad y el volcanismo. De igual manera, los movimientos de grandes masas tanto en la atmósfera como en los océanos se asocian a procesos dinámicos. Muchas inquietudes que han surgido, generalmente relacionadas con geoamenazas, ciclo hidrológico e incluso acerca del cambio global, entre otras, no pueden explicarse si no se tiene conocimiento y entendimiento de los procesos relacionados con transporte de masas en el sistema Tierra. Para detectar movimientos asociados a procesos dinámicos que ocurren en el sistema Tierra, con alta precisión y resoluciones temporales, se emplean técnicas de geodesia espacial, en dos de sus componentes: geodesia de posicionamiento y geodesia de imágenes. Así, los grandes avances en las técnicas geodésicas espaciales y el rápido desarrollo de sistemas y fortalecimiento de las capacidades de transmisión de datos dan lugar al surgimiento de una verdadera revolución en el campo de estudio de la geodesia, tanto global como regional y local, permitiendo su aplicación en diversas disciplinas del conocimiento, entre ellas las relacionadas con las geociencias. La observación de desplazamientos en la superficie terrestre permite establecer el estado de deformación de la corteza terrestre, y su posible asociación con la ocurrencia de sismos, tsunamis, erupciones volcánicas, entre diversos tipos de amenazas \[1\]. Este artículo presenta dos casos de aplicación de técnicas geodésicas espaciales que contribuyen aportando nuevo conocimiento para la gestión del riesgo en Colombia.
+
+GEODESIA ESPACIAL GPS Y EL ESTUDIO DE LA DEFORMACIÓN DE LA CORTEZA TERRESTRE EN COLOMBIA
+========================================================================================
+
+La esquina noroccidental de Suramérica y sureste de Centroamérica es una zona de alto interés científico en las geociencias donde se conjugan diferentes elementos de orden tectónico y volcánico. No hay otra parte en el mundo en la cual exista una placa tectónica mayor subduciendo por debajo de una gran placa continental a lo largo de una trinchera de casi 6,000 km, como es el caso de la subducción de la placa de Nazca por debajo de Suramérica \[2\]. Esta región se caracteriza por una directa relación de la actividad tectónica y volcánica con la interacción de las placas tectónicas de Suramérica, Nazca, Cocos y Caribe y los bloques Norte de los Andes, Maracaibo, Chocó y Panamá acuñados dentro de dichas placas, Figura 1 \[3 -15\].
+
+![A close up of a map Description automatically generated](./media/image138.jpeg){width="5.381492782152231in" height="4.833479877515311in"}
+
+**Figura 1.** Marco tectónico de la zona de estudio. Fuente del mapa: ETOPO1 \[16\].
+
+Esta compleja tectónica dinámica e intensa deformación interplaca se manifiesta en una alta densidad de fallas, muchas de las cuales se consideran como activas o potencialmente activas. Además, la sismicidad se distribuye sobre un área que corresponde a un límite amplio que abarca el noroeste de Suramérica, Centro América y suroeste del Caribe, complejidad referida por Trenkamp \[12\] como un Margen amplio de placas. Dicha condición, junto con el potencial de ocurrencia de grandes sismos megathrust y tsunamis relacionados con la zona de subducción en el océano Pacífico, significa que un alto porcentaje de la población colombiana habita bajo una amenaza permanente de ocurrencia de sismos y tsunamis, con el potencial de causar grandes daños en términos de pérdida de vidas y destrucción de infraestructura \[17\]. Otra amenaza se asocia a los volcanes activos localizados en la región norte de los Andes, que tienen el potencial de generar erupciones devastadoras como la ocurrida en el volcán Nevado del Ruiz en noviembre 13 de 1985, el segundo peor desastre a nivel mundial de origen volcánico del siglo pasado \[18-19\].
+
+ Impacto de la geodesia espacial GNSS con propósitos científicos
+---------------------------------------------------------------
 
 Dada la complejidad de la región y la potencialidad de ocurrencia de grandes sismos y tsunamis así como de erupciones volcánicas entre otros eventos de origen geológico, se requiere adelantar un estudio sistemático para determinar la actual situación de la deformación de la corteza terrestre. Hay una conciencia creciente a nivel mundial acerca de la valiosa contribución de la geodesia espacial para la observación detallada, análisis y comprensión de la cinemática de la corteza terrestre en regiones tectónicamente activas. Los estudios geodésicos espaciales son ahora el principal método para el estudio de la cinemática en los límites de placas en la superficie terrestre; las mediciones geodésicas espaciales se estiman en virtud de un marco global de referencia, lo cual permite medir los movimientos en los límites de placas así como los movimientos relativos globales al interior de las placas \[20\]. Así, las redes integradas GPS/GNSS suministran un excelente marco de referencia para el estudio de los procesos tanto en la tierra sólida como en la tierra atmosférica, a escalas globales, regionales y locales. La posición de las estaciones geodésicas a través del tiempo permite generar campos de velocidad para constreñir modelos de bloques cinemáticos y de zonas de deformación en límites de placas \[21\].
 
@@ -81,9 +129,9 @@ Las series de tiempo de los datos GPS se generaron mediante el empleo del softwa
 
 La Figura 2 muestra ejemplos de series de tiempo y los correspondientes diagramas de densidad espectral de potencia para dos estaciones GPS de GeoRED, denominadas MITU y UWAS. La estación MITU (Vaupés) ha operado ininterrumpidamente desde su fecha de instalación. Por su parte, la estación UWAS (Guicán, Boyacá) señala con la línea azul, la interrupción en la obtención de los datos y la afectación (*offset*) en el comportamiento de las componentes debido tanto al cambio de la antena GPS así como a problemas en su operación. Todos estos factores se evaluaron para generar una serie de tiempo confiable, y así obtener un vector de velocidad coherente con los datos. En los dos casos, los errores en las estimaciones de las velocidades son iguales o menores a 0.23 mm/año, indicando la bondad de cada estación, lo cual es posible de obtenerse mediante adecuada monumentación de la antena y prolongados tiempos de observación.
 
-![A picture containing map, text Description automatically generated](../media/image139.jpeg){width="4.677083333333333in" height="3.309097769028871in"}
+![A picture containing map, text Description automatically generated](./media/image139.jpeg){width="4.677083333333333in" height="3.309097769028871in"}
 
-![A close up of a map Description automatically generated](../media/image140.jpeg){width="4.53125in" height="3.1372167541557303in"}
+![A close up of a map Description automatically generated](./media/image140.jpeg){width="4.53125in" height="3.1372167541557303in"}
 
 **Figura 2.** Series de tiempo GPS y diagramas de densidad espectral de las estaciones MITU (A) y UWAS (B). El término *cpy* en la frecuencia significa ciclos por año.
 
@@ -98,7 +146,7 @@ Mora-Páez et al. \[53\] realizaron la estimación de vectores de velocidad geod
 
 De la Figura 3 se puede observar la subducción oblicua de la placa de Nazca, representada en el movimiento hacia el este de dos estaciones GPS, localizadas en las islas de Galápagos (Ecuador) y Malpelo (Colombia). El Bloque Norte de los Andes-BNA, definido originalmente por \[5\], se limita por la trinchera colombo-ecuatoriana y el bloque de Panamá al oeste, el Cinturón Deformado del Caribe Sur al norte, y las zonas del Borde Oriental Llanero y Falla de Boconó al este.
 
-![A close up of a map Description automatically generated](../media/image141.jpeg){width="6.1375in" height="4.985416666666667in"}
+![A close up of a map Description automatically generated](./media/image141.jpeg){width="6.1375in" height="4.985416666666667in"}
 
 **Figura 3.** Mapa de velocidades geodésicas de la zona de estudio con respecto a Suramérica, expresadas en ITRF2008.
 
@@ -300,7 +348,7 @@ Con el fin de determinar la deformación en el Bloque Norte de los Andes, se rea
 El modelo de la Figura 4 izquierda, de la zona Centro-Sur del BNA, confirma la acumulación de la deformación en la región de la costa Pacífica de Ecuador y Colombia, asociada a la subducción de la placa de Nazca, mientras que el modelo de la Figura 4 derecha, zona norte del BNA, permite apreciar deformación acumulada en un sector de la región de la costa caribe.
 
   ----------------------------------------------------------------------------------------------------------------------------------------------
-  ![A close up of a map Description automatically generated](../media/image142.jpeg){width="6.090972222222222in" height="3.3811165791776028in"}
+  ![A close up of a map Description automatically generated](./media/image142.jpeg){width="6.090972222222222in" height="3.3811165791776028in"}
   ----------------------------------------------------------------------------------------------------------------------------------------------
 
 **Figura 4.** Modelos de deformación de los sectores Centro-Sur y Norte del Bloque Norte de los Andes. Los círculos rojos corresponden a las estaciones empleadas para la estimación de los respectivos polos de Euler.
@@ -318,7 +366,7 @@ Metodología
 
 Bajo el concepto de geodesia de imágenes, la técnica conocida como InSAR (Interferometric Synthetic Aperture Radar), permite determinar cambios de posición del terreno, especialmente en su componente vertical, mediante el uso imágenes de radar de apertura sintética adquiridas en diversos períodos de tiempo \[60\]. La Figura 5 muestra la forma cómo funciona esta técnica a partir de dos imágenes de dos épocas diferentes para un caso de subsidencia.
 
-![A close up of a map Description automatically generated](../media/image143.jpeg){width="4.221154855643045in" height="3.095417760279965in"}
+![A close up of a map Description automatically generated](./media/image143.jpeg){width="4.221154855643045in" height="3.095417760279965in"}
 
 **Figura 5.** Medición mediante InSAR. Se aprecia la diferencia de fase entre una primera toma (pasada 1) respecto a una segunda toma (pasada 2); λ corresponde a la longitud de onda.
 
@@ -328,14 +376,14 @@ La comparación de las fases de las imágenes de radar requiere contar con dos i
 
 La Figura 6 muestra un interferograma compuesto por una rampa de colores que va del cian hasta el verde pasando por morado, magenta, amarillo, verde, y nuevamente cian. Este patrón corresponde a un ciclo colores expresado en el módulo 2π, donde cada ciclo representa un desplazamiento vertical equivalente a la mitad de la longitud de onda del sensor, este caso es de 1.6 cm considerando que las imágenes interferométricas de TerraSAR-X tiene una longitud de onda de 3.2 cm. El sentido del desplazamiento vertical está en función del orden de colores de --π a π, indicado en la barra de colores, el cual en este caso indica subsidencia. De esta manera, se podría estimar el desplazamiento relativo de un punto respecto a otro; por ejemplo, si se tiene como referencia un punto denominado 1 y se compara con otro denominado 2, se observa que entre los dos hay una diferencia de 3 ciclos de colores es decir 4.8 centímetros en el sentido de la subsidencia.
 
-![A close up of a map Description automatically generated](../media/image144.jpg){width="4.779069335083115in" height="4.396225940507437in"}
+![A close up of a map Description automatically generated](./media/image144.jpg){width="4.779069335083115in" height="4.396225940507437in"}
 
 **Figura 6. Ejemplo de interferograma diferencial generado a partir de imágenes TerraSAR-X para la ciudad de Bogotá entre el 28/09/2011 y 17/10/2012. Modificado de Mora-Páez et al. \[62\]**
 
 La Figura 7 complementa la interpretación de un interferograma diferencial que representa el hundimiento de la superficie del terreno mediante el ciclo de colores. Tomando como referencia un punto de inicio del ciclo de colores (rojo, naranja, amarillo, verde, azul, púrpura), se puede estimar el cambio relativo del terreno. Para este caso, dos ciclos, cada uno correspondiente a 1.6 cm (banda X), arroja un total de 3.2 cm; la barra de colores indica el sentido de la subsidencia.
 
   -----------------------------------------------------------------------------------------------------------------------------------
-  ![A close up of a card Description automatically generated](../media/image145.jpg){width="6.1375in" height="3.4902777777777776in"}
+  ![A close up of a card Description automatically generated](./media/image145.jpg){width="6.1375in" height="3.4902777777777776in"}
   -----------------------------------------------------------------------------------------------------------------------------------
 
 **Figura 7.** Representación de la interpretación de un interferograma diferencial correspondiente a subsidencia de un terreno. Fuente: modificado de https://ca.water.usgs.gov/land\_subsidence (2019).
@@ -343,7 +391,7 @@ La Figura 7 complementa la interpretación de un interferograma diferencial que 
 Generado el interferograma, se realiza otro procesamiento llamado "*desenrollo" de la fase*, que permite calcular el desplazamiento vertical. Dichas imágenes, denominadas "desenrolladas", se "apilan" digitalmente, también conocido como stacking, para obtener los desplazamientos acumulados en el tiempo respecto a la imagen maestra, Figura 8. Este procesamiento permite generar tanto mapas de desplazamiento acumulado como series de tiempo.
 
   --------------------------------------------------------------------------
-  ![](../media/image146.jpg){width="6.1375in" height="4.096527777777778in"}
+  ![](./media/image146.jpg){width="6.1375in" height="4.096527777777778in"}
   --------------------------------------------------------------------------
 
 **Figura 8.** Esquema representativo de un "stacking" ó "apilación", generándose un cubo de datos de desplazamiento acumulados para cada periodo de toma de imagen, obtenido a partir de los interferogramas "desenrollados". Mediante este *stack* se obtienen los mapas de desplazamiento acumulado, así como series de tiempo.
@@ -352,23 +400,23 @@ Los interferogramas se generan en el GIGE mediante el empleo del paquete cientí
 
 Previamente, Mora-Páez et al. \[62\], empleando 76 imágenes TerraSAR-X para el período septiembre 28 de 2011 a octubre 17 de 2017 en la ciudad de Bogotá, obtuvieron un valor máximo de desplazamiento vertical acumulado de 19. cm. El presente estudio emplea 35 imágenes adicionales a las empleadas por Mora-Páez et al. \[62\], contando así con un total de 111 imágenes Terrasar-X, lo cual extiende el período de observación hasta diciembre de 2018 y permitió generar 501 interferogramas con una línea base menor o igual a 250 m \[68\]. La Figura 9 corresponde al mapa de desplazamientos generado a partir del nuevo procesamiento.
 
-![A close up of a map Description automatically generated](../media/image147.jpeg){width="3.428472222222222in" height="5.083293963254593in"}
+![A close up of a map Description automatically generated](./media/image147.jpeg){width="3.428472222222222in" height="5.083293963254593in"}
 
 **Figura 9.** Mapa de desplazamientos verticales acumulados para el periodo septiembre de 2011 a diciembre de 2018.
 
 La Figura 10A muestra un sector del mapa de desplazamientos, resaltándose la zona de máxima subsidencia en Bogotá de -20.4 cm, localizada en la zona de Puente Aranda, (punto 1); la Figura 10B presenta la respectiva serie de tiempo. Los círculos negros corresponden con la fecha de adquisición de la imagen, mientras que los círculos azules son los valores obtenidos mediante la aplicación en GIAnT del filtro Media Móvil Ponderado Gaussiano \[64\], cuyo valor se ve reflejado en el eje de desplazamiento vertical.
 
-![A screenshot of a cell phone Description automatically generated](../media/image148.jpeg){width="2.5961220472440947in" height="2.3622047244094486in"}![A screenshot of a cell phone Description automatically generated](../media/image149.jpeg){width="3.4913090551181103in" height="2.3622047244094486in"}
+![A screenshot of a cell phone Description automatically generated](./media/image148.jpeg){width="2.5961220472440947in" height="2.3622047244094486in"}![A screenshot of a cell phone Description automatically generated](./media/image149.jpeg){width="3.4913090551181103in" height="2.3622047244094486in"}
 
 **Figura 10.** Mapa de desplazamientos acumulados del punto 1 sector Puente Aranda (izquierda). Serie de tiempo del Punto 1 (derecha). Los puntos de color negro corresponden a los valores observados del procesamiento del "stacking", mientras que los puntos azules a los valores obtenidos mediante la aplicación del filtro Media Móvil Ponderado Gaussiano.
 
 La Figura 11a presenta otro sitio, punto 2, localizado en Normandía, cercano al aeropuerto, con valor de -15.7 cm; la Figura 11b muestra la respectiva serie de tiempo. A su vez, la Figura 12A muestra desplazamiento acumulado a diciembre de 2018 de -0.83 cm, considerado como mínimo para el caso de Bogotá; este sitio, en algunas ocasiones, ha mostrado variaciones del orden de 2 cm. La Figura 12B muestra la respectiva serie de tiempo.
 
-![A close up of a map Description automatically generated](../media/image150.jpeg){width="2.596015966754156in" height="2.3622047244094486in"} ![A screenshot of a cell phone Description automatically generated](../media/image151.jpeg){width="3.4916480752405947in" height="2.3622047244094486in"}
+![A close up of a map Description automatically generated](./media/image150.jpeg){width="2.596015966754156in" height="2.3622047244094486in"} ![A screenshot of a cell phone Description automatically generated](./media/image151.jpeg){width="3.4916480752405947in" height="2.3622047244094486in"}
 
 Figura 11. Mapa de desplazamientos acumulados del punto 2 (Normandía) (izquierda). Serie de tiempo del Punto 2 (derecha).
 
-![A picture containing food Description automatically generated](../media/image152.jpeg){width="2.5961220472440947in" height="2.3622047244094486in"} ![A screenshot of a cell phone Description automatically generated](../media/image153.jpeg){width="3.4913834208223973in" height="2.3622047244094486in"}
+![A picture containing food Description automatically generated](./media/image152.jpeg){width="2.5961220472440947in" height="2.3622047244094486in"} ![A screenshot of a cell phone Description automatically generated](./media/image153.jpeg){width="3.4913834208223973in" height="2.3622047244094486in"}
 
 **Figura 12.** Mapa de desplazamientos acumulados del punto 3 (La Guaca) (izquierda), y serie de tiempo del punto 3 (derecha).
 
@@ -378,15 +426,15 @@ Para este estudio, se realizó la integración de resultados de InSAR con los re
 
 Para la integración GPS-InSAR se seleccionaron estaciones permanentes con datos de observación mínima de 2.5 años, y estaciones de campo que han sido objeto de toma de datos por lo menos en tres campañas. Así, se contó para esta integración con 58 estaciones GPS, algunas de ellas por fuera del perímetro de la ciudad de Bogotá, de las cuales 4 son estaciones permanentes (BOGT, AEDO, VSOA, VROS). La localización de estas estaciones se puede observar en el mapa de la Figura 13.
 
-![A close up of a map Description automatically generated](../media/image154.jpeg){width="3.817168635170604in" height="4.771242344706912in"}
+![A close up of a map Description automatically generated](./media/image154.jpeg){width="3.817168635170604in" height="4.771242344706912in"}
 
 **Figura 13.** Mapa de localización de estaciones GPS empleadas para la integración con InSAR. Los círculos amarillos corresponden a estaciones permanentes, mientras los círculos blancos a estaciones de campo. El recuadro morado es la zona de cobertura de las imágenes TerraSAR-X empleadas.
 
 De esta red de estaciones GPS, se destaca la estación permanente BOGT, dada su importancia y su registro histórico como se mencionó con anterioridad. La componente vertical de la serie de tiempo de esta estación ha mostrado un significativo comportamiento descendente vertical desde sus comienzos. Las líneas azules corresponden a *offsets* asociados a cambios de instrumental a través del tiempo. La Figura 14A muestra la serie de tiempo, así como la estimación de la velocidad anual en esta estación para el mismo período de tiempo de cobertura de las imágenes interferométricas de radar empleadas. Por su parte la Figura 14B muestra la serie de tiempo estimada InSAR para el píxel de localización de la estación GPS BOGT.
 
-![A close up of a map Description automatically generated](../media/image155.jpeg){width="3.975in" height="1.8958333333333333in"}
+![A close up of a map Description automatically generated](./media/image155.jpeg){width="3.975in" height="1.8958333333333333in"}
 
-![A screenshot of a cell phone Description automatically generated](../media/image156.jpeg){width="4.062992125984252in" height="2.7486570428696413in"}
+![A screenshot of a cell phone Description automatically generated](./media/image156.jpeg){width="4.062992125984252in" height="2.7486570428696413in"}
 
 **Figura 14**. Serie de tiempo estación GPS permanente BOGT, imagen superior. Serie de tiempo InSAR para el sitio de localización de la estación BOGT, imagen inferior.
 
@@ -404,7 +452,7 @@ La integración de resultados GPS-InSAR significa incorporar las velocidades de 
 
 Como resultado de esta integración se muestra el ejemplo de la serie de tiempo InSAR del sitio de localización de la estación GPS BOGT, Figura 15. Se aprecia que la correlación obtenida en los datos integrados corresponde ahora a un valor de R² = 0.95, mejorando el valor estimado antes de la integración.
 
-![A close up of a map Description automatically generated](../media/image157.jpeg){width="4.541666666666667in" height="3.072484689413823in"}
+![A close up of a map Description automatically generated](./media/image157.jpeg){width="4.541666666666667in" height="3.072484689413823in"}
 
 **Figura 15.** Serie de tiempo InSAR integrada con GPS correspondiente al sitio de ubicación de estación BOGT.
 
@@ -412,21 +460,21 @@ Como consecuencia de esta integración, el valor final del desplazamiento en la 
 
 La Figura 16 muestra el mapa de desplazamientos acumulados para la ciudad de Bogotá generado con la integración GPS-InSAR, donde se evidencian incrementos sustanciales en los valores de subsidencia respecto al mapa presentado en la Figura 9; antes de la integración con GPS, los valores de desplazamiento acumulado máximos estimados con InSAR eran 20.4 cm, y ahora, con la integración son de 24 cm.
 
-![A close up of a map Description automatically generated](../media/image158.jpeg){width="3.511661198600175in" height="5.206641513560805in"}
+![A close up of a map Description automatically generated](./media/image158.jpeg){width="3.511661198600175in" height="5.206641513560805in"}
 
 **Figura 16.** Mapa de desplazamientos verticales acumulados para el periodo septiembre de 2011 a diciembre de 2018 como resultado de la integración GPS-InSAR.
 
 Realizada la integración de resultados GPS-InSAR, se efectuó un análisis similar para los puntos ubicados en las tres zonas diferentes, Figuras 10, 11 y 12. Así, se obtiene ahora un valor de desplazamiento acumulado hasta diciembre de 2018 para el punto 1 de -23.7 cm, -16.9 cm para el punto 2 y -5 cm para el punto 3, Figuras 17, 18 y 19 respectivamente.
 
-![A picture containing food Description automatically generated](../media/image159.jpeg){width="2.596017060367454in" height="2.3622047244094486in"}![A screenshot of a cell phone Description automatically generated](../media/image160.jpeg){width="3.491747594050744in" height="2.3622047244094486in"}
+![A picture containing food Description automatically generated](./media/image159.jpeg){width="2.596017060367454in" height="2.3622047244094486in"}![A screenshot of a cell phone Description automatically generated](./media/image160.jpeg){width="3.491747594050744in" height="2.3622047244094486in"}
 
 **Figura 17.** Mapa de desplazamientos acumulados del punto 1 sector Puente Aranda (izquierda). Serie de tiempo del Punto 1 (derecha).
 
-![A close up of a map Description automatically generated](../media/image161.jpeg){width="2.596017060367454in" height="2.3622047244094486in"}![A picture containing large, white Description automatically generated](../media/image162.jpeg){width="3.4918153980752407in" height="2.3622047244094486in"}
+![A close up of a map Description automatically generated](./media/image161.jpeg){width="2.596017060367454in" height="2.3622047244094486in"}![A picture containing large, white Description automatically generated](./media/image162.jpeg){width="3.4918153980752407in" height="2.3622047244094486in"}
 
 **Figura 18.** Mapa de desplazamientos acumulados del punto 2 (Normandía) (izquierda). Serie de tiempo del Punto 2, sector de Normandía (derecha).
 
-![A picture containing food Description automatically generated](../media/image163.jpeg){width="2.596017060367454in" height="2.3622047244094486in"} ![A picture containing white Description automatically generated](../media/image164.jpeg){width="3.491748687664042in" height="2.3622047244094486in"}
+![A picture containing food Description automatically generated](./media/image163.jpeg){width="2.596017060367454in" height="2.3622047244094486in"} ![A picture containing white Description automatically generated](./media/image164.jpeg){width="3.491748687664042in" height="2.3622047244094486in"}
 
 **Figura 19.** Mapa de desplazamientos acumulados del punto 3 (La Guaca) (izquierda). Serie de tiempo del punto 3 (derecha).
 

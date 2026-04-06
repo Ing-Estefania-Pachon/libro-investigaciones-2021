@@ -1,11 +1,12 @@
 ---
-title: "Capítulo 5. Animales en la gestión del riesgo..."
+title: "Capítulo 5. Animales en la gestión del riesgo"
 subtitle: "Investigaciones en gestión del riesgo de desastres para Colombia"
 author: "UNGRD"
 date: "2021"
 title-block-banner: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=2072"
 number-sections: false
 ---
+
 
 Recopilación, búsqueda, selección, filtración de información y de datos de los últimos 10 años, revisión bibliográfica a partir de diferentes fuentes como documentos oficiales, textos escritos y digítales; nacionales e internacionales identificando los aspectos asociados al manejo, salud y seguridad de los animales en la gestión del riesgo de los desastres y su papel en la sociedad, que permiten llevar a cabo una adecuada guía para la toma de decisiones frente a los animales en emergencias y desastres, garantizando la seguridad del personal operativo que interviene. Se priorizan el análisis a las acciones que contemplan estándares asociados al enfoque One Health y se prepara el contenido de una manera significativa y agregándole contenido relevante por parte de cada uno de los autores.
 

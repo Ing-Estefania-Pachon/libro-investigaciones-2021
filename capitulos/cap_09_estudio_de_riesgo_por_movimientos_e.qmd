@@ -1,11 +1,12 @@
 ---
-title: "Capítulo 9. Estudio de riesgo por movimientos..."
+title: "Capítulo 9. Estudio de riesgo por movimientos en masa"
 subtitle: "Investigaciones en gestión del riesgo de desastres para Colombia"
 author: "UNGRD"
 date: "2021"
 title-block-banner: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=2072"
 number-sections: false
 ---
+
 
 []{#_Toc47894933 .anchor}Estudio de riesgo por movimientos en masa en cuencas hidrográficas abastecedoras en el suroeste antioqueño usando métodos probabilistas
 
@@ -55,7 +56,7 @@ En este capítulo se presenta la metodología aplicada a un caso de estudio en l
   China            1.0                                           0.01
   Alemania         0.3                                           0.01
 
-![A close up of text on a white background Description automatically generated](../media/image199.tiff){width="6.04830927384077in" height="1.95625in"}
+![A close up of text on a white background Description automatically generated](./media/image199.tiff){width="6.04830927384077in" height="1.95625in"}
 
 Figura 1. Pérdida de vidas (A) y daño a propiedades (B) por diversos fenómenos naturales en el Valle de Aburrá entre 1880--2007 (adaptado de \[19\]).
 
@@ -95,7 +96,7 @@ En el informe final del estudio de Actualización de la Línea Base de Gestión 
 
 Para ampliar la información y obtener un análisis más concluyente sobre la ocurrencia de movimientos en masa en el suroeste Antioqueño, se recurrió a los reportes del sistema Desinventar hasta el año 2019. De acuerdo con los datos que para Antioquia se encuentran en Desinventar (Fig. 2A), los movimientos en masa se presentan con mayor frecuencia en los trimestres mayo-junio-julio y septiembre-octubre-noviembre como se observa en la Figura 2B. En total se tienen 1,566 registros, los cuales muestran que las zonas con mayor ocurrencia son la zona del suroeste (462 registros) y la del oriente (358 registros) como se aprecia en la Figura 2C. Los 462 registros de la región de suroeste cubren un periodo desde 1921 hasta 2019 como se muestra en la Figura 2A y al igual que para el departamento de Antioquia en general, para la región del suroeste también se observa que los movimientos en masa son más frecuentes en los trimestres mayo-junio-julio y septiembre-octubre-noviembre como se observa en la Figura 2D. El municipio del Suroeste que presenta el mayor número de reportes de eventos es Andes como se observa en la Figura 2E.
 
-![A picture containing object, antenna Description automatically generated](../media/image200.tiff){width="6.130122484689414in" height="6.038884514435695in"}
+![A picture containing object, antenna Description automatically generated](./media/image200.tiff){width="6.130122484689414in" height="6.038884514435695in"}
 
 **Figura 2**. Registros de movimientos en masa para el departamento de Antioquia (Desinventar) (**A**). Distribución mensual de los movimientos en masa en Antioquia (**B**). Distribución de movimientos en masa en Antioquia por regiones (excluyendo el Valle de Aburrá) (**C**). Distribución mensual de movimientos en masa en el Suroeste (**D**). Movimientos en masa por municipios del Suroeste (**E**).
 
@@ -125,7 +126,7 @@ Se aplicó la metodología mostrada en la Figura 6 y descrita en la Sección 6, 
 
 En el proceso de estimación de la amenaza, se calculan los factores de seguridad considerando dos escenarios de condiciones de humedad del suelo. El primer caso, corresponde a un escenario estático, es decir, sin la inclusión de un detonante del movimiento en masa por condición sísmica. El segundo caso, corresponde a un escenario que considera la inclusión de un movimiento sísmico, por medio de un coeficiente de aceleración horizontal del suelo (*A~h~*) de 0.2 *g*. Ambos casos fueron evaluados para condiciones de humedad natural del suelo (*H~w~ = 0*) y una eventual condición de saturación total por efecto de la lluvia (*H~w~ = H*). En la Figura se presentan los resultados de factores de seguridad en condición saturada estática y en la Figura 4A la probabilidad de total de falla (*PTF*).
 
-![A close up of a map Description automatically generated](../media/image201.tiff){width="3.0162390638670167in" height="3.9030446194225723in"}
+![A close up of a map Description automatically generated](./media/image201.tiff){width="3.0162390638670167in" height="3.9030446194225723in"}
 
 Figura 3. Resultados del factor de seguridad (*FS*) en condición saturada estática para la cuenca del río San Juan (A). Se hace un zoom sobre la quebrada La Liboriana para presentar y detallar los resultados del factor de seguridad en condición húmeda estática (*FSHE*) (B) y en condición saturada estática (*FSSE*) (C).
 
@@ -138,7 +139,7 @@ Se realizó el análisis de vulnerabilidad física calculando para esto la inten
 
 Usando el procedimiento descrito en la Sección 6 e ilustrado en la Figura , se estimó el riesgo en los cauces en una zona de 100 m a cada lado. Se realizó el análisis de riesgo calculando las perdidas probables de acuerdo con las ecuaciones 9 y 10. Como ejemplo, en la Figura se muestran los resultados de pérdidas estimadas obtenidos para la quebrada La Liboriana.
 
-![A close up of a map Description automatically generated](../media/image202.tiff){width="4.505833333333333in" height="5.830594925634296in"}
+![A close up of a map Description automatically generated](./media/image202.tiff){width="4.505833333333333in" height="5.830594925634296in"}
 
 Figura 4. Resultados de probabilidad total de falla en la cuenca del río San Juan (A). Vulnerabilidad (en término de "Intensidad") en una zona de influencia de 100 m a cada lado de la quebrada La Liboriana (B). Riesgo anual (\$) en una zona de influencia de 100 m a cada lado de la quebrada La Liboriana (C).
 
@@ -315,7 +316,7 @@ donde *R* es el riesgo, *P\[T\]* es la amenaza entendida como la probabilidad de
 | **La vulnerabilidad** es la predisposición de un elemento a sufrir daños o afectarse debido a la ocurrencia de un evento de cierta intensidad. Según la ISSMGE, la vulnerabilidad se define como el nivel de perdidas esperadas en un elemento o sistema en relación a una amenaza especificada. La vulnerabilidad depende de la exposición a la amenaza, la propensión del elemento expuesto a sufrir daños, de las consecuencias de los daños y de los posibles costos de los daños y las consecuencias.                                                                                                                                                                    |
 +-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-![A picture containing screenshot Description automatically generated](../media/image203.tiff){width="5.7018744531933505in" height="4.192828083989501in"}
+![A picture containing screenshot Description automatically generated](./media/image203.tiff){width="5.7018744531933505in" height="4.192828083989501in"}
 
 Figura 5. Presentación esquemática del modelo de análisis de riesgo.
 
@@ -332,7 +333,7 @@ $P\left\lbrack T \right\rbrack = {PTF = P}_{\text{fs}} \times P_{s} + P_{\text{f
 
 Donde *P~fs~* es la probabilidad de falla del talud debido a la acción de un sismo en condición de saturación de suelos, *P~fns~* es la probabilidad de falla en condición no saturada, *P~s~* es la probabilidad marginal de que el suelo este saturado y (1 - *P~s~*) representa la probabilidad marginal de que el suelo no esté saturado. La probabilidad de falla de los taludes las condiciones saturada y no saturada pueden ser calculadas independientemente, pero la determinación de la probabilidad que el suelo este saturado es difícil debido a la complejidad del fenómeno de variación de las condiciones del contenido de agua en el suelo. Una descripción detallada del modelo para la evaluación de probabilidad de falla se puede consultar en \[35\].
 
-![A screenshot of a cell phone Description automatically generated](../media/image204.tiff){width="6.137498906386702in" height="3.6665168416447944in"}
+![A screenshot of a cell phone Description automatically generated](./media/image204.tiff){width="6.137498906386702in" height="3.6665168416447944in"}
 
 Figura 6. Esquema de la metodología adoptada para la evaluación de la amenaza.
 
@@ -405,11 +406,11 @@ $h_{T} = \sum_{1}^{n}h_{i}$ (6)
 
 donde *h~i~* es la altura que puede ser generada por cada celda inestable. El proceso para estimar *h~i~* se puede ver detalladamente en \[11\].
 
-![A close up of a map Description automatically generated](../media/image205.tiff){width="6.1375in" height="3.450744750656168in"}
+![A close up of a map Description automatically generated](./media/image205.tiff){width="6.1375in" height="3.450744750656168in"}
 
 **Figura 7**. Esquema adoptado para el cálculo de la altura de depositación del movimiento en masa (*h~T~*).
 
-![A close up of a map Description automatically generated](../media/image206.tiff){width="6.1375in" height="3.533857174103237in"}
+![A close up of a map Description automatically generated](./media/image206.tiff){width="6.1375in" height="3.533857174103237in"}
 
 Figura 8. Esquema adoptado para el cálculo de la vulnerabilidad cuencas/cauces.
 
@@ -421,7 +422,7 @@ Donde:
 
 α, n y m son constantes que toman valores de 2350, 0.71 y 0.57 respectivamente.
 
-![A close up of a piece of paper Description automatically generated](../media/image207.jpeg){width="5.769995625546807in" height="3.5507655293088365in"}
+![A close up of a piece of paper Description automatically generated](./media/image207.jpeg){width="5.769995625546807in" height="3.5507655293088365in"}
 
 Figura 9. Ejemplo de curva de daño para la afectación de una quebrada.
 
@@ -467,7 +468,7 @@ Se estimó el riesgo en cada celda localizada sobre la corriente de agua en las 
 
 $R = PAF \times PEP$ (10)
 
-![A picture containing refrigerator Description automatically generated](../media/image208.tiff){width="6.153716097987751in" height="3.685819116360455in"}
+![A picture containing refrigerator Description automatically generated](./media/image208.tiff){width="6.153716097987751in" height="3.685819116360455in"}
 
 Figura 10. Esquema metodología adoptada para la evaluación del riesgo
 
@@ -482,7 +483,7 @@ Para el desarrollo y explicación de la metodología propuesta, se tomó como ca
 | La cuenca del rio San Juan se localiza en la vertiente oriental de la cordillera occidental de los Andes colombianos. El relieve es montañoso con pendientes fuertes. Abarca tierras en las márgenes del Río Cauca y es la más cafetera del departamento de Antioquia. También existen cultivos de caña de azúcar, frutales, plátano y algunas áreas se dedican a la ganadería. La cuenca del Río San Juan se extiende desde el nacimiento del rio en el nudo Paramillo (3000 m.s.n.m) y la desembocadura en el Río Cauca (1000 m.s.n.m) \[37\]. |
 +--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-![A close up of a map Description automatically generated](../media/image209.tiff){width="5.756895231846019in" height="5.560318241469816in"}
+![A close up of a map Description automatically generated](./media/image209.tiff){width="5.756895231846019in" height="5.560318241469816in"}
 
 Figura 11. Localización del área en estudio (Cuenca río San Juan).
 
