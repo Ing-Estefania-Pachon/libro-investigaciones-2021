@@ -72,20 +72,18 @@ v.  Es prioritario invertir en recursos humanos y materiales para el abordaje de
 
 Reconocer la sostenibilidad de los procesos de reasentamiento social como medida correctiva del riesgo, deviene en reconocer un marco referencial donde las acciones del presente permitan garantizar la existencia de las formas de vida del futuro, sosteniendo y posibilitando interacciones psico-socio-ecológicas \[68\], donde las prácticas relacionales que impactan el tejido socio-ambiental garanticen la permanencia del mismo sin llegar a fracturarlo, o afectarlo de maneras irreversibles \[66\].
 
-+-----------------------------------------------------------------------------------------------------------------------------+
-| **Caja 1. Primeros puntos clave para procesos de reasentamiento**                                                           |
-|                                                                                                                             |
-| -   Conocimiento y reconocimiento del contexto de las comunidades a reasentar así como de los contextos receptores.         |
-|                                                                                                                             |
-| -   Imperativo de no ser la fuente de nuevos riesgos naturales o sociales en otros territorios o para otras formas de vida. |
-|                                                                                                                             |
-| -   Articulación institucional y comunitaria desde el momento de la planeación.                                             |
-|                                                                                                                             |
-| -   Concertación desde las voces de todos los actores.                                                                      |
-|                                                                                                                             |
-| -   Invertir en recursos humanos y materiales para el abordaje del enfoque social en los procesos de reasentamiento.        |
-+-----------------------------------------------------------------------------------------------------------------------------+
 
+**Caja 1. Primeros puntos clave para procesos de reasentamiento**                                                          
+                                                                                                                           
+-   Conocimiento y reconocimiento del contexto de las comunidades a reasentar así como de los contextos receptores.        
+                                                                                                                           
+-   Imperativo de no ser la fuente de nuevos riesgos naturales o sociales en otros territorios o para otras formas de vida.
+                                                                                                                           
+-   Articulación institucional y comunitaria desde el momento de la planeación.                                            
+                                                                                                                           
+-   Concertación desde las voces de todos los actores.                                                                     
+                                                                                                                           
+-   Invertir en recursos humanos y materiales para el abordaje del enfoque social en los procesos de reasentamiento.       
 RESULTADOS 
 ==========
 
@@ -97,7 +95,7 @@ Los resultados del presente estudio se categorizaron en diez componentes psicoso
 
 Se establece una correlación entre los países donde se encontró mayor prevalencia de bibliografía según componente. Es preciso mencionar que los países que abordan la totalidad o gran mayoría de estos son Colombia y México situación que no sería menor dado que como ya han expresado otros estudios, estos países concentran la mayor cantidad de daños y pérdidas asociados a situaciones de desastre en América Latina \[CEPAL\].
 
-![](../media/image165.emf){width="5.285690069991251in" height="4.989362423447069in"}
+![](../media/image165.png){width="5.285690069991251in" height="4.989362423447069in"}
 
 ***Figura 1.** La figura sintetiza los componentes psicosociales del reasentamiento social y la relación que se genera entre ellas. Participación y organización social junto con el componente institucional resultan ser los vectores de los ocho componentes restantes. Fuente: propia.*
 
@@ -107,28 +105,26 @@ El componente institucional se entiende como la asistencia, orientación y acomp
 
 Anzellini \[22\] resalta la importancia de coordinar conjuntamente entre organizaciones los procesos, en las fases de planeación, ejecución y seguimiento. Es necesario que el actuar institucional esté mediado por la retroalimentación de las actividades, propósitos comunes, y ejecución conjunta debido a que, como lo refieren Gallart y Greaves "es de suma importancia que el trabajo de monitoreo se inicie paralelamente al de la entidad ejecutora, ya que, si no se comparte una base informativa y analítica (diagnóstico común) los problemas planteados por los monitores parecen ilegítimos, resultan extemporáneos o son de difícil absorción por el ejecutor" \[23\]. En complemento, y como fue expresado en uno de los grupos focales "no se puede trabajar con la comunidad si primero no se han reunido las entidades, si hay ambigüedades la gente la coge (lo percibe) ahí mismo" \[69\]. De allí que la prioridad, tal como se planteaba en una de las entrevistas, es ponerse "el chaleco del proceso y no de la institución" \[61\]. Este componente logra ser representativo en algunas experiencias de México, especialmente los reasentamientos de Aguamilpa y Zimapán (1992). Allí se establecieron propósitos interinstitucionales en proyectos de reasentamiento direccionados a responder las necesidades comunitarias actuales, futuras, desde la optimización de recursos.
 
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Caja 2. Puntos orientadores para el componente institucional**                                                                                          |
-|                                                                                                                                                           |
-| -   Claridad en la entidad o entidades que coordinan el proceso de reasentamiento social, responsabilidades de cada una, alcance y presupuesto.           |
-|                                                                                                                                                           |
-| -   Estrategias de ejecución y seguimiento conjunto.                                                                                                      |
-|                                                                                                                                                           |
-| -   Planeación participativa de un monitoreo y evaluación de cada una de las fases diseñadas.                                                             |
-|                                                                                                                                                           |
-| -   Definición de principios éticos que guíen la actuación institucional en cada una de las fases.                                                        |
-|                                                                                                                                                           |
-| -   Vinculación de representantes comunitarios en la toma de decisiones desde la planeación del proyecto.                                                 |
-|                                                                                                                                                           |
-| -   Mecanismos conjuntos para el tratamiento de conflictos.                                                                                               |
-|                                                                                                                                                           |
-| -   Objetivos a corto, mediano y largo plazo en el ámbito social.                                                                                         |
-|                                                                                                                                                           |
-| -   Mensajes conjuntos y congruentes entre actores institucionales.                                                                                       |
-|                                                                                                                                                           |
-| -   Las instituciones participantes deben concebirse como un equipo de trabajo con metas comunes, para evitar acciones aisladas que generen desconfianza. |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------+
 
+**Caja 2. Puntos orientadores para el componente institucional**                                                                                         
+                                                                                                                                                         
+-   Claridad en la entidad o entidades que coordinan el proceso de reasentamiento social, responsabilidades de cada una, alcance y presupuesto.          
+                                                                                                                                                         
+-   Estrategias de ejecución y seguimiento conjunto.                                                                                                     
+                                                                                                                                                         
+-   Planeación participativa de un monitoreo y evaluación de cada una de las fases diseñadas.                                                            
+                                                                                                                                                         
+-   Definición de principios éticos que guíen la actuación institucional en cada una de las fases.                                                       
+                                                                                                                                                         
+-   Vinculación de representantes comunitarios en la toma de decisiones desde la planeación del proyecto.                                                
+                                                                                                                                                         
+-   Mecanismos conjuntos para el tratamiento de conflictos.                                                                                              
+                                                                                                                                                         
+-   Objetivos a corto, mediano y largo plazo en el ámbito social.                                                                                        
+                                                                                                                                                         
+-   Mensajes conjuntos y congruentes entre actores institucionales.                                                                                      
+                                                                                                                                                         
+-   Las instituciones participantes deben concebirse como un equipo de trabajo con metas comunes, para evitar acciones aisladas que generen desconfianza.
 ***Componente participación y organización social***
 
 Este componente se entiende como el ejercicio donde los miembros de una familia y/o comunidad opinan libremente sobre algún tema, concertando las decisiones consideradas más adecuadas para su sostenibilidad bio-psico-socio-histórica. De esta manera, las decisiones deben ser concertadas desde el marco de los Derechos Humanos, reconociendo estructuras organizativas definidas a nivel local, tales como, juntas de acción comunal, organizaciones de la sociedad civil, consejos comunitarios (forma de organización específica para comunidades afrodescendientes), resguardos y cabildos (forma de organización de comunidades indígenas).
@@ -137,26 +133,24 @@ Este componente reconoce la diversidad cultural y las perspectivas de enfoque di
 
 Bajo este marco, Rey \[24\] al analizar los reasentamientos en el departamento de Bolívar y Molina-Prieto y Victoria \[12\] en Bogotá, enfatizan la participación y organización social como dinamizadora de la planificación, ejecución y seguimiento de los proyectos de reasentamiento. En sintonía, uno de los grupos focales con representantes comunitarios consideró: "en una asamblea, nosotros nos fuimos notando sin tener estudio, por actividad y por amor a esto, por el sentido de pertenencia, entonces a uno lo van identificando, este es líder, este le gusta, este trabaja para la comunidad no para él y vivimos como empresa comunitaria unos siete años" \[71\]. Este componente así, aborda las dificultades sociales desde las potencialidades comunitarias, permitiendo que sus estructuras y formas de organización sean recursos para la concertación.
 
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Caja 3. Puntos orientadores para el componente de participación y organización social**                                                                                                                 |
-|                                                                                                                                                                                                           |
-| -   Procesos de consulta con líderes naturales y electos.                                                                                                                                                 |
-|                                                                                                                                                                                                           |
-| -   Diseño de comités entre instituciones y comunidades para tomar decisiones.                                                                                                                            |
-|                                                                                                                                                                                                           |
-| -   Lectura de contexto que incluya formas de organización comunitaria, espacios de participación creados por las comunidades, objetivos colectivos, habilidades y capacidades presentes en la comunidad. |
-|                                                                                                                                                                                                           |
-| -   Reconocimiento de líderes electos y/o naturales que hacen parte de la comunidad.                                                                                                                      |
-|                                                                                                                                                                                                           |
-| -   Reconocimiento de escenarios de participación diversos fomentados por comunidades étnicas (mingas, círculo de la palabra).                                                                            |
-|                                                                                                                                                                                                           |
-| -   Diseño de estrategias de comunicación con líderes comunitarios.                                                                                                                                       |
-|                                                                                                                                                                                                           |
-| -   Reconocimiento de usos y costumbres para tomar decisiones.                                                                                                                                            |
-|                                                                                                                                                                                                           |
-| -   Monitoreo y evaluación de impacto de cada fase del proyecto con las comunidades.                                                                                                                      |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
+**Caja 3. Puntos orientadores para el componente de participación y organización social**                                                                                                                
+                                                                                                                                                                                                         
+-   Procesos de consulta con líderes naturales y electos.                                                                                                                                                
+                                                                                                                                                                                                         
+-   Diseño de comités entre instituciones y comunidades para tomar decisiones.                                                                                                                           
+                                                                                                                                                                                                         
+-   Lectura de contexto que incluya formas de organización comunitaria, espacios de participación creados por las comunidades, objetivos colectivos, habilidades y capacidades presentes en la comunidad.
+                                                                                                                                                                                                         
+-   Reconocimiento de líderes electos y/o naturales que hacen parte de la comunidad.                                                                                                                     
+                                                                                                                                                                                                         
+-   Reconocimiento de escenarios de participación diversos fomentados por comunidades étnicas (mingas, círculo de la palabra).                                                                           
+                                                                                                                                                                                                         
+-   Diseño de estrategias de comunicación con líderes comunitarios.                                                                                                                                      
+                                                                                                                                                                                                         
+-   Reconocimiento de usos y costumbres para tomar decisiones.                                                                                                                                           
+                                                                                                                                                                                                         
+-   Monitoreo y evaluación de impacto de cada fase del proyecto con las comunidades.                                                                                                                     
 ***Componente Jurídico-Político***
 
 Este componente contempla la ejecución y promoción de mecanismos legales para las familias, comunidades y organizaciones, que serán reasentadas con el fin de proteger su honra y dignidad; asimismo, se incluye el tratamiento legal referente al proceso de reasentamiento social de los territorios de origen y destino, tales como las políticas públicas que le atañen. Este componente incluye la gestión pública en la búsqueda de recursos económicos para la ejecución del proyecto, enfatizando en los objetivos de desarrollo sostenible, desde un enfoque de derechos. En conclusión, el componente jurídico-político lleva a que se muestre una institucionalidad con flujo de información, tratamientos legales pertinentes y lineamientos comunes que se direccionen por el desarrollo endógeno y estructural desde la transparencia.
@@ -165,22 +159,20 @@ Este componente se encuentra inmerso en múltiples marcos políticos y conceptua
 
 Sin embargo, con respecto al panorama latinoamericano anterior, surgen tensiones y discrepancias. Uno de los grupos focales con expertos en reasentamiento, plantearon que "la política pública no se hace para un efecto de un problema, como el reasentamiento, para algo que salió mal, porque si se trata de hacer lo mejor posible para el problema, entonces cuándo se va acabar." \[72\]. Así, desde esta perspectiva, si se tiene una política pública de reasentamiento, se acepta que el problema va a continuar y la capacidad del estado solo puede estar en función de corregir la situación. Uno de los expertos continuó la intervención, estableciendo un ejemplo de un país en Latinoamérica "\[...\] inventaron una cosa imposible de cumplir, imposible de desarrollar, generaron una política específica, prácticamente está escrita de punta a punta con miles de aspectos y detalles buscando la excelencia, ellos dicen que ha sido su peor equivocación" \[72\]. En complemento, Quito \[30\] y Colombia \[31\], indican la necesidad sobre políticas integrales de gestión del riesgo de desastres, pues es allí donde se reflejan los resultados positivos y exitosos de cada proceso. Así, este componente contribuye al cumplimiento de derechos, tal como el derecho al trabajo, a una vida cultural, a un nivel de vida adecuado, y a la educación, resaltando la condición humana en el ejercicio de habitar.
 
-+-----------------------------------------------------------------------------------------------------------------------------------+
-| **Caja 4. Puntos orientadores para el componente jurídico-político**                                                              |
-|                                                                                                                                   |
-| -   Claridad en la información sobre la legalización y titulación de predios individuales y colectivos en el territorio receptor. |
-|                                                                                                                                   |
-| -   Presupuesto en función de un proyecto que articule el desarrollo arquitectónico y social.                                     |
-|                                                                                                                                   |
-| -   Asesorías legales personalizadas.                                                                                             |
-|                                                                                                                                   |
-| -   Acciones y comunicaciones claras con la adquisición de predios.                                                               |
-|                                                                                                                                   |
-| -   Rendición de cuentas en cada fase del proyecto.                                                                               |
-|                                                                                                                                   |
-| -   Claridad en la política pública de gestión del riesgo de desastres en todos los actores sociales                              |
-+-----------------------------------------------------------------------------------------------------------------------------------+
 
+**Caja 4. Puntos orientadores para el componente jurídico-político**                                                             
+                                                                                                                                 
+-   Claridad en la información sobre la legalización y titulación de predios individuales y colectivos en el territorio receptor.
+                                                                                                                                 
+-   Presupuesto en función de un proyecto que articule el desarrollo arquitectónico y social.                                    
+                                                                                                                                 
+-   Asesorías legales personalizadas.                                                                                            
+                                                                                                                                 
+-   Acciones y comunicaciones claras con la adquisición de predios.                                                              
+                                                                                                                                 
+-   Rendición de cuentas en cada fase del proyecto.                                                                              
+                                                                                                                                 
+-   Claridad en la política pública de gestión del riesgo de desastres en todos los actores sociales                             
 ***Componente territorial***
 
 Este componente enmarca las fronteras geopolíticas que configuran un espacio físico determinado y la relación entre las características del entorno con aspectos socioculturales, que llevan a la conformación de referentes, símbolos y sentidos, que se reconocen fácilmente por la comunidad, dando paso a configuraciones identitarias las cuales influyen en el fortalecimiento de redes de apoyo y lazos vecinales.
@@ -191,20 +183,18 @@ Reconocer la simbología que se construye en el territorio es de fundamental rel
 
 Lo anterior reconoce que en un proceso de reasentamiento por riesgo no mitigable, el vínculo ser humano-territorio se torna vital, puesto que, en cuanto no se considere en un proyecto, surgen estrategias de resistencia social que se muestran como obstáculos en el proceso. Situación que configura un riesgo residual, en la medida que desconocer aspectos de la construcción social del riesgo deviene una falencia prospectiva, y como ya se ha mencionado por varios autores, los procesos de reasentamiento social no pueden representar la edificación de nuevos escenarios de riesgo para las comunidades o los territorios receptores.
 
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Caja 5. Puntos orientadores para el componente territorial**                                                                                                                                                                                 |
-|                                                                                                                                                                                                                                                |
-| -   Conocimiento de todos los actores sociales del diagnóstico de los Planes de Ordenamiento Territorial (POT) para identificar zonas habitables, zonas de alto riesgo y zonas de reserva ambiental.                                           |
-|                                                                                                                                                                                                                                                |
-| -   Conocimiento de los riesgos residuales en los territorios receptores, entendidos como aquellos posibles daños y pérdidas que, aun tomando medidas para su intervención, su impacto no llega a un punto cero \[60\].                        |
-|                                                                                                                                                                                                                                                |
-| -   Identificación de lugares significativos para la comunidad (reasentada y/o receptora) como tiendas, parques, iglesias, caminos, puntos de encuentro, entre otros que la comunidad considere, para ser planeados en el territorio receptor. |
-|                                                                                                                                                                                                                                                |
-| -   Identificación de espacios en el territorio receptor para proyectos de vida comunitarios.                                                                                                                                                  |
-|                                                                                                                                                                                                                                                |
-| -   Lectura e inclusión de los conocimientos y saberes territoriales de las comunidades.                                                                                                                                                       |
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
+**Caja 5. Puntos orientadores para el componente territorial**                                                                                                                                                                                
+                                                                                                                                                                                                                                              
+-   Conocimiento de todos los actores sociales del diagnóstico de los Planes de Ordenamiento Territorial (POT) para identificar zonas habitables, zonas de alto riesgo y zonas de reserva ambiental.                                          
+                                                                                                                                                                                                                                              
+-   Conocimiento de los riesgos residuales en los territorios receptores, entendidos como aquellos posibles daños y pérdidas que, aun tomando medidas para su intervención, su impacto no llega a un punto cero \[60\].                       
+                                                                                                                                                                                                                                              
+-   Identificación de lugares significativos para la comunidad (reasentada y/o receptora) como tiendas, parques, iglesias, caminos, puntos de encuentro, entre otros que la comunidad considere, para ser planeados en el territorio receptor.
+                                                                                                                                                                                                                                              
+-   Identificación de espacios en el territorio receptor para proyectos de vida comunitarios.                                                                                                                                                 
+                                                                                                                                                                                                                                              
+-   Lectura e inclusión de los conocimientos y saberes territoriales de las comunidades.                                                                                                                                                      
 ***Componente económico***
 
 Este componente contempla el fortalecimiento de las manifestaciones del poder adquisitivo, intercambios de remuneración entre miembros de la comunidad, y otras prácticas culturales de sostenimiento económico, en un marco de promoción y defensa de los derechos humanos y del desarrollo sostenible. Esto se puede expresar en la posesión de bienes materiales, propiedades, generación de empleo a través de vecindades productivas, y dinámicas que generen distribución de recursos y remuneración de factores de producción, incidiendo en la calidad de vida de manera individual y colectiva. El componente económico, es necesario para la satisfacción de las necesidades básicas de las familias reasentadas y receptoras, vincula también proyectos de vida conjuntos que aportan a construcciones sociales para el nuevo territorio.
@@ -215,26 +205,24 @@ Castro \[38\] sintetiza la importancia de generar procesos económicos sólidos 
 
 Estos procesos productivos son sujeto de la relación entre instituciones gubernamentales, sector privado y comunidades, la cual no debe estar centrada en el asistencialismo, sino en el acompañamiento a partir de vínculos recíprocos de beneficio que facilite la construcción de capacidades conjuntas. Así, este componente deja de lado posturas paternalistas que inciden en la consolidación de comportamientos pasivos por parte de la comunidad, para dar paso a experiencias como: "Hicimos la empresa comunitaria \[...\] Supieron leer nuestras capacidades y pudimos sostenernos por ocho años" \[71\]. Aquí emerge con gran potencia los escenarios dialógicos entre los actores del proceso de reasentamiento social, toda vez que será necesario, aunque no deseable, los cambios en la vocación productiva de las comunidades, y en caso tal de ser así, esto solo será viable en la medida que sea un proceso concertado. De lo contrario devienen resistencias comunitarias al reasentamiento, lo que representa una expresión adicional del riesgo residual.
 
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Caja 6. Puntos orientadores para el componente económico**                                                                                                                                                                                                       |
-|                                                                                                                                                                                                                                                                    |
-| -   Estudios socioeconómicos donde se identifiquen las unidades de negocio formal e informal que contribuyen a la consolidación de la economía local.                                                                                                              |
-|                                                                                                                                                                                                                                                                    |
-| -   Empresas privadas y entidades públicas con cobertura o posibilidad de esta en el territorio destino, que favorezcan la empleabilidad o el intercambio de recursos bajo un accionar de defensa y promoción de los derechos humanos y del desarrollo sostenible. |
-|                                                                                                                                                                                                                                                                    |
-| -   Programas específicos de promoción de empleo, formación y fondos de apoyo a emprendimiento.                                                                                                                                                                    |
-|                                                                                                                                                                                                                                                                    |
-| -   Análisis de características contextuales que permitan determinadas actividades económicas en el territorio de origen y receptor, así como los posibles cambios en actividades productivas.                                                                     |
-|                                                                                                                                                                                                                                                                    |
-| -   Capacidades comunitarias para el intercambio de actividades productivas.                                                                                                                                                                                       |
-|                                                                                                                                                                                                                                                                    |
-| -   Estrategias que fomenten la planeación y protección financiera de las comunidades que hacen uso de prácticas mercantiles (programas de ahorro y crédito), con la finalidad de fortalecer y de ser posible ampliar sus capacidades.                             |
-|                                                                                                                                                                                                                                                                    |
-| -   Diagnóstico del poder adquisitivo de las familias reasentadas y receptoras de bienes muebles e inmuebles.                                                                                                                                                      |
-|                                                                                                                                                                                                                                                                    |
-| -   Propuestas claras de acciones que permitan la distribución de recursos y remuneración de factores de producción, respetando saberes locales y la coexistencia de la naturaleza en el territorio.                                                               |
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
+**Caja 6. Puntos orientadores para el componente económico**                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                  
+-   Estudios socioeconómicos donde se identifiquen las unidades de negocio formal e informal que contribuyen a la consolidación de la economía local.                                                                                                             
+                                                                                                                                                                                                                                                                  
+-   Empresas privadas y entidades públicas con cobertura o posibilidad de esta en el territorio destino, que favorezcan la empleabilidad o el intercambio de recursos bajo un accionar de defensa y promoción de los derechos humanos y del desarrollo sostenible.
+                                                                                                                                                                                                                                                                  
+-   Programas específicos de promoción de empleo, formación y fondos de apoyo a emprendimiento.                                                                                                                                                                   
+                                                                                                                                                                                                                                                                  
+-   Análisis de características contextuales que permitan determinadas actividades económicas en el territorio de origen y receptor, así como los posibles cambios en actividades productivas.                                                                    
+                                                                                                                                                                                                                                                                  
+-   Capacidades comunitarias para el intercambio de actividades productivas.                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                  
+-   Estrategias que fomenten la planeación y protección financiera de las comunidades que hacen uso de prácticas mercantiles (programas de ahorro y crédito), con la finalidad de fortalecer y de ser posible ampliar sus capacidades.                            
+                                                                                                                                                                                                                                                                  
+-   Diagnóstico del poder adquisitivo de las familias reasentadas y receptoras de bienes muebles e inmuebles.                                                                                                                                                     
+                                                                                                                                                                                                                                                                  
+-   Propuestas claras de acciones que permitan la distribución de recursos y remuneración de factores de producción, respetando saberes locales y la coexistencia de la naturaleza en el territorio.                                                              
 ***Componente prácticas socioculturales***
 
 Este componente hace referencia a las construcciones colectivas de trayectoria socio-histórica en familias, comunidades u organizaciones sociales, evidenciadas en tradiciones religiosas y espirituales, espacios de vecindad habituales, ideologías compartida respecto a fenómenos específicos e intenciones explícitas en cada uno de los grupos sociales. Permean el accionar entre significados y sentidos que configuran continuamente la identidad social y el impacto en la calidad de vida de los habitantes. Si bien este componente tiene íntima relación con el de participación y organización social, este hace énfasis en acciones y creencias colectivas, muchas veces sucedidas de generación en generación, que no necesariamente implica la consecución de escenarios de participación.
@@ -245,42 +233,38 @@ Olivera y González \[39\] por su parte, resalta una propuesta multidimensional 
 
 En términos metodológicos para este componente, Duque \[43\] destaca las redes económicas y sociales como bases para diseñar las estrategias para un proyecto de reasentamiento. Quiñonez \[44\] establece la cartografía social como uno de los medios para la participación. Por tanto, si uno de los hilos que permite tejer y unir la sociedad se sustenta en las prácticas que culturalmente se han construido, omitir su análisis y protección en los procesos de reasentamiento, crea el escenario para que el tejido social se desintegre, afectando la salud mental y física de sus miembros, junto con los vínculos en el territorio antiguo y receptor.
 
-+--------------------------------------------------------------------------------------------------------------------------------+
-| **Caja 7. Puntos orientadores para el componente de prácticas socioculturales**                                                |
-|                                                                                                                                |
-| -   Formas de organización comunitaria, costumbres, reuniones, ritos y tradiciones.                                            |
-|                                                                                                                                |
-| -   Creencias comunitarias frente a su organización social y a las formas de vivir con la naturaleza.                          |
-|                                                                                                                                |
-| -   Formas de transferencia de conocimiento de estas prácticas dentro de los miembros de la comunidad y entre actores locales. |
-|                                                                                                                                |
-| -   Análisis de los posibles cambios de estas prácticas en el nuevo territorio.                                                |
-|                                                                                                                                |
-| -   Indicadores del desarrollo cultural de la comunidad una vez reasentada para la fase de monitoreo e impacto del proyecto.   |
-+--------------------------------------------------------------------------------------------------------------------------------+
 
+**Caja 7. Puntos orientadores para el componente de prácticas socioculturales**                                               
+                                                                                                                              
+-   Formas de organización comunitaria, costumbres, reuniones, ritos y tradiciones.                                           
+                                                                                                                              
+-   Creencias comunitarias frente a su organización social y a las formas de vivir con la naturaleza.                         
+                                                                                                                              
+-   Formas de transferencia de conocimiento de estas prácticas dentro de los miembros de la comunidad y entre actores locales.
+                                                                                                                              
+-   Análisis de los posibles cambios de estas prácticas en el nuevo territorio.                                               
+                                                                                                                              
+-   Indicadores del desarrollo cultural de la comunidad una vez reasentada para la fase de monitoreo e impacto del proyecto.  
 ***Componente ambiental***
 
 Este componente hace referencia al análisis y la intervención del ecosistema para la preservación de la fauna, flora y recursos naturales, así como, el fortalecimiento de las dinámicas relacionales entre hombre y naturaleza en el territorio de origen y destino que aporta a la seguridad económica y cultural de la comunidad reasentada. Este componente da cuenta también, de la protección del entorno que será receptor, a través de estrategias de conservación de la biodiversidad, donde "la interacción con la naturaleza en un diálogo recíproco y unificador posibilita la construcción de una cultura del riesgo que contribuya al reconocimiento de la heterogeneidad del territorio y los valores culturales de los seres humanos que lo habitan\..." \[45\].
 
 Entre los análisis latinoamericanos destacados para este componente, se resaltan el trabajo de Sandoval, Boano, González y Albornoz \[46\], quienes enfatizan la correspondencia entre justicia ambiental y resiliencia humana. Frente a los procesos de reasentamiento, Serje \[21\] menciona "la forma en que se configuran los paisajes (tanto el que se deja atrás como el del lugar al que se llega), la manera como se usan los recursos y, en general, la huella ecológica que cada asentamiento humano deja en el entorno". Wilches-Chaux \[47\] para el caso del reasentamiento de San Cayetano, establece que el "derecho a que la voz de la naturaleza sea escuchada en la toma de decisiones (...) determinarán el rumbo de los procesos de recuperación, reconstrucción y desarrollo". Bajo estas miradas, el componente resulta ser necesario para lograr equilibrios ecosistémicos que favorezcan relaciones de cuidado del entorno.
 
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Caja 8. Puntos orientadores para el componente ambiental**                                                                                                                                                             |
-|                                                                                                                                                                                                                          |
-| -   Caracterización ambiental en los territorios de origen y destino (capacidad de carga, vocación del suelo).                                                                                                           |
-|                                                                                                                                                                                                                          |
-| -   Estudio de impacto ambiental en el territorio de destino.                                                                                                                                                            |
-|                                                                                                                                                                                                                          |
-| -   Plan de gestión ambiental en el territorio antiguo y receptor.                                                                                                                                                       |
-|                                                                                                                                                                                                                          |
-| -   Plan para el manejo integrado de residuos (solidos, líquidos, control de vectores) en el territorio receptor con base en características comunitarias, posibilidades de crecimiento poblacional y desarrollo humano. |
-|                                                                                                                                                                                                                          |
-| -   Encuentros de comunicación y formación en materia ambiental para las comunidades reasentadas.                                                                                                                        |
-|                                                                                                                                                                                                                          |
-| -   Lectura de acciones actuales individuales, familiares y comunitarias que contribuyan a la sostenibilidad ambiental para ser tenidos en cuenta en los planes de gestión ambiental.                                    |
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
+**Caja 8. Puntos orientadores para el componente ambiental**                                                                                                                                                            
+                                                                                                                                                                                                                        
+-   Caracterización ambiental en los territorios de origen y destino (capacidad de carga, vocación del suelo).                                                                                                          
+                                                                                                                                                                                                                        
+-   Estudio de impacto ambiental en el territorio de destino.                                                                                                                                                           
+                                                                                                                                                                                                                        
+-   Plan de gestión ambiental en el territorio antiguo y receptor.                                                                                                                                                      
+                                                                                                                                                                                                                        
+-   Plan para el manejo integrado de residuos (solidos, líquidos, control de vectores) en el territorio receptor con base en características comunitarias, posibilidades de crecimiento poblacional y desarrollo humano.
+                                                                                                                                                                                                                        
+-   Encuentros de comunicación y formación en materia ambiental para las comunidades reasentadas.                                                                                                                       
+                                                                                                                                                                                                                        
+-   Lectura de acciones actuales individuales, familiares y comunitarias que contribuyan a la sostenibilidad ambiental para ser tenidos en cuenta en los planes de gestión ambiental.                                   
 ***Componente percepción social del riesgo***
 
 Este componente comprende la articulación de sensaciones y aprendizajes, que permiten a la familia, comunidad u organización construir juicios de valor respecto a una situación o fenómeno potencialmente amenazante. Esta percepción aporta a la definición de una realidad social en la cual se establecen criterios de selección de entornos seguros o peligrosos, influyendo en la resignificación del vínculo con el territorio, valorando si el entorno le permite mejorar su calidad de vida, o por el contrario, puede poner en riesgo sus modos de habitar.
@@ -293,24 +277,22 @@ Estas observaciones exponen la íntima relación o conflicto entre lo que se rep
 
 Por tanto, para este componente las instituciones necesitan reconocer que sus conclusiones no son las únicas válidas, y las comunidades precisan entender que su historicidad no es la única que da cuenta de los procesos; lo anterior, solo deja un camino, y es la construcción conjunta de conclusiones, planes de acción, reglas de socialización, resignificando la relación que genere beneficio para ambas partes.
 
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Caja 9. Puntos orientadores para el componente de percepción social del riesgo**                                                                                    |
-|                                                                                                                                                                       |
-| -   Identificación de fenómenos naturales y socio-naturales amenazantes para la comunidad.                                                                            |
-|                                                                                                                                                                       |
-| -   Identificación de fenómenos naturales y socio-naturales que generan seguridad para la comunidad.                                                                  |
-|                                                                                                                                                                       |
-| -   Caracterización de los factores de riesgo por parte de los representantes institucionales.                                                                        |
-|                                                                                                                                                                       |
-| -   Inclusión de los riesgos de la comunidad, que a nivel institucional no son contemplados.                                                                          |
-|                                                                                                                                                                       |
-| -   Plan de comunicación de proyecto basado en las percepciones de seguridad y de riesgo de las comunidades y de los representantes institucionales.                  |
-|                                                                                                                                                                       |
-| -   Conciliación de creencias comunitarias con el conocimiento institucional, de tal manera que los primeros no se sientan violentados y los segundos ignorados.      |
-|                                                                                                                                                                       |
-| -   En sintonía con el Marco de Sendai, los análisis de percepción del riesgo sólo serán eficientes en la medida que se retomen las dimensiones de la vulnerabilidad. |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
+**Caja 9. Puntos orientadores para el componente de percepción social del riesgo**                                                                                   
+                                                                                                                                                                     
+-   Identificación de fenómenos naturales y socio-naturales amenazantes para la comunidad.                                                                           
+                                                                                                                                                                     
+-   Identificación de fenómenos naturales y socio-naturales que generan seguridad para la comunidad.                                                                 
+                                                                                                                                                                     
+-   Caracterización de los factores de riesgo por parte de los representantes institucionales.                                                                       
+                                                                                                                                                                     
+-   Inclusión de los riesgos de la comunidad, que a nivel institucional no son contemplados.                                                                         
+                                                                                                                                                                     
+-   Plan de comunicación de proyecto basado en las percepciones de seguridad y de riesgo de las comunidades y de los representantes institucionales.                 
+                                                                                                                                                                     
+-   Conciliación de creencias comunitarias con el conocimiento institucional, de tal manera que los primeros no se sientan violentados y los segundos ignorados.     
+                                                                                                                                                                     
+-   En sintonía con el Marco de Sendai, los análisis de percepción del riesgo sólo serán eficientes en la medida que se retomen las dimensiones de la vulnerabilidad.
 ***Componente estrategias sociales de afrontamiento***
 
 En sintonía con el Marco de Sendai y la revisión realizada se entienden las estrategias sociales de afrontamiento como el conjunto de mecanismos y herramientas que las familias, comunidades y organizaciones, han construido para superar colectivamente situaciones de alto estrés, logrando conservar, desde una postura intersubjetiva, la integridad física, psicológica y relacional. Este componente se liga con los mecanismos de adaptación social que se expresan durante el proceso de resignificación del vínculo con el entorno socio-natural, reconociendo el enfoque diferencial en cada uno de los actores sociales. En efecto, las manifestaciones de conformidad o inconformidad que los grupos poblacionales expresan en el desarrollo del proceso se evidencian en este componente.
@@ -319,20 +301,18 @@ Para este componente, es necesario retomar las reflexiones que realizaron en Arg
 
 Sumado a lo anterior, en Cuba, Olivera y González \[39\] evidencian cómo la comunidad busca, de manera preventiva, los medios que se enmarquen en sus posibilidades, para reducir los niveles de afectación en situaciones específicas. En complemento, Hernández \[51\] analiza el reasentamiento de la comunidad de Mosoco en Colombia, resaltando la interdependencia comunitaria, el trabajo articulado en temas de productividad, los encuentros para hablar de lo que sucede y lo que podrá venir, como acciones que posibilitan socializar sentires colectivos.
 
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Caja 10. Puntos orientadores para el componente de estrategias sociales de afrontamiento**                                                                                                 |
-|                                                                                                                                                                                              |
-| -   Acciones y escenarios que faciliten la liberación de tensiones por parte de la comunidad y de las instituciones involucradas.                                                            |
-|                                                                                                                                                                                              |
-| -   Identificación de los mecanismos de adaptación que posee la comunidad reasentada y receptora a nuevas situaciones, con la finalidad de propiciar escenarios de resolución de conflictos. |
-|                                                                                                                                                                                              |
-| -   Asignación de roles en actores institucionales y comunitarios para mediar conflictos y monitorear soluciones.                                                                            |
-|                                                                                                                                                                                              |
-| -   Identificación de formas de resistencia comunitaria que garanticen la cohesión social frente al proceso.                                                                                 |
-|                                                                                                                                                                                              |
-| -   Conocer las redes colaborativas institucionales y comunitarias, así como sus formas de acción en búsqueda del bienestar comunitario.                                                     |
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
+**Caja 10. Puntos orientadores para el componente de estrategias sociales de afrontamiento**                                                                                                
+                                                                                                                                                                                            
+-   Acciones y escenarios que faciliten la liberación de tensiones por parte de la comunidad y de las instituciones involucradas.                                                           
+                                                                                                                                                                                            
+-   Identificación de los mecanismos de adaptación que posee la comunidad reasentada y receptora a nuevas situaciones, con la finalidad de propiciar escenarios de resolución de conflictos.
+                                                                                                                                                                                            
+-   Asignación de roles en actores institucionales y comunitarios para mediar conflictos y monitorear soluciones.                                                                           
+                                                                                                                                                                                            
+-   Identificación de formas de resistencia comunitaria que garanticen la cohesión social frente al proceso.                                                                                
+                                                                                                                                                                                            
+-   Conocer las redes colaborativas institucionales y comunitarias, así como sus formas de acción en búsqueda del bienestar comunitario.                                                    
 ***Componente salud mental y física***
 
 Este componente alude al estado de bienestar psico-biológico de familias y comunidades que reconocen y hacen uso de sus capacidades, en consonancia de un contexto que le permita el desarrollo y la potenciación de las mismas. Es imprescindible la satisfacción de las necesidades humanas básicas en perspectiva del cumplimiento de los derechos constitucionales para direccionar acciones hacia otras dimensiones que mejoran la calidad de vida familiar y comunitaria. Este componente se relaciona directamente con la posibilidad de disfrutar las actividades que, de forma individual y colectiva, se desarrollan, lo cual influye en procesos identitarios, modulados por sus tradiciones, costumbres e historia
@@ -341,24 +321,22 @@ Este componente facilita nuevas formas de habitar articuladas al cuidado físico
 
 Balazote \[49\] refiere la importancia de comunicar sentires frente a las vivencias que permitan construir redes de apoyo mutuo. Asimismo, Bartolomé \[50\] enfatiza en cómo las acciones comunitarias buscan estados físicos y emocionales que permitan el desarrollo. Robles \[5\] indica que garantizar los derechos a las comunidades contribuye significativamente a su sensación de bienestar, "un poco la función no es entregar a la gente la telaraña hecha, sino es fortalecer a las arañas para que cada cual teja su propia telaraña, ese es el desafío de todo esto..." \[75\].
 
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Caja 11. Puntos orientadores para el componente de salud mental y física**                                                                                                   |
-|                                                                                                                                                                                |
-| -   Caracterización epidemiológica.                                                                                                                                            |
-|                                                                                                                                                                                |
-| -   Programas de seguridad alimentaria a partir de usos y costumbres de las comunidades.                                                                                       |
-|                                                                                                                                                                                |
-| -   Reconocimiento de la soberanía alimentaria                                                                                                                                 |
-|                                                                                                                                                                                |
-| -   Plan de promoción de hábitos de vida saludables en el territorio receptor.                                                                                                 |
-|                                                                                                                                                                                |
-| -   Programa sobre sexualidad, derechos sexuales y derechos reproductivos, en diálogo con los saberes propios de las comunidades, tal como el rol que ejerce "la partera".     |
-|                                                                                                                                                                                |
-| -   Identificación de riesgos laborales que pueden surgir por vinculaciones de la comunidad en procesos de construcción de viviendas u otras labores productivas o logísticas. |
-|                                                                                                                                                                                |
-| -   Espacios de participación que induzcan a la comunicación y valoración de cada una de las fases del reasentamiento.                                                         |
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
+**Caja 11. Puntos orientadores para el componente de salud mental y física**                                                                                                  
+                                                                                                                                                                              
+-   Caracterización epidemiológica.                                                                                                                                           
+                                                                                                                                                                              
+-   Programas de seguridad alimentaria a partir de usos y costumbres de las comunidades.                                                                                      
+                                                                                                                                                                              
+-   Reconocimiento de la soberanía alimentaria                                                                                                                                
+                                                                                                                                                                              
+-   Plan de promoción de hábitos de vida saludables en el territorio receptor.                                                                                                
+                                                                                                                                                                              
+-   Programa sobre sexualidad, derechos sexuales y derechos reproductivos, en diálogo con los saberes propios de las comunidades, tal como el rol que ejerce "la partera".    
+                                                                                                                                                                              
+-   Identificación de riesgos laborales que pueden surgir por vinculaciones de la comunidad en procesos de construcción de viviendas u otras labores productivas o logísticas.
+                                                                                                                                                                              
+-   Espacios de participación que induzcan a la comunicación y valoración de cada una de las fases del reasentamiento.                                                        
 DISCUSIÓN Y CONCLUSIONES
 ========================
 
@@ -380,14 +358,12 @@ Por último, se hace imprescindible vincular equipos interdisciplinarios en los 
 
 En conclusión, si bien la complejidad de la interacción humana con el territorio imposibilita tener "recetas" o un vademécum que indique con certeza aquellos aspectos psicosociales fundadores de un éxito rotundo en los reasentamientos sociales, líneas de acción orientadoras llevan a que los procesos puedan direccionarse desde la calidad de vida comunitaria y su desarrollo.
 
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **PUNTOS CLAVE**                                                                                                                                                                                                                                                                                                                 |
-|                                                                                                                                                                                                                                                                                                                                  |
-| 1.  El reasentamiento social como estrategia de reducción del riesgo de desastres, tiene como propósito fortalecer los modos de vida, la ampliación de libertades humanas y el desarrollo sostenible, a través de una relación de corresponsabilidad entre el Estado, las instituciones, públicas y privadas, y las comunidades. |
-|                                                                                                                                                                                                                                                                                                                                  |
-| 2.  El reasentamiento social deviene en una oportunidad para la construcción de comunidades y territorios situados en el conocimiento y la dignidad para la reducción del riesgo de desastres.                                                                                                                                   |
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
+**PUNTOS CLAVE**                                                                                                                                                                                                                                                                                                                
+                                                                                                                                                                                                                                                                                                                                
+1.  El reasentamiento social como estrategia de reducción del riesgo de desastres, tiene como propósito fortalecer los modos de vida, la ampliación de libertades humanas y el desarrollo sostenible, a través de una relación de corresponsabilidad entre el Estado, las instituciones, públicas y privadas, y las comunidades.
+                                                                                                                                                                                                                                                                                                                                
+2.  El reasentamiento social deviene en una oportunidad para la construcción de comunidades y territorios situados en el conocimiento y la dignidad para la reducción del riesgo de desastres.                                                                                                                                  
 METODOLOGÍA
 ===========
 

@@ -26,7 +26,10 @@ format:
     theme: cosmo
     toc: true
     number-sections: false
-    page-navigation: true  # Botones de Atrás / Adelante
+    page-navigation: true
 
 resources:
   - media/
+
+execute:
+  eval: false

@@ -155,7 +155,7 @@ Tipologías de concreto reforzado
 
 En este sistema, los muros divisorios no contribuyen a la resistencia lateral o vertical de la edificación. Las divisiones pueden ser ligeras o flexibles como el Drywall por lo que su efecto en el aumento de la rigidez sería despreciable. También se puede dar el caso que las divisiones sean pesadas y rígidas como muros de mampostería, pero estas deben estar dilatadas de la estructura mediante juntas flexibles. En la Figura 5 se identifican ejemplos de este tipo de edificaciones. Estas edificaciones son usualmente de uno y dos pisos y su nivel de diseño es variable.
 
-![](../media/image61.emf){width="6.5in" height="5.125in"}
+![](../media/image61.png){width="6.5in" height="5.125in"}
 
 Figura 5. Ejemplos de pórticos de concreto reforzado resistente a momento. (A) Edificación escolar en Perú. (B) Edificación escolar en Colombia. (C) Edificación escolar en Colombia. (D) Edificación escolar en República Dominicana. Fotos tomadas del GPSS y del archivo personal de los autores.
 
@@ -163,7 +163,7 @@ Figura 5. Ejemplos de pórticos de concreto reforzado resistente a momento. (A) 
 
 En este sistema, los muros divisorios contribuyen a la resistencia lateral y en algunos casos vertical de la edificación. Los muros divisorios se integran al sistema estructural principal y suelen tener un comportamiento frágil. Estas edificaciones tienen alta rigidez en el rango lineal sin embargo suelen tener poca ductilidad. En la Figura 6 se identifican ejemplos de este tipo de edificaciones. Estas edificaciones suelen ser de uno y dos pisos y su nivel de diseño de bajo a medio.
 
-![](../media/image62.emf){width="6.5in" height="5.066666666666666in"}
+![](../media/image62.png){width="6.5in" height="5.066666666666666in"}
 
 Figura 6. Ejemplos de pórticos de concreto reforzado resistente a momento con muros de mampostería integrados. (A) Edificación escolar en Nepal. (B) Edificación escolar en Colombia. (C) Edificación escolar en Colombia. (D) Edificación escolar en Colombia. Fotos tomadas del GPSS y del archivo personal de los autores.
 
@@ -171,7 +171,7 @@ Figura 6. Ejemplos de pórticos de concreto reforzado resistente a momento con m
 
 En este sistema, los muros divisorios contribuyen a la resistencia lateral, pero presentan una deficiencia común denominada "columna corta". Los muros divisorios se integran al sistema estructural principal y suelen tener un comportamiento frágil, sin embargo, inducen a esfuerzos cortantes excesivos a la parte libre de la columna debido a la diferencia de rigideces \[31\]. Estas edificaciones presentan una alta vulnerabilidad por su comportamiento frágil \[29\]. Este tipo de edificaciones son muy comunes en el contexto de la infraestructura escolar como se verá más adelante. En la Figura 7 se identifican ejemplos de este tipo de edificaciones. Estas edificaciones suelen ser de dos pisos y tener un nivel de diseño bajo a medio.
 
-![](../media/image63.emf){width="6.5in" height="5.316666666666666in"}
+![](../media/image63.png){width="6.5in" height="5.316666666666666in"}
 
 Figura 7. Ejemplos de pórticos de concreto reforzado resistente a momento con muros de mampostería generando columna corta. (A) Edificación escolar en Perú. (B) Edificación escolar en El Salvador. (C) Edificación escolar en Colombia. (D) Edificación escolar en República Dominicana. Fotos tomadas del GPSS y del archivo personal de los autores.
 
@@ -182,7 +182,7 @@ Tipologías de mampostería
 
 Son edificaciones construidos con bloque de mampostería de diferentes calidades y materiales que comparten la característica de no tener ningún tipo de confinamiento ni vertical ni horizontal. En Latinoamérica es común encontrar este tipo de edificaciones con mampostería de arcilla, maciza o con perforaciones horizontales \[32\]. Este tipo de edificaciones presentan una alta vulnerabilidad sísmica y su comportamiento estructural se caracteriza por ser frágil. En sismos recientes se han presentado colapsos de este tipo de edificaciones \[33\]. En la Figura 8 se pueden identificar algunos ejemplos de este tipo de edificaciones, las cuales suelen ser de 1 piso y tener un nivel de diseño sísmico bajo.
 
-![](../media/image64.emf){width="6.5in" height="5.433333333333334in"}
+![](../media/image64.png){width="6.5in" height="5.433333333333334in"}
 
 Figura 8. Ejemplos de edificaciones de mampostería simple. (A) Edificación escolar en El Salvador. (B) Edificación escolar en Colombia. (C) Edificación escolar en Nepal. (D) Edificación escolar en Colombia. Fotos tomadas del GPSS y del archivo personal de los autores.
 
@@ -190,7 +190,7 @@ Figura 8. Ejemplos de edificaciones de mampostería simple. (A) Edificación esc
 
 Son edificaciones cuyo sistema de resistencia sísmica son muros de mampostería confinados por elementos de concreto reforzado vertical y horizontal. El nivel de confinamiento tanto vertical como horizontal es variable según el país y sus normativas de construcción sismo resistente. En Colombia se tiene que los elementos confinantes no deben estar separados a más de 4 metros y deben estar en las aberturas de puertas y ventanas \[18\]. Estas edificaciones presentan una mayor ductilidad que las de mampostería no reforzada. En ciertos casos se pueden presentar fallas fuera del plano en este tipo de edificaciones \[34\]. En la Figura 9 pueden identificarse ejemplos de este tipo de edificaciones, las cuales suelen ser de uno y dos pisos y tener un nivel de diseño sísmico medio a alto.
 
-![](../media/image65.emf){width="6.5in" height="5.275in"}
+![](../media/image65.png){width="6.5in" height="5.275in"}
 
 Figura 9. Ejemplos de edificaciones de mampostería confinada. (A) Edificación escolar en Colombia. (B) Edificación escolar en Colombia. (C) Edificación escolar en El Salvador. (D) Edificación escolar en Colombia. Fotos tomadas del GPSS y del archivo personal de los autores.
 
@@ -198,30 +198,28 @@ Figura 9. Ejemplos de edificaciones de mampostería confinada. (A) Edificación 
 
 El sistema de mampostería reforzada es un sistema de muros de mampostería con elementos de confinamiento interno. A diferencia del sistema de mampostería confinada, en este sistema los elementos de confinamiento son internos. Los bloques de mampostería son bloque de perforación vertical de arcilla o de concreto, usualmente de buena calidad. Este sistema se ha implementado ampliamente en países de Centroamérica como El Salvador, en donde se ha evidenciado un buen comportamiento sísmico \[35\]. En la Figura 10 pueden identificarse algunos ejemplos de este tipo de edificaciones. Suelen ser de uno y dos pisos y tener un nivel de diseño sísmico medio a alto.
 
-![](../media/image66.emf){width="6.5in" height="5.333333333333333in"}
+![](../media/image66.png){width="6.5in" height="5.333333333333333in"}
 
 Figura 10. Ejemplos de edificaciones de mampostería reforzada. (A) Edificación escolar en Colombia. (B) Edificación escolar en El Salvador. (C) Edificación escolar en El Salvador. (D) Edificación escolar en construcción en El Salvador. Fotos tomadas del GPSS y del archivo personal de los autores.
 
-+--------------------------------------------------------------------------------------+
-| **Caja 1. Tipologías escolares en concreto reforzado y en mampostería**              |
-|                                                                                      |
-| **Tipologías escolares principales en concreto reforzado:**                          |
-|                                                                                      |
-| -   Pórticos de concreto reforzado.                                                  |
-|                                                                                      |
-| -   Pórticos de concreto reforzado con muros de mampostería.                         |
-|                                                                                      |
-| -   Pórticos de concreto reforzado con muros de mampostería generando columna corta. |
-|                                                                                      |
-| **Tipologías escolares predominantes en mampostería:**                               |
-|                                                                                      |
-| -   Mampostería no reforzada.                                                        |
-|                                                                                      |
-| -   Mampostería confinada.                                                           |
-|                                                                                      |
-| -   Mampostería reforzada.                                                           |
-+--------------------------------------------------------------------------------------+
 
+**Caja 1. Tipologías escolares en concreto reforzado y en mampostería**             
+                                                                                    
+**Tipologías escolares principales en concreto reforzado:**                         
+                                                                                    
+-   Pórticos de concreto reforzado.                                                 
+                                                                                    
+-   Pórticos de concreto reforzado con muros de mampostería.                        
+                                                                                    
+-   Pórticos de concreto reforzado con muros de mampostería generando columna corta.
+                                                                                    
+**Tipologías escolares predominantes en mampostería:**                              
+                                                                                    
+-   Mampostería no reforzada.                                                       
+                                                                                    
+-   Mampostería confinada.                                                          
+                                                                                    
+-   Mampostería reforzada.                                                          
 CASOS DE ESTUDIO
 ================
 
@@ -258,7 +256,7 @@ Figura 12. Distribución de tipologías constructivas en Cali.
 
 Por otro lado, la Figura 13 presenta la distribución de los sistemas estructurales en la zona, los cuales representan un subgrupo de las tipologías constructivas predominantes identificadas. En el caso de las edificaciones de concreto reforzado, el portafolio se constituye principalmente por pórticos de concreto reforzado con muros de mampostería adosados y pórticos de concreto reforzado con muros de mampostería adosados susceptibles a falla por columna corta. Para el caso de edificaciones de mampostería, se el portafolio se constituye únicamente por edificaciones de mampostería simple y mampostería confinada.
 
-![](../media/image69.emf){width="6.5in" height="2.625in"}
+![](../media/image69.png){width="6.5in" height="2.625in"}
 
 Figura 13. Distribución de características estructurales en Cali. (A) Tipologías de concreto reforzado. (B) Tipologías de mampostería. PCR corresponde a pórticos de concreto reforzado.
 
@@ -365,19 +363,19 @@ Figura 21. Distribución de tipologías constructivas identificadas en campo en 
 
 Además, se observa que el mayor porcentaje de estructuras son construidas en pórticos de concreto reforzado con muros de mampostería, pórticos de concreto reforzado con muros de mampostería que generan columna corta y edificaciones de mampostería no reforzada, donde este último caso representa un porcentaje importante de las edificaciones del portafolio del sector educativo. La Figura 22 presenta la distribución relativa de las tipologías constructivas.
 
-![](../media/image78.emf){width="6.5in" height="2.5833333333333335in"}
+![](../media/image78.png){width="6.5in" height="2.5833333333333335in"}
 
 Figura 22. Distribución de sistemas estructurales en el Valle de Aburrá. (A) Tipologías de concreto reforzado. (B) Tipologías de mampostería. PCR corresponde a pórticos de concreto reforzado.
 
 En cuanto a las condiciones desfavorables observadas en las edificaciones durante el levantamiento en campo, se encontró que las edificaciones visitadas presentaban agrietamientos, asentamientos, baja calidad de materiales, deflexiones, entre otras. En la Figura 23 se presenta un registro fotográfico representativo de las condiciones desfavorables observadas.
 
-![](../media/image79.emf){width="6.316666666666666in" height="1.6833333333333333in"}
+![](../media/image79.png){width="6.316666666666666in" height="1.6833333333333333in"}
 
 Figura 23. Condiciones desfavorables observadas en algunas edificaciones en el Valle de Aburrá. (A) Agrietamiento de muros. (B) Pérdida de concreto de recubrimiento. (C) Deficiencias constructivas. (D) Deficiencias de diseño.
 
 El siguiente paso fue el desarrollo del modelo probabilista de amenaza sísmica en la zona del Valle de Aburrá. Para esto, se identificaron las fuentes sísmicas de la zona de estudio a partir de los resultados indicados en el estudio de Armonización de la microzonificación sísmica de los municipios del Valle de Aburrá \[38\]. A partir de las fuentes sísmicas, se desarrolló un catálogo estocástico de eventos para la evaluación probabilista del riesgo y se desarrollaron mapas probabilistas para diferentes periodos de retorno y diferentes periodos estructurales. En la Figura 24 se presentan las fuentes sísmicas superficiales y corticales definidas, así como un escenario del catálogo y el mapa probabilista de aceleración del terreno para un periodo de retorno de 475 años.
 
-![](../media/image80.emf){width="5.125in" height="6.791666666666667in"}
+![](../media/image80.png){width="5.125in" height="6.791666666666667in"}
 
 Figura 24. Modelo de amenaza sísmica para el Valle de Aburrá. (A) Fuentes profundas (modelo nacional). (B) Fuentes superficiales. (C) Ejemplo de escenario del catálogo. (D) Mapa de aceleración probabilista en el terreno para 475 años de periodo de retorno. Mapas tomados de CIMOC-Uniandes \[38\].
 
@@ -405,7 +403,7 @@ Adicional a lo anterior, el reforzamiento estructural es necesario dada la neces
 
 Además, para cada una de las tipologías de edificaciones que presentan niveles medios o altos de vulnerabilidad se proponen esquemas y opciones generales de reforzamiento estructural que permitan la reducción considerable de la vulnerabilidad sísmica. A manera de ejemplo, se presentan alternativas de reforzamiento de edificaciones de concreto reforzado que presenten columna corta y de mampostería simple en la Figura 27. Estas alternativas de reforzamiento buscan eliminar el problema de columna corta y darle rigidez a la estructura para el caso del ejemplo de concreto y de darle ductilidad a la edificación en el caos de mampostería simple. Este tipo de soluciones se desarrollaron para cada una de las tipologías predominantes, para mayor información consultar \[36\].
 
-![](../media/image83.emf){width="6.5in" height="2.2083333333333335in"}
+![](../media/image83.png){width="6.5in" height="2.2083333333333335in"}
 
 Figura 27. Esquemas generales de reforzamiento estructural. (A) Reforzamiento de pórticos de concreto. (B) Reforzamiento de edificaciones de mampostería \[39\].
 
@@ -452,36 +450,31 @@ Existe una gran cantidad de trabajo por desarrollar en proyectos similares a los
 
 Los resultados de los casos de estudio presentados como ejemplo son el punto de partida para la definición concreta de planes concertados con las autoridades locales y/o nacionales para su implementación. A partir de estos, y basados en un presupuesto disponible, es posible definir y listar en orden de importancia o relevancia, las intervenciones que se deberán priorizar para maximizar la reducción del riesgo con los recursos limitados. Adicionalmente, se deberán considerar factores como procesos constructivos que puedan implementarse a mayor escala, esquemas de contratación según especialidad o tipo de intervención, tipificación de las intervenciones buscando alcanzar un nivel de reducción de riesgo definido, pero remitiendo la adaptabilidad a las condiciones particulares de cada edificación, entre otros.
 
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **PUNTOS CLAVE**                                                                                                                                                                                                                                                 |
-|                                                                                                                                                                                                                                                                  |
-| 1.  Las edificaciones de pórticos de concreto, pórticos de concreto con muros de mampostería y pórticos de concreto con muros de mampostería generando columna corta son las tipologías escolares predominantes de concreto reforzado.                           |
-|                                                                                                                                                                                                                                                                  |
-| 2.  Las edificaciones de muros de mampostería no reforzada, mampostería confinada y mampostería reforzada son las tipologías escolares predominantes de mampostería.                                                                                             |
-|                                                                                                                                                                                                                                                                  |
-| 3.  Se debe analizar el estado de la infraestructura actual mediante un análisis de riesgo, incluyendo los módulos de amenaza, exposición y vulnerabilidad.                                                                                                      |
-|                                                                                                                                                                                                                                                                  |
-| 4.  Se recomienda que el modelo de exposición sea a nivel de edificación. Cada elemento del modelo debe contar con información estructural suficiente para caracterizar su comportamiento estructural.                                                           |
-|                                                                                                                                                                                                                                                                  |
-| 5.  Se deben identificar los mecanismos de colapso de las edificaciones y generar sistemas de reforzamiento que sean aplicables a gran escala en edificaciones con comportamiento estructural similar.                                                           |
-|                                                                                                                                                                                                                                                                  |
-| 6.  Se deben plantear estrategias de intervención particulares para las tipologías que incluyan el reemplazo de las edificaciones, reforzamientos integrales, reforzamientos incrementales, reforzamientos en elementos no estructurales o adecuaciones menores. |
-|                                                                                                                                                                                                                                                                  |
-| 7.  Las intervenciones deben ser priorizadas utilizando criterios adecuados como la eficiencia costo con el objetivo de beneficiar la mayor cantidad de estudiantes reduciendo el mayor riesgo posible.                                                          |
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **RECOMENDACIÓNES PARA TOMAR DECISIONES**                                                                                                                                                                                                           |
-|                                                                                                                                                                                                                                                     |
-| 1.  El modelo de exposición determina la calidad de los planes de mitigación, es necesario que el modelo tenga una resolución mínima a nivel de escuela y una resolución ideal a nivel de edificación.                                              |
-|                                                                                                                                                                                                                                                     |
-| 2.  La evaluación del riesgo sísmico en el estado actual y mitigado deben evaluarse utilizando la misma metodología, modelos de amenaza y modelos de exposición con el objetivo que sean comparables.                                               |
-|                                                                                                                                                                                                                                                     |
-| 3.  La participación de entidades gubernamentales en el desarrollo del plan de mitigación es esencial. Un adecuado entendimiento del componente técnico e identificación anticipada de limitaciones permitirán una implementación exitosa del plan. |
-|                                                                                                                                                                                                                                                     |
-| 4.  Se debe tener en cuenta que los ciclos de gobierno particulares pueden afectar el desarrollo y la implementación de los planes diseñados.                                                                                                       |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-
+**PUNTOS CLAVE**                                                                                                                                                                                                                                                
+                                                                                                                                                                                                                                                                
+1.  Las edificaciones de pórticos de concreto, pórticos de concreto con muros de mampostería y pórticos de concreto con muros de mampostería generando columna corta son las tipologías escolares predominantes de concreto reforzado.                          
+                                                                                                                                                                                                                                                                
+2.  Las edificaciones de muros de mampostería no reforzada, mampostería confinada y mampostería reforzada son las tipologías escolares predominantes de mampostería.                                                                                            
+                                                                                                                                                                                                                                                                
+3.  Se debe analizar el estado de la infraestructura actual mediante un análisis de riesgo, incluyendo los módulos de amenaza, exposición y vulnerabilidad.                                                                                                     
+                                                                                                                                                                                                                                                                
+4.  Se recomienda que el modelo de exposición sea a nivel de edificación. Cada elemento del modelo debe contar con información estructural suficiente para caracterizar su comportamiento estructural.                                                          
+                                                                                                                                                                                                                                                                
+5.  Se deben identificar los mecanismos de colapso de las edificaciones y generar sistemas de reforzamiento que sean aplicables a gran escala en edificaciones con comportamiento estructural similar.                                                          
+                                                                                                                                                                                                                                                                
+6.  Se deben plantear estrategias de intervención particulares para las tipologías que incluyan el reemplazo de las edificaciones, reforzamientos integrales, reforzamientos incrementales, reforzamientos en elementos no estructurales o adecuaciones menores.
+                                                                                                                                                                                                                                                                
+7.  Las intervenciones deben ser priorizadas utilizando criterios adecuados como la eficiencia costo con el objetivo de beneficiar la mayor cantidad de estudiantes reduciendo el mayor riesgo posible.                                                         
+**RECOMENDACIÓNES PARA TOMAR DECISIONES**                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                   
+1.  El modelo de exposición determina la calidad de los planes de mitigación, es necesario que el modelo tenga una resolución mínima a nivel de escuela y una resolución ideal a nivel de edificación.                                             
+                                                                                                                                                                                                                                                   
+2.  La evaluación del riesgo sísmico en el estado actual y mitigado deben evaluarse utilizando la misma metodología, modelos de amenaza y modelos de exposición con el objetivo que sean comparables.                                              
+                                                                                                                                                                                                                                                   
+3.  La participación de entidades gubernamentales en el desarrollo del plan de mitigación es esencial. Un adecuado entendimiento del componente técnico e identificación anticipada de limitaciones permitirán una implementación exitosa del plan.
+                                                                                                                                                                                                                                                   
+4.  Se debe tener en cuenta que los ciclos de gobierno particulares pueden afectar el desarrollo y la implementación de los planes diseñados.                                                                                                      
 **CONFLICTO DE INTERESES**
 
 Los autores no declaran conflicto de intereses.
