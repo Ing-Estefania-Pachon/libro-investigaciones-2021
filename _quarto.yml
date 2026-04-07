@@ -3,24 +3,17 @@ project:
   output-dir: docs
 book:
   title: "Investigaciones en gestión del riesgo de desastres para Colombia"
-  author: "UNGRD"
   chapters:
     - index.qmd
-    - capitulos/cap_01_actualizacion_de_los_coeficientes_s.qmd
-    - capitulos/cap_02_mitigacion_del_riesgo_sismico_de_la.qmd
-    - capitulos/cap_03_contribucion_de_la_geodesia_espacia.qmd
-    - capitulos/cap_04_nociones_performativas_del_reasenta.qmd
-    - capitulos/cap_05_animales_en_la_gestion_del_riesgo.qmd
-    - capitulos/cap_06_iniciativas_para_la_reduccion_del_r.qmd
-    - capitulos/cap_07_comunicacion_del_riesgo_reflexiones.qmd
-    - capitulos/cap_08_la_perspectiva_historica_en_la_gest.qmd
-    - capitulos/cap_09_estudio_de_riesgo_por_movimientos_e.qmd
-    - capitulos/cap_10_de_la_percepcion_de_la_amenaza.qmd
-    - capitulos/cap_11_obras_costeras_y_clima_maritimo.qmd
-    - capitulos/cap_12_modelo_de_gestion_y_analisis_del_ri.qmd
-    - capitulos/cap_13_gestion_del_riesgo_por_inundaciones.qmd
+    - capitulos/cap_01_toc47894924_anchoractualizacion_de_.qmd
+    - capitulos/cap_02_toc47894925_anchormitigacion_del_ri.qmd
+    - capitulos/cap_03_toc47894926_anchorevaluacion_probab.qmd
+    - capitulos/cap_04_toc47894927_anchorcontribucion_de_l.qmd
+    - capitulos/cap_05_toc47894928_anchornociones_performa.qmd
+    - capitulos/cap_06_toc47894929_anchoranimales_en_la_ge.qmd
+    - capitulos/cap_07_toc47894930_anchoriniciativas_para_.qmd
+    - capitulos/cap_09_toc47894932_anchorla_perspectiva_hi.qmd
     - capitulos/indice_tematico.qmd
-    - capitulos/cap_14_evaluacion_probabilista_del_riesgo_.qmd
 
 format:
   html:

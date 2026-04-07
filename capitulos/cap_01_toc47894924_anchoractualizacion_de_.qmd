@@ -1,12 +1,11 @@
 ---
-title: "Capítulo 1. Actualización de los coeficientes sísmicos"
+title: "Capítulo 1. []{_Toc47894924 .anchor}Actualización de los coeficientes sísmicos de diseño estructural para la Norma Colombiana de Construcción Sismo Resistente NSR-22"
 subtitle: "Investigaciones en gestión del riesgo de desastres para Colombia"
 author: "UNGRD"
 date: "2021"
 title-block-banner: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=2072"
 number-sections: false
 ---
-
 
 []{#_Toc47894924 .anchor}Actualización de los coeficientes sísmicos de diseño estructural para la Norma Colombiana de Construcción Sismo Resistente NSR-22
 
@@ -50,7 +49,7 @@ MOVIMIENTOS SÍSMICOS DE DISEÑO
 
 Para la actualización de la norma sismo resistente de edificaciones NSR 22 se plantea el uso de las formas espectrales de los códigos ASCE 7 - 10 y 16 \[1\], las cuales se establecen en función de dos parámetros: *S~DS~* (aceleración espectral de diseño en periodo corto, 0.2 seg) y *S~D1~* (espectral de diseño para un periodo de 1 segundo). La forma espectral se presenta en la Figura 1.
 
-![A picture containing table, sitting, large, display Description automatically generated](./media/image1.png){width="4.841500437445319in" height="3.1498786089238844in"}
+![A picture containing table, sitting, large, display Description automatically generated](../media/image1.png){width="4.841500437445319in" height="3.1498786089238844in"}
 
 Figura 1. Espectro de aceleraciones según ASCE 7 - 10/16. Tomado de ASCE 7 - 16.
 
@@ -63,7 +62,7 @@ Figura 1. Espectro de aceleraciones según ASCE 7 - 10/16. Tomado de ASCE 7 - 16
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | Los espectros de respuesta, entre muchas otras propiedades interesantes, exhiben un comportamiento como el ilustrado en la Figura. Se presenta un espectro de velocidad para el acelerograma registrado en la estación Bocatoma durante el sismo de Armenia (Eje Cafetero) del 25 de enero de 1999.                                                                                                                                                                                                                                                                                                               |
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| ![](./media/image2.emf){width="3.7784350393700787in" height="3.3829790026246718in"}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| ![](../media/image2.emf){width="3.7784350393700787in" height="3.3829790026246718in"}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | Espectro de velocidad del registro Bocatoma del sismo del Eje Cafetero (Colombia) del 25/01/1999                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
@@ -90,7 +89,7 @@ La construcción de movimiento de tipo RTGM implica la definición de funciones 
 
 A nuestro juicio, no es correcto ni conveniente establecer la probabilidad de colapso de las estructuras desde el movimiento de diseño. No obstante, la RTGM tiene algunas ventajas o bondades que también conviene mencionar. Primero, lo que busca en esencia es reducir el riesgo de las edificaciones futuras, haciendo explícito un objetivo de desempeño, lo cual es algo deseable. También creemos que es correcto no asociar los coeficientes de diseño (y en general los espectros) a periodos de retorno. En el pasado, la asociación de los coeficientes de diseño a un periodo de retorno establecido ha llevado a múltiples malinterpretaciones del nivel de seguridad que se provee, desde el diseño estructural, a las edificaciones futuras. Nótese el espectro presentado en la Figura 2. Este espectro de diseño fue construido siguiendo las formas espectrales del CCP 14, usando tres coeficientes de diseño con periodo de retorno de 1,000 años. Se presenta también el espectro de amenaza uniforme de 1,000 años, el cual es un espectro construido mediante una evaluación probabilista de la amenaza sísmica, y que sí tiene el mismo periodo de retorno en todas las ordenadas espectrales. Como puede observarse, el espectro de diseño resultante solamente tiene 1,000 años de periodo de retorno en los tres puntos en donde de cruza con el de amenaza uniforme. En ciertas porciones del espectro, el periodo de retorno real de las aceleraciones espectrales es mayor a 1,000 y en otras partes es menor a 1,000. Esto no constituye realmente una deficiencia de las formas espectrales, pues este es en general el caso en todos los códigos de diseño sismo resistente conocidos. En conclusión, no es posible, ni lógico, afirmar que un espectro de diseño tiene determinado periodo de retorno. La desvinculación del periodo de retorno de la definición de los coeficientes de diseño en la RTGM es un acierto.
 
-![](./media/image3.emf){width="3.935999562554681in" height="2.815945975503062in"}
+![](../media/image3.emf){width="3.935999562554681in" height="2.815945975503062in"}
 
 Figura 2. Espectro de diseño y espectro de amenaza uniforme. Se indican los periodos de retorno reales de las aceleraciones espectrales de diseño.
 
@@ -103,7 +102,7 @@ Cabe anotar que en este trabajo se mantienen siempre los coeficientes de sitio, 
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | Este comportamiento se ilustra a continuación a partir de la respuesta sísmica de un perfil conformado totalmente por materiales aluviales, granulares, de profundidad intermedia (30 metros) y rigidez intermedia (*V~s~*~30~ = 530 m/s). Este perfil es de tipo C según la clasificación NHERP, misma usada en el NSR-10. La Figura presenta la relación de amplificación de aceleraciones espectrales (superficie/ roca) ante un acelerograma hipotético incidente en la base.                                                                                                                                                              |
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| ![](./media/image4.emf){width="6.265122484689414in" height="4.5in"}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| ![](../media/image4.emf){width="6.265122484689414in" height="4.5in"}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | Relación de amplificación de las aceleraciones espectrales                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
@@ -117,7 +116,7 @@ En vista tanto de las deficiencias como ventajas de la RTGM, se propone un enfoq
 
 Siguiendo la definición de Rosenblueth, los coeficientes óptimos de diseño se obtienen de minimizar la suma de costos iniciales de construcción, y costos futuros asociados a las pérdidas que causarán los terremotos. Esto significa que el periodo de retorno de estos coeficientes no solo no participa en su definición, sino que cambiará de sitio a sitio. La Figura 3 muestra esta situación para dos sitios diferentes en un territorio, uno de baja y otro de alta sismicidad. El costo inicial (CI) se asume igual en ambas ubicaciones. Nótese que los costos se presentan como función del valor del coeficiente de diseño *c*, es decir que entre mayores son las exigencias, mayor es el costo inicial. Ahora bien, las curvas de costos futuros (CFL) exhiben comportamientos diferentes dependiendo del nivel de sismicidad del sitio, pero siendo ambas decrecientes con respecto a *c*, indicando que entre mayor sea la exigencia de diseño, se espera que las pérdidas futuras sean menores. La función de costo total (CT) viene de la suma de las anteriores (CT = CI+CFL). Esta función no es totalmente creciente o decreciente con respecto a *c*, presentando un claro valor mínimo en el cual, puede afirmarse, se encuentra el valor óptimo del coeficiente *c*, es decir, el que implica los menores costos totales.
 
-![](./media/image5.emf){width="4.391027996500437in" height="2.9040004374453194in"}
+![](../media/image5.emf){width="4.391027996500437in" height="2.9040004374453194in"}
 
 Figura 3. Ilustración de la definición de coeficientes óptimos de diseño.
 
@@ -138,7 +137,7 @@ El costo de las pérdidas futuras se determina en función del costo inicial de 
 La tasa de excedencia del movimiento fuerte mide el número de veces en un año que se espera se exceda, en promedio, un valor determinado. Este parámetro se obtiene mediante una evaluación clásica de la amenaza sísmica, cuyo principal resultado son precisamente las curvas de amenaza (o curvas de tasa de excedencia) en múltiples ubicaciones de cálculo dentro del país. El modelo de amenaza sísmica de Colombia corresponde a la última versión del proyecto ASLAC (Salgado et al. \[6\]), el cual es un modelo regional de América Latina y El Caribe, desarrollado con el objetivo de proveer a la región de un modelo continuo de amenaza, con el mayor nivel de detalle posible en cada territorio y siguiendo técnicas del estado del arte en ingeniería sísmica. La Figura 4 muestra como ejemplo los mapas de amenaza uniforme para Colombia de 475 años de periodo de retorno, para aceleración máxima del terreno y aceleración espectral para 0.5 segundos.
 
   ------------------------------------------------------------------------------------ ------------------------------------------------------------------------------------ ------------------------------------------------------------------------------------
-  ![](./media/image6.emf){width="2.6640004374453192in" height="3.443708442694663in"}   ![](./media/image7.emf){width="2.643873578302712in" height="3.4720002187226595in"}   ![](./media/image8.emf){width="0.5120002187226597in" height="3.413363954505687in"}
+  ![](../media/image6.emf){width="2.6640004374453192in" height="3.443708442694663in"}   ![](../media/image7.emf){width="2.643873578302712in" height="3.4720002187226595in"}   ![](../media/image8.emf){width="0.5120002187226597in" height="3.413363954505687in"}
   ------------------------------------------------------------------------------------ ------------------------------------------------------------------------------------ ------------------------------------------------------------------------------------
 
 Figura 4. Mapas de amenaza uniforme para 475 años de periodo de retorno. Izq: aceleración máxima del terreno. Der: Aceleración espectral para 0.5 segundos. Aceleración en cm/s^2^.
@@ -147,7 +146,7 @@ El factor de impacto pretende reflejar las condiciones de contexto en el cual oc
 
 En este trabajo se optó por definir el factor de impacto en términos de dos características particulares a nivel de municipio: i) el nivel de desarrollo según la tipología municipal del DNP y, ii) si el municipio tiene o no microzonificación sísmica. La primera característica habla del nivel de desarrollo del municipio. En este trabajo se considera explícitamente la categoría municipal y su clasificación en dimensión institucional. La segunda característica permite dar cuenta de la tradición en ingeniería estructural y sísmica, el reconocimiento del problema y la inversión realizada por los municipios en seguridad sísmica. La Figura 5 muestra la distribución del valor final determinado para el factor de impacto para todos los municipios del país.
 
-![Imagen que contiene mapa Descripción generada automáticamente](./media/image9.png){width="3.1832622484689415in" height="4.227869641294838in"} ![](./media/image10.emf){width="0.8870461504811898in" height="1.319805336832896in"}
+![Imagen que contiene mapa Descripción generada automáticamente](../media/image9.png){width="3.1832622484689415in" height="4.227869641294838in"} ![](../media/image10.emf){width="0.8870461504811898in" height="1.319805336832896in"}
 
 Figura 5. Valor del factor de impacto a nivel municipal. Los municipios con factor de impacto igual a 5 son: Bogotá D.C., Medellín, Cali, Bucaramanga, Barranquilla y Cartagena. Los municipios con factor de impacto igual a 7 son: Manizales, Pereira, Armenia y Popayán.
 
@@ -160,7 +159,7 @@ Los valores mostrados en el mapa de la Figura 5 fueron definidos en base a la ex
 |                                                                                                                                                                                                                                                                                                 |   |
 | Este nuevo modelo se conforma por 53 fuentes sismogénicas, 26 de ellas corticales, 5 de subducción de interfaz, 20 de subducción intraplaca, una fuente especial para el nido de sismicidad de Bucaramanga y una fuente de background para la sismicidad dispersa del norte colombiano.         |   |
 |                                                                                                                                                                                                                                                                                                 |   |
-| ![](./media/image11.emf){width="4.030382764654418in" height="4.812145669291339in"}                                                                                                                                                                                                              |   |
+| ![](../media/image11.emf){width="4.030382764654418in" height="4.812145669291339in"}                                                                                                                                                                                                              |   |
 |                                                                                                                                                                                                                                                                                                 |   |
 | Mapa con la ubicación de los 53 polígonos de fuentes sismogénicas                                                                                                                                                                                                                               |   |
 |                                                                                                                                                                                                                                                                                                 |   |
@@ -204,9 +203,9 @@ COEFICIENTES ÓPTIMOS
 
 Usando el software R-CRISIS \[7\], mismo usado en la evaluación de la amenaza sísmica del país y del proyecto ASLAC, se aplicó la metodología presentada anteriormente, buscando encontrar los coeficientes óptimos de diseño para diferentes aceleraciones espectrales. Como ejemplo, la Figura 6 muestra los espectros de aceleraciones óptimas para Bogotá y Cúcuta, a nivel de roca firme. Se marcan en la imagen los valores de aceleración en 0.2 y 1 segundos (correspondientes a S~DS~ y S~D1~ respectivamente). Se muestra también los periodos de retorno de las aceleraciones espectrales. Nótese como los menores periodos de retorno se asocian a periodos bajos (cercanos a 0.2 segundos), punto desde el cual el periodo de retorno es creciente con el periodo estructural.
 
-  ![](./media/image12.emf){width="2.8254122922134735in" height="1.6535433070866141in"}   ![](./media/image13.emf){width="3.1116196412948383in" height="1.6535433070866141in"}
+  ![](../media/image12.emf){width="2.8254122922134735in" height="1.6535433070866141in"}   ![](../media/image13.emf){width="3.1116196412948383in" height="1.6535433070866141in"}
   -------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------
-  ![](./media/image14.emf){width="2.8082961504811896in" height="1.6535433070866141in"}   ![](./media/image15.emf){width="2.8809405074365704in" height="1.6535433070866141in"}
+  ![](../media/image14.emf){width="2.8082961504811896in" height="1.6535433070866141in"}   ![](../media/image15.emf){width="2.8809405074365704in" height="1.6535433070866141in"}
 
 Figura 6. Ejemplo de cálculo de coeficientes de diseño óptimos. Arriba: Bogotá. Abajo: Cúcuta. Izquierda: Aceleraciones espectrales óptimas. Derecha: Periodos de retorno de las aceleraciones óptimas.
 
@@ -214,11 +213,11 @@ También es posible ver en la Figura 6 que para mayor amenaza sísmica (Cúcuta)
 
 Este mismo tipo de resultados puede verse espacialmente. Las Figuras 7 y 8 presentan los mapas de periodos de retorno óptimos para la aceleración espectral de 0.2 segundos y 1 segundo, respectivamente. Nótese como las zonas de alta amenaza sísmica del país implican menores periodos de retorno para el parámetro de diseño, y viceversa.
 
-![](./media/image16.emf){width="5.379423665791776in" height="6.069767060367454in"}
+![](../media/image16.emf){width="5.379423665791776in" height="6.069767060367454in"}
 
 Figura 7. Periodos de retorno óptimos para aceleración espectral de 0.2 segundos.
 
-![](./media/image17.wmf){width="5.152419072615923in" height="6.034884076990376in"}
+![](../media/image17.wmf){width="5.152419072615923in" height="6.034884076990376in"}
 
 Figura 8. Periodos de retorno óptimos para aceleración espectral de 1 segundo (derecha).
 
@@ -229,7 +228,7 @@ Figura 8. Periodos de retorno óptimos para aceleración espectral de 1 segundo 
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | R-CRISIS admite la definición de fuentes sísmicas de diversos tipos, desde puntos y líneas, hasta complejas estructuras tridimensionales, que se combinan con una importante variedad de modelos de sismicidad. R-CRISIS facilita el uso de diferentes modelos de atenuación *(GMPM),* incorporando actualmente más de 60 modelos diferentes. R-CRISIS permite calcular: Mapas de amenaza, espectros de amenaza uniforme, desagregación M-R, desagregación M-R-Epsilon, escenarios sísmicos/mapas de movimiento sísmico y conjunto de eventos (archivo CAPRA *ame*), entro otros resultados.                                                                                                                               |
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| ![](./media/image18.png){width="4.19200021872266in" height="3.5189730971128608in"}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| ![](../media/image18.png){width="4.19200021872266in" height="3.5189730971128608in"}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | Pantalla principal de R-CRISIS                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
@@ -260,7 +259,7 @@ Coeficiente SM1
 
 Este coeficiente corresponde a la aceleración espectral de 1 segundo del sismo máximo considerado según la especificación del ASCE 7 -- 10/16. Esto significa que el diseño de edificaciones de gran altura estará principalmente dominado por este parámetro. Estas edificaciones típicamente se diseñan con ingeniería de mayor sofisticación, usando métodos más rigurosos y exigentes. Si bien este puede no ser el caso siempre, se espera aquella que en líneas generales se de un tratamiento especial a edificaciones de esta característica. Por esta razón, no se buscó vincular su periodo de retorno directamente al nivel de desarrollo, sino a la ubicación geográfica, tal y como se muestra en el mapa de la Figura 8. A partir de este mapa de periodos de retorno óptimos, se propone una zonificación de la amenaza sísmica del país (Fig. 9) que determina el periodo de retorno del parámetro S~M1~, así como el nivel de disipación de energía mínimo requerido en cada zona, es decir, reemplazaría el mapa de zonas de amenaza actualmente vigente. Este nuevo mapa, define 5 zonas de amenaza: Alta 1, Alta 2, Intermedia, Baja 1 (Norte), Baja 2 (Llanos).
 
-![](./media/image19.emf){width="5.29599956255468in" height="5.904166666666667in"}
+![](../media/image19.emf){width="5.29599956255468in" height="5.904166666666667in"}
 
 Figura 9. Nuevo mapa de zonificación sísmica propuesto.
 
@@ -297,15 +296,15 @@ ESPECTROS PROPUESTOS Y COMPARACIÓN CON LA NSR-10
 
 A continuación, se presentan los espectros de diseño propuestos en comparación con los correspondientes dados por la NSR-10, para Bogotá, Medellín y Cali. Los espectros propuestos para todas las capitales de departamento se incluyen en el Anexo 1. Sobre los espectros propuestos se indican los periodos de retorno de las aceleraciones en diferentes puntos, con el objetivo de hacer énfasis en que no se trata de espectros de diseño asociados a un periodo de retorno. Se indica también la zona de amenaza, y los parámetros de las formas espectrales, tanto de la NSR-10 como los nuevos propuestos.
 
-![](./media/image20.emf){width="6.1375in" height="3.2805555555555554in"}
+![](../media/image20.emf){width="6.1375in" height="3.2805555555555554in"}
 
 Figura 10. Comparación de espectros de diseño de NSR-10 y propuestos para Bogotá.
 
-![](./media/image21.emf){width="6.1375in" height="3.2805555555555554in"}
+![](../media/image21.emf){width="6.1375in" height="3.2805555555555554in"}
 
 Figura 11. Comparación de espectros de diseño de NSR-10 y propuestos para Medellín.
 
-![](./media/image22.emf){width="6.1375in" height="3.2805555555555554in"}
+![](../media/image22.emf){width="6.1375in" height="3.2805555555555554in"}
 
 Figura 12. Comparación de espectros de diseño de NSR-10 y propuestos para Cali.
 
@@ -356,7 +355,7 @@ La RTGM, como la define el USGS para ser usada en el ASCE 7-16, se basa en la si
 
 *En donde v(Sa) es la tasa de excedencia de la aceleración espectral y T el periodo de exposición. Esta ecuación permite determinar la distribución de probabilidad de la aceleración espectral en base a la curva de amenaza, como se ilustra en la Figura 13.* *La Ecuación 3 se obtiene directamente de la suposición que la ocurrencia en el tiempo de eventos sísmicos que excedan un determinado valor de aceleración espectral sigue un proceso estocástico homogéneo de Poisson.*
 
-![](./media/image23.emf){width="6.1375in" height="2.0076388888888888in"}
+![](../media/image23.emf){width="6.1375in" height="2.0076388888888888in"}
 
 Figura 13. Transformación de la curva de amenaza en la función de densidad de probabilidad de la aceleración espectral, para un periodo de tiempo de exposición dado.
 
@@ -369,7 +368,7 @@ Figura 13. Transformación de la curva de amenaza en la función de densidad de 
 *La aceleración para la cual en la función de fragilidad se tiene 10% de probabilidad de colapso, y que implica un 1% de probabilidad total de colapso según la Ecuación 2, es la medida de movimiento RTGM. La Figura 13 ilustra este proceso iterativo.*
 
 +-------------------------------------------------------------------------------------+---------------------------------------------+
-| ![](./media/image24.emf){width="2.952755905511811in" height="2.31829615048119in"}   | *Primera iteración:*                        |
+| ![](../media/image24.emf){width="2.952755905511811in" height="2.31829615048119in"}   | *Primera iteración:*                        |
 |                                                                                     |                                             |
 |                                                                                     | *Curva de fragilidad según ASCE 7 -- 10/16* |
 |                                                                                     |                                             |
@@ -377,7 +376,7 @@ Figura 13. Transformación de la curva de amenaza en la función de densidad de 
 |                                                                                     |                                             |
 |                                                                                     | *P(Colapso) = 12%*                          |
 +=====================================================================================+=============================================+
-| ![](./media/image25.emf){width="2.952755905511811in" height="2.5029735345581803in"} | *Segunda iteración:*                        |
+| ![](../media/image25.emf){width="2.952755905511811in" height="2.5029735345581803in"} | *Segunda iteración:*                        |
 |                                                                                     |                                             |
 |                                                                                     | *Curva de fragilidad modificada*            |
 |                                                                                     |                                             |
@@ -385,7 +384,7 @@ Figura 13. Transformación de la curva de amenaza en la función de densidad de 
 |                                                                                     |                                             |
 |                                                                                     | *P(Colapso) = 0.14%*                        |
 +-------------------------------------------------------------------------------------+---------------------------------------------+
-| ![](./media/image26.emf){width="2.952755905511811in" height="2.5029735345581803in"} | *Tercera iteración:*                        |
+| ![](../media/image26.emf){width="2.952755905511811in" height="2.5029735345581803in"} | *Tercera iteración:*                        |
 |                                                                                     |                                             |
 |                                                                                     | *Curva de fragilidad modificada*            |
 |                                                                                     |                                             |
@@ -413,7 +412,7 @@ El método de los coeficientes de diseño óptimos se basa en la minimización d
 
 *En donde C~0~ es el costo por resistencia lateral gratuita, que tiene que ver con la capacidad a cargas laterales que tiene cualquier estructura, incluso si esta ha sido diseñada únicamente para soportar cargas verticales. C~Res~ es el costo por resistencia lateral adicional a la gratuita, es decir dándole una resistencia apropiada a la estructura para las cargas laterales, pero más allá de la inherente a cualquier estructura. Este costo C~Res~ es modificado de manera no lineal como función de la diferencia entre el coeficiente de diseño (que se incrementa a medida que aumenta la exigencia) y el coeficiente c~0~, que corresponde coeficiente de diseño equivalente a la resistencia lateral gratuita. Esta diferencia es elevada a un exponente positivo α que usualmente se encuentra entre 1 y 2. La Figura 15 muestra la forma de la función C~I~ normalizada (i.e. C~I~/C~0~) para edificaciones en Colombia, según Salgado et al. \[5\].*
 
-![](./media/image27.emf){width="4.520120297462817in" height="3.0105216535433073in"}
+![](../media/image27.emf){width="4.520120297462817in" height="3.0105216535433073in"}
 
 Figura 15. Incremento del costo normalizado en función del coeficiente de diseño. Tomado de Salgado et al \[5\].
 
@@ -440,63 +439,63 @@ ANEXO 1: ESPECTROS DE DISEÑO PROPUESTOS PARA CAPITALES DE DEPARTAMENTO {#anexo-
 
 En este Anexo se presentan los espectros de diseño propuestos para todas las capitales de departamento en Colombia, comparados con los espectros actualmente vigentes en la NSR-10. Se listan las ciudades en orden alfabético. Las fichas presentadas contienen los valores de los coeficientes de diseño, zona de amenaza sísmica y periodos de retorno de las aceleraciones de diseño propuestas.
 
-![](./media/image28.emf){width="5.3795581802274715in" height="2.8346456692913384in"}
+![](../media/image28.emf){width="5.3795581802274715in" height="2.8346456692913384in"}
 
-![](./media/image29.emf){width="5.379557086614173in" height="2.8346456692913384in"}
+![](../media/image29.emf){width="5.379557086614173in" height="2.8346456692913384in"}
 
-![](./media/image30.emf){width="5.379557086614173in" height="2.8346456692913384in"}
+![](../media/image30.emf){width="5.379557086614173in" height="2.8346456692913384in"}
 
-![](./media/image31.emf){width="5.379555993000875in" height="2.8346456692913384in"}
+![](../media/image31.emf){width="5.379555993000875in" height="2.8346456692913384in"}
 
-![](./media/image32.emf){width="5.379557086614173in" height="2.8346456692913384in"}[^2]
+![](../media/image32.emf){width="5.379557086614173in" height="2.8346456692913384in"}[^2]
 
-![](./media/image33.emf){width="5.378402230971129in" height="2.8346456692913384in"}
+![](../media/image33.emf){width="5.378402230971129in" height="2.8346456692913384in"}
 
-![](./media/image34.emf){width="5.378402230971129in" height="2.8346456692913384in"}
+![](../media/image34.emf){width="5.378402230971129in" height="2.8346456692913384in"}
 
-![](./media/image35.emf){width="5.378402230971129in" height="2.8346456692913384in"}
+![](../media/image35.emf){width="5.378402230971129in" height="2.8346456692913384in"}
 
-![](./media/image36.emf){width="5.378402230971129in" height="2.8346456692913384in"}
+![](../media/image36.emf){width="5.378402230971129in" height="2.8346456692913384in"}
 
-![](./media/image37.emf){width="5.378402230971129in" height="2.8346456692913384in"}
+![](../media/image37.emf){width="5.378402230971129in" height="2.8346456692913384in"}
 
-![](./media/image38.emf){width="5.378402230971129in" height="2.8346456692913384in"}
+![](../media/image38.emf){width="5.378402230971129in" height="2.8346456692913384in"}
 
-![](./media/image39.emf){width="5.378402230971129in" height="2.8346456692913384in"}
+![](../media/image39.emf){width="5.378402230971129in" height="2.8346456692913384in"}
 
-![](./media/image40.emf){width="5.378402230971129in" height="2.8346456692913384in"}
+![](../media/image40.emf){width="5.378402230971129in" height="2.8346456692913384in"}
 
-![](./media/image41.emf){width="5.378402230971129in" height="2.8346456692913384in"}
+![](../media/image41.emf){width="5.378402230971129in" height="2.8346456692913384in"}
 
-![](./media/image42.emf){width="5.378402230971129in" height="2.8346456692913384in"}
+![](../media/image42.emf){width="5.378402230971129in" height="2.8346456692913384in"}
 
-![](./media/image43.emf){width="5.378402230971129in" height="2.8346456692913384in"}
+![](../media/image43.emf){width="5.378402230971129in" height="2.8346456692913384in"}
 
-![](./media/image44.emf){width="5.378402230971129in" height="2.8346456692913384in"}
+![](../media/image44.emf){width="5.378402230971129in" height="2.8346456692913384in"}
 
-![](./media/image45.emf){width="5.378402230971129in" height="2.8346456692913384in"}
+![](../media/image45.emf){width="5.378402230971129in" height="2.8346456692913384in"}
 
-![](./media/image46.emf){width="5.378402230971129in" height="2.8346456692913384in"}
+![](../media/image46.emf){width="5.378402230971129in" height="2.8346456692913384in"}
 
-![](./media/image47.emf){width="5.378402230971129in" height="2.8346456692913384in"}
+![](../media/image47.emf){width="5.378402230971129in" height="2.8346456692913384in"}
 
-![](./media/image48.emf){width="5.378402230971129in" height="2.8346456692913384in"}
+![](../media/image48.emf){width="5.378402230971129in" height="2.8346456692913384in"}
 
-![](./media/image49.emf){width="5.378402230971129in" height="2.8346456692913384in"}
+![](../media/image49.emf){width="5.378402230971129in" height="2.8346456692913384in"}
 
-![](./media/image50.emf){width="5.378402230971129in" height="2.8346456692913384in"}
+![](../media/image50.emf){width="5.378402230971129in" height="2.8346456692913384in"}
 
-![](./media/image51.emf){width="5.378402230971129in" height="2.8346456692913384in"}
+![](../media/image51.emf){width="5.378402230971129in" height="2.8346456692913384in"}
 
-![](./media/image52.emf){width="5.378402230971129in" height="2.8346456692913384in"}
+![](../media/image52.emf){width="5.378402230971129in" height="2.8346456692913384in"}
 
-![](./media/image53.emf){width="5.378402230971129in" height="2.8346456692913384in"}
+![](../media/image53.emf){width="5.378402230971129in" height="2.8346456692913384in"}
 
-![](./media/image54.emf){width="5.378402230971129in" height="2.8346456692913384in"}
+![](../media/image54.emf){width="5.378402230971129in" height="2.8346456692913384in"}
 
-![](./media/image55.emf){width="5.378402230971129in" height="2.8346456692913384in"}
+![](../media/image55.emf){width="5.378402230971129in" height="2.8346456692913384in"}
 
-![](./media/image56.emf){width="5.378402230971129in" height="2.8346456692913384in"}
+![](../media/image56.emf){width="5.378402230971129in" height="2.8346456692913384in"}
 
 **CONFLICTO DE INTERESES**
 
@@ -538,5 +537,3 @@ BIBLIOGRÁFIA {#bibliográfia .list-paragraph}
 7.  Ordaz, M., Martinelli F., Aguilar, A., Arboleda, J., Meletti, C., D\'Amico, V. (2018). R-CRISIS. Program for computng seismic hazard. [www.r-crisis.com](http://www.r-crisis.com)
 
 8.  Departamento Nacional de Planeación. (2015). *Tipologías Departamentales y Municipales: Una propuesta para comprender las entidades territoriales colombianas*. Dirección de Desarrollo Territorial Sostenible. Grupo de Estudios Territoriales. Recuperado de https://colaboracion.dnp.gov.co/CDT/Estudios%20Econmicos/2015may28%20Tipologias.pdf
-
-**2**
