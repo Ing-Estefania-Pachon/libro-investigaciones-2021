@@ -242,7 +242,7 @@ Se establece una correlación entre los países donde se encontró mayor prevale
 
 **Figura 1.** La figura sintetiza los componentes psicosociales del reasentamiento social y la relación que se genera entre ellas. Participación y organización social junto con el componente institucional resultan ser los vectores de los ocho componentes restantes. Fuente: propia.
 
-**Componente institucional**
+## Componente institucional
 
 El componente institucional se entiende como la asistencia, orientación y acompañamiento en las comunidades por las instituciones, de carácter público y privado, en función de planes de reasentamiento que logren el aporte a una mayor calidad de vida de las personas participantes del proceso. La articulación interinstitucional en función de los derechos constitucionales y las rutas de comunicación entre la institución y las familias, comunidades y organizaciones, se convierte en uno de los principales aspectos para concretar este componente, donde la actuación ética de cada uno de los implicados es primordial para cumplir los objetivos del reasentamiento social.
 
@@ -285,7 +285,7 @@ Anzellini \[22\] resalta la importancia de coordinar conjuntamente entre organiz
 </tbody>
 </table>
 
-**Componente participación y organización social**
+## Componente participación y organización social
 
 Este componente se entiende como el ejercicio donde los miembros de una familia y/o comunidad opinan libremente sobre algún tema, concertando las decisiones consideradas más adecuadas para su sostenibilidad bio-psico-socio-histórica. De esta manera, las decisiones deben ser concertadas desde el marco de los Derechos Humanos, reconociendo estructuras organizativas definidas a nivel local, tales como, juntas de acción comunal, organizaciones de la sociedad civil, consejos comunitarios (forma de organización específica para comunidades afrodescendientes), resguardos y cabildos (forma de organización de comunidades indígenas).
 
@@ -327,7 +327,7 @@ Bajo este marco, Rey \[24\] al analizar los reasentamientos en el departamento d
 </tbody>
 </table>
 
-**Componente Jurídico-Político**
+## Componente Jurídico-Político
 
 Este componente contempla la ejecución y promoción de mecanismos legales para las familias, comunidades y organizaciones, que serán reasentadas con el fin de proteger su honra y dignidad; asimismo, se incluye el tratamiento legal referente al proceso de reasentamiento social de los territorios de origen y destino, tales como las políticas públicas que le atañen. Este componente incluye la gestión pública en la búsqueda de recursos económicos para la ejecución del proyecto, enfatizando en los objetivos de desarrollo sostenible, desde un enfoque de derechos. En conclusión, el componente jurídico-político lleva a que se muestre una institucionalidad con flujo de información, tratamientos legales pertinentes y lineamientos comunes que se direccionen por el desarrollo endógeno y estructural desde la transparencia.
 
@@ -363,7 +363,7 @@ Sin embargo, con respecto al panorama latinoamericano anterior, surgen tensiones
 </tbody>
 </table>
 
-**Componente territorial**
+## Componente territorial
 
 Este componente enmarca las fronteras geopolíticas que configuran un espacio físico determinado y la relación entre las características del entorno con aspectos socioculturales, que llevan a la conformación de referentes, símbolos y sentidos, que se reconocen fácilmente por la comunidad, dando paso a configuraciones identitarias las cuales influyen en el fortalecimiento de redes de apoyo y lazos vecinales.
 
@@ -398,7 +398,7 @@ Lo anterior reconoce que en un proceso de reasentamiento por riesgo no mitigable
 </tbody>
 </table>
 
-**Componente económico**
+## Componente económico
 
 Este componente contempla el fortalecimiento de las manifestaciones del poder adquisitivo, intercambios de remuneración entre miembros de la comunidad, y otras prácticas culturales de sostenimiento económico, en un marco de promoción y defensa de los derechos humanos y del desarrollo sostenible. Esto se puede expresar en la posesión de bienes materiales, propiedades, generación de empleo a través de vecindades productivas, y dinámicas que generen distribución de recursos y remuneración de factores de producción, incidiendo en la calidad de vida de manera individual y colectiva. El componente económico, es necesario para la satisfacción de las necesidades básicas de las familias reasentadas y receptoras, vincula también proyectos de vida conjuntos que aportan a construcciones sociales para el nuevo territorio.
 
@@ -442,7 +442,7 @@ Estos procesos productivos son sujeto de la relación entre instituciones gubern
 </tbody>
 </table>
 
-**Componente prácticas socioculturales**
+## Componente prácticas socioculturales
 
 Este componente hace referencia a las construcciones colectivas de trayectoria socio-histórica en familias, comunidades u organizaciones sociales, evidenciadas en tradiciones religiosas y espirituales, espacios de vecindad habituales, ideologías compartida respecto a fenómenos específicos e intenciones explícitas en cada uno de los grupos sociales. Permean el accionar entre significados y sentidos que configuran continuamente la identidad social y el impacto en la calidad de vida de los habitantes. Si bien este componente tiene íntima relación con el de participación y organización social, este hace énfasis en acciones y creencias colectivas, muchas veces sucedidas de generación en generación, que no necesariamente implica la consecución de escenarios de participación.
 
@@ -477,7 +477,7 @@ En términos metodológicos para este componente, Duque \[43\] destaca las redes
 </tbody>
 </table>
 
-**Componente ambiental**
+## Componente ambiental
 
 Este componente hace referencia al análisis y la intervención del ecosistema para la preservación de la fauna, flora y recursos naturales, así como, el fortalecimiento de las dinámicas relacionales entre hombre y naturaleza en el territorio de origen y destino que aporta a la seguridad económica y cultural de la comunidad reasentada. Este componente da cuenta también, de la protección del entorno que será receptor, a través de estrategias de conservación de la biodiversidad, donde “la interacción con la naturaleza en un diálogo recíproco y unificador posibilita la construcción de una cultura del riesgo que contribuya al reconocimiento de la heterogeneidad del territorio y los valores culturales de los seres humanos que lo habitan...” \[45\].
 
@@ -511,7 +511,7 @@ Entre los análisis latinoamericanos destacados para este componente, se resalta
 </tbody>
 </table>
 
-**Componente percepción social del riesgo**
+## Componente percepción social del riesgo
 
 Este componente comprende la articulación de sensaciones y aprendizajes, que permiten a la familia, comunidad u organización construir juicios de valor respecto a una situación o fenómeno potencialmente amenazante. Esta percepción aporta a la definición de una realidad social en la cual se establecen criterios de selección de entornos seguros o peligrosos, influyendo en la resignificación del vínculo con el territorio, valorando si el entorno le permite mejorar su calidad de vida, o por el contrario, puede poner en riesgo sus modos de habitar.
 
@@ -554,7 +554,7 @@ Por tanto, para este componente las instituciones necesitan reconocer que sus co
 </tbody>
 </table>
 
-**Componente estrategias sociales de afrontamiento**
+## Componente estrategias sociales de afrontamiento
 
 En sintonía con el Marco de Sendai y la revisión realizada se entienden las estrategias sociales de afrontamiento como el conjunto de mecanismos y herramientas que las familias, comunidades y organizaciones, han construido para superar colectivamente situaciones de alto estrés, logrando conservar, desde una postura intersubjetiva, la integridad física, psicológica y relacional. Este componente se liga con los mecanismos de adaptación social que se expresan durante el proceso de resignificación del vínculo con el entorno socio-natural, reconociendo el enfoque diferencial en cada uno de los actores sociales. En efecto, las manifestaciones de conformidad o inconformidad que los grupos poblacionales expresan en el desarrollo del proceso se evidencian en este componente.
 
@@ -587,7 +587,7 @@ Sumado a lo anterior, en Cuba, Olivera y González \[39\] evidencian cómo la co
 </tbody>
 </table>
 
-**Componente salud mental y física**
+## Componente salud mental y física
 
 Este componente alude al estado de bienestar psico-biológico de familias y comunidades que reconocen y hacen uso de sus capacidades, en consonancia de un contexto que le permita el desarrollo y la potenciación de las mismas. Es imprescindible la satisfacción de las necesidades humanas básicas en perspectiva del cumplimiento de los derechos constitucionales para direccionar acciones hacia otras dimensiones que mejoran la calidad de vida familiar y comunitaria. Este componente se relaciona directamente con la posibilidad de disfrutar las actividades que, de forma individual y colectiva, se desarrollan, lo cual influye en procesos identitarios, modulados por sus tradiciones, costumbres e historia
 

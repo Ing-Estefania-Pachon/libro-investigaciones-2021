@@ -198,7 +198,7 @@ Los resultados de los casos de estudio presentados como ejemplo son el punto de 
 </tbody>
 </table>
 
-**CONFLICTO DE INTERESES**
+## CONFLICTO DE INTERESES
 
 Los autores no declaran conflicto de intereses.
 
@@ -277,15 +277,15 @@ Los estudios de geodesia de imágenes basados en InSAR para la ciudad de Bogotá
 </tbody>
 </table>
 
-**CONFLICTO DE INTERESES**
+## CONFLICTO DE INTERESES
 
 Los autores no declaran conflicto de intereses.
 
-**AGRADECIMIENTOS**
+## AGRADECIMIENTOS
 
 Al Servicio Geológico Colombiano por su apoyo en el desarrollo de GeoRED y en las aplicaciones de interferometría de radar de apertura sintética. A JICA por su contribución en el marco del proyecto SATREPS. A UNAVCO por el apoyo técnico y conceptual en las operaciones GPS del proyecto GeoRED. A CENICAÑA, Universidad Nacional de Colombia, Área Metropolitana del Valle de Aburrá y Empresa de Acueducto de Bogotá por su contribución en la expansión de GeoRED. A la Aeronáutica Civil, Fuerza Aérea Colombiana, Armada Nacional y DIMAR por su valioso apoyo para la instalación y puesta en operación de estaciones geodésicas permanentes GNSS. A Franck Audemard y un revisor anónimo, por sus valiosos comentarios y sugerencias que permitieron mejorar el artículo.
 
-**IDENTIFICACIÓN DE AUTORES**
+## IDENTIFICACIÓN DE AUTORES
 
 Héctor Mora Páez [<span class="underline">https://orcid.org/orcid.org/0000-0002-0220-5080</span>](https://orcid.org/orcid.org/0000-0002-0220-5080)
 
@@ -297,7 +297,7 @@ Yuli Corchuelo Cuervo [<span class="underline">https://orcid.org/orcid.org/0000-
 
 Leidy Giraldo Londoño [<span class="underline">https://orcid.org/orcid.org/0000-0002-7892-1999</span>](https://orcid.org/orcid.org/0000-0002-7892-1999)
 
-**BIBLIOGRAFÍA**
+## BIBLIOGRAFÍA
 
 1.  > Plag, H. & Pearlman, M. (Eds) (2009). *Global Geodetic Observing System: Meeting the Requirements of a Global Society on a Changing Planet in 2020*. Springer, Berlin, Heidelberg. [<span class="underline">https://doi.org/10.1007/978-3-642-02687-4</span>](https://doi.org/10.1007/978-3-642-02687-4)
 
@@ -541,7 +541,7 @@ Cumpliendo con los parámetros que instituciones como el Ministerio del Medio Am
 </tbody>
 </table>
 
-**CONFLICTO DE INTERESES**
+## CONFLICTO DE INTERESES
 
 El autor declara no tener conflicto de interés.
 
@@ -553,7 +553,7 @@ Quiero manifestar mis más sinceros agradecimientos a la UNGRD por abrir un espa
 
 Víctor Leonardo López Jiménez [<span class="underline">https://orcid.org/0000-0001-7273-014X</span>](https://orcid.org/0000-0001-7273-014X)
 
-**BIBLIOGRAFIA**
+## BIBLIOGRAFIA
 
 1.  > Gómez Restrepo, Fsc., H. G. (2010). La responsabilidad social de la universidad lasallista: elementos para la reflexión y el debate. *Revista de la Universidad de La Salle*, 51, 15-53.
 
@@ -599,21 +599,21 @@ Víctor Leonardo López Jiménez [<span class="underline">https://orcid.org/0000
 
 \*Autor de contacto: Javier Thomas. Profesor titular del Departamento de Geografía de la Universidad del Valle, Calle 13 \#100-00 Edificio D7 oficina 1012, Cali, Valle, Colombia. Correo-e: [<span class="underline">javier.thomas@correounivalle.edu.co</span>](mailto:javier.thomas@correounivalle.edu.co)
 
-**Resumen**
+## Resumen
 
 El presente trabajo presenta los resultados de una investigación titulada *Armero 30 años: Del desastre a la Gestión Territorial del Riesgo en el Valle del Cauca. Una evaluación crítica de las estrategias comunicativas*, desarrollada por el grupo de investigación Armero 85 del Departamento de Geografía de la Universidad del Valle. Investigación en la cual se implementaron talleres comunitarios en los que se construyeron colectivamente dos estrategias comunicativas importantes: crónicas y fanzines. Igualmente incorpora resultados de talleres comunitarios realizados en la Reserva Natural de Laguna de Sonso, hoy Distrito Regional de Manejo Integrado Laguna de Sonso. Estas experiencias muestran la necesidad de repensar las estrategias comunicativas utilizadas con el propósito de resignificarlas social y culturalmente para potenciar otros espacios y canales de comunicación que generen condiciones más participativas y con mayor significado social, para crear nuevos códigos que no sólo faciliten la comunicación entre los individuos, sino que permitan su réplica en otros espacios y situaciones de su vida cotidiana. Es decir, una comunicación en y para su contexto, desde y para su vida, de manera que se convierta en conocimiento que ayude a construir escenarios más seguros.
 
-**Palabras clave**
+## Palabras clave
 
 Comunicación del riesgo, teoría de la comunicación, gestión del riesgo, estrategias comunicativas, experiencias locales, talleres comunitarios
 
-**Risk Communication: Reflections and Local Experiences in the Department of Valle del Cauca**
+## Risk Communication: Reflections and Local Experiences in the Department of Valle del Cauca
 
-**Abstract**
+## Abstract
 
 This work presents the results of an investigation entitled *Armero 30 years: From disaster to Territorial Risk Management in Valle del Cauca*. *A critical evaluation of the communication strategies*, by the research group Armero 85 of the Geography Department of the Universidad del Valle. This research was implemented community workshops in which were collectively built two important communication strategies: chronicles and fanzines. It also incorporates results of community workshops made in the Natural Reserve of Laguna de Sonso, now Laguna de Sonso Regional Integrated Management District. This experiences show the need to rethink the communication strategies used, with the purpose of resignify then socially and culturally, to enhance other spaces and communication channels that generate more participate conditions and with more social meaning, to create new codes that no only facilitate the communication between individuals, but allow their replication in others spaces and situations in their everyday life. That is to say, a communication in and for their context, from and for their life, so that it becomes knowledge that helps to build more secure stage.
 
-**Keywords**
+## Keywords
 
 Risk communication, communication theory, risk management, communication strategies, local experiences, community workshops
 
@@ -654,17 +654,17 @@ Finalmente, la comunicación del riesgo y las estrategias comunicativas son defi
 </tbody>
 </table>
 
-**CONFLICTO DE INTERESES**
+## CONFLICTO DE INTERESES
 
 Los autores no declaran conflicto de intereses
 
-**IDENTIFICACIÓN DEL AUTOR**
+## IDENTIFICACIÓN DEL AUTOR
 
 Javier Thomas [<span class="underline">https://orcid.org/0000-0001-5404-7574</span>](https://orcid.org/0000-0001-5404-7574)
 
 Julio Rubio [<span class="underline">https://orcid.org/0000-0003-0233-1519</span>](https://orcid.org/0000-0003-0233-1519)
 
-**BIBLIOGRÁFIA**
+## BIBLIOGRÁFIA
 
 1.  > Carey, J. (1992). *Communication as Culture. Essays on Media and Society*. Nueva York, Routledge.
 
@@ -726,7 +726,7 @@ Julio Rubio [<span class="underline">https://orcid.org/0000-0003-0233-1519</span
 
 **Nisley Zúñiga Estacio<sup>1</sup>, Yeli C. Castillo-González<sup>1</sup>, Alba N. Castaño-Castaño<sup>1,4</sup>,**
 
-**Jorge A. Diaz-Rentería<sup>1</sup> & Elkin De J. Salcedo-Hurtado<sup>1,2,3</sup>**
+## Jorge A. Diaz-Rentería<sup>1</sup> & Elkin De J. Salcedo-Hurtado<sup>1,2,3</sup>
 
 Grupo de Investigación Georiesgos, Observatorio Sismológico y Geofísico del Suroccidente Colombiano (OSSO), Universidad del Valle, Ciudad Universitaria, Cali, Colombia
 
@@ -738,21 +738,21 @@ Grupo de Investigación Georiesgos, Observatorio Sismológico y Geofísico del S
 
 \*Autor de contacto: Nathalie García-Millán. Grupo de Investigación Georiesgos, Observatorio Sismológico y Geofísico del Suroccidente Colombiano (OSSO), Universidad del Valle, Ciudad Universitaria. Cali, Colombia. Calle 100 No. 13-00. Correo-e: nathalie.garcia@correounivalle.edu.co
 
-**Resumen**
+## Resumen
 
 En este estudio se presenta la importancia de realizar estudios históricos de fenómenos naturales amenazantes para lograr un mayor conocimiento de los eventos ocurridos en el territorio, en la toma de decisiones en cuanto a la formulación medidas de gestión del riesgo y como insumo fundamental para la calibración de los modelos de amenaza. Se detallan los objetivos indirectos y directos de la realización de este tipo estudios. Se presenta su aplicabilidad para el municipio de Santiago de Cali en el marco del Plan Municipal de Gestión del Riesgo, para el cual se realizó un estudio de historicidad por sismos, movimientos en masa e inundaciones. Se implementó la metodología intensivista para la búsqueda de registros sobre la ocurrencia de eventos en diferentes fuentes de información, lo que permitió la construcción de una sólida y amplia base de datos y de catálogos en torno a la ocurrencia de estos fenómenos. En cuanto a los resultados, para el caso de los sismos, la búsqueda documental arrojó un total de 97 eventos sísmicos que generaron algún tipo de impacto para el periodo comprendido entre 1566 y 2018. Para los movimientos en masa se encontraron un total de 342 eventos, ocurridos en su mayoría en el área urbana del municipio. Para este mismo periodo, se encontraron 227 eventos de inundación relevantes, siendo la mayoría, de origen pluvial.
 
-**Palabras clave**
+## Palabras clave
 
 Estudios históricos, gestión del riesgo, historicidad, inundaciones movimientos en masa, sismos
 
-**The historical perspective in disaster risk management: Applications in Santiago de Cali- Colombia**
+## The historical perspective in disaster risk management: Applications in Santiago de Cali- Colombia
 
-**Abstract**
+## Abstract
 
 This document presents the importance of carrying out historical studies of natural phenomena hazardness to achieve a greater knowledge of the events that occurred in the territory, in decision-making regarding the formulation of risk management measures and as a fundamental input for the calibration of hazards models. The indirect and direct aims of conducting such studies are detailed. Its applicability for the municipality of Santiago de Cali is presented in the framework of the Municipal Risk Management Plan, for which a survey of historicity was carried out by earthquakes, mass movements and floods. The intensivist method for the search of records on the occurrence of events in different sources of information was implemented, which allowed the construction of a robust and broad database and catalogs around the occurrence of these phenomena. Regarding the results, in the case of earthquakes, the documentary search produced a total of 97 seismic events that generated some type of impact for the period between 1566 and 2018. For mass movements, a total of 342 events were found, mostly in the urban area of ​​the municipality. For this same period, 227 relevant flooding events were found, the majority being of pluvial origin.
 
-**Keywords**
+## Keywords
 
 Earthquakes, floods, historical studies, historicity, mass movements, risk management.
 
@@ -788,15 +788,15 @@ Finalmente, la distribución espacial de los eventos históricos, específicamen
 </tbody>
 </table>
 
-**CONFLICTO DE INTERESES**
+## CONFLICTO DE INTERESES
 
 Los autores no declaran conflicto de intereses
 
-**AGRADECIMIENTOS**
+## AGRADECIMIENTOS
 
 A la Alcaldía Municipal de Santiago de Cali por intermedio de la Secretaria Municipal de Gestión del Riesgo de Desastres y Emergencias quienes priorizaron dentro de sus proyectos el contrato interadministrativo 4163.00126.1.357 de 2018 cuya ejecución estuvo a cargo del Observatorio Sismológico de la Universidad del Valle y de la cual se derivan los resultados del PMGRD de Santiago de Cali.
 
-**IDENTIFICACIÓN DE AUTORES**
+## IDENTIFICACIÓN DE AUTORES
 
 Nathalie Garcia-Millan [<span class="underline">https://orcid.org/0000-0002-0002-3881</span>](https://orcid.org/0000-0002-0002-3881)
 
@@ -814,7 +814,7 @@ Jorge Andrés Diaz Renteria [<span class="underline">https://orcid.org/0000-0002
 
 Elkin de J. Salcedo Hurtado [<span class="underline">https://orcid.org/0000-0002-6753-7094</span>](https://orcid.org/0000-0002-6753-7094)
 
-**BIBLIOGRAFÍA**
+## BIBLIOGRAFÍA
 
 1.  > García-Acosta, V. (1996). El estudio histórico de los desastres. *Historia y Desastres en América Latina*, 1, 15–37.
 
@@ -974,21 +974,21 @@ Elkin de J. Salcedo Hurtado [<span class="underline">https://orcid.org/0000-0002
 
 \*Autor de contacto: Cesar Augusto Hidalgo M. Facultad de Ingeniería. Programa de Ingeniería Civil. Universidad de Medellín. Carrera 87 N° 30 – 65, Medellín, Colombia. Correo-e [<span class="underline">chidalgo@udem.edu.co</span>](mailto:chidalgo@udem.edu.co)
 
-**Resumen**
+## Resumen
 
 Los movimientos en masa se consideran uno de los peligros naturales que causan mundialmente mayor cantidad de pérdidas. En países como Colombia, los movimientos en masa que causan el mayor número de muertes y pérdidas económicas se relacionan con avenidas torrenciales causadas por movimientos en masa en cuencas. Este capítulo presenta una metodología para evaluar el riesgo asociado con movimientos en masa en cuencas abastecedoras. La amenaza se evalúa considerando métodos probabilistas que incluyen los efectos de la lluvia y los sismos. Además, este estudio evalúa la probabilidad de que una masa deslizante llegue a los lechos de los ríos y la probabilidad de obstrucción en sus cauces. Por otro lado, la vulnerabilidad se estima utilizando curvas de daño basadas en la altura de obstrucción de los cauces. Finalmente, el riesgo se estima como la probabilidad de que ocurran pérdidas económicas a lo largo del lecho del río. Esta metodología se basa en métodos de probabilidad, como el método de primer orden segundo momento (FOSM) y el método de estimaciones puntuales (MEP), y se ha aplicado en la cuenca del río San Juan, en el suroeste Antioqueño, donde las condiciones morfodinámicas e hidrometeorológicas han generado desastres que han causado daños a la infraestructura y población con pérdidas económicas significativas. Los resultados evidencian alta coincidencia de zonas afectadas con movimientos en masa de acuerdo al inventario de eventos en la zona, con áreas de alta probabilidad de falla predichas por el modelo, indicando su coherencia para identificar zonas a estudiar con mayor detalle. En conclusión, las pérdidas directas estimadas en la cuenca de la zona de estudio, sin considerar edificaciones, serían del orden de $3,782 millones de pesos colombianos, valor que sirve de referencia para evaluaciones más detalladas y la toma de decisiones para la gestión del riesgo.
 
-**Palabras clave**
+## Palabras clave
 
 Amenaza, deslizamientos, cuencas, movimientos en masa, riesgo, vulnerabilidad
 
 > **Landslide risk study in supplying hydrographic basins in the southwest of Antioquia using probabilistic methods**
 
-**Abstract**
+## Abstract
 
 Landslides are considered one of the natural hazards that cause the most significant losses worldwide. In countries such as Colombia, landslides events that cause the highest number of deaths and economic losses are related to flash floods or debris flow caused by landslides in basins. This chapter presents a methodology to assess the associated risk with landslides in water supply basins. The hazard is assessed considering probabilistic methods that include the effects of rainfall and earthquakes. Furthermore, this study assesses the probability of a sliding mass reaching riverbeds and the probability of obstructions in its channels. Besides, vulnerability is assessed using damage curves based on the obstruction height of the channel. Finally, the risk is estimated as the probability of the most likely economic losses occurring along the riverbed. This methodology is based on probability methods, such as the first-order second-moment method (FOSM) and the point estimate method (PEM). It was applied in the San Juan River basin, in the southwest of Antioquia, where morphodynamic and hydrometeorological conditions have generated several disasters that have caused damage to the infrastructure and its population with significant economic losses. The results show a high coincidence of affected areas with landslides according to the inventory of events in the study zone, with areas of a high probability of failure predicted by the model, indicating its coherence to identify areas to be studied with more detail. In conclusion, the estimated direct losses in the basins of the study area, without considering buildings, would be of the order of $ 3,782 millions of Colombian pesos, a reference value for more detailed assessments and decision-making for risk management.
 
-**Keywords**
+## Keywords
 
 Hazard, landslide, mass movement, risk, vulnerability, water supply basins
 
@@ -1109,17 +1109,17 @@ Además, es relevante quitar la brecha entre la teoría y la práctica, el conoc
 </tbody>
 </table>
 
-**CONFLICTO DE INTERESES**
+## CONFLICTO DE INTERESES
 
 Los autores no declaran conflicto de intereses.
 
-**IDENTIFICACIÓN DE AUTOR**
+## IDENTIFICACIÓN DE AUTOR
 
 Serguei Lonin [<span class="underline">https://orcid.org/0000-0001-9561-0554</span>](https://orcid.org/0000-0001-9561-0554)
 
 Julio Monroy [<span class="underline">https://orcid.org/0000-0002-3981-7486</span>](https://orcid.org/0000-0002-3981-7486)
 
-**BIBLIOGRAFÍA**
+## BIBLIOGRAFÍA
 
 1.  > Douglas, B. C. (1991). Global sea level rise. *Journal of Geophysical Research: Oceans*, 96(C4), 6981-6992. [<span class="underline">https://doi.org/10.1029/91JC00064</span>](https://doi.org/10.1029/91JC00064)
 
@@ -1173,21 +1173,21 @@ Julio Monroy [<span class="underline">https://orcid.org/0000-0002-3981-7486</spa
 
 \*Autor de contacto: Constanza Ricaurte Villota. Programa de Geociencias Marinas y Costeras GEO. Instituto de Investigaciones Marinas y Costeras “José Benito Vives de Andréis” INVEMAR, Calle 25 \#2-55, playa Salguero, Rodadero, Santa Marta, Colombia. Correo-e: [<span class="underline">constanza.ricaurte@invemar.org.co</span>](mailto:constanza.ricaurte@invemar.org.co)
 
-**Resumen**
+## Resumen
 
 El modelo de gestión del riesgo para la erosión costera, propone un proceso integral que va de una escala regional a una local, partiendo del conocimiento del fenómeno. Incluye el trabajo integrado entre las instituciones ambientales, los entes territoriales y la comunidad, el monitoreo técnico del fenómeno y los estudios de amenaza y vulnerabilidad por erosión costera, los cuales permitieron identificar las zonas críticas del departamento. Al aumentar la escala y resolución del estudio se definió un modelo conceptual con una propuesta de alternativas mixtas, donde se incluye métodos basados en ecosistemas, que puedan mitigar los impactos. Por último, se realizaron los estudios científicos de detalle (físico, biótico y social) y de validación de estas alternativas y su priorización para ejecución, teniendo en cuenta las políticas o herramientas de planificación del territorio. Convirtiéndose este, en un proceso detallado y planificado para hallar las mejores alternativas de mitigación, prevenir daños y ahorrar costos en alternativas que no generen los efectos positivos esperados. La implementación de esta metodología en el corregimiento de Santander de la Cruz permitió priorizar las alternativas de la siguiente manera: (1) recuperación de las puntas de la bahía con base en la estabilidad del acantilado, (2) manejo de las fuentes de sedimento, (3) control de la extracción de arena, (4) intervención con arrecifes artificiales o barreras sumergidas, (5) reforestación de manglar o bosque seco, y (6) reubicación.
 
-**Palabras clave**
+## Palabras clave
 
 Adaptación basada en ecosistemas, alternativas de mitigación y control, amenaza y vulnerabilidad, geoamenazas, gestión del riesgo
 
-**Risk Management and Analysis Model for Coastal Erosion. Case Study Department of Córdoba**
+## Risk Management and Analysis Model for Coastal Erosion. Case Study Department of Córdoba
 
-**Abstract**
+## Abstract
 
 The risk management model for coastal erosion proposes an integral process that goes from a regional to a local scale, based on knowledge of the phenomenon. It includes integrated work between environmental institutions, territorial entities and the community, technical monitoring of the phenomenon and studies of hazard and vulnerability by coastal erosion, which allowed identifying the department's critical areas. By increasing the study's scale and resolution, a conceptual model was defined with a proposal for mixed alternatives, including ecosystem-based methods that can mitigate the impacts. Finally, the detailed scientific studies (physical, biotic and social) and validation of these alternatives and their prioritization for execution were carried out, taking into account the planning policies or tools of the territory. Turning this into a detailed and planned process to find the best mitigation alternatives, prevent damage and save costs on alternatives that do not generate the expected positive effects. The implementation of this methodology in the district of Santander de la Cruz allowed prioritizing the alternatives as follows: (1) Recovery of the tips of the bay based on the stability of the cliff, (2) management of sediment sources, (3) control of sand extraction, (4) intervention with artificial reefs or submerged barriers, (5) reforestation of mangroves or dry forest, and (6) relocation.
 
-**Keywords**
+## Keywords
 
 Alternatives for mitigation and control, ecosystem-based adaptation, geohazards, hazard and vulnerability, risk management
 
@@ -1256,17 +1256,17 @@ Al analizar los instrumentos de planeación para la gestión del riesgo por inun
 </tbody>
 </table>
 
-**AGRADECIMIENTOS**
+## AGRADECIMIENTOS
 
 Se agradece a las comunidades de la Mojana que hicieron parte de este proyecto en San Marcos (Sucre), Nechí (Antioquia), Mompox (Bolívar), Magangué (Bolívar), Montelíbano (Córdoba). A Colciencias, entidad que otorgó la beca doctoral para el desarrollo de esta investigación, en el marco de la Convocatoria 567 de 2012. A la Unidad Nacional para la Gestión del Riesgo de Desastres, donde a través del proyecto “Evaluación probabilista del riesgo por inundación lenta en las cabeceras municipales de San Marcos (Sucre), Montelíbano (Córdoba), Mompox (Bolívar) y Magangué (Bolívar)”, se pudo complementar el trabajo de campo. A la Pontificia Universidad Javeriana, donde se desarrolló la tesis doctoral.
 
-**IDENTIFICACIÓN DE AUTORES**
+## IDENTIFICACIÓN DE AUTORES
 
 Paula Andrea Villegas González [<span class="underline">CvLAC</span>](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000438405)
 
 Nelson Obregón Neira [<span class="underline">CvLAC</span>](http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000194077)
 
-**BIBLIOGRAFÍA**
+## BIBLIOGRAFÍA
 
 1.  > Congreso de Colombia. (2012). Ley 1523 de 2012. 58 p.
 
@@ -1328,7 +1328,7 @@ Nelson Obregón Neira [<span class="underline">CvLAC</span>](http://scienti.colc
 
 30. > Berger, T., Birner, R., McCarthy, N., DíAz, J., & Wittmer, H. (2007). Capturing the complexity of water uses and water users within a multi-agent framework. *Water Resources Management*, 21(1), 129-148. [<span class="underline">https://doi.org/10.1007/s11269-006-9045-z</span>](https://doi.org/10.1007/s11269-006-9045-z)
 
-**Lista de pares revisores**
+## Lista de pares revisores
 
 **Roberto Ariel Abeldaño** | Universidad de la Sierra Sur y CONACYT, México
 

@@ -30,21 +30,21 @@ number-sections: false
 
 \*Autor de contacto: Rafael Fernández. Centro de Investigación en Materiales y Obras Civiles, Departamento de Ingeniería Civil y Ambiental, Universidad de los Andes, Bogotá, Colombia. Correo-e: [<span class="underline">ri.fernandez1110@uniandes.edu.co</span>](mailto:ri.fernandez1110@uniandes.edu.co)
 
-**Resumen**
+## Resumen
 
 El desarrollo de planes de mitigación del riesgo de estructuras del sector escolar es una prioridad para los gobiernos por la importancia del sector, la vulnerabilidad de sus ocupantes y la vulnerabilidad de sus edificaciones evidenciada en sismos recientes. El objetivo principal de este capítulo es presentar una metodología para el desarrollo de estos planes de mitigación. La metodología propuesta incluye la identificación de tipologías principales y la consolidación del portafolio de infraestructura expuesta, el análisis del riesgo de desastre y el planteamiento de planes para la reducción del riesgo. Se presentan las tipologías escolares comunes identificadas en diferentes países y dos casos de estudio desarrollados por los autores en Colombia. Finalmente, se discuten los desafíos más importantes tanto para el desarrollo de los planes como en su posible implementación. La metodología y los resultados presentados en este documento buscan sentar unas bases para la evaluación y el desarrollo de planes de mitigación del riesgo para la infraestructura escolar.
 
-**Palabras clave**
+## Palabras clave
 
 Infraestructura escolar, mitigación, reforzamiento, riesgo, tipologías
 
-**Seismic Risk Mitigation for School Infrastructure**
+## Seismic Risk Mitigation for School Infrastructure
 
-**Abstract**
+## Abstract
 
 The development of risk mitigation plans for school infrastructure is a priority for the governments due to the sector's importance, the vulnerability of its occupants, and the vulnerability of the buildings identified in recent seismic events. The main objective of this chapter is to present a methodology for the development of these mitigation plans. The proposed methodology includes the identification of the main typologies and the consolidations of the school buildings portfolio, the disaster risk assessment, and the proposal of risk reduction plans. The most common school typologies are presented with two study cases developed by the authors in Colombia. Finally, the most critical challenges are discussed both for the development of the plans and their possible implementation. The methodology and the results presented in this document aims to establish the bases for risk reduction plans in school infrastructure.
 
-**Keywords**
+## Keywords
 
 Mitigation, retrofitting, risk, school’s infrastructure, typologies
 
@@ -151,21 +151,21 @@ Mitigation, retrofitting, risk, school’s infrastructure, typologies
 
 \*Autor de contacto: Héctor Mora Páez, Servicio Geológico Colombiano, Grupo Investigaciones Geodésicas Espaciales, Diagonal 53 \# 34-53, Bogotá, Colombia. Correo-e: [<span class="underline">hmora@sgc.gov.co</span>](mailto:hmora@sgc.gov.co)
 
-**Resumen**
+## Resumen
 
 Con el fin de avanzar en el conocimiento de los fenómenos que ocurren en la corteza terrestre en la esquina noroccidental de Suramérica y suroriental de Centroamérica, región de alta complejidad tectónica, el Servicio Geológico Colombiano emplea diferentes tipos de instrumentación, métodos y técnicas, y entre ellas de geodesia espacial, correspondiente a la aplicación en estudios geodinámicos de los conceptos de geodesia tectónica y geodesia de imágenes. En geodesia espacial, basado en posicionamiento GNSS de alta precisión, se han determinado las velocidades en estaciones geodésicas permanentes de operación continúa localizadas en las placas de Nazca, Suramérica y Caribe, y en los bloques Norte de los Andes y Panamá. Estas velocidades permiten confirmar la subducción oblicua de la placa de Nazca por debajo de Suramérica; la acumulación de deformación en el límite de placas Nazca-Suramérica en el margen Colombia-Ecuador, sugiriendo la posibilidad de generación de un sismo fuerte en esta zona; el movimiento general en sentido sur-norte del Bloque Norte de los Andes, hasta la latitud 7.5°N, donde presentan cambio de tendencia hacia el noreste; la convergencia de la placa Caribe en dirección sureste, así como la colisión del bloque de Panamá con respecto al Bloque Norte de los Andes. El concepto de geodesia de imágenes se ha orientado por ahora, al estudio de subsidencia en la ciudad de Bogotá mediante la aplicación de técnicas interferométricas de radar de apertura sintética-InSAR, empleando imágenes del sensor TerraSAR-X, cuyos resultados, combinados con los obtenidos con GPS, permiten establecer valores cuantitativos de este fenómeno en varios sectores de la ciudad. Los resultados obtenidos en las dos aplicaciones constituyen importante insumo en la gestión del riesgo, los primeros, a ser considerados en los estudios de la amenaza sísmica del país, y los segundos, en la planeación urbana de la ciudad de Bogotá, en especial para considerar aspectos del crecimiento horizontal y vertical de las construcciones.
 
-**Palabras clave**
+## Palabras clave
 
 GNSS, geodinámica, Bloque Norte de los Andes, InSAR, subsidencia, tectónica de placas
 
-**Contribution of Space Geodesy in Risk Management in Colombia. Study cases**
+## Contribution of Space Geodesy in Risk Management in Colombia. Study cases
 
-**Abstract**
+## Abstract
 
 In order to advance in the knowledge of the phenomena that occur in the earth's crust in the northwestern corner of South America and southeast of Central America, a region of high tectonic complexity, the Colombian Geological Survey has been using different types of instrumentation, methods and techniques, and among them of space geodesy, corresponding to the application in geodynamic studies of the tectonic and imaging geodesy concepts. Space geodesy, based on high-precision GNSS positioning, velocities have been estimated at GPS permanent stations of continuous operation located on the Nazca, South America, and Caribbean plates, and also in the North Andean and Panama blocks. These velocities confirm the oblique subduction of the Nazca plate beneath South America plate; the accumulation of deformation at the Nazca-South America plate boundary on the Colombia-Ecuador margin, suggesting the possibility of generating a strong earthquake in this area; the general motion in the south-north direction of the North Andean Block, up to latitude 7.5°N, where they present a trend change towards the northeast; the convergence of the Caribbean plate in a southeast direction, as well as the collision of the Panama block with the North Andean Block. The concept of imaging geodesy has been oriented so far, to the study of the land subsidence in the Bogotá city by applying Interferometric radar techniques-InSAR. Results obtained using images from the TerraSAR-X sensor have been combined with those obtained with GPS in order to establish quantitative values ​​of the land-subsidence in several areas of the city. The results obtained in the two applications constitute an important input in risk management, the first one, to be considered in the studies of the seismic hazard in the country, and the second one, in the urban planning of the Bogotá city especially to consider aspects of horizontal and vertical growth of buildings.
 
-**Keywords**
+## Keywords
 
 GNSS, geodynamics, North Andean Block, InSAR, subsidence, plate tectonics
 
@@ -332,21 +332,21 @@ GNSS, geodynamics, North Andean Block, InSAR, subsidence, plate tectonics
 
 \*Autor de contacto: Diego Alexander Hernández Pulido. Facultad de Medicina Veterinaria, Fundación Universitaria Agraria de Colombia Calle 170 N° 54ª – 10, Bogotá, Colombia. Correo-e: [<span class="underline">hernandez.diegoal@uniagraria.edu.co</span>](mailto:hernandez.diegoal@uniagraria.edu.co)
 
-**Resumen**
+## Resumen
 
 El presente capitulo aborda la importancia de los animales en situaciones de emergencias y desastres. Adicionalmente, aborda algunos aspectos que deben considerarse por los diferentes actores locales y nacionales al presentarse estos incidentes como el rol de los animales en la sociedad, el manejo y comportamiento en desastres, cómo es su impacto dentro de la gestión del riesgo de desastres, salud pública, bioseguridad, ambiente y toma de decisiones. Colombia, pese a que actualmente cuenta con protocolos y procedimientos donde se considera la situación de desplazamiento, salud, albergue y control de la población humana, no ha incluido en su totalidad la situación de los animales que también son víctimas directas durante los diferentes fenómenos ocasionados por la naturaleza o por acciones del ser humano. Incorporar e integrar los animales dentro de la gestión del riesgo de los desastres en todos los sectores, permite la protección de la vida humana que, junto con la investigación basada en la recolección continua de datos, ha mostrado que la preparación adecuada y la eficaz coordinación en el manejo de los animales, aumenta la capacidad del personal de la emergencia y de esta manera se logra salvaguardar la salud, la seguridad humana y animal. Muchos animales han muerto, se han lesionado gravemente, han quedado separados de sus propietarios y tienen que valerse por sí mismos como resultado de diversos incidentes en el país, convirtiéndose en potenciales fuentes de riesgo. Por tal motivo, y como se plantea en este capítulo es imprescindible contar con la información necesaria, que sea considerada dentro del marco de la gestión del riesgo de desastres, el bienestar y estado de medios de subsistencia pecuario, animales de compañía y fauna silvestre que convive en su mismo entorno.
 
-**Palabras clave**
+## Palabras clave
 
 Gestión del riesgo, animales, una salud, desastres, medios de vida, salud pública
 
-**Animals in disasters risk management**
+## Animals in disasters risk management
 
-**Abstract**
+## Abstract
 
 This chapter addresses the importance of animals in emergencies and disasters. Additionally, addresses some aspects that must be considered by different local and national actors when these incidents occur such as the role of animals in society, disaster management and behavior, such as their impact within disaster risk management, public health, biosecurity, environment and decision-making. Colombia, even though it currently has protocols and procedures that consider the situation of displacement, health, shelter and control of the human population, has not fully included the situation of animals that are also direct victims during the different phenomena caused by nature or by human actions. Incorporating and integrating animals into disaster risk management in all sectors enables the protection of human life which, together with research based on continuous data collection, has shown that adequate preparation and effective coordination in the handling of animals, it increases the capacity of emergency personnel and in this way it is possible to safeguard health, human and animal safety. Many animals have died or been seriously injured or have been separated from their owners and must fend for themselves as a result of various incidents, becoming potential sources of risk. For this reason, it is essential to have the necessary information, which is considered within the framework of disaster risk management, the welfare and state of livelihoods for livestock, companion animals and wildlife that lives in the same environment.
 
-**Keywords**
+## Keywords
 
 Animals, one health, risk management, disasters, livelihoods, public health
 
@@ -419,21 +419,21 @@ Animals, one health, risk management, disasters, livelihoods, public health
 
 \*Autor de contacto: Víctor Leonardo López Jiménez. Correo-e: [<span class="underline">vlopez@unisalle.edu.co</span>](mailto:vlopez@unisalle.edu.co)
 
-**Resumen**
+## Resumen
 
 Es necesario asumir desde la academia tareas encaminadas a disminuir el impacto que los humanos causan sobre su entorno natural, ya que su forma de actuar, sumada a la falta de conocimiento sobre las *fuerzas de la naturaleza*, son las causas de que muchos de los eventos de origen natural alcancen la categoría de desastres. Al respecto, Gómez \[1\] escribe: "No basta educar para incidir en el sistema imperante que, a todas luces, no es sustentable en el tiempo, tanto por la concentración de la riqueza que conlleva, como por el modelo de desarrollo depredador del medio ambiente; sistema destructor del tejido social donde la solidaridad no es posible, facilitador del consumismo y del egoísmo a ultranza, y destructor del planeta y de los procesos naturales.” Es claro que, el incremento de los eventos potencialmente catastróficos en Colombia, un país ubicado sobre la franja de mayor actividad sísmica del planeta y con un importante régimen de lluvias al año, tiene que ver con el notorio aumento de la pobreza, la ubicación de asentamientos humanos en zonas de alto riesgo y las malas prácticas de construcción; estas condiciones han hecho necesaria la búsqueda de alternativas encaminadas a la prevención y mitigación de los desastres partiendo del conocimiento y manejo de los factores de riesgo, temas que debe asumir la comunidad educativa como parte de su responsabilidad social. Conscientes de esto, en el Programa de Ingeniería Ambiental y Sanitaria (PIAS) de la Universidad de La Salle, se crea el espacio académico Gestión del Riesgo (GR) donde nace la experiencia *La gestión del riesgo, de la universidad a la comunidad*. Así, en un trabajo colaborativo y en concordancia con el Programa Educativo de la Universidad de La Salle (PEUL) se trabaja por la resiliencia de la comunidad.
 
-**Palabras clave**
+## Palabras clave
 
 Gestión del riesgo, responsabilidad social, trabajo colaborativo, experiencia educativa
 
 **Initiatives for disaster risk reduction in the Environmental and Health Engineering Program of the University of La Salle: a topic of university social responsibility**
 
-**Abstract**
+## Abstract
 
 It is necessary to assume from the academy tasks aimed to reduce the impact that the human being is causing on their natural environment, their way of acting added to the lack of knowledge about the *forces of nature* are the causes that many of the natural origin events reach the category of disasters. In this regard, Gómez \[1\] writes: "It is not enough to educate to influence the prevailing system that, obviously, is not sustainable over time, because of the concentration of the wealth that it entails, as well as the predatory development model of the environment, it is a destructive system of the social fabric where solidarity is not possible, it is a facilitator of consumerism and selfishness at all costs, and a destroyer of the planet and natural processes.” It is clear that the increase in potentially catastrophic events in Colombia, which is country located on the strip of greatest seismic activity on the planet and with an important rainfall regime per year, is related with the notorious increase in poverty, the location of human settlements in high-risk areas and bad construction practices; these conditions have to be assume by the educational community as part of its social responsibility, searching for alternatives aimed to the prevention and mitigation of disasters based on the knowledge and management of risk factors. Aware of this, the Program of Environmental Engineering and Health (PIAS) at the University of La Salle has the academic class Risk Management (GR) where the experience *Managing risk, the university community* is created, in a collaborative work and in accordance with the Education Program at the University of La Salle (PEUL) working for community resilience.
 
-**Keywords**
+## Keywords
 
 Risk management, social responsibility, collaborative work, educational experience
 
@@ -482,21 +482,21 @@ Serguei Lonin<sup>1\*</sup> & Julio Monroy<sup>1</sup>
 
 <sup>\*</sup>Autor de contacto: Serguei Lonin, [<span class="underline">slonin@costa.net.co</span>](mailto:slonin@costa.net.co)
 
-**Resumen**
+## Resumen
 
 Las estructuras costeras duras son el método preferido usado tanto para mitigar los efectos amenazantes de la erosión en varios ecosistemas como para garantizar el seguro desarrollo de actividades marítimas a lo largo de la costa del Caribe colombiano. Sin embargo, estas obras con frecuencia producen efectos negativos en la zona costera o, eventualmente, resultan siendo obsoletas al no considerar las causas técnicas de la erosión. Las obras costeras, modificando la dinámica local, pueden producir efectos negativos de déficit de sedimentos flujo abajo, provocando erosión. En este capítulo se analizan tres casos relacionados con actividades antropogénicas y procesos naturales cuyo impacto en la dinámica costera se han vuelto progresivamente evidente a través de los años: los tajamares de Bocas de Ceniza, las estructuras costeras del golfo de Morrosquillo y el caso del río Turbo. Las consecuencias no deseadas de estas actividades demostraron la necesidad de generación de conocimiento preliminar detallado de la dinámica costera y de los efectos potenciales de obras de gran escala, previa a la intervención. De todos modos, aunque podría ser imposible de combatir aisladamente (en un solo país) los efectos de largo plazo de los cambios globales tales como el aumento continuo del nivel del mar, los impactos antrópicos locales y regionales todavía pueden ser evitados con un conocimiento más profundo de los procesos costeros.
 
-**Palabras clave**
+## Palabras clave
 
 Clima marítimo, espolones, erosión, nivel del mar, protección costera, tajamares
 
-**Coastal Constructions and Maritime Climate: Cases from the Colombian Caribbean**
+## Coastal Constructions and Maritime Climate: Cases from the Colombian Caribbean
 
-**Abstract**
+## Abstract
 
 Hard coastal protection structures are the preferred method used both to mitigate the threatening effects of erosion on various ecosystems and to guarantee the safe development of maritime activities along the Colombian Caribbean coast. However, these structures have frequently produced adverse responses in the coastal zones or have eventually become obsolete given the lack of consideration of the technical causes of erosion. Coastal works, modifying local dynamics, can produce negative effects like sediment deficit downstream, triggering coastal erosion. In this chapter, we analyze three cases related to anthropogenic activities and natural processes whose impact on coastal dynamics has become increasingly evident over the years: the jetties at the Bocas de Ceniza, the coastal structures of the Gulf of Morrosquillo, and the Turbo River case. These activities' undesired consequences have demonstrated the necessity of generating detailed preliminary knowledge on coastal dynamics and the potential effects of large-scale works prior to performing interventions. Overall, although it might be impossible to fight, inside one country, the long-term effects of global changes such as the continuous rise of the sea level, the local and regional anthropic impacts may still be avoided by a deeper knowledge of coastal processes.
 
-**Keywords**
+## Keywords
 
 Breakwaters, coastal protection, erosion, jetties, maritime climate, sea level
 

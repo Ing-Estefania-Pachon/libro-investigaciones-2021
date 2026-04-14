@@ -4,7 +4,7 @@ number-sections: false
 ---
 
 
-**Lista de autores**
+## Lista de autores
 
 **Leonardo Arias Bernal** **|** Facultad de Medicina Veterinaria, Facultad de Zootecnia, Fundación Universitaria Agraria de Colombia, Bogotá, Colombia
 
@@ -118,11 +118,11 @@ number-sections: false
 
 Se presenta la propuesta de coeficientes sísmicos de diseño desarrollada desde el comité AIS-300 para la actualización de la Norma Colombiana de Construcción Sismo Resistente NSR. Esta propuesta aborda los conceptos de coeficientes óptimos de diseño que han sido la base metodológica para los movimientos de diseño en países como México, alejándose de la metodología usada en los Estados Unidos conocida como Risk Targeted Ground Motion (RTGM). Se detallan los criterios empleados en la aplicación del modelo de optimización de costos totales, con el fin de determinar espectros de diseño desligados de algún periodo de retorno. Se incluye una comparación de las nuevas formas espectrales con las actualmente vigentes dadas por la NSR 10.
 
-**Palabras clave**
+## Palabras clave
 
 Coeficientes sísmicos de diseño, optimización de costos totales, Risk Targeted Ground Motion, amenaza sísmica, espectros de diseño, NSR 22
 
-**Update of Structural Design Seismic Coefficients for the Colombian Building Code NSR-22**
+## Update of Structural Design Seismic Coefficients for the Colombian Building Code NSR-22
 
 ### Abstract
 

@@ -23,7 +23,7 @@ Gustavo Fuentes [<span class="underline">https://orcid.org/0000-0002-0916-1885</
 
 Juan Echeverry [<span class="underline">https://orcid.org/0000-0001-6537-6381</span>](https://orcid.org/0000-0001-6537-6381)
 
-**BIBLIOGRÁFIA**
+## BIBLIOGRÁFIA
 
 1.  ICC (International Code Council). (2017). *2018 International Building Code*. International Code Council, Incorporated.
 
@@ -121,13 +121,13 @@ Juan Echeverry [<span class="underline">https://orcid.org/0000-0001-6537-6381</s
 
 La sequía es una amenaza de desarrollo lento que no causa pérdidas sobre el ambiente construido (edificaciones e infraestructura en general), pero si ocasiona la degradación de los medios de subsistencia de la población expuesta (principalmente agua y cultivos), aumentando sus condiciones de vulnerabilidad y, en consecuencia, aumentando el riesgo a niveles que pueden exceder los impuestos por eventos catastróficos de otros fenómenos naturales. Para identificar y cuantificar el riesgo por sequía para el sector agropecuario se propone una metodología novedosa para la construcción de modelos probabilistas que estima las potenciales pérdidas asociadas a la reducción de la producción de los cultivos dada la ocurrencia de un desastre. Aquí se presentan los resultados de la aplicación de la evaluación prospectiva del riesgo por sequía en Colombia. Se construyeron mapas de amenaza integrada por sequía para intensidades de severidad y duración de eventos para 50, 100, 250 y 500 años de periodo de retorno, que indican las zonas del país más propensas a sufrir eventos de déficit extremo de precipitaciones. También se obtuvieron los resultados de riesgo para el cultivo de maíz, en términos de la pérdida anual esperada. Esta evaluación de riesgo con enfoque probabilista es inédita en Colombia y permite informar a los tomadores de decisión del proceso de gestión del riesgo en el sector agropecuario. Los resultados que aquí se publican, aunque preliminares, son de utilidad para la planificación del territorio y de los recursos hídricos del país, así como un producto inicial para el desarrollo de instrumentos de protección financiera y transferencia del riesgo.
 
-**Palabras clave**
+## Palabras clave
 
 Evaluación probabilista del riesgo, eventos hidrometeorológicos, generador de clima estocástico, vulnerabilidad de cultivos, sector agropecuario, gestión integral del riesgo
 
 ### 
 
-**Probabilistic assessment of drought risk in Colombia's agricultural sector**
+## Probabilistic assessment of drought risk in Colombia's agricultural sector
 
 ### Abstract
 
@@ -153,7 +153,7 @@ Cesar Hidalgo [<span class="underline">https://orcid.org/0000-0002-1796-8945</sp
 
 Johnny Vega [<span class="underline">https://orcid.org/0000-0002-0662-7213</span>](https://orcid.org/0000-0002-0662-7213)
 
-**BIBLIOGRAFÍA**
+## BIBLIOGRAFÍA
 
 1.  > Jibson, R. W., Harp, E. L., & Michael, J. A. (1998). A method for producing digital probabilistic seismic landslide hazard maps. *Engineering Geology*, 58, 271-289. [<span class="underline">https://doi.org/10.1016/S0013-7952(00)00039-9</span>](https://doi.org/10.1016/S0013-7952\(00\)00039-9)
 
@@ -239,21 +239,21 @@ Johnny Vega [<span class="underline">https://orcid.org/0000-0002-0662-7213</span
 
 \*Autor de contacto: Rafael Muñoz Quintero. Departamento de Ingeniería Civil, Universidad de La Salle. Carrera 2 No. 10-70, Bogotá, Colombia. Correo-e: rmunoz02@unisalle.edu.co
 
-**Resumen**
+## Resumen
 
 Históricamente las crecientes del río Unete han afectado el área urbana de Aguazul (Casanare) impactando su población, economía e infraestructura, condición que se agrava tanto por el desarrollo de barrios sobre geoformas susceptibles a inundaciones (caños y vegas), como por el desconocimiento de sus habitantes a la amenaza a la cual se encuentran expuestos, por cuanto, la percepción suele construirse con antecedentes de los eventos ocurridos en los últimos años, caracterizados por alta frecuencia y poca magnitud, siendo preciso contrastar dicha percepción con registros históricos y modelos hidráulicos. Al igual que, en muchos otros municipios, en Aguazul se han construido estructuras de mitigación, que, aunque aportan a reducir los efectos de las crecientes, tienen una eficiencia limitada y persiste la amenaza sobre los barrios y las obras públicas, e incluso, se desconocen los criterios de diseño. Lo anterior, conduce a la necesidad de cuantificar dicha amenaza aun en condiciones de escasez de información, para esto se realizó un modelo hidráulico 2D en Iber para periodos de retorno de hasta 200 años, demandando, entre otros insumos, el levantamiento topográfico y cálculo del caudal para cada periodo de retorno. Como resultado se obtuvieron mapas que indican el grado de amenaza por inundación en el casco urbano de Aguazul debido al desbordamiento del río Unete, correspondiendo a 72.94% a amenaza alta, 13.92% media y 13.13% baja, afectando los barrios Porvenir, Las Vegas, Villaluz y Los Esteros, así como infraestructura pública como un colegio y el matadero municipal, demostrando que los sistemas de contención existentes resultan insuficientes para contrarrestar crecientes con periodo de retorno superiores a 10 años, hallazgos que permiten formular nuevas obras de mitigación y estrategias para una ocupación del territorio más segura y planificada.
 
-**Palabras clave**
+## Palabras clave
 
 Amenaza, modelación hidráulica, inundaciones, Aguazul, Iber 2D
 
 **From hazard´s perception to its quantification. Case study: Overflow of the Unete river in Aguazul, Casanare, Colombia**
 
-**Abstract**
+## Abstract
 
 Historically, the floods of the Unete River have affected the urban area of Aguazul (Casanare), impacting its population, economy and infrastructure, a condition that is aggravated both by the development of neighborhoods on geo forms susceptible to floods (pipes and vegas), as well as by the lack of knowledge of its inhabitants to the threat to which they are exposed, since, perception usually is constructed with a history of the events that have occurred in recent years, characterized by high frequency and low magnitude, it is necessary to contrast this perception with historical records and hydraulic models. As in many other municipalities, mitigation structures have been built in Aguazul, which, although they contribute to reducing the effects of floods, have limited efficiency, and the threat to neighborhoods and public works persists, and even unknown The design criteria. This leads to the need to quantify this threat even in conditions of information shortages; for this, a 2D hydraulic model was carried out in Iber for return periods of up to 200 years, demanding, among other inputs, the topographic survey and flow calculation for each return period. As a result, maps were obtained indicating the degree of flood threat in the urban area of Aguazul due to the overflow of the Unete River, corresponding to 72.94% of high, 13.92% average and 13.13% low threat, affecting the neighborhoods Porvenir, Las Vegas, Villaluz and Los Esteros, as well as public infrastructure such as a school and the municipal slaughterhouse, demonstrating that the existing containment systems are insufficient to offset floods with a return period of more than 10 years, findings that allow formulating new mitigation works and strategies for occupation of the safest and most planned territory.
 
-**Keywords**
+## Keywords
 
 Threat, hydraulic modeling, flooding, Aguazul, Iber 2D
 

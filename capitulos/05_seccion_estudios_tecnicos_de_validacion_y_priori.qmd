@@ -17,7 +17,7 @@ A partir del análisis de las alternativas de mitigación definidas en la secci�
 | 5      | Control de la extracción de arena que padecen las playas actualmente y los procesos de desforestación sobre los ríos, cada una de estas intervenciones aportan al desequilibrio del sistema                                                         | Sedimentológico, biótico      | Áreas deforestadas y fuentes de material                                                                 |
 | 6      | Al igual que La Rada, los representantes de Santander proponen la implantación y recuperación de las puntas de la bahía.                                                                                                                            | Hidrodinámica y Morfodinámica | Oleaje, corrientes, Transporte de sedimentos                                                             |
 
-**Reubicación**
+## Reubicación
 
 A partir del estudio de cambios en la línea de costa entre los años 1981 y 2018, es decir 37 años de intervalo, usando imágenes de sensores remotos (1981, 2004, 2007, 2011, 2015 y 2018), y tomando como base la regresión lineal del DSAS (LRR), se realizó la proyección de la línea de costa hasta el año 2028, el cual mostró como se perderían viviendas que se localizan en la primera línea, generando pérdida de infraestructura local (Fig. 7a). La alternativa de reubicación en el corregimiento de Santander de La Cruz es poco factible debido a dos razones principales. La primera, es la falta de confianza de los habitantes en los gobiernos locales o regionales, así como la poca capacidad y voluntad institucional para llevar a cabo una alternativa de gran magnitud, debido a que se requeriría de buena planificación, negociaciones con propietarios y amplios recursos económicos, que garanticen el éxito de una reubicación para minimizar los impactos en los pobladores y el corregimiento. La segunda, es el uso turístico y recreacional del 33% de las construcciones en el frente de playa (Fig. 7b), lo que dificultaría la voluntad de sus dueños frente a una negociación de relocalización por no poder ejercer la actividad económica. Solo el grupo de viviendas de uso residencial podrían ser manejadas con este tipo de intervención.
 
@@ -25,7 +25,7 @@ A partir del estudio de cambios en la línea de costa entre los años 1981 y 201
 
 **Figura 7.** Mapa de tendencia de evolución de línea de costa y proyección a 10 años (2028) (izquierda). Mapa de uso y estado de las viviendas, divido espacialmente en cuatro grupos (A, B, C y D) (derecha).
 
-**Recuperación de puntas**
+## Recuperación de puntas
 
 Para este análisis se realizó el levantamiento topográfico del acantilado a través de un Modelo de Elevación Digital, utilizando el Escáner Laser Terrestre (TLS) FARO FOCUS 3D X330 y el sistema de posicionamiento GeoMax Zenith35 Pro GNSS en modo estático como herramienta para la toma de los puntos de amarre. El procesamiento de los datos se ejecutó en el software SCENE para el ajuste y agrupación de los levantamientos topográficos realizados. Posteriormente se exportó la nube de puntos para realizar el modelo de elevación en el software ArcGIS utilizando el método de interpolación *Natural Neighbor.*
 
@@ -35,7 +35,7 @@ La Punta de la Cruz ha retrocedido desde 1981 una distancia de 170.20 m con una 
 
 **Figura 8.** Modelos de elevación y pendiente en el sector acantilado de Punta de la Cruz.
 
-**Fuentes de sedimentos**
+## Fuentes de sedimentos
 
 Se realizó el muestreo sedimentológico en zona de playa (15 estaciones) utilizando una pala sobre un recuadro superficial de 10×10 cm hasta conseguir 500 g de muestra aproximadamente, de acuerdo con el protocolo del Laboratorio de Instrumentación Marina de INVEMAR. De igual manera, se colectaron muestras de sedimento en fondos someros (10 estaciones) a través de una campaña de buceo con recolección manual hasta conseguir 500 g de muestra aproximadamente. Las muestras se almacenaron en bolsas para ser transportadas a INVEMAR donde se realizó el análisis de laboratorio. En los sedimentos se realizó análisis de granulometría por tamices, mineralogía óptica y calcimetría con el objetivo de determinar facies sedimentarias.
 
@@ -47,7 +47,7 @@ En Santander de La Cruz la arena es también una materia prima cuyo uso es desti
 
 **Figura 9.** Mapas de distribución de parámetros estadísticos de sedimentos: Media (**a**), Selección (**b**), Simetría (**c**), Curtosis (**d**) (+ estaciones de muestreo).
 
-**Alternativas basadas en ecosistemas**
+## Alternativas basadas en ecosistemas
 
 En cuanto a medidas blandas que incluyen ecosistemas, se realizó una revisión bibliográfica correspondiente a los ecosistemas de manglares y arrecifes por estar relacionados con las alternativas de mitigación propuestas y se identificaron las condiciones oceanográficas *in situ* (Tabla 6). Además, la oceanografía del área en estudios anteriores ha identificado que la zona costera del departamento de Córdoba está directamente influenciada por el oleaje \[17\], lo cual indica que los vientos y el oleaje son factores importantes en la configuración de la costa. En la zona marina frente a Santander de La Cruz, Ricaurte-Villota y Bastidas-Salamanca \[25\] emplearon datos del Reanálisis Regional de América del Norte (NARR) y realizaron la caracterización de los vientos en una estación a 35 km de Santander de la Cruz llamada BV\_03. Estos autores encontraron que la mayor magnitud del viento se registra entre los meses de diciembre a abril, alcanzando máximos para el mes de febrero con una dirección predominante norte-noroeste. En contraste, de mayo a noviembre disminuye la velocidad del viento, registrando mínimos en el mes de octubre y una dominancia de la dirección proveniente del oeste.
 
@@ -127,7 +127,7 @@ El comportamiento del oleaje a partir de la serie sintética de la boya virtual 
 
 **Figura 10.** Nivel del agua y dirección de procedencia del oleaje durante los días 24 al 26 de julio de 2018.
 
-**Reforestación de manglar**
+## Reforestación de manglar
 
 La reforestación de manglar es ideal para cualquier playa o zona estuarina, puesto que su presencia conlleva varios servicios ecosistémicos como transferencia al mar de detritos y material vegetal y como protección contra oleajes fuertes y continuos de forma que hace que se disipe dicha energía del oleaje \[38\]. Para evaluar la potencialidad de su reforestación en la zona de estudio, se realizó un análisis de ecosistemas (coberturas vegetales) empleando imágenes de satélite (2012 y 2018) e imágenes obtenidas durante la salida de campo empleando un Drone DJI Phantom 4 Pro, así como mediciones de variables fisicoquímicas (temperatura y salinidad) y observaciones de campo sobre los cuerpos hídricos existentes.
 
@@ -153,7 +153,7 @@ La temperatura del agua fluctuó entre 29.70 y 33.80 °C y la salinidad entre 24
 </tbody>
 </table>
 
-**Intervención con arrecifes artificiales**
+## Intervención con arrecifes artificiales
 
 Los arrecifes artificiales se han utilizado con éxito en algunos países de Europa y Sudáfrica para la recuperación o formación de playas, así como en la protección de caminos e infraestructura \[39\]. Adicionalmente, pueden servir como base para nuevos ecosistemas, albergando variedad de especies marinas. Para identificar su potencialidad en la zona de estudio, se realizaron estudios que incluyeron caracterización del fondo marino (sustrato con perfilador de subsuelo), hidrodinámica de la bahía (mediciones de oleaje y nivel con correntómetro acústico) y propiedades físicas de la columna de agua (temperatura con sonda y sólidos suspendidos totales mediante determinación en laboratorio en muestra de agua superficial). Se tuvo como base la batimetría levantada en la zona (Fig. 13), la cual permitió identificar posibles zonas de restauración. De igual manera se muestra un perfil transversal 2D (Fig. 13 y 14).
 

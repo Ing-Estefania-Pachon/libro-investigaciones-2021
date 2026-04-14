@@ -37,7 +37,7 @@ De acuerdo a lo planteado mediante la Ecuación 1, es posible obtener el riesgo 
 
   - > Parámetros geotécnicos: Bases de datos de los proyectos de la Universidad de Medellín.
 
-**CONFLICTO DE INTERESES**
+## CONFLICTO DE INTERESES
 
 > Los autores no declaran conflicto de intereses
 

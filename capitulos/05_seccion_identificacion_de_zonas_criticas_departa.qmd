@@ -22,7 +22,7 @@ En cuanto la vulnerabilidad de la población y los ecosistemas por erosión, la 
 
 El Monitoreo se hace a partir de la toma de datos estacionales, levantados *in situ* con DGPS y con el fin de conocer fluctuaciones intranuales, la cual es independiente de metodologías que usan otro tipo de sensores remotos y se emplean para temporalidades más amplias. En este caso, los resultados también permiten identificar una tendencia a corto plazo y es óptima para la toma de decisiones. Para este monitoreo, los levantamientos de líneas de costa se llevaron a cabo entre 2015 y 2019, siendo tomados en época seca y época húmeda, esto para observar los cambios estacionales, definidos por Ricaurte-Villota y Bastidas-Salamanca \[25\].
 
-**Cambios de la línea de costa**
+## Cambios de la línea de costa
 
 La línea de costa se adquirió en campo a través de recorridos paralelos al mar, delineando la zona de cambio de pendiente en las playas, es decir el límite entre el frente de playa y la playa trasera, igualmente se tomó en la zona de acantilados el borde alto, esta definición es usada como variación morfodinámica y permite determinar la variación estacional \[26\]. Esta adquisición se realizó mediante tecnología GNSS con corrección diferencial post-proceso, posteriormente se estimaron los cálculos de los cambios cuantitativos (acumulación y/o erosión) de las líneas de costa, obteniendo su evolución.
 

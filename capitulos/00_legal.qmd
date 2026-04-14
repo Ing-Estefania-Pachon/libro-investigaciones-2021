@@ -5,15 +5,15 @@ number-sections: false
 
 Iván Duque Márquez
 
-**Presidente de la República**
+## Presidente de la República
 
 Eduardo José González Angulo
 
-**Director, Unidad Nacional para la Gestión del Riesgo de Desastres**
+## Director, Unidad Nacional para la Gestión del Riesgo de Desastres
 
 Gerardo Jaramillo Montenegro
 
-**Subdirector General, Unidad Nacional para la Gestión del Riesgo de Desastres**
+## Subdirector General, Unidad Nacional para la Gestión del Riesgo de Desastres
 
 Lina Dorado
 
@@ -21,7 +21,7 @@ Lina Dorado
 
 Comisión Nacional Asesora para la Investigación en Gestión del Riesgo de Desastres (CNAIGRD)
 
-**Editores**
+## Editores
 
 > Lina Dorado, Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD)
 > 
@@ -53,7 +53,7 @@ Comisión Nacional Asesora para la Investigación en Gestión del Riesgo de Desa
 > 
 > Cristian Jaimes, Instituto Distrital de Gestión de Riegos y Cambio Climático (IDIGER)
 
-**Equipo técnico, Subdirección para el Conocimiento del Riesgo, UNGRD**
+## Equipo técnico, Subdirección para el Conocimiento del Riesgo, UNGRD
 
 Luisa Cadena, Subdirección para el Conocimiento del Riesgo
 
@@ -61,21 +61,21 @@ Doralba Restrepo M., Subdirección para el Conocimiento del Riesgo
 
 Mauricio Romero Torres, Subdirección para el Conocimiento del Riesgo
 
-**Coordinación editorial**
+## Coordinación editorial
 
 Mauricio Romero Torres
 
-**Revisión de estilo**
+## Revisión de estilo
 
 Kelly Barbosa
 
-**Diseño y diagramación**
+## Diseño y diagramación
 
 Oficina de Comunicaciones: Jonathan Reyes
 
 Subdirección para el Conocimiento del Riesgo: Hugo Niño, Alejandro Herrera, Hugo Vanstralen y Diana Mancera
 
-**Proceso de arbitraje**
+## Proceso de arbitraje
 
 Revisión por pares doble ciega para cada capítulo
 
@@ -93,7 +93,7 @@ sin el permiso previo de la UNGRD.
 
 Distribución gratuita – versión digital
 
-**Citación sugerida**
+## Citación sugerida
 
 Comisión Nacional Asesora para la Investigación en Gestión del Riesgo de Desastres (CNAIGRD) (Eds.). 2021. *Investigaciones en gestión del riesgo de desastres para Colombia. Avances, perspectivas y casos de estudio*. Unidad Nacional para la Gestión del Riesgo de Desastres. Bogotá, Colombia. 384 p.
 

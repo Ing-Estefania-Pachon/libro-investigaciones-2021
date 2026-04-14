@@ -6,7 +6,7 @@ number-sections: false
 
 Los autores no declaran conflicto de intereses.
 
-**IDENTIFICACIONES DE AUTORES**
+## IDENTIFICACIONES DE AUTORES
 
 Rafael Muñoz Quintero [<span class="underline">https://orcid.org/0000-0002-6359-3347</span>](https://orcid.org/0000-0002-6359-3347)
 

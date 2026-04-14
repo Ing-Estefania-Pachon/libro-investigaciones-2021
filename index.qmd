@@ -9,4 +9,4 @@ number-sections: false
 
 # Investigaciones en gestión del riesgo de desastres para Colombia
 
-Bienvenido a la versión digital.
+Navegue por el contenido utilizando el menú lateral.

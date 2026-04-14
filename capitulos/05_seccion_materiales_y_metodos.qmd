@@ -331,7 +331,7 @@ Para la evaluación del riesgo de sequía, la pérdida \(p\) en la Ecuación (11
 
 en donde \(P_{i}\) es la pérdida económica para el escenario \(i\), \(A\) es el área de la unidad de tierra cultivada, \(\text{PV}\) es la valoración económica del cultivo, \(Y_{x}\) es el rendimiento máximo (calculado bajo condiciones óptimas) y \(Y_{i}\) es el rendimiento para el escenario \(i\) bajo condiciones de déficit hídrico.
 
-**CONFLICTO DE INTERESES**
+## CONFLICTO DE INTERESES
 
 Los autores no declaran conflicto de intereses.
 
@@ -340,11 +340,11 @@ Los autores no declaran conflicto de intereses.
 
 Recopilación, búsqueda, selección, filtración de información y de datos de los últimos 10 años, revisión bibliográfica a partir de diferentes fuentes como documentos oficiales, textos escritos y digítales; nacionales e internacionales identificando los aspectos asociados al manejo, salud y seguridad de los animales en la gestión del riesgo de los desastres y su papel en la sociedad, que permiten llevar a cabo una adecuada guía para la toma de decisiones frente a los animales en emergencias y desastres, garantizando la seguridad del personal operativo que interviene. Se priorizan el análisis a las acciones que contemplan estándares asociados al enfoque One Health y se prepara el contenido de una manera significativa y agregándole contenido relevante por parte de cada uno de los autores.
 
-**CONFLICTO DE INTERESES**
+## CONFLICTO DE INTERESES
 
 Los autores declaran no tener conflicto de interés.
 
-**IDENTIFICACIÓN POR AUTOR**
+## IDENTIFICACIÓN POR AUTOR
 
 Diego Alexander Hernández Pulido [<span class="underline">CvLAC</span>](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001613874)
 
@@ -979,15 +979,15 @@ Posteriormente, en cada sitio critico se realizaron modelos conceptuales de alte
 
 **Figura 16.** Esquema metodológico propuesto como modelo de gestión del riesgo para la erosión costera.
 
-**CONFLICTO DE INTERESES**
+## CONFLICTO DE INTERESES
 
 Los autores no declaran conflicto de intereses
 
-**AGRADECIMIENTOS**
+## AGRADECIMIENTOS
 
 A la Corporación Autónoma Regional de los Valles del Sinú y San Jorge – CVS, Córdoba, bajo los convenios 020 de 2015, 022 de 2017 y 022 de 2018. A los investigadores del programa de Geociencias Marinas y Costeras que han participado en la investigación de la zona costera del departamento de Córdoba en especial Ana Caicedo, Mauricio Bejarano Espinosa, Cesar García Llano, Juan Sebastián Ponce Bastidas, Silvio Andrés Ordóñez Zúñiga y Karla Vanessa Castro Ramírez, quienes aportaron a la propuesta y análisis de las alternativas. A las comunidades y entes territoriales de los municipios costeros del departamento y a los funcionarios de la CVS que han aportado a la adquisición de información durante de las salidas de campo dentro de la ejecución de los convenios. El numero de contribución del INVEMAR es 1264.
 
-**IDENTIFICACIÓN DE AUTOR**
+## IDENTIFICACIÓN DE AUTOR
 
 Oswaldo Coca Domínguez <https://orcid.org/0000-0002-3987-4376>
 
@@ -995,7 +995,7 @@ Constanza Ricaurte Villota <https://orcid.org/0000-0003-1554-4994>
 
 David F. Morales Giraldo [<span class="underline">https://orcid.org/0000-0003-2531-6143</span>](https://orcid.org/0000-0003-2531-6143)
 
-**BIBLIOGRAFÍA**
+## BIBLIOGRAFÍA
 
 1.  > Martínez-Iglesias, J. C., Areces, A. J., Quintana, M., Viña, L., Zúñiga, A., y Beyris, A. (2007). Lineamientos metodológicos para la gestión integrada de la zona marina–costera (GIZMC) Cuba. *Serie Oceanológica*, (3), 1–37.
 
@@ -1111,21 +1111,21 @@ David F. Morales Giraldo [<span class="underline">https://orcid.org/0000-0003-25
 
 <sup>\*</sup>Autor de contacto: Paula Andrea Villegas González. Instituto Geofísico, Pontificia Universidad Javeriana. Carrera 7 No. 40 – 62, Bogotá, Colombia. Correo-e: [<span class="underline">pvillegas@javeriana.edu.co</span>](mailto:pvillegas@javeriana.edu.co)
 
-**Resumen**
+## Resumen
 
 Los análisis de riesgo por inundación en Colombia, se han enfocado en la modelación física de la amenaza y en la valoración de la vulnerabilidad física y social, pero no se han integrado estos dos análisis en la evaluación del riesgo. El trabajo presentado hace énfasis en la inclusión de los elementos sociales y el conocimiento de las comunidades, como base para la generación de modelos de evaluación del riesgo. Específicamente, se propone un modelo para hacer modelos, en el marco de procesos de participación local. Para esto se utiliza la metodología GAIA. Los artefactos desarrollados son: MOJANA, MOJANACOOP y MOJANAREAL, los cuales reflejan en su diseño los principales componentes del metamodelo. Las variables y procesos a modelar se representan a través de las reglas, que permiten integrar el fenómeno de la inundación y las características del sistema social. Para el desarrollo de los modelos se utiliza el caso de estudio de la ecorregión de la Mojana y se pudo concluir que las variables más importantes para analizar la vulnerabilidad social son: la condición de habitabilidad, las actividades productivas, los procesos de cooperación y, el acceso a la salud y educación de las comunidades locales. Para el caso específico de la ecorregión de la Mojana, la vulnerabilidad social es media y esta se encuentra relacionada con las formas de adaptación a los procesos de inundación.
 
-**Palabras clave**
+## Palabras clave
 
 Amenaza, comunidades, inundación, modelación, riesgo, vulnerabilidad
 
 **Flood risk management: a metamodel for the development of participatory artifacts. Case study in the ecoregion of La Mojana (Colombia)**
 
-**Abstract**
+## Abstract
 
 Flood risk analyzes in Colombia have been focused on the threat of physical modeling and social vulnerability and physical assessment, yet these two analyzes have not been integrated into the risk assessment. The research goal is to include the social elements and the communities' knowledge for the risk assessment models generation. Specifically, the research proposes a model to make models with the local participation processes. The GAIA methodology was used. The artifacts developed are MOJANA, MOJANACOOP, and MOJANAREAL. They reflect in their design the main metamodel components. The variables and processes were represented through the rules. The rules integrate the flooding phenomenon and social system characteristics. For the model's development, the case study is the Mojana ecoregion. In conclusion, the essential variables to analyze social vulnerability are the habitability condition, the productive activities, the cooperation processes, and the access to health and education of local communities. In the specific case of the Mojana ecoregion, social vulnerability is medium. The vulnerability was related to the types of adaptation to flooding processes.
 
-**Keywords**
+## Keywords
 
 Communities, flooding, hazard, modelling with stakeholders, risk, vulnerability
 

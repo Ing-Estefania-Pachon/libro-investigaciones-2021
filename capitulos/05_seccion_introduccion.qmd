@@ -196,7 +196,7 @@ Reconocer la sostenibilidad de los procesos de reasentamiento social como medida
 
 Colombia y el resto de los países de la región, tanto los gobiernos como sus pobladores han conocido muy bien los efectos y la devastación ocasionada por los diferentes eventos como inundaciones, terremotos, temporada de huracanes, erupciones volcánicas, deslizamientos, incendios y sequias entre otros. En la mayoría de los incidentes declarados emergencias o desastres, muchos animales domésticos y silvestres pierden sus vidas, son abandonados o dejan sus nichos naturales, lo que puede aumentar el riesgo de transmisión de enfermedades zoonóticas endémicas de las zonas afectadas, además de las consecuencias sobre la economía, la inocuidad y seguridad alimentaria. Tanto en el caso de animales de compañía, como animales de producción y especies silvestres en áreas rurales y urbanas. Históricamente en muchas emergencias los animales son abandonados para que se valgan por si mismos mientras que el bienestar del humano es la prioridad. Aplicando el concepto One Health se tienen en cuenta los recursos, el talento humano, la infraestructura física y la interdependencia entre la salud humana y la de los demás seres vivos animales y el ambiente \[1\].
 
-**Caja 1. One Health**
+## Caja 1. One Health
 
 “El concepto de «One Health (Una salud)» corresponde al enfoque mundial creado para fortalecer la colaboración interdisciplinar y la comunicación y las alianzas entre médicos, veterinarios y otros profesionales de la salud en la promoción de fortalezas en el liderazgo y la gestión para trabajar coordinadamente en la salud humana y animal” \[2\].
 

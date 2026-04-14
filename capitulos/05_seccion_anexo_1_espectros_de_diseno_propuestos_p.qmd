@@ -64,7 +64,7 @@ En este Anexo se presentan los espectros de diseño propuestos para todas las ca
 
 ![](../media/image103.png)
 
-**CONFLICTO DE INTERESES**
+## CONFLICTO DE INTERESES
 
 Los autores no declaran conflicto de intereses
 
