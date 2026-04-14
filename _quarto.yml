@@ -5,8 +5,9 @@ project:
 book:
   title: "Investigaciones en gestión del riesgo de desastres para Colombia"
   chapters:
-    - capitulos/00_pagina_legal.qmd
     - index.qmd
+    - capitulos/00_intro_perdida.qmd
+    - capitulos/00_pagina_legal.qmd
 
 format:
   html:
