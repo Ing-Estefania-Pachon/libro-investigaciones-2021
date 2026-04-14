@@ -7,6 +7,6 @@ title-block-banner: "https://images.unsplash.com/photo-1451187580459-43490279c0f
 number-sections: false
 ---
 
-Bienvenido al libro virtual: **Investigaciones en gestión del riesgo de desastres para Colombia**.
+# Investigaciones en gestión del riesgo de desastres para Colombia
 
-Utilice el menú lateral para navegar por las diferentes secciones del documento.
+Bienvenido a la versión digital.
