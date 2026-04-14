@@ -1,0 +1,502 @@
+---
+title: "BIBLIOGRÁFIA"
+number-sections: false
+---
+
+
+1.  > American Society of Civil Engineers. *Minimum Design Loads for Buildings and Other Structures*. ASCE 7 - 10/16.
+
+2.  > Luco, N., Ellingwood, B., Hamburger, R.O., Hooper, J.D., Kimball, J.K, and Kircher, C. (2007). Risk-targeted versus current seismic design maps for the conterminous United States. *SEAOC 2007 Convention Proceedings*.
+
+3.  > Esteva, L. (1967). Criterios para la construcción de espectros para diseño sísmico. *Tercer Simposio Panamericano de Estructuras.* Universidad Central de Venezuela. Caracas.
+
+4.  > Rosenblueth E. (1976). Optimum design for infrequent disturbances. *Journal of the Structural Division ST9*, 1807-1825.
+
+5.  > Salgado, M., Ordaz, M., Cardona, O.D. (2017). Coeficientes de diseño sismo resistente óptimos para Colombia. *VIII Congreso Nacional de Ingeniería Sísmica*. Barranquilla.
+
+6.  > Salgado, M., Ordaz, M., Singh, K.S., Cardona, O.D., Reinoso, E., Aguado, A., Zuloaga, D., Huerta, B., Bernal, G. (2018). Homogeneous and Continous Probabilistic Seismic Hazard Model for Latin America and The Caribbean. *16th European Conference on Earthquake Engineering*. Tessalonniki.
+
+7.  > Ordaz, M., Martinelli F., Aguilar, A., Arboleda, J., Meletti, C., D'Amico, V. (2018). R-CRISIS. Program for computng seismic hazard. [<span class="underline">www.r-crisis.com</span>](http://www.r-crisis.com)
+
+8.  > Departamento Nacional de Planeación. (2015). *Tipologías Departamentales y Municipales: Una propuesta para comprender las entidades territoriales colombianas*. Dirección de Desarrollo Territorial Sostenible. Grupo de Estudios Territoriales. Recuperado de https://colaboracion.dnp.gov.co/CDT/Estudios%20Econmicos/2015may28%20Tipologias.pdf
+
+**2**
+
+<span id="_heading=h.yqdhanu41zca" class="anchor"></span>Capítulo 2: Mitigación del riesgo sísmico de la infraestructura escolar
+
+**Rafael Fernández<sup>1\*</sup>, Luis Yamin<sup>1</sup>, Juan Carlos Reyes<sup>1</sup>, Angie Garcia<sup>1</sup>, Gustavo Fuentes<sup>1</sup> & Juan Echeverry<sup>1</sup>**
+
+<sup>1</sup>Centro de Investigación en Materiales y Obras Civiles, Departamento de Ingeniería Civil y Ambiental, Universidad de los Andes, Bogotá, Colombia
+
+\*Autor de contacto: Rafael Fernández. Centro de Investigación en Materiales y Obras Civiles, Departamento de Ingeniería Civil y Ambiental, Universidad de los Andes, Bogotá, Colombia. Correo-e: [<span class="underline">ri.fernandez1110@uniandes.edu.co</span>](mailto:ri.fernandez1110@uniandes.edu.co)
+
+**Resumen**
+
+El desarrollo de planes de mitigación del riesgo de estructuras del sector escolar es una prioridad para los gobiernos por la importancia del sector, la vulnerabilidad de sus ocupantes y la vulnerabilidad de sus edificaciones evidenciada en sismos recientes. El objetivo principal de este capítulo es presentar una metodología para el desarrollo de estos planes de mitigación. La metodología propuesta incluye la identificación de tipologías principales y la consolidación del portafolio de infraestructura expuesta, el análisis del riesgo de desastre y el planteamiento de planes para la reducción del riesgo. Se presentan las tipologías escolares comunes identificadas en diferentes países y dos casos de estudio desarrollados por los autores en Colombia. Finalmente, se discuten los desafíos más importantes tanto para el desarrollo de los planes como en su posible implementación. La metodología y los resultados presentados en este documento buscan sentar unas bases para la evaluación y el desarrollo de planes de mitigación del riesgo para la infraestructura escolar.
+
+**Palabras clave**
+
+Infraestructura escolar, mitigación, reforzamiento, riesgo, tipologías
+
+**Seismic Risk Mitigation for School Infrastructure**
+
+**Abstract**
+
+The development of risk mitigation plans for school infrastructure is a priority for the governments due to the sector's importance, the vulnerability of its occupants, and the vulnerability of the buildings identified in recent seismic events. The main objective of this chapter is to present a methodology for the development of these mitigation plans. The proposed methodology includes the identification of the main typologies and the consolidations of the school buildings portfolio, the disaster risk assessment, and the proposal of risk reduction plans. The most common school typologies are presented with two study cases developed by the authors in Colombia. Finally, the most critical challenges are discussed both for the development of the plans and their possible implementation. The methodology and the results presented in this document aims to establish the bases for risk reduction plans in school infrastructure.
+
+**Keywords**
+
+Mitigation, retrofitting, risk, school’s infrastructure, typologies
+
+
+1\. Wilhite, D. A. (1993). The Enigma of Drought. En: D. A. Wilhite (ed.), *Drought Assessment, Management, and Planning: Theory and Case Studies*. Boston, MA: Springer US; pp. 3-15. https://doi.org/10.1007/978-1-4615-3224-8\_1
+
+2\. UNGRD (Unidad Nacional para la Gestión del Riesgo de Desastres), Ingeniar Risk Intelligence. (2018). *Atlas de Riesgo de Colombia: revelando desastres latentes*. Bogotá. 264 p.
+
+3\. Mckee, T. B., Doesken, N. J. & Kleist, J. (1993, January). *The relationship of drought frequency and duration to time scales*. AMS 8th Conference on Applied Climatology. Anaheim, California.
+
+4\. IDEAM. (2019). *Estudio Nacional del Agua 2018*. Bogota. 452 p.
+
+5\. UNGRD - (Unidad Nacional para la Gestión del Riesgo de Desastres). (2016). *Fenómeno El Niño: Análisis comparativo 1997-1998/2014-2016*. Bogotá.142 p.
+
+6\. Melo, S., Riveros, L., Romero, G., Álvarez, A., Diaz, C. & Calderon, S. (2017). *Efectos Económicos de Futuras Sequías en Colombia: Estimación a partir del Fenómeno El Niño 2015*. Bogotá.
+
+7\. Salgado-Gálvez, M.A., Bernal, G.A., Zuloaga, D., Marulanda, M. C., Cardona, O-D. & Henao, S. (2017). Probabilistic Seismic Risk Assessment in Manizales, Colombia: Quantifying Losses for Insurance Purposes. *International Journal of Disaster Risk Science*, 8, 296–307. https://doi.org/10.1007/s13753-017-0137-6
+
+8\. Bernal GA, Salgado-Gálvez MA, Zuloaga D, Tristancho J, González D, Cardona O-D. (2017). Integration of Probabilistic and Multi-Hazard Risk Assessment Within Urban Development Planning and Emergency Preparedness and Response: Application to Manizales, Colombia. *International Journal of Disaster Risk Science,* 8(3), 270-83. https://doi.org/10.1007/s13753-017-0135-8
+
+9\. Cardona, O-D., Ordaz, M. G., Mora, M. G., Salgado-Gálvez, M. A, Bernal, G. A., Zuloaga-Romero, D, et al. (2014). Global risk assessment: A fully probabilistic seismic and tropical cyclone wind risk assessment. *International Journal of Disaster Risk Reduction*, 10, Part B, 461-76. https://doi.org/10.1016/j.ijdrr.2014.05.006
+
+10\. Salgado-Gálvez MA, Cardona OD, Carreño M, Barbat A. (2015). Probabilistic seismic hazard and risk assessment in Spain. En A. H. Barbat (Ed). *Monograph Series in Earthquake Engineering*. https://www.scipedia.com/public/Salgado-Galvez\_et\_al\_2015a
+
+11\. Torres, M. A., Jaimes, M. A., Reinoso, E. & Ordaz, M. (2014). Event-based approach for probabilistic flood risk assessment. *International Journal of River Basin Management,* 12(4), 377-89. https://doi.org/10.1080/15715124.2013.847844
+
+12\. Jenkins, S., Magill, C., McAneney. J. & Blong, R. (2012). Regional ash fall hazard I: a probabilistic assessment methodology. *Bulletin of Volcanology*, 74(7), 1699-712. https://doi.org/10.1007/s00445-012-0627-8
+
+13\. Quijano, J. A., Jaimes, M. A , Torres, M. A., Reinoso, E., Castellanos, L., Escamilla, J., et al. (2015). Event-based approach for probabilistic agricultural drought risk assessment under rainfed conditions. *Natural Hazards*, 76(2), 1297-318. https://doi.org/10.1007/s11069-014-1550-4
+
+14\. Bernal, G. A., Escovar, M. A., Zuloaga, D., & Cardona, O. D. (2017). Agricultural Drought Risk Assessment in Northern Brazil: An Innovative Fully Probabilistic Approach. En V. Marchezini, B. Wiesner, S. Saito, L. Londe (Eds.), *Reduction of Vulnerability to Disasters: from Knowledge to Action*. RiMa Edito, pp. 331-56.
+
+15\. Steduto, P., Hsiao, T. C., Fereres, E. & Raes, D. (2012). *Crop yield response to water.* FAO Irrigation and Drainage Paper 66, pp 174-180.
+
+16\. UNISDR (United Nations International Strategy for Disaster Reduction). (2009). *Terminología sobre Reducción del Riesgo de Desastres.* Estrategia Internacional para la Reducción Desastres de las Naciones Unidas, 43 p.
+
+17\. Funk, C., Peterson, P., Landsfeld, M., Pedreros, D., Verdin, J., Shukla, S., et al. (2015) The climate hazards infrared precipitation with stations - A new environmental record for monitoring extremes. *Scientific Data*, *2*, 150066, 1-21. https://doi.org/10.1038/sdata.2015.66
+
+18\. Sheffield, J., Goteti. G. & Wood, E. F. (2006) Development of a 50-year high-resolution global dataset of meteorological forcings for land surface modeling. *Journal of Climate, 19*(13), 3088-111. https://doi.org/10.1175/JCLI3790.1
+
+19\. Copernicus Climate Change Service. (2017). *ERA5: Fifth generation of ECMWF atmospheric reanalyses of the global climate.* Copernicus Climate Change Service Climate Data Store (CDS). https://cds.climate.copernicus.eu/cdsapp\#\!/home
+
+20\. Urrea, V., Ochoa, A. & Mesa, O. (2017). V*alidación de la base de datos de precipitación CHIRPS para Colombia a escala diaria, mensual y anual en el periodo 1981-2014.* Universidad Nacional de Colombia Sede Medellín.
+
+21\. Verdin, A, Rajagopalan, B., Kleiber, W. & Funk. C. (2015). A Bayesian kriging approach for blending satellite and ground precipitation observations. *Water Resources Ressearch, 51*(2), 908-21. https://doi.org/10.1002/2014WR015963
+
+22\. IPCC (Intergovernmental Panel on Climate Change). (2013). *Climate Change 2013 - The Physical Science Basis*. Cambridge: Cambridge University Press; 1535 p.
+
+23\. Mishra, A. K. & Singh, V. P. (2010). A review of drought concepts. *Journal of Hydrology, 391*,1-2, 202-16. https://doi.org/10.1016/j.jhydrol.2010.07.012
+
+24\. IDEAM (Instituto de Hidrología, Meteorología y Estudios Ambientales). (2020). *Coberturas Nacionales. Mapas de coberturas de la tierra. Ecosistemas. Monitoreo de suelos y coberturas de la tierra*. http://www.ideam.gov.co/web/ecosistemas/coberturas-nacionales
+
+25\. DANE (Departamento Administrativo Nacional de Estadística). (2016). *III Censo Nacional Agropecuario 2014.* Tomo 2, Resultados.
+
+26\. DANE (Departamento Administrativo Nacional de Estadística). (2019). *Encuesta Nacional Agropecuaria - ENA 2017*. Bogotá, pp. 1-31.
+
+27\. MADR (Ministerio de Agricultura y Desarrollo Rural). (2016). *Producción nacional por producto*. Evaluaciones Agropecuarias del Ministerio de Agricultura y Desarrollo Rural. Agronet.
+
+28\. FAO/IIASA/ISRIC/ISSCAS/JRC. *Harmonized World Soil Database (version 1.2)*. (2012). FAO, Rome, Italy and IIASA, Laxenburg, Austria.
+
+29\. FAO (Food and Agriculture Organization of the United Nations) (2018). *The impact of disasters and crises on agriculture and food security*. 168 p.
+
+30\. Banimahd, S. A. & Khalili, D. (2013). Factors Influencing Markov Chains Predictability Characteristics, Utilizing SPI, RDI, EDI and SPEI Drought Indices in Different Climatic Zones. *Water Resources Management, 27*(11), 3911-28. https://doi.org/10.1007/s11269-013-0387-z
+
+31\. Wilks, D. S. (2006). *Statistical methods in the atmospheric sciences*. International Geophysics Series. 464 p.
+
+32\. Allen, R. G., Pereira, L. S., Raes, D. & Smith, M. (1998). Crop evapotranspiration: Guidelines for computing crop requirements. *Irrigation and Drainage Paper No 56*, FAO. 300 p.
+
+33\. Raes, D. (2009). *The ETo Calculator Reference Manual.* Food and Agricultural Organization of the United Nations (FAO), Rome, pp 1-38.
+
+34\. Wilhite, D. A. & Glantz, M. H. (1985). Understanding the Drought Phenomenon: The Role of Definitions. *Water International, 10*(3), 111-20. https://doi.org/10.1080/02508068508686328
+
+35\. Jayanthi, H. Assessing the agricultural drought risks for principal rainfed crops due to changing climate scenarios using satellite estimated rainfall in Africa. *Background Paper GAR Global Assessment Report on Disaster Risk Reduction.* 28 p.
+
+36\. Palmer W. C. (1965). *Meteorological Drought.* U.S. Weather Bureau, Research Paper No. 45. 58 p.
+
+37\. Mckee, T. B., Doesken, N. J. & Kleist, J. (1993). The relationship of drought frequency and duration to time scales. *8th Conference Applied Climatology*, pp. 179-84.
+
+38\. Byun, H. R. & Wilhite, D. A. (1999). Objective quantification of drought severity and duration. *Journal of Climate, 12*(9):2747-56. https://doi.org/10.1175/1520-0442(1999)012\<2747:OQODSA\>2.0.CO;2
+
+39\. Tsakiris, G., Pangalou, D. & Vangelis, H. (2007). Regional drought assessment based on the Reconnaissance Drought Index (RDI). *Water Resour Managament, 21*(5), 821-33. https://doi.org/10.1007/s11269-006-9105-4
+
+40\. Vicente-Serrano, S. M., Beguería, S. & López-Moreno, J. I. (2010). A multiscalar drought index sensitive to global warming: The standardized precipitation evapotranspiration index. *Journal of Climate, 23*(7), 1696-718. https://doi.org/10.1175/2009JCLI2909.1
+
+41\. Verdin, A., Funk, C., Rajagopalan, B. & Kleiber, W. (2016). Kriging and local polynomial methods for blending satellite-derived and gauge precipitation estimates to support hydrologic early warning systems. *IEEE Transactions on Geoscience and Remote Sensing, 54*(5), 2552-62. https://doi.org/10.1109/TGRS.2015.2502956
+
+42\. ArcGIS. (2020). C*ómo funcional el kriging. Conceptos del conjunto de herramientas de interpolación ráster*. https://desktop.arcgis.com/es/arcmap/10.3/tools/spatial-analyst-toolbox/understanding-interpolation-analysis.htm
+
+43\. Li, J. & Heap, A. D. (2008). A Review of Spatial Interpolation Methods for Environmental Scientists. *Geoscience Australia,* Record 2008/23, 137.
+
+44\. Sheppard, J. & Hoyle, F. (2018). *Water availability. Healthy Soils for Sustainable Farms programme*. Avon Catchment Council, Department of Agriculture and Food, Western Australia. http://soilquality.org.au/factsheets/water-availability
+
+45\. Raes, D., Steduto, P., Hsiao. T. C. & Fereres, E. (2011). *FAO cropwater productivity model to simulate yield response to water AquaCrop.* Reference Manual of AQUACROP. 56 p.
+
+**4**
+
+<span id="_heading=h.ige8jje1k6li" class="anchor"></span>Capítulo 4: Contribución de la geodesia espacial en la gestión del riesgo en Colombia. Casos de estudio
+
+**Héctor Mora-Páez<sup>1\*</sup>, Fredy Díaz Mila<sup>1</sup>, Takeshi Sagiya<sup>2</sup>, Leidy Giraldo Londoño<sup>1</sup> & Yuli Corchuelo Cuervo<sup>1</sup>**
+
+<sup>1</sup>Servicio Geológico Colombiano, Dirección de Geoamenazas, Grupo Investigaciones Geodésicas Espaciales, Diagonal 53 \# 34-53, Bogotá, Colombia
+
+<sup>2</sup>Centro de Investigación en Mitigación de Desastres, Universidad de Nagoya, Japón
+
+\*Autor de contacto: Héctor Mora Páez, Servicio Geológico Colombiano, Grupo Investigaciones Geodésicas Espaciales, Diagonal 53 \# 34-53, Bogotá, Colombia. Correo-e: [<span class="underline">hmora@sgc.gov.co</span>](mailto:hmora@sgc.gov.co)
+
+**Resumen**
+
+Con el fin de avanzar en el conocimiento de los fenómenos que ocurren en la corteza terrestre en la esquina noroccidental de Suramérica y suroriental de Centroamérica, región de alta complejidad tectónica, el Servicio Geológico Colombiano emplea diferentes tipos de instrumentación, métodos y técnicas, y entre ellas de geodesia espacial, correspondiente a la aplicación en estudios geodinámicos de los conceptos de geodesia tectónica y geodesia de imágenes. En geodesia espacial, basado en posicionamiento GNSS de alta precisión, se han determinado las velocidades en estaciones geodésicas permanentes de operación continúa localizadas en las placas de Nazca, Suramérica y Caribe, y en los bloques Norte de los Andes y Panamá. Estas velocidades permiten confirmar la subducción oblicua de la placa de Nazca por debajo de Suramérica; la acumulación de deformación en el límite de placas Nazca-Suramérica en el margen Colombia-Ecuador, sugiriendo la posibilidad de generación de un sismo fuerte en esta zona; el movimiento general en sentido sur-norte del Bloque Norte de los Andes, hasta la latitud 7.5°N, donde presentan cambio de tendencia hacia el noreste; la convergencia de la placa Caribe en dirección sureste, así como la colisión del bloque de Panamá con respecto al Bloque Norte de los Andes. El concepto de geodesia de imágenes se ha orientado por ahora, al estudio de subsidencia en la ciudad de Bogotá mediante la aplicación de técnicas interferométricas de radar de apertura sintética-InSAR, empleando imágenes del sensor TerraSAR-X, cuyos resultados, combinados con los obtenidos con GPS, permiten establecer valores cuantitativos de este fenómeno en varios sectores de la ciudad. Los resultados obtenidos en las dos aplicaciones constituyen importante insumo en la gestión del riesgo, los primeros, a ser considerados en los estudios de la amenaza sísmica del país, y los segundos, en la planeación urbana de la ciudad de Bogotá, en especial para considerar aspectos del crecimiento horizontal y vertical de las construcciones.
+
+**Palabras clave**
+
+GNSS, geodinámica, Bloque Norte de los Andes, InSAR, subsidencia, tectónica de placas
+
+**Contribution of Space Geodesy in Risk Management in Colombia. Study cases**
+
+**Abstract**
+
+In order to advance in the knowledge of the phenomena that occur in the earth's crust in the northwestern corner of South America and southeast of Central America, a region of high tectonic complexity, the Colombian Geological Survey has been using different types of instrumentation, methods and techniques, and among them of space geodesy, corresponding to the application in geodynamic studies of the tectonic and imaging geodesy concepts. Space geodesy, based on high-precision GNSS positioning, velocities have been estimated at GPS permanent stations of continuous operation located on the Nazca, South America, and Caribbean plates, and also in the North Andean and Panama blocks. These velocities confirm the oblique subduction of the Nazca plate beneath South America plate; the accumulation of deformation at the Nazca-South America plate boundary on the Colombia-Ecuador margin, suggesting the possibility of generating a strong earthquake in this area; the general motion in the south-north direction of the North Andean Block, up to latitude 7.5°N, where they present a trend change towards the northeast; the convergence of the Caribbean plate in a southeast direction, as well as the collision of the Panama block with the North Andean Block. The concept of imaging geodesy has been oriented so far, to the study of the land subsidence in the Bogotá city by applying Interferometric radar techniques-InSAR. Results obtained using images from the TerraSAR-X sensor have been combined with those obtained with GPS in order to establish quantitative values ​​of the land-subsidence in several areas of the city. The results obtained in the two applications constitute an important input in risk management, the first one, to be considered in the studies of the seismic hazard in the country, and the second one, in the urban planning of the Bogotá city especially to consider aspects of horizontal and vertical growth of buildings.
+
+**Keywords**
+
+GNSS, geodynamics, North Andean Block, InSAR, subsidence, plate tectonics
+
+
+1.  > Correa, E., Sanahuja, H. y Ramírez, F. (2011). *Guía de Reasentamiento para poblaciones en riesgo de desastre.* Washington DC: Banco Mundial y GFDRR.
+
+2.  > Correa, E (Comp.) (2011). *Reasentamiento preventivo de poblaciones en riesgo de desastre. Experiencias de América Latina*. Washington, D.C.: Banco Internacional de Reconstrucción y Fomento / Banco Mundial.
+
+3.  > Chardon, A. & Suárez, J. (2010). Reasentar..., más allá de cuatro muros. Un análisis a partir de la teoría y la praxis del hábitat sostenible. *Revista Bitácora Urbano Territorial*, 1(16), 11-34.
+
+4.  > Chardon A. (2010). Reasentamiento y poblaciones urbanas vulnerables en Colombia. Un análisis desde el hábitat, el desarrollo y la sostenibilidad en Manizales, Colombia. *Cuadernos de Investigación Urbanística,* (69), 50-70.
+
+5.  > Robles, S. (2008). *Impactos del reasentamiento por vulnerabilidad en áreas de alto riesgo*. Bogotá, 1991-2005. Bogotá, D.C., Colombia: Universidad Nacional de Colombia.
+
+6.  > Corporación Financiera Internacional. (2002). *Manual para la preparación de un plan de acción para el reasentamiento.* Washington, DC: Banco Mundial.
+
+7.  > Jiménez, R. (2005) El censo en los planes de reasentamiento como instrumento metodológico para la aplicación de políticas sociales urbanas. *II Foro Técnico Regional sobre Reasentamiento de Población, Banco Mundial – Banco Interamericano de Desarrollo*. Bogotá D.C., mayo 25 al 27 de 2005.
+
+8.  > Holguín, G. (2011). *Caracterización del caso El Hatillo. Actores, dinámicas y conflictos*. Bogotá, D.C.: Pensamiento y Acción Social.
+
+9.  > Vera, G. (2007). *Vulnerabilidad social y Desastres en el Totonacapan. Una historia persistente*. (Tesis doctoral). Iztapalapa, México: Universidad Autónoma Metropolitana.
+
+10. > Macías, J. (2008). *Reubicaciones por desastre. Análisis de intervención gubernamental comparada*. Tlalpan, México, D. F.: Fondo Sectorial.
+
+11. > Barrios, M. (2009). *Reubicación de comunidades por inundación y la vulnerabilidad social. El caso de Arroyo del Maíz, Poza Rica, Veracruz*. Tlalpan, México: Centro de Investigaciones y Estudios Superiores en Antropología Social.
+
+12. > Molina-Prieto, C. y Victoria, M. (2012). Diversidad social y reasentamiento de población, un reto más en la recuperación del río Bogotá. *Revista Nodo*, 7(13), 23-42.
+
+13. > Soledad, B.; Sigala, F.; Argueta, L.; Iglesias, V. (2015). Salud ambiental infantil en el contexto de la reubicación de familias de campamentos a viviendas sociales. *Revista Chilena de Pediatría*, 86(3), 152-160. https://doi.org/10.1016/j.rchipe.2015.06.001
+
+14. > Paulsen, A. y Cárdenas, C. (1998). *Reasentamiento poblacional forzoso originado en riesgos o desastres asociados con fenómenos naturales. Caso Armero y el volcán Arenas del Nevado del Ruiz*. Bogotá D.C.: Red de desarrollo sostenible de Colombia
+
+15. > Macías, J. (2001). *Reubicación de comunidades humanas. Entre la producción y la reducción de desastres*. México, D. F.: Universidad de Colima.
+
+16. > Peláez, L. (2013). *Realizaciones y sofismas del restablecimiento del hábitat en procesos de reasentamiento por alto riesgo: experiencias en Medellín: 1990-2010*. (Tesis de maestría). Medellín, Colombia: Universidad Nacional de Colombia.
+
+17. > Serje M. y S. Anzellini (comp.). (2011). *Los dilemas del reasentamiento. Debates y experiencias de la Mesa Nacional de Diálogos sobre Reasentamiento de Población*. Universidad de los Andes, Bogotá: Ediciones Uniandes.
+
+18. > Echeverry, D., Prieto, J. y Vargas, H. (2011). Gerencia de proyectos y gestión del riesgo. En M. Serje y S. Anzellini (comp.), Los dilemas del reasentamiento. *Debates y experiencias de la Mesa Nacional de Diálogos sobre Reasentamiento de Población*. (pp. 45-55). Universidad de los Andes, Bogotá: Ediciones Uniandes.
+
+19. > Caicedo, A. (2013). *Habitar Bajo Riesgo. Mapachico y Genoy. Zona de Amenaza Volcánica Alta (ZAVA) del volcán galeras. Municipio de Pasto. Nariño, Colombia*. (Tesis de maestría). Medellín: Universidad Nacional de Colombia.
+
+20. > Hurtado, J. y Chardon, A. (2012). *Vivienda social y reasentamiento, una visión crítica desde el hábitat*. Manizales, Colombia: Universidad Nacional de Colombia.
+
+21. > Serje, M. (2011). Los dilemas del reasentamiento. Introducción a los debates sobre procesos y proyectos d reasentamientos. En M. Serje y S. Anzellini (comp.), *Los dilemas del reasentamiento. Debates y experiencias de la Mesa Nacional de Diálogos sobre Reasentamiento de Población*. (pp. 14-42). Universidad de los Andes, Bogotá: Ediciones Uniandes.
+
+22. > Anzellini, S. (2011). El reasentamiento de Herrán como aprendizaje de gestión y diseño de proyectos. En M. Serje y S. Anzellini (comp.), *Los dilemas del reasentamiento. Debates y experiencias de la Mesa Nacional de Diálogos sobre Reasentamiento de Población*. (pp. 57-79). Universidad de los Andes, Bogotá: Ediciones Uniandes.
+
+23. > Gallart, A. y Greaves, P. (1992). Una experiencia de monitoreo del reasentamiento de población por la construcción de los proyectos hidroeléctricos Aguamilpa y Zimapán. *Alteridades*, 79-84.
+
+24. > Rey, C. (2010). Pobreza en un reasentamiento voluntario de población desplazada: caso Patio Grande. *Palobra*, (11), 58-82. http://doi.org/d4g8
+
+25. > Ministerio de Transportes y Comunicaciones. (2005). *Marco conceptual de compensación y reasentamiento involuntario*. República de Perú.
+
+26. > Donis, J. (2010). *Evaluación Social “Marco de Políticas Reasentamiento” Proyecto de Fortalecimiento de Gobiernos Locales*. El Salvador: Sub-secretaría de Desarrollo Territorial y Descentralización.
+
+27. > Fondo de Adaptación. (2012). *Marco de Política de Reasentamiento Involuntario. Anexo VI*. Argentina: Fondo de Adaptación: Aumento de la resiliencia climática y mejora del manejo sustentable de la tierra en el sudoeste de la provincia de Buenos Aires.
+
+28. > Villegas, J. (2005). *Honduras: hacia una política nacional de reasentamiento de población para la reducción del riesgo*. Borrador para discusión. Secretaría de Gobernación y Justicia: Honduras.
+
+29. > Ministerio de Vivienda y Asentamientos Humanos. (2014). *Política Nacional de Vivienda y Asentamientos Humanos 2013 a 2030 y su plan de acción*. República de Costa Rica.
+
+30. > Sierra, A. (2009). La política de mitigación de los riesgos en las laderas de Quito: ¿qué vulnerabilidad combatir? *Bulletin de l'Institut français d'études andines*, 38(3), 737-753. https://doi.org/10.4000/bifea.2421
+
+31. > Alcaldía Mayor Bogotá D.C. (2005). *Marco de política y metodología de reasentamientos de población localizada en zonas de alto riesgo no mitigable, rondas de cuerpos de agua*. Bogotá D.C.: Caja Vivienda Popular.
+
+32. > Wilches-Chaux, G. (2009). *Nuevas miradas al territorio, la seguridad, la pobreza y la adaptación al cambio climático*. Colombia: Programa de las Naciones Unidas para el Desarrollo.
+
+33. > Ocampo, M. y Forero, P. (2013). *Desplazamiento forzado e itinerancias: mujeres reasentadas en la ciudad de Montería*. La búsqueda incansable de un territorio de vida. Tesis Psicológica, 8(1), 32-55.
+
+34. > Aronsson, L. (1992). Impresiones de un proyecto de reasentamiento. *Alteridades*, 2(4), 51- 59.
+
+35. > García, A. (2010). *Plan de reasentamiento involuntario para las unidades sociales de la inspección de Boquerón* (Trabajo de grado). Girardot, Cundinamarca: Corporación Universitaria Minuto de Dios.
+
+36. > Hurtado, J. (2010) *Análisis físico-espacial de la vivienda de interés social en los procesos de reasentamiento poblacional desde la perspectiva del hábitat: de los asentamientos autogestionados vulnerables a las soluciones institucionales masivas de vivienda. Estudio de caso: barrio Altos de Santa Ana. Comuna Ciudadela del Norte, Manizales*. (Tesis 694 Maestría). Universidad Nacional de Colombia.
+
+37. > Mejía-Escalante, M. (2012). Habitabilidad en la vivienda social en edificios para población reasentada. El caso de Medellín, Colombia. *Revista Latinoamericana de Estudios Urbanos Regionales*, 38 (114), 203-227. http://dx.doi.org/10.4067/S0250-12012000200008
+
+38. > Castro, B. (2009). *El reto de construir territorio*. (Trabajo de grado). Popayán, Colombia: Universidad del Cauca.
+
+39. > Olivera, A. y González, G. (2010). Enfoque multidimensional de la reconstrucción post-desastre de la vivienda social y el hábitat en países en vías de desarrollo: estudios de casos en Cuba. *Revista de la construcción*, 9(2), 53-62. https://doi.org/10.4067/S0-915X2010000200006
+
+40. > Bijit, K. (2012). El proceso de integración social de los refugiados palestinos reasentados en región de Valparaíso, Chile. *Revista de Estudios Transfronterizos*, 12(1), 155-180. https://doi.org/10.4067/S0-09482012000100007
+
+41. > Mandujano, F., Rodríguez, J., Reyes, S. y Medina P. (2015). La erupción del volcán Chaitén: Voyerismo, desconfianza, academia y Estado. Consecuencias urbanas y sociales en la comunidad. *UNIVERSUM*, 30(2), 153-177. https://doi.org/10.4067/S0-23762015000200010
+
+42. > Mena, E. (2011). Habitabilidad de la vivienda de interés social prioritaria en el marco de la cultura. Reasentamiento de comunidades negras de Vallejuelos a Mirador de Calasanz en Medellín, Colombia. *Cuadernos de Vivienda y Urbanismo*, 4(8), 296-314.
+
+43. > Duque, J. (2006). El reasentamiento poblacional: fenómeno social, político y de progreso. *Revista Estudios Socio-jurídicos*, 8(1), 145-165.
+
+44. > Quiñonez, M. (2011). La manera cultural: Entre el desarraigo y la territorialización. Una experiencia de cartografía social en la zona de bajamar- Isla de Cascajal Buenaventura. *Entramado*, 7(2), 156-171.
+
+45. > Mosquera, J. y Gómez, E. (2011). Bases Conceptuales para la Gestión Integral del Riesgo. *Luna Azul*, (34), 148-169.
+
+46. > Sandoval, V., Boano,C., González, C., y Albornoz, C. (2015). Explorando potenciales vínculos entre resiliencia y Justicia ambiental: el caso de Chaitén, Chile. *MAGALLANIA*, 43(3), 37-49. https://doi.org/10.4067/S0-22442015000300004
+
+47. > Wilches-Chaux, G. (1993). *La reubicación de San Cayetano*. Bogotá: Editorial carrera 7ª Ltda. http://dx.doi.org/10.4067/S0-22442015000300004
+
+48. > Erazo, V. (2013). Contra discurso y divergencia. Juegos de lenguaje y relatos ilegítimos sobre el Volcán Galeras. *Tendencias*. 14(2), 120-142.
+
+49. > Balazote, A. (2002). Reasentamiento forzoso de población y regularización territorial en el Interfluvio Teuco-Bermejito (Provincia de Chaco). *Cuadernos de antropología Social*, (16), 165-184. https://doi.org/10.34096/cas.i16.4608
+
+50. > Bartolomé, L. (2006). Reasentamientos forzados y el sistema de supervivencia de los pobres urbanos. *Avá. Revista de Antropología*, (8).
+
+51. > Hernández, J. (2000). *La comunidad indígena de Mosoco y el Terremoto de 1994*. En Partridge, W. *Reasentamiento en Colombia*. Bogotá, Colombia: Banco Mundial.
+
+52. > Partridge, W. (2000). *Reasentamiento en Colombia*. Bogotá, Colombia: Banco Mundial.
+
+53. > Departamento de Medio Ambiente y Desarrollo Social de la Corporación Financiera Internacional. (2002). *Manual para la preparación de un plan de acción para el reasentamiento*. Washington, D.C.: Corporación Financiera Internacional.
+
+54. > Alto Comisionado de las Naciones Unidas para los Refugiados. ACNUR. (2011). *Manual de Reasentamiento del ACNUR*. Ginebra. Suiza: ACNUR. <https://doi.org/10.34096/cas.i16.4608>
+
+55. > Wilches-Chaux, G. (2006). *Introducción al concepto de seguridad territorial*. Resumen del argumento central del libro “¿Qu-ENOS pasa?
+
+56. > Bonilla-Castro, E.y Rodríguez, P. (2005). *Más Allá del Dilema de los Métodos: La Investigación en Ciencias Sociales* (Tercera Edición). Bogotá, D.C.: Editorial Norma.
+
+57. > Gonzáles, E. (2013). Acerca del estado de la cuestión o sobre un pasado reciente en la investigación cualitativa con enfoque hermenéutico. *Uni-pluri/versidad*, 13(1), 60-63.
+
+58. > Gadamer, H. (2002). *Verdad y método II*. Salamanca: Ediciones Sígueme.
+
+59. > Hochman, E. y Montero M. (2005). *Investigación Documental. Técnicas y procedimientos*. Caracas: Panapo.
+
+60. > Botzen, W., Bouwer, L., Scussolini, P., Kuik, O., Haasnoot, M., Lawrence, J., Aerts, J. (2019). Integrated Disaster Risk Management and Adaptation. En R. Mechler, L. Bouwer, T. Schinko, S. Surminski & J. Linnerooth-Bayer (Eds.), *Loss and Damage from Climate Change. Climate Risk Management, Policy and Governance*. Springer, Cham.
+
+61. > Bello, M. y Chaparro, R. (2010). *El daño desde el enfoque psicosocial. Iniciativas Universitarias para la paz y la convivencia*. Universidad Nacional de Colombia. Bogotá: Universidad Nacional.
+
+62. > Beristain, C. (2010). *Manual Sobre Perspectiva Psicosocial en la investigación de los Derechos Humanos*. Bilbao: Hegoa
+
+63. > Butler, J. (2002). *Cuerpos que importan. Sobre los límites materiales y discursivos del “sexo”*. Buenos Aires: Paidós.
+
+64. > Castro-Buitrago, E. y Vélez, J. (2018). Procesos de reasentamiento en Colombia: ¿una medida de adaptación y protección de derechos humanos de las víctimas del cambio climático? *Vniversitas*, (136), 1-23. https://doi.org/10.11144/Javeriana.vj136.prcm
+
+65. > Osorio, A. (2017). Urbanismo, reasentamiento de población y vivienda adecuada: desafíos para la defensa de los derechos humanos en los territorios. *Ratio Juris*, 12(24), 61-86. <https://doi.org/10.24142/raju.v12n24a3>
+
+66. > Ebel, Roland, & Kissmann, Susanne (2011). Desarrollo sostenible: la investigación en un contexto intercultural. *Ra Ximhai*, 7(1), 69-79. https://doi.org/10.35197/rx.07.01.2011.07.re
+
+67. > Ávila, Plinio Zarta. (2018). La sustentabilidad o sostenibilidad: un concepto poderoso para la humanidad. *Tabula Rasa*, (28), 409-423. [<span class="underline">https://dx.doi.org/10.25058/20112742.n28.18</span>](https://dx.doi.org/10.25058/20112742.n28.18)
+
+68. > Bermejo Gómez de Segura, R. (2014). *Del desarrollo sostenible según Brundtland a la sostenibilidad como biomimesis*. Universidad del País Vasco.
+
+> **Otras referencias**
+
+1.  > Comunicación personal 02. Marzo de 2016.
+
+2.  > Comunicación Personal 01. Febrero de 2016.
+
+3.  > Grupo Focal 01. Marzo de 2016.
+
+4.  > Grupo Focal 05. Abril de 2016.
+
+5.  > Grupo Focal 02. Marzo de 2016.
+
+6.  > Grupo Focal 03. Marzo de 2016).
+
+7.  > Comunicación Personal 07. Abril de 2016.
+
+**6**
+
+<span id="_heading=h.yweixs8ma357" class="anchor"></span>Capítulo 6: Animales en la gestión del riesgo de los desastres
+
+**Diego Hernández Pulido<sup>1\*</sup>, Nicolás Hernández Gallo<sup>1</sup>, Leonardo Arias Bernal<sup>1</sup>, Rodrigo Forero Carrillo<sup>1</sup> & Gonzalo Jiménez Alonso<sup>2 </sup>**
+
+<sup>1</sup>Facultad de Medicina Veterinaria, <sup>2</sup>Facultad de Zootecnia, Fundación Universitaria Agraria de Colombia. Calle 170 N° 54ª – 10, Bogotá, Colombia
+
+\*Autor de contacto: Diego Alexander Hernández Pulido. Facultad de Medicina Veterinaria, Fundación Universitaria Agraria de Colombia Calle 170 N° 54ª – 10, Bogotá, Colombia. Correo-e: [<span class="underline">hernandez.diegoal@uniagraria.edu.co</span>](mailto:hernandez.diegoal@uniagraria.edu.co)
+
+**Resumen**
+
+El presente capitulo aborda la importancia de los animales en situaciones de emergencias y desastres. Adicionalmente, aborda algunos aspectos que deben considerarse por los diferentes actores locales y nacionales al presentarse estos incidentes como el rol de los animales en la sociedad, el manejo y comportamiento en desastres, cómo es su impacto dentro de la gestión del riesgo de desastres, salud pública, bioseguridad, ambiente y toma de decisiones. Colombia, pese a que actualmente cuenta con protocolos y procedimientos donde se considera la situación de desplazamiento, salud, albergue y control de la población humana, no ha incluido en su totalidad la situación de los animales que también son víctimas directas durante los diferentes fenómenos ocasionados por la naturaleza o por acciones del ser humano. Incorporar e integrar los animales dentro de la gestión del riesgo de los desastres en todos los sectores, permite la protección de la vida humana que, junto con la investigación basada en la recolección continua de datos, ha mostrado que la preparación adecuada y la eficaz coordinación en el manejo de los animales, aumenta la capacidad del personal de la emergencia y de esta manera se logra salvaguardar la salud, la seguridad humana y animal. Muchos animales han muerto, se han lesionado gravemente, han quedado separados de sus propietarios y tienen que valerse por sí mismos como resultado de diversos incidentes en el país, convirtiéndose en potenciales fuentes de riesgo. Por tal motivo, y como se plantea en este capítulo es imprescindible contar con la información necesaria, que sea considerada dentro del marco de la gestión del riesgo de desastres, el bienestar y estado de medios de subsistencia pecuario, animales de compañía y fauna silvestre que convive en su mismo entorno.
+
+**Palabras clave**
+
+Gestión del riesgo, animales, una salud, desastres, medios de vida, salud pública
+
+**Animals in disasters risk management**
+
+**Abstract**
+
+This chapter addresses the importance of animals in emergencies and disasters. Additionally, addresses some aspects that must be considered by different local and national actors when these incidents occur such as the role of animals in society, disaster management and behavior, such as their impact within disaster risk management, public health, biosecurity, environment and decision-making. Colombia, even though it currently has protocols and procedures that consider the situation of displacement, health, shelter and control of the human population, has not fully included the situation of animals that are also direct victims during the different phenomena caused by nature or by human actions. Incorporating and integrating animals into disaster risk management in all sectors enables the protection of human life which, together with research based on continuous data collection, has shown that adequate preparation and effective coordination in the handling of animals, it increases the capacity of emergency personnel and in this way it is possible to safeguard health, human and animal safety. Many animals have died or been seriously injured or have been separated from their owners and must fend for themselves as a result of various incidents, becoming potential sources of risk. For this reason, it is essential to have the necessary information, which is considered within the framework of disaster risk management, the welfare and state of livelihoods for livestock, companion animals and wildlife that lives in the same environment.
+
+**Keywords**
+
+Animals, one health, risk management, disasters, livelihoods, public health
+
+
+1.  > Barrett A., & Osofsky S. (2014). *Unprecedented challenges, holistic solutions. One Health: Interdependence of People, Other Species and the Planet*. New York: Cambridge University Press, págs. 364-365.
+
+2.  > Sispvet, Sociedad Interamericana de Salud Pública. (2009). "Declaración de Bonito". Bonito: Memorias de la I Conferencia Mundial de Salud Pública Veterinaria. *III Congreso Brasilero de Salud Pública Veterinaria*. pág. 85.
+
+3.  > World Bank. (2012). *People, pathogens and our planet: the economics of one health*. Washington, DC: World Bank.
+
+4.  > Díaz, A., Murillo, J., & Trelles, S. (2015). *La Gestión del Riesgo y la Atención de Animales en Desastres*; Recuperado de [<span class="underline">http://repositorio.iica.int/bitstream/11324/2602/1/BVE17038690e.pdf</span>](http://repositorio.iica.int/bitstream/11324/2602/1/BVE17038690e.pdf)
+
+5.  > Federal Emergency Management Agency FEMA (2015). *Animals in Disasters* IS-10. A: Awareness and Preparedness. Recuperado de [<span class="underline">https://training.fema.gov/is/courseoverview.aspx?code=IS-10.a</span>](https://training.fema.gov/is/courseoverview.aspx?code=IS-10.a)
+
+6.  > Gibbs, E., & Paul, J. (2014). The evolution of One Health: a decade of progress and challenges for the future. *Veterinary Record*, pages. 85-91. [<span class="underline">https://doi.org/10.1136/vr.g143</span>](https://doi.org/10.1136/vr.g143)
+
+7.  > Myers, S., & Patz, J. (2009). Emerging threats to human health from global environmental change. *Annual Review of Environment Resource*. pages. 223-252. 5. [<span class="underline">https://doi.org/10.1146/annurev.environ.033108.102650</span>](https://doi.org/10.1146/annurev.environ.033108.102650)
+
+8.  > Christensen, N., Leege, L. (2015). *The environment and you*. Boston: Pearson Ed.
+
+9.  > Bergaglio, J., Palau, H., & Senesi, S. (2017). Instrumentación de un protocolo de bienestar animal y su impacto sobre una explotación ganadera en la provincia de buenos aires. *Agronomía & Ambiente*, 37(1). Recuperado de [<span class="underline">http://agronomiayambiente.agro.uba.ar/index.php/AyA/article/view/62</span>](http://agronomiayambiente.agro.uba.ar/index.php/AyA/article/view/62)
+
+10. > Rojas, H., Stuardo, L. (2005). Políticas y prácticas de bienestar animal en los países de América: estudio preliminar. *Revue scientifique et technique (International Office of Epizootics)*, *24*(2), 549-565. [<span class="underline">https://doi.org/10.20506/rst.24.2.1589</span>](https://doi.org/10.20506/rst.24.2.1589)
+
+11. > Wingfield, W., & Palmer, S. (2009). *Veterinary disaster response*. John Wiley & Blackwell Ed.
+
+12. > Organización Mundial de Sanidad Animal OIE. (2016). *Directrices sobre gestión de desastres y reducción de los riesgos en relación con la sanidad, el bienestar animal y la Salud Pública veterinaria*. Recuperado de [<span class="underline">https://www.oie.int/fileadmin/Home/esp/Animal\_Welfare/docs/pdf/Otros/Gestiondesastres-ESP.pdf</span>](https://www.oie.int/fileadmin/Home/esp/Animal_Welfare/docs/pdf/Otros/Gestiondesastres-ESP.pdf)
+
+13. > Noji, E. (2000). *Impacto de los desastres en la Salud Pública*. Bogotá Colombia. Organización Panamericana de la Salud Ed.
+
+14. > Arcos, P. I., Castro, R., & Busto, F. (2002). Desastres y Salud Pública: un abordaje desde el marco teórico de la epidemiología. *Revista Española de Salud Pública*, *76*, 121-132. [<span class="underline">https://doi.org/10.1590/S1135-57272002000200006</span>](https://doi.org/10.1590/S1135-57272002000200006)
+
+15. > Gimenez, R., Gimenez, T., & May, K. (2009). *Technical large animal emergency rescue*. John Wiley & Sons Ed.
+
+16. > Grandin, T., & Johnson, C. (2006). *Animals in translation: Using the mysteries of autism to decode animal behavior*. SUNY Press.
+
+17. > Stoltenow, C. (2008). Animal Biosecurity and Protection. North Dakota State University. Recuperado de [<span class="underline">https://www.ag.ndsu.edu/livestockextension/animal-biosecurity-and-protection/files/ansc488agrosecurityhandout.pdf</span>](https://www.ag.ndsu.edu/livestockextension/animal-biosecurity-and-protection/files/ansc488agrosecurityhandout.pdf)
+
+18. > Dickstein, S. (2019). *The Role of the Wildlife Rehabilitator in Disaster Preparedness and Response*. [<span class="underline">https://www.hsdl.org/?view\&did=456385</span>](https://www.hsdl.org/?view&did=456385)
+
+19. > Salcedo, S., & Guzmán, L. (2014). A*gricultura familiar en América Latina y el Caribe: recomendaciones de política*. Santiago de Chile, Chile. Food and Agriculture Organization of the United Nations FAO 2014. [<span class="underline">http://www.fao.org/3/i3788s/i3788s.pdf</span>](http://www.fao.org/3/i3788s/i3788s.pdf)
+
+20. > Food and Agriculture Organization of the United Nations FAO. (2018). *The impact of Disasters and crises on agriculture and food security*. FAO ed. [<span class="underline">http://www.fao.org/3/I8656EN/i8656en.pdf</span>](http://www.fao.org/3/I8656EN/i8656en.pdf)
+
+21. > Maudlin, I., Eisler, M. (2009). Neglected and endemic zoonoses. Philosophical Transactions of the Royal Society London B, 364(1530), 2777-2787. [<span class="underline">https://doi.org/10.1098/rstb.2009.0067</span>](https://doi.org/10.1098/rstb.2009.0067).
+
+22. > Chatham House. (2010). *Shifting from emergency response to prevention of pandemic disease threats at source. Londres*, Chatham House. [<span class="underline">https://www.chathamhouse.org/publications/papers/view/109284</span>](https://www.chathamhouse.org/publications/papers/view/109284)
+
+23. > Okello, AL., Gibbs, PJ., & Vandersmissen, A. (2011). One Health and the neglected zoonoses: turning rhetoric into reality. *Veterinary Records*, 169, 281-285. [<span class="underline">https://doi.org/10.1136/vr.d5378</span>](https://doi.org/10.1136/vr.d5378)
+
+24. > Macpherson, C. N. (2012). *Dogs, zoonoses and public health*. CABI Ed. [<span class="underline">https://doi.org/10.1079/9781845938352.0000</span>](https://doi.org/10.1079/9781845938352.0000)
+
+25. > Schoenbach, V. J. (1999). *Comprendiendo los Fundamentos de la Epidemiología-un texto en desarrollo*. University of North carolina. [<span class="underline">http://www.epidemiolog.net/es/endesarrollo/TablaDeContenidos.htm</span>](http://www.epidemiolog.net/es/endesarrollo/TablaDeContenidos.htm)
+
+26. > Mota, R., Velarde, C., & Cajiao, M. (2016). *Bienestar animal una visión global en Iberoamérica*. Editor ELSEVIER.
+
+27. > Ordóñez, G. A. (2000). Salud ambiental: conceptos y actividades. *Revista Panamericana de Salud Pública*, *7*, 137-147. [<span class="underline">https://doi.org/10.1590/S1020-49892000000300001</span>](https://doi.org/10.1590/S1020-49892000000300001)
+
+28. > Wingfield, W. E., Nash, S. L., Palmer, S. B., & Upp, J. J. (2013). *Veterinary Disaster Medicine: Working Animals*. Wayne E. Wingfield Ed. <span class="underline"> </span>
+
+29. > Garcia, R. P. (Ed.). (2018). *One welfare: a framework to improve animal welfare and human well-being*. Osfordshire, UK: CABI Ed.
+
+**7**
+
+<span id="_heading=h.sgkc44rm5p7k" class="anchor"></span>Capítulo 7: Iniciativas para la reducción del riesgo de desastres en el programa de Ingeniería Ambiental y Sanitaria de la Universidad de La Salle: un tema de responsabilidad social universitaria
+
+**Víctor Leonardo López Jiménez<sup>1\*</sup>**
+
+<sup>1</sup>Ingeniería Ambiental y Sanitaria, Universidad de La Salle, Bogotá, Colombia
+
+\*Autor de contacto: Víctor Leonardo López Jiménez. Correo-e: [<span class="underline">vlopez@unisalle.edu.co</span>](mailto:vlopez@unisalle.edu.co)
+
+**Resumen**
+
+Es necesario asumir desde la academia tareas encaminadas a disminuir el impacto que los humanos causan sobre su entorno natural, ya que su forma de actuar, sumada a la falta de conocimiento sobre las *fuerzas de la naturaleza*, son las causas de que muchos de los eventos de origen natural alcancen la categoría de desastres. Al respecto, Gómez \[1\] escribe: "No basta educar para incidir en el sistema imperante que, a todas luces, no es sustentable en el tiempo, tanto por la concentración de la riqueza que conlleva, como por el modelo de desarrollo depredador del medio ambiente; sistema destructor del tejido social donde la solidaridad no es posible, facilitador del consumismo y del egoísmo a ultranza, y destructor del planeta y de los procesos naturales.” Es claro que, el incremento de los eventos potencialmente catastróficos en Colombia, un país ubicado sobre la franja de mayor actividad sísmica del planeta y con un importante régimen de lluvias al año, tiene que ver con el notorio aumento de la pobreza, la ubicación de asentamientos humanos en zonas de alto riesgo y las malas prácticas de construcción; estas condiciones han hecho necesaria la búsqueda de alternativas encaminadas a la prevención y mitigación de los desastres partiendo del conocimiento y manejo de los factores de riesgo, temas que debe asumir la comunidad educativa como parte de su responsabilidad social. Conscientes de esto, en el Programa de Ingeniería Ambiental y Sanitaria (PIAS) de la Universidad de La Salle, se crea el espacio académico Gestión del Riesgo (GR) donde nace la experiencia *La gestión del riesgo, de la universidad a la comunidad*. Así, en un trabajo colaborativo y en concordancia con el Programa Educativo de la Universidad de La Salle (PEUL) se trabaja por la resiliencia de la comunidad.
+
+**Palabras clave**
+
+Gestión del riesgo, responsabilidad social, trabajo colaborativo, experiencia educativa
+
+**Initiatives for disaster risk reduction in the Environmental and Health Engineering Program of the University of La Salle: a topic of university social responsibility**
+
+**Abstract**
+
+It is necessary to assume from the academy tasks aimed to reduce the impact that the human being is causing on their natural environment, their way of acting added to the lack of knowledge about the *forces of nature* are the causes that many of the natural origin events reach the category of disasters. In this regard, Gómez \[1\] writes: "It is not enough to educate to influence the prevailing system that, obviously, is not sustainable over time, because of the concentration of the wealth that it entails, as well as the predatory development model of the environment, it is a destructive system of the social fabric where solidarity is not possible, it is a facilitator of consumerism and selfishness at all costs, and a destroyer of the planet and natural processes.” It is clear that the increase in potentially catastrophic events in Colombia, which is country located on the strip of greatest seismic activity on the planet and with an important rainfall regime per year, is related with the notorious increase in poverty, the location of human settlements in high-risk areas and bad construction practices; these conditions have to be assume by the educational community as part of its social responsibility, searching for alternatives aimed to the prevention and mitigation of disasters based on the knowledge and management of risk factors. Aware of this, the Program of Environmental Engineering and Health (PIAS) at the University of La Salle has the academic class Risk Management (GR) where the experience *Managing risk, the university community* is created, in a collaborative work and in accordance with the Education Program at the University of La Salle (PEUL) working for community resilience.
+
+**Keywords**
+
+Risk management, social responsibility, collaborative work, educational experience
+
+
+1.  > El Tiempo. (2000). *Por segunda vez se cae el puente*. Consultado el 03 de octubre de 2017. [<span class="underline">https://www.eltiempo.com/archivo/documento/MAM-1289533</span>](https://www.eltiempo.com/archivo/documento/MAM-1289533)
+
+2.  > Desinventar. (2018). *Sistema de inventario de efectos de desastres*. Consultado el 03 de octubre de 2017. https://online.desinventar.org/desinventar/\#COL-1250694506- colombia\_inventario\_historico\_de\_desastres.
+
+3.  > Caracol Radio. (2016). *Avalancha en el río Unete incomunica a Boyacá y Casanare*. Consultado el 03 de octubre de 2017. https://caracol.com.co/emisora/2016/09/01/tunja/1472737110\_176330.html
+
+4.  > IDIGER (Instituto Distrital de Gestión de Riesgo y Cambio Climático). (2018). *Riesgo por Inundación*. Consultado el 31 de marzo de 2018. [<span class="underline">http://www.idiger.gov.co/rinundacion</span>](http://www.idiger.gov.co/rinundacion)
+
+5.  > UNGRD (Unidad Nacional pala la Gestión del Riesgo de Desastres). (2014). *Plan Estratégico Institucional (2014 – 2018).* Bogotá: UNGRD.
+
+6.  > Alcaldía Municipal de Aguazul. (2016). *Plan Municipal de Gestión de Riegos y Desastres*. Aguazul, Casanare: Alcaldía Municipal de Aguazul.
+
+7.  > E. Blade, L. Cea, G. Corestein, J. Puertas, E Vásquez-Cendón, J. Dolz & A. Coll. (2012). *Iber: herramienta de simulación numérica del flujo en ríos*. España, Elsevier. [<span class="underline">https://doi.org/doi:10.4995/ia.2014.3144</span>](https://doi.org/doi:10.4995/ia.2014.3144)
+
+8.  > J. Pinos & L. Tumbe, (2019). Evaluación del desempeño de modelos hidráulicos bidimensionales para la generación de mapas de inundación en ríos de montaña. *Ciencia e ingeniería del agua*. 12(1). 11-18. Ecuador. Elsevier. [<span class="underline">https://doi.org/10.1016/j.wse.2019.03.001</span>](https://doi.org/10.1016/j.wse.2019.03.001)
+
+9.  > UNGRD (Unidad Nacional para la Gestión del Riesgo de Desastres). (2012). *Programa de Naciones Unidas para el desarrollo Colombia., y Proyecto gestión integral del riesgo y adaptación al cambio climático caribe. Guía metodológica para la elaboración de planes departamentales para la gestión del riesgo*. Bogotá: UNGRD.
+
+10. > E. Blade, L. Cea & G. Corestein. (2014). Modelación numérica de inundaciones fluviales. *Ingeniería del agua,* 18(1), 71-82.
+
+11. > Ministerio de Medio Ambiente y Medio Rural & Marino de España, CEDEX, Grupo de Ingeniería del Agua y del Medio Ambiente & Flumen. (2010). *Iber, Modelización bidimensional del flujo en lámina libre de aguas poco profundas: Manual básico de usuario*. España, Ceres.
+
+12. > Instituto Nicaragüense de Estudios Territoriales & Agencia Suiza para el Desarrollo yla Cooperación. (2005). Inundaciones fluviales: Mapas de amenazas. Recomendaciones técnicas para su elaboración. Managua, Nicaragua, Proyecto Met-Alarn.
+
+13. > Ven Te Chow. (1994). *Hidráulica de canales abiertos.* McGraw Hill, México.
+
+14. > IDEAM (Instituto de Hidrología, Meteorología y Estudios Amiéntales). (2018). *Solicitud de información*. Consultado el 09 de enero de 2018. <span class="underline"><http://www.ideam.gov.co/solicitud-de-informacion>.</span>
+
+15. > J, Pérez, I, Escobar & J, Frangozo. (2018). Modelación Hidráulica 2D de Inundaciones en Regiones con Escacez de Datos: El Caso del Delta del Río Ranchería, Riohacha-Colombia. *Información tecnológica*, 29(4), 143-146. [<span class="underline">https://doi.org/10.4067/S0718-07642018000400143</span>](https://doi.org/10.4067/S0718-07642018000400143)
+
+16. > ALOS PALSAR L 1.0: © JAXA / METI ALOS PALSAR \[ALPSRS270523500\] \[2018\] Accedido a través de ASF DAAC, https://j.mp/2ON8GK4 \[28 de enero de 2018\].
+
+17. > Alcaldía Municipal de Aguazul. (2011). *Esquema de Ordenamiento Territorial del Municipio de Aguazul, Casanare*. Aguazul, Casanare: Alcaldía Municipal de Aguazul.
+
+12
+
+<span id="_heading=h.lt3s6g4ruu6r" class="anchor"></span>Capítulo 12: Obras costeras y clima marítimo: casos del Caribe colombiano
+
+Serguei Lonin<sup>1\*</sup> & Julio Monroy<sup>1</sup>
+
+<sup>1</sup>Grupo de Investigación en Oceanología; Facultad de Oceanografía Física – Escuela Naval de Cadetes “Almirante Padilla”. Isla Naval Manzanillo, El Bosque, Cartagena de Indias, Colombia
+
+<sup>\*</sup>Autor de contacto: Serguei Lonin, [<span class="underline">slonin@costa.net.co</span>](mailto:slonin@costa.net.co)
+
+**Resumen**
+
+Las estructuras costeras duras son el método preferido usado tanto para mitigar los efectos amenazantes de la erosión en varios ecosistemas como para garantizar el seguro desarrollo de actividades marítimas a lo largo de la costa del Caribe colombiano. Sin embargo, estas obras con frecuencia producen efectos negativos en la zona costera o, eventualmente, resultan siendo obsoletas al no considerar las causas técnicas de la erosión. Las obras costeras, modificando la dinámica local, pueden producir efectos negativos de déficit de sedimentos flujo abajo, provocando erosión. En este capítulo se analizan tres casos relacionados con actividades antropogénicas y procesos naturales cuyo impacto en la dinámica costera se han vuelto progresivamente evidente a través de los años: los tajamares de Bocas de Ceniza, las estructuras costeras del golfo de Morrosquillo y el caso del río Turbo. Las consecuencias no deseadas de estas actividades demostraron la necesidad de generación de conocimiento preliminar detallado de la dinámica costera y de los efectos potenciales de obras de gran escala, previa a la intervención. De todos modos, aunque podría ser imposible de combatir aisladamente (en un solo país) los efectos de largo plazo de los cambios globales tales como el aumento continuo del nivel del mar, los impactos antrópicos locales y regionales todavía pueden ser evitados con un conocimiento más profundo de los procesos costeros.
+
+**Palabras clave**
+
+Clima marítimo, espolones, erosión, nivel del mar, protección costera, tajamares
+
+**Coastal Constructions and Maritime Climate: Cases from the Colombian Caribbean**
+
+**Abstract**
+
+Hard coastal protection structures are the preferred method used both to mitigate the threatening effects of erosion on various ecosystems and to guarantee the safe development of maritime activities along the Colombian Caribbean coast. However, these structures have frequently produced adverse responses in the coastal zones or have eventually become obsolete given the lack of consideration of the technical causes of erosion. Coastal works, modifying local dynamics, can produce negative effects like sediment deficit downstream, triggering coastal erosion. In this chapter, we analyze three cases related to anthropogenic activities and natural processes whose impact on coastal dynamics has become increasingly evident over the years: the jetties at the Bocas de Ceniza, the coastal structures of the Gulf of Morrosquillo, and the Turbo River case. These activities' undesired consequences have demonstrated the necessity of generating detailed preliminary knowledge on coastal dynamics and the potential effects of large-scale works prior to performing interventions. Overall, although it might be impossible to fight, inside one country, the long-term effects of global changes such as the continuous rise of the sea level, the local and regional anthropic impacts may still be avoided by a deeper knowledge of coastal processes.
+
+**Keywords**
+
+Breakwaters, coastal protection, erosion, jetties, maritime climate, sea level
+

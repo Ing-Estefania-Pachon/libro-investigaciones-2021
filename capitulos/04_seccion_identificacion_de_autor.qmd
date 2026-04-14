@@ -1,0 +1,12 @@
+---
+title: "IDENTIFICACIÓN DE AUTOR"
+number-sections: false
+---
+
+
+William Oswaldo Gaviria Gutiérrez [<span class="underline">https://orcid.org/0000-0003-4228-4665</span>](https://orcid.org/0000-0003-4228-4665)
+
+Viviana Ramírez Loaiza [<span class="underline">https://orcid.org/0000-0003-3203-2472</span>](https://orcid.org/0000-0003-3203-2472)
+
+Lina Andrea Zambrano Hernández [<span class="underline">https://orcid.org/0000-0001-8675-3203</span>](https://orcid.org/0000-0001-8675-3203)
+

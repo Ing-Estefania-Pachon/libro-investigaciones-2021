@@ -1,0 +1,259 @@
+---
+title: "IDENTIFICACIÓN DEL AUTOR"
+number-sections: false
+---
+
+
+Gabriel Bernal [<span class="underline">https://scholar.google.com/citations?user=wYtazboAAAAJ</span>](https://scholar.google.com/citations?user=wYtazboAAAAJ)
+
+Omar Darío Cardona [<span class="underline">https://orcid.org/0000-0001-8233-5450</span>](https://orcid.org/0000-0001-8233-5450)
+
+# 
+
+
+Rafael Fernández [<span class="underline">https://orcid.org/0000-0002-2585-1958</span>](https://orcid.org/0000-0002-2585-1958)
+
+Luis Yamin [<span class="underline">https://orcid.org/0000-0002-6533-5480</span>](https://orcid.org/0000-0002-6533-5480)
+
+Juan Carlos Reyes [<span class="underline">https://orcid.org/0000-0003-0690-2956</span>](https://orcid.org/0000-0003-0690-2956)
+
+Angie García [<span class="underline">https://orcid.org/0000-0001-5701-3329</span>](https://orcid.org/0000-0001-5701-3329)
+
+Gustavo Fuentes [<span class="underline">https://orcid.org/0000-0002-0916-1885</span>](https://orcid.org/0000-0002-0916-1885)
+
+Juan Echeverry [<span class="underline">https://orcid.org/0000-0001-6537-6381</span>](https://orcid.org/0000-0001-6537-6381)
+
+**BIBLIOGRÁFIA**
+
+1.  ICC (International Code Council). (2017). *2018 International Building Code*. International Code Council, Incorporated.
+
+2.  EERI (Earthquake Engineering Research Institute). (2019). *Concrete Buildings Damaged in Earthquakes*. Recuperado de [<span class="underline">https://j.mp/3jtiOpm</span>](https://j.mp/3jtiOpm)
+
+3.  Chen, H., Xie, Q., Lan, R., Li, Z., Xu , C., & Yu, S. (2017). Seismic damage to schools subjected to Nepal earthquakes, 2015. *Natural Hazards*, 88(1), 247–84. [<span class="underline">https://doi.org/10.1007/s11069-017-2865-8</span>](https://doi.org/10.1007/s11069-017-2865-8)
+
+4.  GEER. (2017). Geotechnical engineering reconnaissance of the 19 September 2017 mw 7.1 Puebla-Mexico City earthquake (September). *Geotechnical Extreme Events Reconnaissance Association*. [<span class="underline">https://doi.org/10.18118/g6jd46</span>](https://doi.org/10.18118/g6jd46)
+
+5.  GEER. (2016). GEER-ATC earthquake reconnaissance April 16th 2016, Muisne, Ecuador. *Geotechnical Extreme Events reconnaissance Association Report* GEER-049. 604. Recuperado de [<span class="underline">https://j.mp/3hprJ9k</span>](https://j.mp/3hprJ9k)
+
+6.  Valcárcel, J.A., Mora, M.G., Cardona, O.D., Pujades, L.G., Barbat, A.H., & Bernal, G.A. (2013) Methodology and applications for the benefit cost analysis of the seismic risk reduction in building portfolios at broadscale. *Natural Hazards*, 69(1), 845–68. [<span class="underline">https://doi.org/10.1007/s11069-013-0739-2</span>](https://doi.org/10.1007/s11069-013-0739-2)
+
+7.  Mora. M.G., Valcárcel, J. A., Cardona, O.D., Pujades, L. G., Barbat, A. H., & Bernal, G. A. (2015) Prioritizing interventions to reduce seismic vulnerability in school facilities in Colombia. *Earthquake Spectra*, 31(4), 2535–52. [<span class="underline">https://doi.org/10.1193/040412EQS151T</span>](https://doi.org/10.1193/040412EQS151T)
+
+8.  Chrysostomou, C. Z., Kyriakides, N., Papanikolaou. V. K., Kappos, A. J., Dimitrakopoulos, E. G., & Giouvanidis, A. I. (2015). Vulnerability assessment and feasibility analysis of seismic strengthening of school buildings. *Bulletin of Earthquake Engineering*, 13, 3809–40. [<span class="underline">https://doi.org/10.1007/s10518-015-9791-5</span>](https://doi.org/10.1007/s10518-015-9791-5)
+
+9.  Jaimes, M. A., & Niño, M. (2017) Cost-benefit analysis to assess seismic mitigation options in Mexican public-school buildings. *Bulletin of Earthquake Engineering*, 15(9), 3919–42. [<span class="underline">https://doi.org/10.1007/s10518-017-0119-5</span>](https://doi.org/10.1007/s10518-017-0119-5)
+
+10. Samadian, D., Ghafory-Ashtiany, M., Naderpour, H., & Eghbali, M. (2019). Seismic resilience evaluation based on vulnerability curves for existing and retrofitted typical RC school buildings. *Soil Dynamics and Earthquake Engineering*, 127, 105844. [<span class="underline">https://doi.org/10.1016/j.soildyn.2019.105844</span>](https://doi.org/10.1016/j.soildyn.2019.105844)
+
+11. Amini Hosseini, K., & Izadkhah, Y.O. (2020). From “Earthquake and safety” school drills to “safe school-resilient communities”: A continuous attempt for promoting community-based disaster risk management in Iran. *International Journal of Disaster Risk Reduction*, 45,101512. [<span class="underline">https://doi.org/10.1016/j.ijdrr.2020.101512</span>](https://doi.org/10.1016/j.ijdrr.2020.101512)
+
+12. World Bank, Universidad de los Andes, UCL. (2019). *Global Library of School Infrastructure - Taxonomy Guide. Global Program for Safer Schools*. Recuperado de [<span class="underline">https://gpss.worldbank.org/index.php/en/node/571</span>](https://gpss.worldbank.org/index.php/en/node/571)
+
+13. World Bank, Universidad de los Andes, UCL. (2019). *Global Library for School Infrastructure - Fragility and Vulnerability Assessment Guide. Global Program for Safer Schools*. Recuperado de [<span class="underline">https://gpss.worldbank.org/index.php/en/glosi/vulnerability</span>](https://gpss.worldbank.org/index.php/en/glosi/vulnerability)
+
+14. Yamin, L., Ghesquiere, F., Cardona, O., & Ordaz, M. (2013). *Modelación probabilista para la gestión del riesgo de desastre, El caso de Bogotá, Colombia*. Banco Mundial, Universidad de los Andes.
+
+15. Yang, T. Y. (2013). Assessing seismic risks for new and existing buildings using performance-based earthquake engineering (PBEE) methodology. *Handbook of Seismic Risk Analysis and Management of Civil Infrastructure Systems*, 307–33. [<span class="underline">https://doi.org/10.1533/9780857098986.3.307</span>](https://doi.org/10.1533/9780857098986.3.307)
+
+16. Baker, J. W. (2013). *Introduction to Probabilistic Seismic Hazard Analysis*. White Paper version 201.
+
+17. Yamin. L. E, Reyes, J. C, Rueda, R., Prada, E., Rincón, R., Herrera, C., et al. (2018). Practical seismic microzonation in complex geological environments. *Soil Dynamics and Earthquake Engineering*, 114, 480–94. [<span class="underline">https://doi.org/10.1016/j.soildyn.2018.07.030</span>](https://doi.org/10.1016/j.soildyn.2018.07.030)
+
+18. AIS (Asociación Colombiana de Ingeniería Sísmica). (2010). *Norma de construcción Sismo Resistente - NSR10*. 530–827. Bogotá: Asociación Colombiana de Ingeniería Sísmica
+
+19. FEMA (Federal Emergency Management Agency). (2017). *Hazus: FEMA’s Methodology for Estimating Potential Losses from Disasters*. Recuperado de https://www.fema.gov/hazus-mh-user-technical-manuals
+
+20. Yamin, L. E., Hurtado, A. I, Barbat, A.H., & Cardona, O.D. (2014). Seismic and wind vulnerability assessment for the GAR-13 global risk assessment. *International Journal of Disaster Risk Reduction*, 10(PB), 452–60. [<span class="underline">https://doi.org/10.1016/j.ijdrr.2014.05.007</span>](https://doi.org/10.1016/j.ijdrr.2014.05.007)
+
+21. D’Ayala, D., Meslem, A., Vamvatsikos, D., Porter, K., Rossetto, T., Crowley, H., et al. (2013). Guidelines for Analytical Vulnerability Assessment - Low/Mid-Rise. *Global Earthquake Model Technical Report.* [<span class="underline">https://doi.org/10.13117/GEM.VULN-MOD.TR2014.12</span>](https://doi.org/10.13117/GEM.VULN-MOD.TR2014.12)
+
+22. Yamin, L.E., Hurtado, A., Rincon, R., Dorado, J. F., & Reyes, J. C. (2017) Probabilistic seismic vulnerability assessment of buildings in terms of economic losses. *Engineering Structures*, 138, 30 8–23. [<span class="underline">https://doi.org/10.1016/j.engstruct.2017.02.013</span>](https://doi.org/10.1016/j.engstruct.2017.02.013)
+
+23. Aroquipa, H., Rincón, R., & Fernandez, R. (2017). Evaluación de alternativas de reforzamiento sísmico incremental para edificaciones escolares características en el Perú. En *VIII Congreso Nacional de Ingeniería Sísmica*. Barranquilla, Colombia.
+
+24. American Society of Civil Engineers, Structural Engineering Institute. (2013*). Seismic evaluation and retrofit of existing buildings* (41-13). 1275 p.
+
+25. FEMA (Federal Emergency Management Agency) & ATC (Applied Technology Council). (2012). *Reducing the risks of nonstructural earthquake damage – A practical guide.* FEMA. 885 p.
+
+26. British Columbia University. (2017). *The Seismic Retrofit Guidelines SGR-3*.
+
+27. ATC (Applied Technology Council). (1998). *Repair of Earthquake Damaged Concrete and Masonry Wall buildings.* Washington, D.C.: U.S. Dept. of Homeland Security, Federal Emergency Management Agency.
+
+28. Rincón, R., Yamin, L., & Becerra, A. (2017). Seismic Risk Assessment of Public Schools and Prioritization Strategy for Risk Mitigation. En *16th World Conference on Earthquake*. Santiago Chile.
+
+29. Fernández, R. I., Rincón. R., & Yamin, L. E. (2019). Incertidumbre en el Beneficio Obtenido para Opciones de Reforzamiento Sísmico. En *IX Congreso Nacional de Ingeniería Sísmica*. Cali, Colombia.
+
+30. Mechler, R. (2016). Reviewing estimates of the economic efficiency of disaster risk management: opportunities and limitations of using risk-based cost–benefit analysis. *Natural Hazards*, 81(3), 2121–47. [<span class="underline">https://doi.org/10.1007/s11069-016-2170-y</span>](https://doi.org/10.1007/s11069-016-2170-y)
+
+31. Guevara, L. T., & García, L. E. (2005). The captive- and short-column effects. *Earthquake Spectra*, 21(1), 141–60. [<span class="underline">https://doi.org/10.1193/1.1856533</span>](https://doi.org/10.1193/1.1856533)
+
+32. Villar-Vega, M., Silva, V., Crowley, H., Yepes, C., Tarque, N., Acevedo, A. B., … María, H. S. (2017). Development of a Fragility Model for the Residential Building Stock in South America. *Earthquake Spectra*, 33(2), 581–604. [<span class="underline">https://doi.org/10.1193/010716EQS005M</span>](https://doi.org/10.1193/010716EQS005M)
+
+33. Adhikari, R. K., D’Ayala, D., Ferreira, C. F., & Famirez, F. (2018). Structural classification system for load bearing masonry school buildings. En *16th European Conference on Earthquake Engineering*. 1–12.
+
+34. Fuentes, G. A., Garcia, A, Yamin, L. E, Reyes, J. C. (2019). Funciones de fragilidad para muros de mampostería confinada ante cargas fuera del plano. En *IX Congreso Nacional de Ingeniería Sísmica*. Cali, Colombia.
+
+35. World Bank, Universidad de los Andes, UCL. (2018). *Información Técnica para el Plan de Mitigación del Riesgo Sísmico de las Edificaciones Escolares en El Salvador*. Bogotá: Universidad de los Andes.
+
+36. CIMOC & Universidad de los Andes. (2019). *GPSS Informe técnico Asistencia técnica para el diseño de una estrategia de intervención y un plan de inversión para la reducción de la vulnerabilidad sísmica de edificaciones educativas en el municipio de Cali Plan Piloto 2019*. Bogotá: Universidad de los Andes.
+
+37. Yamin, L. E., Garcia, A., Fuentes, G. A., Lopez, C., & Velez, L. (2019). Seismic performance assessment of representative school buildings. En *IX Congreso Nacional de Ingeniería Sísmica*.
+
+38. AMVA & Universidad de los Andes. (2017). Aunar Esfuerzos para la Armonización de la Microzonificación Sísmica de los Municipios del Valle de Aburrá, al Reglamento NSR-10 e Inclusión de los Cinco Corregimientos del Municipio de Medellín. Convenio marco de asociación 168 de 2015, Área Metropolitana del Valle de Aburrá, Universidad de los Andes.
+
+39. AMVA & Universidad de los Andes. (2018). Aunar esfuerzos para el desarrollo de los estudios de riesgo sísmico del Valle de Aburrá, continuación del Sistema de Información Sísmico del Valle de Aburrá, y la elaboración y formación de la metodología para la evaluación de edificaciones después de un sismo. Bogotá: Convenio de asociación 1108 de 2016, Área Metropolitana del Valle de Aburrá, Universidad de los Andes.
+
+**3**
+
+<span id="_heading=h.5pd0li8dgdvd" class="anchor"></span>Capítulo 3: Evaluación probabilista del riesgo por sequía en el sector agrícola de Colombia
+
+**Omar Darío Cardona<sup>1,3\*</sup>, Gabriel Bernal<sup>2,3</sup>, María Alejandra Escovar<sup>3</sup>**
+
+<sup>1</sup>Instituto de Estudios Ambientales. Universidad Nacional de Colombia, Sede Manizales, Colombia
+
+<sup>2</sup>Departamento de Ingeniería Civil y Agrícola. Universidad Nacional de Colombia, Sede Bogotá, Colombia
+
+<sup>3</sup>INGENIAR Investigación y Consultoría en Ingeniería para Análisis del Riesgo, Bogotá, Colombia
+
+\*Autor de contacto: Omar Darío Cardona, correo-e: odcardona@ingeniar-risk.com
+
+### Resumen
+
+La sequía es una amenaza de desarrollo lento que no causa pérdidas sobre el ambiente construido (edificaciones e infraestructura en general), pero si ocasiona la degradación de los medios de subsistencia de la población expuesta (principalmente agua y cultivos), aumentando sus condiciones de vulnerabilidad y, en consecuencia, aumentando el riesgo a niveles que pueden exceder los impuestos por eventos catastróficos de otros fenómenos naturales. Para identificar y cuantificar el riesgo por sequía para el sector agropecuario se propone una metodología novedosa para la construcción de modelos probabilistas que estima las potenciales pérdidas asociadas a la reducción de la producción de los cultivos dada la ocurrencia de un desastre. Aquí se presentan los resultados de la aplicación de la evaluación prospectiva del riesgo por sequía en Colombia. Se construyeron mapas de amenaza integrada por sequía para intensidades de severidad y duración de eventos para 50, 100, 250 y 500 años de periodo de retorno, que indican las zonas del país más propensas a sufrir eventos de déficit extremo de precipitaciones. También se obtuvieron los resultados de riesgo para el cultivo de maíz, en términos de la pérdida anual esperada. Esta evaluación de riesgo con enfoque probabilista es inédita en Colombia y permite informar a los tomadores de decisión del proceso de gestión del riesgo en el sector agropecuario. Los resultados que aquí se publican, aunque preliminares, son de utilidad para la planificación del territorio y de los recursos hídricos del país, así como un producto inicial para el desarrollo de instrumentos de protección financiera y transferencia del riesgo.
+
+**Palabras clave**
+
+Evaluación probabilista del riesgo, eventos hidrometeorológicos, generador de clima estocástico, vulnerabilidad de cultivos, sector agropecuario, gestión integral del riesgo
+
+### 
+
+**Probabilistic assessment of drought risk in Colombia's agricultural sector**
+
+### Abstract
+
+Droughts are a slow-onset phenomenon that do not damage the built environment (buildings or infrastructure) but degrades the livelihoods of the exposed population (mainly water and crops), increasing their vulnerability conditions; hence, increasing risk to levels higher that the ones imposed by catastrophic events of other natural perils. To identify and quantify drought risk for the agriculture sector, an innovative methodology is proposed for the construction of probabilistic models to estimate the probable losses related to the reduction of crop production due to the occurrence of a disaster. Here we present the results of the application of such methodology for drought risk in Colombia. Integrated hazard maps, for 50, 100, 250, and 500-years of return period, were developed for severity and duration of droughts. Those maps show the regions in the country which are more prone to extreme precipitation deficit. Also, the average annual loss was calculated for maize crops in Colombia. This risk assessment, following a probabilistic approach, is unique in Colombia and brings useful information for decision-makers on disaster risk reduction and disaster risk management. The results published here, although preliminary, are useful for planning the territory and water resources of the country, as well as an initial product for the development of financial protection and risk transfer instruments.
+
+### 
+
+### Key words
+
+Probabilistic risk assessment, hydrometeorological events, stochastic climate modelling, crops vulnerability, agriculture and livestock sector, integrated risk management
+
+
+Omar Darío Cardona [<span class="underline">https://orcid.org/0000-0001-8233-5450</span>](https://orcid.org/0000-0001-8233-5450)
+
+Gabriel Bernal [<span class="underline">https://scholar.google.com/citations?user=wYtazboAAAAJ</span>](https://scholar.google.com/citations?user=wYtazboAAAAJ)
+
+María Alejandra Escovar [<span class="underline">https://scholar.google.com/citations?hl=en\&user=Ac5JYNoAAAAJ</span>](https://scholar.google.com/citations?hl=en&user=Ac5JYNoAAAAJ)
+
+# 
+
+
+Cesar Hidalgo [<span class="underline">https://orcid.org/0000-0002-1796-8945</span>](https://orcid.org/0000-0002-1796-8945)
+
+Johnny Vega [<span class="underline">https://orcid.org/0000-0002-0662-7213</span>](https://orcid.org/0000-0002-0662-7213)
+
+**BIBLIOGRAFÍA**
+
+1.  > Jibson, R. W., Harp, E. L., & Michael, J. A. (1998). A method for producing digital probabilistic seismic landslide hazard maps. *Engineering Geology*, 58, 271-289. [<span class="underline">https://doi.org/10.1016/S0013-7952(00)00039-9</span>](https://doi.org/10.1016/S0013-7952\(00\)00039-9)
+
+2.  > Jaiswal, P., & Van Westen, C. J. (2009). Estimating temporal probability for landslide initiation along transportation routes based on rainfall thresholds. *Geomorphology*, 112, 96-105. [<span class="underline">https://doi.org/10.1016/j.geomorph.2009.05.008</span>](https://doi.org/10.1016/j.geomorph.2009.05.008)
+
+3.  > Jaiswal, P., Van Westen, C., & Jetten, V. (2010). Quantitative landslide hazard assessment along a transportation corridor in southern India. *Engineering Geology*, 116, 236-250. [<span class="underline">https://doi.org/10.1016/j.enggeo.2010.09.005</span>](https://doi.org/10.1016/j.enggeo.2010.09.005)
+
+4.  > AMVA. (2009). *Amenaza, vulnerabilidad y riesgo por movimientos en masa, avenidas torrenciales e inundaciones en el Valle de Aburrá*. Formulación de propuestas de gestión. Medellín.
+
+5.  > Hidalgo, C. A., Vega, J. A., Assis, A. P., & Villarraga, M. R. (2012). Estimation of sliding threat in linear projects: roads in residual soils (Spanish). *Memorias del IV Simposio Panamericano de Deslizamientos*. Paipa: Sociedad Colombiana de Geotecnia.
+
+6.  > Hidalgo, C., & Vega, J. (2014). Estimación de la amenaza por deslizamientos detonados por sismos y lluvia (Valle de Aburrá-Colombia). *Revista EIA*, 11(22), 3-117.
+
+7.  > Zêrere, J., García, R., Oliveira, S., & Reis , E. (2008). Probabilistic landslide risk analysis considering direct costs in the area north of Lisbon (Portugal). *Geomorphology* (94), 467–495. [<span class="underline">https://doi.org/10.1016/j.geomorph.2006.10.040</span>](https://doi.org/10.1016/j.geomorph.2006.10.040)
+
+8.  > Remondo, J., Bonachea, J., & Cendrero, A. (2008). Quantitative landslide risk assessment and mapping on the basis of recent occurrences. *Geomorphology*, 98(3-4), 496-507. [<span class="underline">https://doi.org/10.1016/j.geomorph.2006.10.041</span>](https://doi.org/10.1016/j.geomorph.2006.10.041)
+
+9.  > Godt, J. W., Sener, B., Verdin, K. L., Wald, D. J., Harp, E. L., & Jibson, R. W. (2008). Rapid assessment earthquake-induced landsliding. *Proceedings of the First World Landslide Forum*, November, Parallel Sessions Volume, International Program on. Tokyo, Japan.
+
+10. > Vega, J. A. (2013). *Estimación del riesgo por deslizamientos de laderas generados por eventos sísmicos en la ciudad de Medellín usando herramientas de la Geomática. Caso aplicado a edificaciones urbanas*. La Plata, Argentina: Facultad de Ingeniería y Ciencias Astronómicas y Geofísicas de la Universidad Nacional de La Plata.
+
+11. > Vega, J. A., & Hidalgo, C. A. (2017). Risk Assessment of Earthquake-Induced Landslides in Urban Zones. En M. Mikoš, B. Tiwari, Y. Yin & K. Sassa (Eds.), *Advancing Culture of Living with Landslide – Advances in Landslide Science,* (pp. 953-963), Volume 2. Springer International Publishing. [<span class="underline">https://doi:10.1007/978-3-319-53498-5</span>](about:blank)
+
+12. > Dragicevic, S., Lai, T., & Balram, S. (2015). GIS-based multicriteria evaluation with multiscale analysis to characterize urban landslide susceptibility in data-scarce environments. *Habitat International*, 45, 114-125. [<span class="underline">https://doi.org/10.1016/j.habitatint.2014.06.031</span>](https://doi.org/10.1016/j.habitatint.2014.06.031)
+
+13. > Saboya, F., Alves, M., & Pinto, W. (2006). Assessment of failure susceptibility of soil slopes using fuzzy logic. *Engineering Geology*, 86, 211–224. [<span class="underline">https://doi.org/10.1016/j.enggeo.2006.05.001</span>](https://doi.org/10.1016/j.enggeo.2006.05.001)
+
+14. > Sepulveda, S. A., & Petley, D. N. (2015). Regional trends and controlling factors of fatal landslides in Latin America and the Caribbean. *Natural Hazards and Earth Systems Science*, 15, 1821–1833. [<span class="underline">https://doi.org/10.5194/nhess-15-1821-2015</span>](https://doi.org/10.5194/nhess-15-1821-2015)
+
+15. > Isaza-Restrepo, P. A., Martinez, H. E., & Hidalgo, C. A. (April de 2016). Methodology for quantitative landslide risk analysis in residential projects. Habitat International, 53, 403-412. https://doi.org/10.1016/j.habitatint.2015.12.012
+
+16. > Klose, M. (2015). *Landslide Databases as Tools for Integrated Assessment of Landslide Risk*. Switzerland: Springer, p. 156. [<span class="underline">https://doi.org/10.1007/978-3-319-20403-1</span>](https://doi.org/10.1007/978-3-319-20403-1)
+
+17. > Bryant, E. A., Head, L., & Morrison, R. J. (2005). Planning for natural hazards-how can we mitigate the impacts. En R. J. Morrison, S. Quin, & E. A. Bryant (Eds.), *Proceedings of a symposium Planning for natural hazards-how can we mitigate the impacts,* (pp. 1-21). Wollongong: GeoQuEST Research Centre and School of Earth and Environmental Sciences, University of Wollongong.
+
+18. > Chowdhury, R., Flentje, P., & Bhattacharya, G. (2010). *Geotechnical Slope Analysis*. London, England: Taylor & Francis, p. 737. [<span class="underline">https://doi.org/10.1201/9780203864203-f</span>](https://doi.org/10.1201/9780203864203-f)
+
+19. > Aristizabal, E., & Gomez, J. (2007). Inventario de emergências e desastres no vale de Aburrá originados por fenómenos naturais e antrópicos no período 1880-2007. *Revista Gestión y Ambiente,* 10(2), 17-30.
+
+20. > Isaza, P. (2011). *Avaliação do Risco Aceitável por Escorregamentos de Encostas em Regiões Tropicais Montanhosas: Caso de Aplicação, Medellín - Colômbia*. Dissertação de Mestrado. Brasilia: Departamento de Engenharia Civil, Universidade de Brasilia.
+
+21. > Vélez, M., Hoyos, F., Vélez, J., & Gómez, S. (1993). A methodology for the study of the hydrogeologic parameters in landslides. *3a Conferencia Latinoamericana de Hidrogeología Urbana*, 349 – 359. Cartagena.
+
+22. > SGC. (2017). *Las amenazas por movimientos en masa de Colombia. Una visión a escala 1:100.000.* Bogotá: Servicio Geológico Colombiano, Bogotá: Servicio Geológico Colombiano, 2017, p. 319.
+
+23. > SGC. (2015). *Guía metodológica para estudios de amenaza, vulnerabilidad y riesgo por movimientos en masa*. Bogotá: Servicio Geológico Colombiano, 2015, 179 p.
+
+24. > Hidalgo, C. A. (2013). *Incertezas, Vulnerabilidade e Avaliação de Risco Devido a Deslizamento em Estradas, Brasilia*. Tesis de doctorado Departamento de Engeniería Civil y Ambiental, Universidad de Brasilia, 2013, 250 p.
+
+25. > DAPARD. (2015). *Plan Departamental para La Gestión del Riesgo de Desastres. Gobernación de Antioquia*. Medellín: Departamento Administrativo del Sistema de Prevención, Atención y Recuperación de Desastres en Antioquia.
+
+26. > GAIA. (2015). *Actualización de la Línea Base de Gestión del Riesgo y Mapa de Susceptibilidad al Cambio Climático 2014-2015 en la Jurisdicción de Corantioquia*. Corantioquia. Medellín: Corantioquia.
+
+27. > Vega, J. A., & Hidalgo, C. A. (2016). Quantitative risk assessment of landslides triggered by earthquakes and rainfall based on direct costs of urban buildings. *Geomorphology*, 273, 217–235. [<span class="underline">https://doi.org/10.1016/j.geomorph.2016.07.032</span>](https://doi.org/10.1016/j.geomorph.2016.07.032)
+
+28. > Ruiz-Vásquez, D., & Aristizábal, E. (2018). Landslide susceptibility assessment in mountainous and tropical scarce-data regions using remote sensing data: A case study in the Colombian Andes. *Geophysical Research Abstracts*, 20, EGU2018-3408
+
+29. > Fawcett, T. (2006). An introduction to ROC analysis. Pattern Recognition Letters, 27, 861–874. [<span class="underline">https://doi:10.1016/j.patrec.2005.10.010</span>](about:blank)
+
+30. > Pourghasemi, H. R., Jirandeh, A. G., Pradhan, B., Xu, C., Gokceoglu, C. (2013). Landslide susceptibility mapping using support vector machine and GIS at the Golestan Province, Iran. *Journal of Earth System Science*, 122, 2, 349–369. [<span class="underline">https://doi:10.1007/s12040-013-0282-2</span>](about:blank)
+
+31. > Dikshit, A., Satyam, N., Pradhan, B. (2019). Estimation of Rainfall‑Induced Landslides Using the TRIGRS Model. *Earth Systems and Environment*, 3, 575–584. [<span class="underline">https://doi.org/10.1007/s41748-019-00125-w</span>](https://doi.org/10.1007/s41748-019-00125-w)
+
+32. > Pradhan, A. M. S., Kim, Y. T. (2016). Evaluation of a combined spatial multi-criteria evaluation model and deterministic model for landslide susceptibility mapping. *Catena* 140, 125–139. [<span class="underline"> https://doi.org/10.1016/j.catena.2016.01.022</span>](about:blank)
+
+33. > Kritikos, T., Davies, T. (2015). Assessment of rainfall-generated shallow landslide/debris-flow susceptibility and runout using a GIS-based approach: application to western Southern Alps of New Zealand. *Landslides*, 12, 1051–1075. [<span class="underline">https://doi.org/10.1007/s10346-014-0533-6</span>](https://doi.org/10.1007/s10346-014-0533-6)
+
+34. > Chen, W., Pourghasemib, H. R., Kornejadyc, A., Zhanga, N. (2017). Landslide spatial modeling: Introducing new ensembles of ANN, MaxEnt, and SVM machine learning techniques. *Geoderma*, 305, 314–327. [<span class="underline">https://doi.org/10.1016/j.geoderma.2017.06.020</span>](https://doi.org/10.1016/j.geoderma.2017.06.020)
+
+35. > Hidalgo, C.A., Vega, J.A., & Parra, M. (2017). Effect of the rainfall infiltration processes on the landslide hazard assessment of unsaturated soils in tropical mountainous regions. Engineering and Mathematical Topics in Rainfall, T. V. V. Hromadka II y P. Rao, Edits. Londres, Intechopen, pp. [<span class="underline">https://doi.org/10.5772/intechopen.70821</span>](https://doi.org/10.5772/intechopen.70821)
+
+36. > Safeland. (2011). D2.5: Physical vulnerability of elements at risk to landslides: Methodology for evaluation, fragility curves and damage states for buildings and lifelines. *SafeLand Living with landslide risk in Europe: Assessment, effects of global change, and risk management strategies*. 195 p.
+
+37. > Marin, A. L., Toro, L. J., & Uribe, S. I. (2008). Conectividad estructural del paisaje cafetero en la cuenca alta del rio San Juan, Suroeste Antioqueño, Colombia*. Boletín de Ciencias de la Tierra*, (23), 43-54.
+
+11
+
+<span id="_heading=h.uk5pcfwjh69v" class="anchor"></span>Capítulo 11: De la percepción de la amenaza a su cuantificación. Caso de estudio: desbordamiento del río Unete en Aguazul, Casanare, Colombia
+
+**Rafael Muñoz Quintero<sup>1\*</sup>, Daniela Jácome Hernández<sup>1</sup>, Alejandro Franco Rojas<sup>1</sup> & Alexander Padilla González<sup>1</sup>**
+
+<sup>1</sup>Departamento de Ingeniería Civil, Universidad de La Salle. Carrera 2 No. 10-70, Bogotá, Colombia
+
+\*Autor de contacto: Rafael Muñoz Quintero. Departamento de Ingeniería Civil, Universidad de La Salle. Carrera 2 No. 10-70, Bogotá, Colombia. Correo-e: rmunoz02@unisalle.edu.co
+
+**Resumen**
+
+Históricamente las crecientes del río Unete han afectado el área urbana de Aguazul (Casanare) impactando su población, economía e infraestructura, condición que se agrava tanto por el desarrollo de barrios sobre geoformas susceptibles a inundaciones (caños y vegas), como por el desconocimiento de sus habitantes a la amenaza a la cual se encuentran expuestos, por cuanto, la percepción suele construirse con antecedentes de los eventos ocurridos en los últimos años, caracterizados por alta frecuencia y poca magnitud, siendo preciso contrastar dicha percepción con registros históricos y modelos hidráulicos. Al igual que, en muchos otros municipios, en Aguazul se han construido estructuras de mitigación, que, aunque aportan a reducir los efectos de las crecientes, tienen una eficiencia limitada y persiste la amenaza sobre los barrios y las obras públicas, e incluso, se desconocen los criterios de diseño. Lo anterior, conduce a la necesidad de cuantificar dicha amenaza aun en condiciones de escasez de información, para esto se realizó un modelo hidráulico 2D en Iber para periodos de retorno de hasta 200 años, demandando, entre otros insumos, el levantamiento topográfico y cálculo del caudal para cada periodo de retorno. Como resultado se obtuvieron mapas que indican el grado de amenaza por inundación en el casco urbano de Aguazul debido al desbordamiento del río Unete, correspondiendo a 72.94% a amenaza alta, 13.92% media y 13.13% baja, afectando los barrios Porvenir, Las Vegas, Villaluz y Los Esteros, así como infraestructura pública como un colegio y el matadero municipal, demostrando que los sistemas de contención existentes resultan insuficientes para contrarrestar crecientes con periodo de retorno superiores a 10 años, hallazgos que permiten formular nuevas obras de mitigación y estrategias para una ocupación del territorio más segura y planificada.
+
+**Palabras clave**
+
+Amenaza, modelación hidráulica, inundaciones, Aguazul, Iber 2D
+
+**From hazard´s perception to its quantification. Case study: Overflow of the Unete river in Aguazul, Casanare, Colombia**
+
+**Abstract**
+
+Historically, the floods of the Unete River have affected the urban area of Aguazul (Casanare), impacting its population, economy and infrastructure, a condition that is aggravated both by the development of neighborhoods on geo forms susceptible to floods (pipes and vegas), as well as by the lack of knowledge of its inhabitants to the threat to which they are exposed, since, perception usually is constructed with a history of the events that have occurred in recent years, characterized by high frequency and low magnitude, it is necessary to contrast this perception with historical records and hydraulic models. As in many other municipalities, mitigation structures have been built in Aguazul, which, although they contribute to reducing the effects of floods, have limited efficiency, and the threat to neighborhoods and public works persists, and even unknown The design criteria. This leads to the need to quantify this threat even in conditions of information shortages; for this, a 2D hydraulic model was carried out in Iber for return periods of up to 200 years, demanding, among other inputs, the topographic survey and flow calculation for each return period. As a result, maps were obtained indicating the degree of flood threat in the urban area of Aguazul due to the overflow of the Unete River, corresponding to 72.94% of high, 13.92% average and 13.13% low threat, affecting the neighborhoods Porvenir, Las Vegas, Villaluz and Los Esteros, as well as public infrastructure such as a school and the municipal slaughterhouse, demonstrating that the existing containment systems are insufficient to offset floods with a return period of more than 10 years, findings that allow formulating new mitigation works and strategies for occupation of the safest and most planned territory.
+
+**Keywords**
+
+Threat, hydraulic modeling, flooding, Aguazul, Iber 2D
+

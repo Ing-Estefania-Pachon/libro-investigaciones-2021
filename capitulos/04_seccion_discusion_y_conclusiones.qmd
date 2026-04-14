@@ -1,0 +1,40 @@
+---
+title: "DISCUSIÓN Y CONCLUSIONES"
+number-sections: false
+---
+
+
+Reubicación, relocalización y reasentamiento poblacional suelen ser categorías de estudio homologables en su abordaje e implementación a nivel latinoamericano \[2,52,53,54\], sin embargo, el abordaje metodológico, político, administrativo, económico y social de cada uno de ellos, guarda significativas diferencias \[20\]. Mientras que la reubicación y la relocalización implican ejercicios de menor impacto, en tanto pueden ser temporales, o darse en el mismo territorio, el reasentamiento, por el contrario, involucra una transformación de vínculos que afectan directamente el tejido social, conformado por cada una de las redes relacionales con el entorno, en consecuencia, amerita una mayor complejidad en su abordaje.
+
+Lograr un reasentamiento social implica un ejercicio de resignificación relacional, influenciado por la percepción social del riesgo, las estrategias sociales de afrontamiento y los canales de participación que las instituciones, familias y comunidades implicadas han construido. Así, el reasentamiento social tendría como propósito fortalecer los modos de vida y el desarrollo sostenible, a través de una relación de corresponsabilidad entre el Estado, las instituciones públicas y privadas, las organizaciones de sociedad civil y las comunidades.
+
+Con base en lo anterior, cada uno de los componentes psicosociales inmersos en los procesos de reasentamiento social, han de direccionarse bajo el precepto de la seguridad territorial, teniendo en cuenta que es “\[…\] el resultado de la interacción compleja entre múltiples factores, que les garanticen a los integrantes de las generaciones presentes y futuras, las condiciones necesarias para ejercer el derecho a la vida con calidad y dignidad.” \[55\]. Esta interacción compleja involucra cada componente psicosocial que lleva a que lo performativo se convierta en noción, es decir, en elemento esencial para que esta interacción pueda cumplir su mandato de sostenibilidad.
+
+Butler \[63\] define lo performativo como aquella característica que tiene la capacidad de cambiar el lenguaje bajo una intencionalidad o un propósito. En este sentido lo performativo es una reinvención constante que afecta directamente la relación que hay con el mundo bajo un enunciado, en palabras de Butler, “funciona para producir lo que declara”. Ahora bien, si la interacción de los componentes psicosociales siempre se encuentra bajo un contexto, ineludiblemente, este contexto generará tensiones para el cambio. Estos cambios se convierten en responsabilidades para cada componente, para que los profesionales, comunidades, organizaciones de sociedad civil e instituciones recreen y reejecuten los procesos que no estén respondiendo a las necesidades, capacidades y deseos de las comunidades a reasentar, ni del territorio receptor si es el caso.
+
+Esta forma de análisis lleva a que el reto sea mayor, sin embargo, invita a que cada componente estratégico no se resuelva como una lista de chequeo. Cada componente estratégico se encuentra en relación, lo habita una noción performativa que le brinda la permeabilidad para que se transforme según la historicidad de sus participantes.
+
+Bajo lo anterior y en primer lugar, el reasentamiento debe verse como un reinicio para fortalecer el cuidado en un territorio y ampliar las libertades humanas. Si bien el reasentamiento social no puede solucionar completamente los problemas estructurales –ligados al cumplimiento de la función social del Estado– no puede intensificar factores que hacen posible estas condiciones, que se relacionan con desempleo, pobreza, desigualdad, violencia, corrupción, entre otros temas, llevando a que aumente la vulnerabilidad de las familias y comunidades. Es necesario que cada proyecto de reasentamiento social se analice, reflexione, ejecute y sistematice de manera participativa, y que no se minimice a lógicas de construcción de vivienda.
+
+Lo anterior entonces, repercute en procesos de planificación territorial en lo que se delimite, en efecto, zonas de reserva ambiental, actualicen y comuniquen los diagnósticos de zonas habitables y áreas de riesgo no mitigable. Ello, en perspectiva de retos institucionales, donde intervengan entidades estatales, organizaciones de sociedad civil e instituciones privadas, de manera coordinada, que puedan dar cuenta de cada uno de los componentes indicados. Adicionalmente, establecer una estructura administrativa donde entes de coordinación a nivel nacional y territorial garanticen la participación de diversos actores competentes en la materia.
+
+Por último, se hace imprescindible vincular equipos interdisciplinarios en los momentos de planeación, ejecución y seguimiento de, proyectos y/o programas de reasentamiento social, cuya finalidad sea analizar y trabajar sobre los componentes psicosociales como nociones performativas, en los que se incluyan rutas para el análisis cuantitativo y cualitativo de cada componente. Este equipo puede estar en función de fortalecer: las políticas de ordenamiento territorial, las lógicas de crecimiento y desarrollo urbano/rural, la interacción entre las comunidades e instituciones, y el ejercicio de la ciudadanía activa, de tal manera, que no se generen asentamientos en zonas de riesgo no mitigable y que se lideren procesos que partan de un dialogo real de saberes para las reinvenciones de los territorios.
+
+En conclusión, si bien la complejidad de la interacción humana con el territorio imposibilita tener “recetas” o un vademécum que indique con certeza aquellos aspectos psicosociales fundadores de un éxito rotundo en los reasentamientos sociales, líneas de acción orientadoras llevan a que los procesos puedan direccionarse desde la calidad de vida comunitaria y su desarrollo.
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>PUNTOS CLAVE</strong></p>
+<ol type="1">
+<li><blockquote>
+<p>El reasentamiento social como estrategia de reducción del riesgo de desastres, tiene como propósito fortalecer los modos de vida, la ampliación de libertades humanas y el desarrollo sostenible, a través de una relación de corresponsabilidad entre el Estado, las instituciones, públicas y privadas, y las comunidades.</p>
+</blockquote></li>
+<li><blockquote>
+<p>El reasentamiento social deviene en una oportunidad para la construcción de comunidades y territorios situados en el conocimiento y la dignidad para la reducción del riesgo de desastres.</p>
+</blockquote></li>
+</ol></td>
+</tr>
+</tbody>
+</table>
+

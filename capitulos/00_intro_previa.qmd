@@ -1,0 +1,113 @@
+---
+title: "Introducción"
+number-sections: false
+---
+
+> 
+> 
+> **Investigaciones en gestión del riesgo de desastres para Colombia**
+> 
+> **Avances, perspectivas y casos de estudio**
+
+Comisión Nacional Asesora para la Investigación en Gestión del Riesgo de Desastres
+
+*Editores*
+
+Unidad Nacional para la gestión del Riesgo de Desastres
+
+> **Investigaciones en gestión del riesgo de desastres para Colombia**
+> 
+> **Avances, perspectivas y casos de estudio**
+> 
+> Comisión Nacional Asesora para la Investigación en Gestión del Riesgo de Desastres
+> 
+> *Editores*
+> 
+> Unidad Nacional para la gestión del Riesgo de Desastres
+
+Comisión Nacional Asesora para la Investigación en Gestión del Riesgo de Desastres
+
+*Editores*
+
+Lina Dorado, Unidad Nacional para la Gestión del Riesgo de Desastres –UNGRD
+
+Argiro Ramírez, Departamento Administrativo de Ciencia, Tecnología e Innovación –COLCIENCIAS
+
+Omar Joaquín Agudelo, Centro de Estudios para la Prevención de Desastres –CEPREVE
+
+Marta Calvache/Carolina Hernández/ Patricia Pedraza, Servicio Geológico Colombiano –SGC
+
+Fabio Andrés Bernal/ Luis Alfonso López, Instituto de Hidrología, Meteorología y Estudios Ambientales –IDEAM
+
+Leonor Aydé Rodríguez/ Alexander Ariza/ Carlos Andrés Franco, Instituto Geográfico Agustín Codazzi –IGAC
+
+Wilson Ramírez/ Dorotea Cardona H, Instituto de Investigación de Recursos Biológicos Alexander von Humboldt –IAvH
+
+Capitán de Corbeta Cesar Grisales, Dirección General Marítima –DIMAR
+
+Alexander Figueroa, Ministerio de Ambiente y Desarrollo Sostenible –MINAMBIENTE
+
+Carolina Queruz / Cesar Cortez, Ministerio de Educación Nacional –MEN
+
+Juan Pablo Londoño, Universidad de la Salle, representante universidades privadas
+
+Lina Ospina Ostios, Universidad del Valle, representante universidades públicas
+
+Carlos García/ Álvaro Rodríguez, red de universitarios de América Latina y el Caribe para la gestión y la reducción de
+
+riesgos de emergencias y desastres –REDULAC/CAPCOLOMBIA
+
+Cristian Jaimes, Instituto Distrital de Gestión de Riegos y Cambio Climático –IDIGER
+
+**Equipo técnico Unidad Nacional para la Gestión del Riesgos de Desastres**
+
+Luisa Cadena, Subdirección para el Conocimiento del Riesgo
+
+Doralba Restrepo M., Subdirección para el Conocimiento del Riesgo
+
+Mauricio Romero Torres, Subdirección para el Conocimiento del Riesgo
+
+ISBN: 000000000000000
+
+Coordinación Editorial
+
+Mauricio Romero Torres
+
+Corrección de estilo
+
+Kelly Barbosa
+
+Diseño y Diagramación
+
+Oficina de Comunicaciones UNGRD
+
+Proceso de arbitraje
+
+Revisión por pares doble ciega para cada capítulo
+
+Todos los derechos reservados. Esta publicación no puede ser reproducida ni total ni parcialmente
+
+o transmitida por un sistema de recuperación de información, en ninguna forma ni por ningún medio,
+
+sin el permiso previo de la UNGRD.
+
+Citese como: Comisión Nacional Asesora para la Investigación en Gestión del Riesgo de Desastres (CNAIGRD) (Eds). 2020. *Investigaciones en gestión del riesgo de desastres para Colombia. Avances, perspectivas y casos de estudio*. Unidad Nacional para la Gestión del Riesgo de Desastres.
+
+Presentación del libro
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sit amet tempor ex. Curabitur at dui aliquam, luctus velit et, mollis lacus. Etiam eget nibh semper, tincidunt velit sit amet, vehicula nibh. Quisque efficitur tortor at tincidunt dapibus. Proin risus nisl, blandit et iaculis ac, congue id felis. Nullam eu eleifend mi. Nullam neque quam, iaculis eu condimentum at, placerat ut turpis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean mollis enim eu eros commodo, id suscipit ex molestie. Phasellus quam massa, aliquet eu ultricies vel, lacinia vitae odio. Donec id lorem ut leo imperdiet aliquam vitae sed ipsum. Proin posuere lectus ex, non ornare ante consectetur sit amet. Pellentesque molestie metus in purus tempus, et efficitur urna placerat. Vivamus et mattis ligula. Morbi tincidunt sem sed nunc imperdiet vulputate. Nunc leo justo, vehicula a ex ac, molestie efficitur sem.
+
+Curabitur condimentum tincidunt ultricies. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Quisque in quam a erat blandit bibendum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean non euismod dui. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin tempor fermentum elit id tristique. Nam maximus sed magna nec porttitor. Praesent ullamcorper justo at est placerat, eu tincidunt eros iaculis.
+
+Quisque ullamcorper, orci eget consectetur mattis, erat dui tincidunt massa, id feugiat orci sapien ac ipsum. Phasellus lacus justo, hendrerit ut pellentesque id, venenatis mollis magna. Proin auctor leo sit amet nibh rhoncus, in finibus purus feugiat. In hac habitasse platea dictumst. Integer efficitur leo ut urna placerat volutpat. Suspendisse potenti. Nullam nec urna nunc.
+
+Phasellus id varius odio. Donec et sem dolor. Mauris vitae aliquam tellus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam mollis placerat lectus, vel placerat nibh consectetur id. Nulla sed tellus fringilla quam porta interdum. Cras nec sagittis quam, vel porttitor erat. Nam neque sapien, lobortis at lorem sit amet, efficitur bibendum justo. Donec vel dignissim massa, et blandit massa. Quisque sodales dapibus nibh. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur neque sapien, commodo quis sollicitudin et, scelerisque in sapien. Nam venenatis accumsan iaculis. In sed leo non sapien rhoncus mollis et a nunc. Sed accumsan pharetra tincidunt.
+
+Mauris pretium turpis sed velit dignissim, vitae dictum sapien tristique. Donec leo metus, lacinia sit amet metus et, pretium aliquam tortor. Ut sem leo, porttitor vitae odio eget, faucibus euismod lectus. Mauris laoreet nibh eget sagittis consequat. Donec sollicitudin luctus malesuada. Integer sed urna ut metus commodo viverra quis eget purus. Mauris sodales sollicitudin lectus vitae lacinia. Nunc sit amet sapien nec tortor ornare auctor a at ex.
+
+Donec vel tincidunt elit, vitae posuere ligula. Morbi sed varius purus, eget porta magna. Nulla non mauris vitae velit vehicula elementum in sit amet neque. Phasellus fringilla tortor sit amet diam consequat consequat. Pellentesque accumsan turpis eu dui tincidunt, vitae vulputate lorem pellentesque. Nullam cursus metus pulvinar nunc feugiat, et commodo lorem commodo. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam a efficitur ipsum. Quisque urna neque, laoreet eget magna non, tincidunt aliquam velit. Vestibulum vulputate quam in erat dictum dignissim. Curabitur lacus massa, scelerisque ac sodales non, congue vitae erat.
+
+Aenean venenatis maximus orci at blandit. Phasellus ligula magna, condimentum ut diam dapibus, mattis cursus libero. Quisque tempor dolor ut magna viverra egestas eget aliquam tellus. Nullam vel diam ultricies, ornare diam auctor, placerat mauris. Sed porttitor nulla non ipsum condimentum, non tristique augue interdum. Etiam lobortis laoreet laoreet. Duis cursus dui in libero vulputate, ut blandit lacus ornare. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sit amet tempor ex. Curabitur at dui aliquam, luctus velit et, mollis lacus. Etiam eget nibh semper, tincidunt velit sit amet, vehicula nibh. Quisque efficitur tortor at tincidunt dapibus. Proin risus nisl, blandit et iaculis ac, congue id felis. Nullam eu eleifend mi. Nullam neque quam, iaculis eu condimentum at, placerat ut turpis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean mollis enim eu eros commodo, id suscipit ex molestie. Phasellus quam massa, aliquet eu ultricies vel, lacinia vitae odio. Donec id lorem ut leo imperdiet aliquam vitae sed ipsum. Proin posuere lectus ex, non ornare ante consectetur sit amet. Pellentesque molestie metus in purus tempus, et efficitur urna placerat. Vivamus et mattis ligula. Morbi tincidunt sem sed nunc imperdiet vulputate. Nunc leo justo, vehicula a ex ac, molestie efficitur sem.
+

@@ -1,0 +1,41 @@
+---
+title: "REPRESENTACIÓN DE LA VULNERABILIDAD PARA LA EVALUACIÓN DEL RIESGO"
+number-sections: false
+---
+
+
+La vulnerabilidad es una característica intrínseca de los elementos expuestos y que caracteriza el comportamiento de los elementos expuestos (cultivos) durante la ocurrencia de un evento peligroso (sequía, por ejemplo). Para la metodología aplicada en este estudio, no se considera la definición de vulnerabilidad mediante curvas en las que la pérdida en el elemento expuesto es función de la intensidad de amenaza que ocurra en su ubicación. Por el contrario, la metodología de vulnerabilidad de respuesta de los cultivos a eventos extremos climáticos está asociada a reducciones en el rendimiento del cultivo según el uso de parámetros específicos por especie que definen los procesos físicos, químicos y biológicos que intervienen en el modelo de desarrollo de la planta y sus interacciones con los sistemas de atmósfera y suelo.
+
+En el caso de la evaluación de riesgo por eventos climáticos extremos, el componente de vulnerabilidad se conforma por la metodología de respuesta de los cultivos a la disponibilidad de agua y estrés por temperatura, aplicada por la FAO y publicada en el Artículo 66 de la Unidad de Drenaje e Irrigación \[15\] y resumida en este documento en la sección de Materiales y Métodos. El resultado del módulo de vulnerabilidad cuantifica las diferencias entre el rendimiento óptimo alcanzado por la planta sin restricciones de agua y el rendimiento real logrado bajo condiciones de estrés hídrico o térmico.
+
+Este enfoque permite calcular la biomasa de los cultivos con base en la cantidad de agua transpirada y el rendimiento del cultivo como la proporción de biomasa que entra en las partes cosechables de las plantas.
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>Caja 4. ¿Por qué aplicar el modelo de respuesta de cultivos al agua de la FAO para la evaluación del riesgo?</strong></p>
+<p>Algunas de las características del modelo de la FAO, que son interesantes para la evaluación del riesgo son:</p>
+<ul>
+<li><blockquote>
+<p>El modelo considera la relación proporcional entre el estrés hídrico y la reducción de la producción de biomasa. En consecuencia, la reducción de la producción de biomasa se relaciona con la reducción de los rendimientos y las pérdidas económicas asociadas con el peligro de sequía.</p>
+</blockquote></li>
+<li><blockquote>
+<p>El modelo de la FAO incluye el efecto de las anomalías de la humedad del suelo y la respuesta fisiológica de los cultivos al déficit o exceso hídrico.</p>
+</blockquote></li>
+<li><blockquote>
+<p>El modelo calcula la producción de biomasa en una escala de tiempo diaria, para representar mejor la dinámica de la respuesta del cultivo al agua en diferentes etapas de crecimiento. Esta característica es conveniente porque los parámetros meteorológicos, utilizados para calcular el riesgo de sequía, también tienen una escala de tiempo diaria.</p>
+</blockquote></li>
+<li><blockquote>
+<p>Como la producción de biomasa se calcula a partir de las series de precipitación y temperatura, el modelo puede introducir el efecto de los escenarios de cambio climático. Se incluye también la concentración de dióxido de carbono en la atmósfera.</p>
+</blockquote></li>
+<li><blockquote>
+<p>La FAO ha establecido parámetros estándar para los cultivos, con sus correspondientes procedimientos de calibración y validación.</p>
+</blockquote></li>
+<li><blockquote>
+<p>Es posible incorporar modificadores asociados a prácticas agrícolas (por ejemplo, riego o fertilización), en función de la información disponible.</p>
+</blockquote></li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+

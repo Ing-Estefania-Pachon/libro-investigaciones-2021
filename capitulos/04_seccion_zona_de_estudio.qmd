@@ -1,0 +1,20 @@
+---
+title: "ZONA DE ESTUDIO"
+number-sections: false
+---
+
+
+La Mojana es una ecorregión (Fig. 1) de especial importancia en Colombia que hace parte del complejo de humedales de la Depresión Momposina, la cual es una cuenca hidrográfica sedimentaria de 24,650 km<sup>2</sup> reguladora de los caudales de los ríos Magdalena, Cauca y San Jorge. Estos humedales cumplen la función de amortiguación de inundaciones ya que permiten distribuir las cabezas de agua originadas por lluvias en las partes altas de la región Andina, facilitando la decantación y acumulación de sedimentos, funciones de control indispensables para la Costa Caribe \[6\]. La ecorregión se localiza en jurisdicción de cuatro departamentos (Sucre, Bolívar, Córdoba y Antioquia) y comprende 28 municipios, con una población de alrededor de 929,669 habitantes y una superficie de 28,461 Km<sup>2</sup> \[7\].
+
+![Imagen que contiene texto, mapa Descripción generada automáticamente](../media/image140.jpg)
+
+**Figura 1.** Mapa de la ecorregión de la Mojana (Fondo de Adaptación).
+
+Los primeros pobladores de la región de La Mojana fueron los indígenas Zenues, quienes colonizaron y adecuaron la depresión Momposina e iniciaron su poblamiento desde el siglo IX a.C, hasta los siglos X-XII d.C \[8\]. En este proceso de poblamiento aparecen importantes ingenieros hidráulicos que han marcado la historia del manejo de los recursos hídricos en Colombia y en Latinoamérica. Con el fin de adaptarse a los periodos de inundación construyeron plataformas artificiales (2 o 3 m de altura) para instaurar sus viviendas, de esta forma los niveles del agua no lograban afectar su hábitat. Adicionalmente este sistema estaba compuesto por canales artificiales y camellones –partes elevadas entre canal y canal– que encausaban las aguas facilitando su salida al mar. Las aguas se distribuían de manera uniforme, circulaban más lentamente durante la época de inundaciones y, en época de sequía, permanecían humedeciendo los camellones donde se ubicaban los cultivos \[8\].
+
+Dichas técnicas se abandonaron y las causas no se establecieron. Sin embargo se le atribuyen a fenómenos ambientales relacionados con periodos de sequías. En el siglo XVI empieza el proceso de poblamiento español, que se caracteriza especialmente por la introducción de ganado en la zona de parte de los hermanos Heredia. Apareciendo de esta forma la ganadería y explotación agrícola. Los hechos del proceso de colonización marcan una nueva historia para la región. Donde las actividades económicas, ya no vistas como procesos de subsistencia de sus habitantes empiezan a enfocarse en la sobreexplotación del suelo, el agua y los seres humanos \[9\].
+
+En los últimos años, la ecorregión ha cambiado debido al uso, ocupación del territorio y por el manejo de las cuencas de los ríos que confluyen en el delta hídrico. Adicionalmente la construcción de obras civiles ha generado cambios en el complejo cenagoso y fluvial. La infraestructura se ha orientado al control del agua mediante obras que afectan la dinámica hídrica y desestabilizan los sistemas hidrobiológicos, en lugar de adaptarse a las condiciones del medio natural para su aprovechamiento.
+
+La ecorregión de la Mojana ha sido el caso de estudio para aplicar los modelos integrados provenientes del metamodelo. Específicamente la información y los procesos fueron desarrollados en los municipios de Nechí (Antioquia), San Marcos (Sucre), Magangué (Bolivar), Montelíbano (Córdoba) y en la Depresión Momposina en Mompox (Bolívar).
+

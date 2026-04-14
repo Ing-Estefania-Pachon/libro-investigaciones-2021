@@ -1,0 +1,59 @@
+---
+title: "LINEAMIENTOS PARA LA GESTIÓN DEL RIESGO POR EROSIÓN COSTERA (PLAN DE ACCIÓN 2016 – 2020, DEPARTAMENTO DE CÓRDOBA)"
+number-sections: false
+---
+
+
+El Plan de Acción para la Gestión del Riesgo y la Erosión Costera en el departamento de Córdoba 2016–2020, junto con los lineamientos fueron una herramienta de contribución a la implementación de acciones para el manejo, control, prevención y mitigación de la erosión costera; así como también a la inclusión de la gestión del riesgo por erosión costera. Estos lineamientos se articularon con el PNIEC (Plan Nacional de Investigación de la Erosión Costera \[24\], el cual incluye nueve objetivos que propenden por: 1) caracterizar el riesgo, 2) analizar el escenario de riesgo, 3) mitigar, 4) monitorear, 5) controlar, 6) prevenir y capacitar, 7) intervención correctiva, 8) intervención prospectiva y 9) gestionar. Se sugiere que las autoridades ambientales regionales procuren su ejecución a corto y largo plazo.
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>Caja 1. Medidas blandas y duras de acuerdo con escenarios de riesgo</strong></p>
+<p>De acuerdo con el análisis de los escenarios de riesgo por erosión costera en el departamento de Córdoba, como medidas de mitigación se sugiere la implementación de medidas blandas y duras de la siguiente forma:</p>
+<ol type="1">
+<li><blockquote>
+<p>Siembra y restauración ecológica del ecosistema de manglar, corales, entre otros.</p>
+</blockquote></li>
+<li><blockquote>
+<p>Diseño de relleno artificial de arena y restauración de playas.</p>
+</blockquote></li>
+<li><blockquote>
+<p>Obras de disminución de la pendiente de acantilados.</p>
+</blockquote></li>
+<li><blockquote>
+<p>Construcción de estructuras duras para la recuperación de las puntas.</p>
+</blockquote></li>
+</ol></td>
+</tr>
+</tbody>
+</table>
+
+Para el desarrollo del Plan de Acción 2016–2020 se identificaron actores de relevancia tales como MADS (Ministerio de Ambiente y Desarrollo Sostenible), DIMAR (Dirección General Marítima de la armada), SGC (Servicio Geológico Colombiano), CIOH (Centro de Investigaciones Oceanográficas e Hidrográficas), INVEMAR (Instituto de Investigaciones Marinas y Costeras, IDEAM (Instituto de Hidrología, Meteorología y Estudios Ambientales), IAVH (Instituto Alexander Von Humboldt), ASOCARS (Asociación de Corporaciones Autónomas Regionales), entes territoriales (alcaldías, gobernaciones), IGAC (Instituto Geográfico Agustín Codazzi), ANLA (Autoridad de Licencias Ambientales), y DNP (Departamento Nacional de Planeación), entre otros.
+
+Finalmente, el avance del plan de acción 2016–2020 para la Gestión del Riesgo y la Erosión Costera en el departamento de Córdoba, armonizado con los objetivos planteados en el PNIEC se puede resumir de la siguiente manera:
+
+  - > Objetivo 1. Conocimiento del riesgo – caracterización: Abarcó el levantamiento de la línea base de la caracterización del riesgo por erosión costera en el departamento de Córdoba, involucrando la inter institucionalidad representada por CVS, SGC, IGAC, IDEAM, DIMAR, INVEMAR, CIOH, entre otros.
+
+  - > Objetivo 2. Análisis del riesgo: Para realizar un análisis del riesgo asociado a la problemática de erosión costera en el departamento de Córdoba se identificó y evaluó la amenaza y vulnerabilidad de los elementos expuestos de la zona costera de la región.
+
+  - > Objetivo 3. Mitigar: La mitigación de los efectos ocasionados por la erosión costera en el departamento de Córdoba se abordó desde el diseño de alternativas de solución de la problemática, posteriormente el monitoreo de las alternativas implementadas evaluará la eficacia de las acciones desarrolladas.
+
+  - > Objetivo 4. Monitorear: La implementación de sistemas de monitoreo de litorales en el departamento de Córdoba ha contribuido al conocimiento de la dinámica litoral en la región y la toma adecuada de decisiones por parte de autoridades ambientales y entes territoriales locales.
+
+  - > Objetivo 5. Controlar: El ejercicio de control de las actividades que contribuyen y acrecientan la problemática de la erosión costera, reducirá la problemática y fortalecerá las competencias de la autoridad ambiental en el departamento.
+
+  - > Objetivo 6. Prevenir – capacitar: La prevención aporta significativamente a la reducción de la problemática a través de medidas que contribuyan a la conservación de los ecosistemas que dan protección a la costa, así como preparar a la comunidad.
+
+  - > Objetivo 7. Intervención correctiva: Para el desarrollo de este objetivo se plantea la definición de las alternativas de intervención para reducir la vulnerabilidad y riesgo por erosión costera en el departamento de Córdoba.
+
+  - > Objetivo 8. Intervención prospectiva: La proyección de intervención prospectiva incluye la incorporación de los escenarios de riesgos por erosión costera en los instrumentos de planificación para su adecuado manejo, y la implementación de tecnologías que permitan anticiparse a eventos de riesgo por erosión costera.
+
+  - > Objetivo 9. Gestionar: La inclusión de la gestión del riesgo en las políticas de manejo y ordenamiento costero del departamento de Córdoba por parte las instituciones involucradas.
+
+El plan de acción y los lineamientos se integraron bajo un esquema conceptual (Fig. 3), donde en primera instancia, se debe tener en cuenta las perspectivas marinas y continentales, esto significa que cada zona tomará en cuenta las condiciones ambientales intrínsecas, este es la premisa para llevar a cabo este proceso, conocer los parámetros naturales y sociales de cada zona o región. Otro factor de gran importancia son los impactos generados por el cambio climático, las variaciones del clima a gran escala en espacio y tiempo, las decisiones que se tomen deberán tener en cuenta las condiciones de cambio de climático futuro como factores de riesgo y estrategias de adaptación.
+
+![A close up of text on a white background Description automatically generated](../media/image178.png)
+
+**Figura 3.** Esquema conceptual de los lineamientos para la gestión del riesgo por erosión costera.
+

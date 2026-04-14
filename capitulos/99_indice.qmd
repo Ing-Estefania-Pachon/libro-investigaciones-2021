@@ -1,0 +1,610 @@
+---
+title: "Índice Temático"
+number-sections: false
+---
+
+
+**Lista de autores**
+
+**Leonardo Arias Bernal** **|** Facultad de Medicina Veterinaria, Facultad de Zootecnia, Fundación Universitaria Agraria de Colombia, Bogotá, Colombia
+
+**Gabriel Bernal |** Departamento de Ingeniería Civil y Agrícola. Universidad Nacional de Colombia, Sede Bogotá, Colombia. INGENIAR Investigación y Consultoría en Ingeniería para Análisis del Riesgo, Bogotá, Colombia
+
+**Omar Darío Cardona** **|** Instituto de Estudios Ambientales. Universidad Nacional de Colombia, Sede Manizales, Colombia. INGENIAR Investigación y Consultoría en Ingeniería para Análisis del Riesgo, Bogotá, Colombia
+
+**Alba N. Castaño-Castaño** **|** Grupo de Investigación Georiesgos, Observatorio Sismológico y Geofísico del Suroccidente Colombiano (OSSO), Universidad del Valle, Ciudad Universitaria, Cali, Colombia
+
+**Yeli C. Castillo-González** **|** Grupo de Investigación Georiesgos, Observatorio Sismológico y Geofísico del Suroccidente Colombiano (OSSO), Universidad del Valle, Ciudad Universitaria, Cali, Colombia
+
+**Oswaldo Coca-Domínguez** **|** Programa de Geociencias Marinas y Costeras GEO. Instituto de Investigaciones Marinas y Costeras “José Benito Vives de Andréis” INVEMAR, Santa Marta, Colombia
+
+**Yuli Corchuelo Cuervo** **|** Servicio Geológico Colombiano, Dirección de Geoamenazas, Grupo Investigaciones Geodésicas Espaciales, Bogotá, Colombia
+
+**Fredy Díaz Mila** **|** Servicio Geológico Colombiano, Dirección de Geoamenazas, Grupo Investigaciones Geodésicas Espaciales, Bogotá, Colombia
+
+**Jorge A. Díaz-Rentería** **|** Grupo de Investigación Georiesgos, Observatorio Sismológico y Geofísico del Suroccidente Colombiano (OSSO), Universidad del Valle, Ciudad Universitaria, Cali, Colombia
+
+**Juan Echeverry |** Centro de Investigación en Materiales y Obras Civiles, Departamento de Ingeniería Civil y Ambiental, Universidad de los Andes, Bogotá, Colombia
+
+**María Alejandra Escovar |** INGENIAR Investigación y Consultoría en Ingeniería para Análisis del Riesgo, Bogotá, Colombia
+
+**Rafael Fernández |** Centro de Investigación en Materiales y Obras Civiles, Departamento de Ingeniería Civil y Ambiental, Universidad de los Andes, Bogotá, Colombia
+
+**Rodrigo Forero Carrillo** **|** Facultad de Medicina Veterinaria, Facultad de Zootecnia, Fundación Universitaria Agraria de Colombia, Bogotá, Colombia
+
+**Alejandro Franco Rojas** **|** Departamento de Ingeniería Civil, Universidad de La Salle, Bogotá, Colombia
+
+**Gustavo Fuentes |** Centro de Investigación en Materiales y Obras Civiles, Departamento de Ingeniería Civil y Ambiental, Universidad de los Andes, Bogotá, Colombia
+
+**William Oswaldo Gaviria Gutiérrez** **|** Programa de Psicología y Observatorio Psicosocial para la Gestión del Riesgo de Desastres. Universidad de Manizales, Manizales, Colombia
+
+**Angie García |** Centro de Investigación en Materiales y Obras Civiles, Departamento de Ingeniería Civil y Ambiental, Universidad de los Andes, Bogotá, Colombia
+
+**Nathalie García-Millán** **|** Grupo de Investigación Georiesgos, Observatorio Sismológico y Geofísico del Suroccidente Colombiano (OSSO), Universidad del Valle, Ciudad Universitaria, Cali, Colombia. Estudiante Doctorado Ciencias Ambientales, Universidad del Valle, Cali, Colombia
+
+**Cesar Augusto Hidalgo M. |** Facultad de Ingeniería. Programa de Ingeniería Civil. Universidad de Medellín, Medellín, Colombia
+
+**Leidy Giraldo Londoño** **|** Servicio Geológico Colombiano, Dirección de Geoamenazas, Grupo Investigaciones Geodésicas Espaciales, Bogotá, Colombia
+
+**Nicolás Hernández Gallo** **|** Facultad de Medicina Veterinaria, 2Facultad de Zootecnia, Fundación Universitaria Agraria de Colombia, Bogotá, Colombia
+
+**Diego Hernández Pulido** **|** Facultad de Medicina Veterinaria, Facultad de Zootecnia, Fundación Universitaria Agraria de Colombia, Bogotá, Colombia
+
+**Daniela Jácome Hernández** **|** Departamento de Ingeniería Civil, Universidad de La Salle, Bogotá, Colombia
+
+**Gonzalo Jiménez Alonso** **|** Facultad de Medicina Veterinaria, Facultad de Zootecnia, Fundación Universitaria Agraria de Colombia, Bogotá, Colombia
+
+**Víctor Leonardo López Jiménez** **|** Ingeniería Ambiental y Sanitaria, Universidad de La Salle, Bogotá, Colombia
+
+**Serguei Lonin** **|** Grupo de Investigación en Oceanología; Facultad de Oceanografía Física – Escuela Naval de Cadetes “Almirante Padilla”. Isla Naval Manzanillo, El Bosque, Cartagena de Indias, Colombia
+
+**Julio Monroy** **|** Grupo de Investigación en Oceanología; Facultad de Oceanografía Física – Escuela Naval de Cadetes “Almirante Padilla”. Isla Naval Manzanillo, El Bosque, Cartagena de Indias, Colombia
+
+**Héctor Mora-Páez** **|** Servicio Geológico Colombiano, Dirección de Geoamenazas, Grupo Investigaciones Geodésicas Espaciales, Bogotá, Colombia
+
+**David Fernando Morales Giraldo** **|** Programa de Geociencias Marinas y Costeras GEO. Instituto de Investigaciones Marinas y Costeras “José Benito Vives de Andréis” INVEMAR, Santa Marta, Colombia
+
+**Rafael Muñoz Quintero** **|** Departamento de Ingeniería Civil, Universidad de La Salle, Bogotá, Colombia
+
+**Nelson Obregón Neira** **|** Instituto Geofísico, Pontificia Universidad Javeriana, Bogotá, Colombia
+
+**Alexander Padilla González** **|** Departamento de Ingeniería Civil, Universidad de La Salle, Bogotá, Colombia
+
+**Viviana Ramírez Loaiza** **|** Federación Luterana Mundial programa Colombia, Bogotá, Colombia
+
+**Juan Carlos Reyes |** Centro de Investigación en Materiales y Obras Civiles, Departamento de Ingeniería Civil y Ambiental, Universidad de los Andes, Bogotá, Colombia
+
+**Constanza Ricaurte-Villota** **|** Programa de Geociencias Marinas y Costeras GEO. Instituto de Investigaciones Marinas y Costeras “José Benito Vives de Andréis” INVEMAR, Santa Marta, Colombia
+
+**Julio Rubio |** Departamento de Geografía de la Universidad del Valle, Cali, Colombia. Universidad de San Buenaventura Cali, Colombia
+
+**Takeshi Sagiya** **|** Centro de Investigación en Mitigación de Desastres, Universidad de Nagoya, Japón
+
+**Elkin De J. Salcedo-Hurtado** **|** Grupo de Investigación Georiesgos, Observatorio Sismológico y Geofísico del Suroccidente Colombiano (OSSO), Universidad del Valle, Ciudad Universitaria, Cali, Colombia. Estudiante Doctorado Ciencias Ambientales, Universidad del Valle, Cali, Colombia. Universidad del Valle, Departamento de Geografía, Ciudad Universitaria, Cali, Colombia
+
+**Karen A. Sánchez-Estupiñán** **|** Grupo de Investigación Georiesgos, Observatorio Sismológico y Geofísico del Suroccidente Colombiano (OSSO), Universidad del Valle, Ciudad Universitaria, Cali, Colombia
+
+**Javier Thomas |** Departamento de Geografía de la Universidad del Valle, Cali, Colombia
+
+**Johnny Alexander Vega G. |** Facultad de Ingeniería. Programa de Ingeniería Civil. Universidad de Medellín, Medellín, Colombia
+
+**Jorge A. Vélez-Correa** **|** Grupo de Investigación Georiesgos, Observatorio Sismológico y Geofísico del Suroccidente Colombiano (OSSO), Universidad del Valle, Ciudad Universitaria, Cali, Colombia. Estudiante Doctorado Ciencias Ambientales, Universidad del Valle, Cali, Colombia. Catedrático de la Maestría en Desarrollo Sustentable, Universidad del Valle, Cali, Colombia
+
+**Paula Andrea Villegas González** **|** Instituto Geofísico, Pontificia Universidad Javeriana, Bogotá, Colombia
+
+**Luis Yamin |** Centro de Investigación en Materiales y Obras Civiles, Departamento de Ingeniería Civil y Ambiental, Universidad de los Andes, Bogotá, Colombia
+
+**Lina Andrea Zambrano Hernández** **|** Programa de Psicología y Observatorio Psicosocial para la Gestión del Riesgo de Desastres. Universidad de Manizales, Manizales, Colombia
+
+**Nisley Zúñiga Estacio** **|** Grupo de Investigación Georiesgos, Observatorio Sismológico y Geofísico del Suroccidente Colombiano (OSSO), Universidad del Valle, Ciudad Universitaria, Cali, Colombia
+
+**1**
+
+<span id="_heading=h.fibvn7jo4kvn" class="anchor"></span>Capítulo 1: Actualización de los coeficientes sísmicos de diseño estructural para la Norma Colombiana de Construcción Sismo Resistente NSR-22
+
+**Gabriel Bernal<sup>1,3\*</sup> & Omar Darío Cardona<sup>2,3</sup>**
+
+<sup>1</sup>Departamento de Ingeniería Civil y Agrícola. Universidad Nacional de Colombia, Sede Bogotá, Colombia
+
+<sup>2</sup>Instituto de Estudios Ambientales. Universidad Nacional de Colombia, Sede Manizales, Colombia
+
+<sup>3</sup>INGENIAR Investigación y Consultoría en Ingeniería para Análisis del Riesgo, Bogotá, Colombia
+
+\*Autor de contacto: Gabriel Bernal. Departamento de Ingeniería Civil y Agrícola. Universidad Nacional de Colombia, Sede Bogotá, Colombia. Correo-e: [<span class="underline">gabernal@ingeniar-risk.com</span>](mailto:gabernal@ingeniar-risk.com)
+
+### 
+
+### Resumen
+
+Se presenta la propuesta de coeficientes sísmicos de diseño desarrollada desde el comité AIS-300 para la actualización de la Norma Colombiana de Construcción Sismo Resistente NSR. Esta propuesta aborda los conceptos de coeficientes óptimos de diseño que han sido la base metodológica para los movimientos de diseño en países como México, alejándose de la metodología usada en los Estados Unidos conocida como Risk Targeted Ground Motion (RTGM). Se detallan los criterios empleados en la aplicación del modelo de optimización de costos totales, con el fin de determinar espectros de diseño desligados de algún periodo de retorno. Se incluye una comparación de las nuevas formas espectrales con las actualmente vigentes dadas por la NSR 10.
+
+**Palabras clave**
+
+Coeficientes sísmicos de diseño, optimización de costos totales, Risk Targeted Ground Motion, amenaza sísmica, espectros de diseño, NSR 22
+
+**Update of Structural Design Seismic Coefficients for the Colombian Building Code NSR-22**
+
+### Abstract
+
+The proposal of design seismic coefficients developed at the AIS-300 committee for the update of the Colombian Standard for Earthquake Resistant Construction, NSR, is presented. This proposal addresses the concepts of optimal design coefficients that have been the methodological basis for design strong motion in countries such as Mexico, drifting away from the methodology used in the United States known as Risk Targeted Ground Motion (RTGM). The criteria used in the application of the total cost optimization model are detailed, to determine design spectra separated from some return period. A comparison of the new spectral forms with the current ones given by the NSR 10 is included.
+
+### Key words
+
+Seismic design coefficients, total cost optimization, Risk Targeted Ground Motion, seismic hazard, design spectra, NSR 22
+
+
+A
+
+Abrasión de acantilados, 417
+
+Acompañamiento psicosocial, 201
+
+Actividades agropecuarias, 232
+
+Adaptación basada en ecosistemas, 434
+
+Adaptación basados en ecosistemas, 436
+
+*Adaptación socio-económica*, 272
+
+AIS-300, 4
+
+Alternativas de mitigación y control, 434
+
+Amenaza, 340, 378, 448, 474
+
+Amenaza probabilista, 51
+
+Amenaza sísmica, 4
+
+Amenaza y vulnerabilidad, 434
+
+Amenaza y vulnerabilidad por erosión costera, 436
+
+Análisis de riesgo, 342
+
+Animales, 230
+
+Animales en la sociedad, 232
+
+Artefactos, 500
+
+Aumento del nivel del mar, 416
+
+B
+
+Bienestar animal, 234
+
+Bioseguridad para respuesta a animales, 240
+
+Bloque Norte de los Andes, 161, 167
+
+Buen vivir, 476
+
+C
+
+Cambio climático, 106
+
+Clima extremo, 106
+
+Clima marítimo, 414
+
+COCONet, 167
+
+Coeficientes óptimos de diseño, 4
+
+Coeficientes sísmicos de diseño, 4
+
+Componentes psicosociales, 202, 205, 207, 221, 222
+
+Comportamiento animal
+
+Comportamiento animal bajo condiciones de stress, 238
+
+Comportamiento animal en incidentes, 237
+
+Comunicación del riesgo, 279
+
+Comunición del riesgo, 284
+
+Comunición humana, 282
+
+Comunidades, 474
+
+Concentración de animales, 236
+
+Concreto reforzado, 58
+
+Cuencas, 340
+
+Cuidado de los animales y manejo de emergencias, 234
+
+Cultivo de maíz, 91
+
+D
+
+Degradación ambiental, 257
+
+Deslizamientos, 340
+
+Diseño, 479
+
+E
+
+Enfermedades zoonóticas, 233
+
+Equilibro ecosistémico, 203
+
+Erosión costera, 414, 416, 435
+
+Escenario de riesgo, 439
+
+Especies silvestres, 231
+
+Espectros de diseño, 4
+
+Espolones, 414, 415
+
+Estrategias comunicativas, 279
+
+Estructuras organizativas, 209
+
+Estudios históricos, 301, 302, 303, 304
+
+> historicidad por sismos, 301
+> 
+> objetivos directos, 305
+> 
+> objetivos indirectos, 306
+> 
+> planificación territorial, 306
+
+Evaluación de amenaza por movimientos en masa, 341
+
+Evaluación de riesgo por inundación., 503
+
+evaluación probabilista de la amenaza por sequía, 97
+
+Evaluación probabilista del riesgo, 92
+
+evaluación probabilista del riesgo por sequía, 95
+
+Evaluación prospectiva del riesgo, 91
+
+Eventos hidrometeorológicos, 92
+
+Experiencia educativa, 256
+
+Experiencias locales, 279
+
+Exposición agrícola, 111
+
+Exposición de edificaciones, 51
+
+F
+
+Factor de seguridad, 350
+
+Factores detonantes, 344
+
+Factores para manejar animales, 238
+
+Floculación, 417
+
+Frecuencia en el nivel de amenaza, 384
+
+Frente halino, 417
+
+G
+
+Generador de clima estocástico, 92
+
+Geoamenazas, 434
+
+Geodesia de imágenes, 177
+
+Geodesia espacial GPS, 163
+
+Geodinámica, 161
+
+Geoformas, 406
+
+Geomática, 360
+
+GeoRED, 167
+
+Gestión del riesgo, 91
+
+Gestión integral del riesgo, 92
+
+GNSS, 161
+
+Gobernanza del riesgo, 287
+
+GPS De-ramping, 187
+
+H
+
+Historicidad, 302, 304, 315, 321, 332
+
+I
+
+Iber 2D, 378
+
+Infraestructura escolar, 45
+
+InSAR, 161, 177
+
+Integración de resultados GPS-InSAR, 189
+
+Integridad socio-ambiental, 201
+
+Intensidad en el nivel de amenaza, 384
+
+Interferograma diferencial, 178
+
+Intervención correctiva, 439
+
+Intervención prospectiva, 439
+
+Inundación, 324, 474
+
+Inundaciones, 302, 325, 327, 333, 377, 378
+
+M
+
+Mampostería, 58
+
+> Mampostería confinada, 62
+> 
+> Mampostería no reforzada, 61
+> 
+> Mampostería reforzada, 63
+
+Manejo de animales, 237
+
+Manejo de especies silvestres, 241
+
+Mantenimiento de la salud pública, 236
+
+Mapas de amenaza integrada por sequía, 91
+
+Marco de Referencia Terrestre, 168
+
+Marco de Sendai, 218
+
+Marco global de referencia, 164
+
+Medidas blandas y duras o mixtas, 436
+
+Medidas de Bioseguridad, 241
+
+Medios de vida, 232
+
+Metodología intensivista, 301
+
+Mitigación, 378, 439
+
+Mitigación del riesgo, 49
+
+> Mitigación del riesgo sísmico, 45
+
+Modelación, 474
+
+Modelación hidráulica, 378
+
+Modelación integrada, 500
+
+Modelo de elevación digital (DEM), 393
+
+Modelo hidráulico 2D, 377
+
+Modelos basados en agentes, 481
+
+Modelos de bloques cinemáticos, 164
+
+Modelos probabilistas, 91
+
+Modos de habitar, 217
+
+Modos de vida, 203, 204, 221
+
+Monitoreo, 439
+
+Movimientos en masa, 301, 302, 319, 321, 322, 340, 341, 380
+
+Movimientos en masa e inundaciones, 301
+
+N
+
+Nivel del mar, 414
+
+Norma Colombiana de Construcción Sismo Resistente, 4
+
+NSR 10, 4
+
+O
+
+Obras costeras, 416
+
+Oleaje, 417
+
+One Health, 231
+
+Optimización de costos totales, 4
+
+P
+
+Paisaje, 435
+
+Participación ciudadana, 204
+
+Participación comunitaria, 267
+
+Participación y organización social, 207, 209, 214
+
+Percepción de la comunidad, 395
+
+Percepción del riesgo, 286
+
+Pérdida anual esperada, 91
+
+Pérdidas probables, 349
+
+Performativo, 221
+
+Periodo de retorno, 4, 377
+
+Planes de mitigación del riesgo, 56
+
+Planificación costera, 435
+
+Políticas de los albergues, 246
+
+Polo de Euler, 169, 175
+
+Pórticos de concreto reforzado, 58
+
+> Pórticos de concreto reforzado con muros de mamposteria, 59
+> 
+> Pórticos de concreto reforzado con muros de mampostería generando columna corta, 60
+
+Preocupaciones medioambientales., 248
+
+Priorización de edificaciones, 57
+
+Protección costera, 414
+
+Proyección social, 265
+
+Psicosocial, 203
+
+R
+
+Radar de Apertura Sintética, 187
+
+Radar Interferométrico de Apertura Sintética, 187
+
+Reasentamiento social, 201, 204
+
+Reducción del riesgo de desastres, 201
+
+Reforzamiento estructural, 45, 55
+
+Registro e identificación de animales, 239
+
+Responsabilidad social, 255, 256
+
+Responsabilidad social universitaria, 265
+
+Respuesta de las personas a los animales en desastres, 233
+
+Riesgo, 349, 359, 474
+
+Riesgo por sequía, 91
+
+Riesgo por sequía para el cultivo de maíz, 120
+
+Riesgo sísmico, 50
+
+RINEX, 168
+
+Risk Targeted Ground Motion, 4
+
+S
+
+Salud física y mental, 220
+
+Salud mental, 247
+
+Salud pública, 234
+
+Salud pública y epidemiologia de los animales en desastres, 247
+
+Sector agropecuario, 91, 92
+
+Sector escolar, 46
+
+Seguridad alimentaria, 231
+
+Sequía, 91
+
+Sequía en Colombia, 108
+
+Series climáticas, 101
+
+Servicio Geológico Colombiano, 167
+
+Sismos, 301, 302, 314, 315, 316, 317, 332
+
+Sistema Terrestre de Referencia, 168
+
+Sistemas de Información Geográfica, 360
+
+Sistemas socio-ecológicos, 475, 476
+
+Sostenibilidad, 201, 221
+
+Subsidencia, 161, 177
+
+T
+
+Tajamares, 414, 417
+
+Taller comunitario, 279
+
+Tectónica de placas, 161
+
+Tejido social, 255
+
+Teoría de la comunicación, 279
+
+Territorio, 435, 475
+
+Territorio afectado, 384
+
+Tipologías de concreto reforzado, 58
+
+Tipologías de construcción escolar, 57
+
+Tipologías de mampostería, 61
+
+Trabajo colaborativo, 256
+
+U
+
+Una salud, 230
+
+V
+
+vectores de velocidad geodésica, 171
+
+Vientos alisios, 415
+
+Vulnerabilidad, 91, 340, 349, 359, 448, 474
+
+Vulnerabilidad de cultivos, 92
+
+Vulnerabilidad de los animales en la agricultura, 245
+
+*Vulnerabilidad hídrica*, 272
+
+Vulnerabilidad sísmica, 54
+
+Vulnerabilidad social, 503
+
+Vulnerabilidad socioeconómica y ambiental, 257
+
+Z
+
+Zona de Convergencia Intertropical, 264
+
+Zonas de deformación en límites de placas, 164
+
+Zoonosis, 237
+
+Zootecnia, 232
+
+1.   No se consideran sistemas de protección sísmica en la estimación de los costos futuros.
+
+2.  La drástica reducción de las aceleraciones de diseño en Bucaramanga se debe, aparentemente, a errores de modelación en versiones anteriores del código NSR. Los nuevos modelos de amenaza sísmica han revelado que las aceleraciones esperadas en la ciudad no son tan altas como se creía.

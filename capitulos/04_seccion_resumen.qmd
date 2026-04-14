@@ -1,0 +1,8 @@
+---
+title: "Resumen"
+number-sections: false
+---
+
+
+El reasentamiento se ha convertido en un generador de nuevos riesgos para las comunidades al no priorizar el marco social que le constituye. Así, el estudio tuvo como objetivo identificar y conceptualizar los componentes psicosociales estratégicos para la planificación, ejecución y seguimiento de procesos correctivos de reasentamiento social para el contexto colombiano, con el fin de fortalecer los modos de vida de las comunidades, el desarrollo sostenible y la ampliación de libertades humanas. Se utilizó un diseño de corte cualitativo con enfoque hermenéutico centrado en el estado de la cuestión, usando como método el análisis de contenido categorial. Se analizaron doscientos documentos realizados en países latinoamericanos en el periodo 1991–2015 a partir de la categoría de análisis: reasentamiento poblacional asociado a amenaza natural, se adelantaron seis grupos focales y siete entrevistas semiestructuradas. Los resultados evidencian diez componentes sociales claves en proyectos de reasentamiento: territorial, ambiental, económico, estrategias sociales de afrontamiento, salud mental y física, prácticas socio culturales, percepción social del riesgo, jurídico-político, participación y organización social, e institucional. Se propone en la discusión el carácter performativo de estos componentes sociales, en cuanto la planeación, ejecución y seguimiento de cada uno implica que sea reinventado según las tensiones, rupturas y sintonías del contexto.
+

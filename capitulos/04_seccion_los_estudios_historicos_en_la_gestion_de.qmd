@@ -1,0 +1,42 @@
+---
+title: "LOS ESTUDIOS HISTÓRICOS EN LA GESTION DEL RIESGO"
+number-sections: false
+---
+
+
+Los impactos que deja la ocurrencia de fenómenos naturales amenazantes como terremotos, erupciones volcánicas, deslizamientos e inundaciones, etc., han ocupado un papel preponderante en la historia de la humanidad, por cuanto los daños y efectos causados, en algunos casos, han destruido completa o parcialmente pueblos y civilizaciones y, en otros casos, han truncado el desarrollo de muchos países del mundo. Por tal razón, el riesgo y los desastres generados por estos fenómenos son materia de estudio de profesionales de diversas disciplinas, incluso del público en general, quienes, a partir de diferentes métodos y enfoques teóricos, analizan no solo los procesos físicos asociados con su ocurrencia sino también los aspectos relacionados con la distribución espacial, la frecuencia o regularidad temporal, la valoración socio económica de los daños y efectos, el diseño y construcción de obras resistentes a sus fuerzas, la planificación de medidas de mitigación y prevención, entre otros.
+
+Sin embargo, a pesar que la ocurrencia de estos fenómenos tiene una larga trazabilidad temporal en la historia de la Tierra y la humanidad, el estudio histórico de los desastres, hasta hace muy poco tiempo, era un campo no atendido por los investigadores, esto debido a que la ausencia de marcos teóricos y metodológicos específicos para llevar a cabo estudios históricos sobre desastres desde una perspectiva social, fue quizás una de las razones que inhibió durante mucho tiempo su desarrollo \[1\].
+
+Es así como podemos afirmar que la ocurrencia de desastres causados por fenómenos naturales amenazantes ha sido un problema frecuente con el que toda la humanidad ha tenido que lidiar. El estudio histórico sistemático, como elemento relevante para la gestión del riesgo y la planificación territorial, puede considerarse como un campo poco explorado y desarrollado, puesto que generalmente no se ha tenido claridad sobre el significado e importancia de la historicidad de estos fenómenos y sus desastres. Entendiendo la historicidad como el conjunto complejo de condiciones y circunstancias que a lo largo del tiempo constituyen el entramado de relaciones en las cuales se inserta y cobra sentido algo: puede ser un proceso, un concepto o la propia vida \[2\].
+
+El principal objetivo de un estudio histórico o de historicidad sobre fenómenos naturales o de los desastres es aumentar el grado de conocimiento de su ocurrencia en una región, aspecto que se materializa con la identificación y tipificación del mayor número de eventos ocurridos y la determinación precisa de sus parámetros físicos y efectos socioeconómicos, logrando con ello tener mejores elementos para la toma de decisiones en cuanto a las medidas de mitigación o prevención, e insumos fundamentales para la calibración de los modelos de amenaza. Sin embargo, acorde con Salcedo-Hurtado \[3\] se puede decir que la importancia real de los estudios históricos sobre los fenómenos naturales amenazantes o de desastres depende de la aplicación para la cual se desarrolla el estudio, conforme a objetivos prácticos, los cuales pueden ser directos o indirectos (Fig. 1).
+
+![](../media/image93.png)
+
+**Figura 1.** Objetivos de los estudios históricos para la gestión del riesgo. Fuente**:** elaboración propia.
+
+Los objetivos directos se relacionan con el conocimiento necesario que debe tenerse sobre los diferentes eventos ocurridos en un sitio y periodo específicos para determinar todas las circunstancias de tiempo, modo y lugar, como para establecer sus posibles causas y efectos que haya dejado. En este caso, los objetivos directos se pueden agrupar de la siguiente manera:
+
+1.  > Geo-Históricos: se refieren a la necesidad de precisar el lugar y fecha del evento, detallando los nombres de los sitios y elementos geográficos de ocurrencia o de afectación. Contribuyen a la determinación de los parámetros del evento, intensidades y aportan información que alimenta los catálogos o inventarios de eventos en una región determinada.
+
+2.  > Geomorfológicos: sirven para asociar o correlacionar la ocurrencia de los diferentes eventos con unidades geomorfológicas o geológicas, tal como la ocurrencia de terremotos con el tipo de estructura tectónica, fallas activas y terreno geológico que pudo estar involucrado en su origen. También pueden ser útiles para establecer la relación que guarda la ocurrencia de un determinado evento con otros fenómenos geológicos, por ejemplo, la correlación entre, terremotos con movimientos en masa, erupciones volcánicas, o avenidas torrenciales, etc.
+
+3.  > Estadísticos: a partir de la asignación de intensidades y otros parámetros físicos que describan los diversos fenómenos naturales amenazantes, los estudios de historicidad permiten identificar zonas susceptibles, en las cuales es posible definir variables estadísticas (frecuencia de ocurrencia, período de recurrencia o de retorno para eventos extremos o máximos) y la elaboración de inventarios o catálogos.
+
+4.  > Socio-Económicos: un aspecto interesante de los estudios históricos de fenómenos naturales consiste en la evaluación socioeconómica de los efectos y daños causados en una región determinada. Es una forma de valorar el impacto o severidad de los efectos no deseados de los fenómenos naturales o desastres sobre los humanos y el medio ambiente. Además, aportan información valiosa para los tomadores de decisión en torno a la dimensión presupuestal asociada a las pérdidas y daños causados por estos eventos.
+
+Los objetivos indirectos se orientan a la aplicación social de los estudios históricos de fenómenos naturales y los desastres, es decir, muestran la utilidad práctica y el servicio que prestan estos estudios en la planificación territorial y urbana, planes de emergencia y en los estudios de zonificación de amenazas a diferentes escalas. Así, los objetivos indirectos de los estudios históricos de fenómenos naturales y desastres, muestran ser útiles en áreas como:
+
+1.  > Percepción del riesgo: permitiendo que los individuos y la comunidad en general interpreten y comprendan donde pueden ocurrir eventos o fenómenos naturales amenazantes, que pueden causarles daños.
+
+2.  > Planificación territorial y urbanismo: permitiendo establecer las restricciones de actividades socio-económicas en torno a los eventos amenazantes recurrentes en el territorio o en una zona determinada.
+
+3.  > Definición de planes de emergencia: la definición de zonas susceptibles a presentar eventos amenazantes, identificados a partir de la frecuencia de ocurrencia, permite establecer medidas para los planes de emergencia.
+
+4.  > Zonificación de amenazas: Con la elaboración de catálogos homogéneos sobre determinado tipo de fenómeno natural, se establecen periodos de recurrencia de fenómenos y posibles funciones de probabilidad que expliquen el régimen de su ocurrencia, información necesaria para los estudios de zonificación de amenazas.
+
+> Es necesario plantear que en los estudios históricos de los fenómenos naturales o de los desastres producidos deben proponerse objetivos sociales que apunten no sólo al hecho de saber qué tipos de eventos ocurren en una zona determinada, sino que a través de ellos se logre avanzar en la determinación de los diversos escenarios de riesgos que conduzcan a la formulación de los planes de gestión del riesgo y su correspondiente apoyo en la planeación y ordenación del territorio en diversas escalas para los tipos de suelo urbano, de expansión urbana y rural.
+> 
+> Para que los estudios históricos sean de utilidad en gestión del riesgo deben tener un sentido práctico social, de tal manera que se analicen a la luz del contexto histórico y geográfico de una región determinada. Es decir, que si se estudia un evento catastrófico especifico ocurrido en un periodo lejano o cercano, debe establecerse como pudo modificar las relaciones y procesos económicos y políticos que caracterizaron o caracterizan a una población, lo cual servirá para la planificación de las medidas de desarrollo y la toma de decisiones en los planes de ordenamiento del territorio. Sólo así se puede garantizar un interés común, al igual que la continuidad y vigencia de este tipo de estudios.
+

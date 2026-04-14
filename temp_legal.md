@@ -19,33 +19,33 @@ Comisión Nacional Asesora para la Investigación en Gestión del Riesgo de Desa
 **Editores**
 
 > Lina Dorado, Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD)
->
+> 
 > Argiro Ramírez, Ministerio de Ciencia, Tecnología e Innovación (Minciencias)
->
+> 
 > Omar Joaquín Agudelo, Centro de Estudios para la Prevención de Desastres (CEPREVE)
->
+> 
 > Marta Calvache, Servicio Geológico Colombiano (SGC)
->
+> 
 > Fabio Andrés Bernal, Instituto de Hidrología, Meteorología y Estudios Ambientales (IDEAM)
->
+> 
 > Leonor Aydé Rodríguez, Instituto Geográfico Agustín Codazzi (IGAC)
->
+> 
 > Wilson Ramírez, Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH)
->
+> 
 > Capitán de Corbeta Cesar Grisales, Dirección General Marítima (DIMAR)
->
+> 
 > Alexander Figueroa, Ministerio de Ambiente y Desarrollo Sostenible (MINAMBIENTE)
->
+> 
 > Carolina Queruz, Ministerio de Educación Nacional (MEN)
->
+> 
 > Juan Pablo Londoño, Universidad de la Salle, representante universidades privadas
->
+> 
 > Lina Ospina Ostios, Universidad del Valle, representante universidades públicas
->
+> 
 > Carlos García, Red de universitarios de América Latina y el Caribe para la gestión y la reducción de
->
+> 
 > riesgos de emergencias y desastres (REDULAC/CAPCOLOMBIA)
->
+> 
 > Cristian Jaimes, Instituto Distrital de Gestión de Riegos y Cambio Climático (IDIGER)
 
 **Equipo técnico, Subdirección para el Conocimiento del Riesgo, UNGRD**
@@ -86,22 +86,21 @@ o transmitida por un sistema de recuperación de información, en ninguna forma 
 
 sin el permiso previo de la UNGRD.
 
-Distribución gratuita -- versión digital
+Distribución gratuita – versión digital
 
 **Citación sugerida**
 
 Comisión Nacional Asesora para la Investigación en Gestión del Riesgo de Desastres (CNAIGRD) (Eds.). 2021. *Investigaciones en gestión del riesgo de desastres para Colombia. Avances, perspectivas y casos de estudio*. Unidad Nacional para la Gestión del Riesgo de Desastres. Bogotá, Colombia. 384 p.
 
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Investigaciones en gestión del riesgo de desastres para Colombia. Avances, perspectivas y casos de estudio / Comisión Nacional Asesora para la Investigación en Gestión del Riesgo de Desastres.-- Bogotá: Unidad Nacional para la Gestión del Riesgo de Desastres, 2021. |
-|                                                                                                                                                                                                                                                                           |
-| 384 p.; 21.6 × 27.9 cm.                                                                                                                                                                                                                                                   |
-|                                                                                                                                                                                                                                                                           |
-| ISBN obra digital: 0000000000000                                                                                                                                                                                                                                          |
-|                                                                                                                                                                                                                                                                           |
-| 1.Conocimiento del riesgo 2. Estudios de riesgos 3. Reducción del riesgo---vulnerabilidad                                                                                                                                                                                 |
-|                                                                                                                                                                                                                                                                           |
-| I. Comisión Nacional Asesora para la Investigación en Gestión del Riesgo de Desastres (Eds.) II. Unidad Nacional para la Gestión del Riesgo de Desastres                                                                                                                  |
-|                                                                                                                                                                                                                                                                           |
-| CDD 363.6 H433 Hecho el depósito legal                                                                                                                                                                                                                                    |
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+<table>
+<tbody>
+<tr class="odd">
+<td><p>Investigaciones en gestión del riesgo de desastres para Colombia. Avances, perspectivas y casos de estudio / Comisión Nacional Asesora para la Investigación en Gestión del Riesgo de Desastres.– Bogotá: Unidad Nacional para la Gestión del Riesgo de Desastres, 2021.</p>
+<p>384 p.; 21.6 × 27.9 cm.</p>
+<p>ISBN obra digital: 0000000000000</p>
+<p>1.Conocimiento del riesgo 2. Estudios de riesgos 3. Reducción del riesgo—vulnerabilidad</p>
+<p>I. Comisión Nacional Asesora para la Investigación en Gestión del Riesgo de Desastres (Eds.) II. Unidad Nacional para la Gestión del Riesgo de Desastres</p>
+<p>CDD 363.6 H433 Hecho el depósito legal</p></td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,77 @@
+---
+title: "SALUD PÚBLICA Y EPIDEMIOLOGIA ALREDEDOR DE LA GESTION DEL RIESGO DE LOS ANIMALES EN DESASTRES"
+number-sections: false
+---
+
+
+Históricamente, la mayor preocupación con respecto a los animales en casos de desastres y emergencias se ha tratado de la salud pública. Una especial preocupación por la salud pública incluye \[25\]:
+
+  - > Contaminación de alimentos y suministro de agua.
+
+  - > Suministro limitado de alimentos.
+
+  - > Transmisión de enfermedades zoonóticas.
+
+Independientemente de su naturaleza, generalmente la demanda de recursos en un desastre, supera la capacidad de oferta por lo que es fundamental establecer cuáles son las necesidades prioritarias de acuerdo con los objetivos establecidos. Para lograr este propósito es importante l aplicación de una evaluación de daños y análisis de necesidades (EDAN o DANA, por sus siglas en inglés “Damage Assessment and needs Analysis”) como instrumento de campo impulsado por los Estados Unidos, permitiendo diagnosticar, priorizar y planificar las principales acciones asistenciales pos-desastre \[26\].
+
+## Salud mental
+
+La salud mental es un componente de Salud pública que es preocupante por el impacto sicológico de las personas durante o post desastres. Varias publicaciones sobre la sicología de los humanos víctimas de los desastres han reportado que las personas que están separadas de sus animales pueden experimentar \[27\]:
+
+  - > Reintentos de entrada.
+
+  - > Fallos en la evacuación.
+
+  - > Ansiedad por la separación.
+
+  - > Pena.
+
+  - > Duelo.
+
+  - > Ira.
+
+  - > Culpa.
+
+  - > Síntomas sicosomáticos.
+
+  - > Estrés por separación y fatiga compacional.
+
+  - > Tomar decisiones irracionales sobre su propia salud.
+
+Mantener los animales y sus propietarios juntos es una forma de reducir el estrés sobre las víctimas de los desastres. Tratar con propietarios que están separados de sus animales puede llegar a convertirse en una situación de cuidado, muchas personas arriesgan sus vidas entrando a zonas de peligrosas intentando rescatar a sus animales. Para evitar que esto suceda se puede considerar una evacuación a gran escala que incluya tanto animales de compañía, como animales de granja \[27\]. Estos son problemas reales que los trabajadores en manejo de emergencias tienen que tratar. Esto ya no es una cuestión de si este comportamiento es adecuado o no. Es simplemente una cuestión de la mejor manera de manejarlo. Incluso en ausencia de un plan formal de preparación para desastres, veterinarios locales y los directores de control de animales pueden coordinar las evacuaciones y rescates de animales en formas que son compatibles con los procedimientos del Sistema Comando de Incidentes (SCI).
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>Caja 8. Sistema Comando de Incidentes</strong></p>
+<p>Sistema eficiente y eficaz diseñado para la gestión de incidentes mediante la combinación de instalaciones, equipamiento, personal, comunicaciones, protocolos y procedimientos que operan bajo una estructura organizativa común y esta estructurado para facilitar actividades funcionales de comando, seguridad, información pública, enlace, planificación, operaciones, logística, administración y finanzas.</p></td>
+</tr>
+</tbody>
+</table>
+
+## Preocupaciones ambientales
+
+Los animales pueden escapar o morir en desastres y emergencias. La descomposición de cadáveres puede afectar el ambiente. Las carcasas de animales pueden generar residuos biológicos y en algunos casos atraer vectores como la Moscarda de la carne (*Sarcophaga carnaria*) \[28\].
+
+Otros aspectos que han impactado a los animales dentro del marco ONE WELFARE, son los asociados a los temas ambientales; la polución, el calentamiento global y de los océanos, han incluido la perdida de hábitats, biodiversidad y áreas naturales entre otros \[29\].
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>Caja 9. One Welfare</strong></p>
+<p>De la misma forma que One Health, la iniciativa One Welfare “Un bienestar” encara una cooperación colaborativa que puede tener resultados y beneficios en cada una de las áreas que captura esta esencia. La aproximación al One Welfare puede ayudar a todas aquellas acciones en donde el bienestar animal hace parte de su enfoque y pensar en ellos como individuos susceptibles.</p></td>
+</tr>
+</tbody>
+</table>
+
+También hay posibilidad de contaminación de las aguas subterráneas y los malos olores. Animales que se escapan pueden contaminar el abastecimiento de agua, pueden causar una acumulación de estiércol y el pastoreo excesivo vuelve sensibles a los ecosistemas y causar daños a los cultivos \[28\].
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>Caja 10. Proceso de planeación</strong></p>
+<p>El proceso de planeación es tan importante como el plan final mismo. Durante el proceso de planeación, las personas y organizaciones aprenden a trabajar en equipo. Un plan de emergencias construido con estos principios puede resultar en un modelo de preparación comunitaria creado a partir de las necesidades identificadas en función de la emergencia.</p></td>
+</tr>
+</tbody>
+</table>
+

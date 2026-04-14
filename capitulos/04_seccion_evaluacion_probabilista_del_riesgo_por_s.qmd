@@ -1,0 +1,24 @@
+---
+title: "EVALUACIÓN PROBABILISTA DEL RIESGO POR SEQUÍA"
+number-sections: false
+---
+
+
+La Figura 1 muestra el marco conceptual adoptado en esta metodología para la evaluación del riesgo de sequía agrícola, dividida en sus componentes principales: amenaza, vulnerabilidad, exposición y riesgo. En primer lugar, se modela la amenaza a partir de los registros históricos de precipitación y temperatura, con el fin de generar series futuras correlacionadas de parámetros climáticos e identificar condiciones de sequía que podrían ocurrir con una baja frecuencia. Posteriormente, se crea una base de datos de elementos expuestos con información sobre ubicación, características de los cultivos (tipo y estacionalidad) y actividades pecuarias (características de pastizales y manadas bovinas y ovinas), área, productividad y costo de producción de cada unidad de tierra cultivada. Luego, la vulnerabilidad se evalúa como la diferencia entre el rendimiento óptimo (condiciones sin restricciones de agua o nutrientes) y producción bajo déficit hídrico. Dicha disminución en el rendimiento se evalúa mediante un modelo de crecimiento y desarrollo de cultivos \[15\], el cual es el estándar de evaluación de la FAO (Organización de las Naciones Unidas para la Alimentación y la Agricultura), y se ha adaptado a la evaluación del riesgo con enfoque probabilista. Por último, el riesgo de sequía agrícola se modela en términos de pérdidas económicas derivadas de la pérdida de rendimiento debido a la escasez de agua. El riesgo se expresa en términos de la curva de excedencia de pérdidas, la pérdida anual esperada y las pérdidas máximas probables; métricas de riesgo que son útiles para los procesos de toma de decisiones.
+
+![](../media/image131.png)
+
+**Figura 1.** Esquema general del modelo probabilista de evaluación de riesgo por sequía (Fuente: elaboración propia).
+
+La modelación probabilista permite entonces realizar pronósticos sobre los niveles futuros de pérdida (no de eventos o sus intensidades), considerando la amenaza propia de la región de estudio y la incertidumbre en su estimación, así como la vulnerabilidad inherente de los elementos expuestos y su incertidumbre.
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>Caja 1. Definiciones</strong></p>
+<p>La <strong>evaluación del riesgo</strong> determina la naturaleza y el grado de riesgo de desastres a través del análisis de posibles amenazas y la evaluación de las condiciones existentes de vulnerabilidad que conjuntamente podrían dañar potencialmente a la población, la propiedad, los servicios y los medios de sustento expuestos, al igual que el entorno del cual dependen [16].</p>
+<p>Los componentes del riesgo son la amenaza, los elementos expuestos y su vulnerabilidad. La <strong>amenaza</strong> se refiere a la ocurrencia de un fenómeno natural, en este caso las sequías o inundaciones por lluvias intensas, y la severidad con que impacta una región específica. Los <strong>elementos expuestos</strong> son el conjunto de bienes o activos que se encuentran expuestos a la amenaza y pueden llegar a sufrir daños que deriven en pérdidas económicas o afectación a la población. Por último, la <strong>vulnerabilidad</strong> es esa medida de susceptibilidad a sufrir daño que tienen los elementos expuestos, tras la manifestación de la amenaza en su ubicación. La evaluación del riesgo resulta entonces de la combinación de sus tres componentes.</p></td>
+</tr>
+</tbody>
+</table>
+

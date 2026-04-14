@@ -1,0 +1,20 @@
+---
+title: "CONFLICTO DE INTERES"
+number-sections: false
+---
+
+
+Los autores no declaran conflicto de intereses.
+
+**IDENTIFICACIONES DE AUTORES**
+
+Rafael Muñoz Quintero [<span class="underline">https://orcid.org/0000-0002-6359-3347</span>](https://orcid.org/0000-0002-6359-3347)
+
+Daniela Jácome Hernández [<span class="underline">https://orcid.org/0000-0002-1295-1116</span>](https://orcid.org/0000-0002-1295-1116)
+
+Alejandro Franco Rojas [<span class="underline">CvLAC</span>](https://scienti.colciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000033572)
+
+Alexander Padilla González [<span class="underline">CvLAC</span>](https://scienti.colciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001416023)
+
+# 
+
