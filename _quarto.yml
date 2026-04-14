@@ -5,31 +5,16 @@ project:
 book:
   title: "Investigaciones en gestión del riesgo de desastres para Colombia"
   chapters:
+    - capitulos/00_pagina_legal.qmd
     - index.qmd
-    - capitulos/cap_01_toc47894924_anchoractualizacion_de_.qmd
-    - capitulos/cap_02_toc47894925_anchormitigacion_del_ri.qmd
-    - capitulos/cap_03_toc47894926_anchorevaluacion_probab.qmd
-    - capitulos/cap_04_toc47894927_anchorcontribucion_de_l.qmd
-    - capitulos/cap_05_toc47894928_anchornociones_performa.qmd
-    - capitulos/cap_06_toc47894929_anchoranimales_en_la_ge.qmd
-    - capitulos/cap_07_toc47894930_anchoriniciativas_para_.qmd
-    - capitulos/cap_08_toc47894931_anchorcomunicacion_del_.qmd
-    - capitulos/cap_09_toc47894932_anchorla_perspectiva_hi.qmd
-    - capitulos/cap_10_toc47894933_anchorestudio_de_riesgo.qmd
-    - capitulos/cap_11_toc47894934_anchorde_la_percepcion_.qmd
-    - capitulos/cap_12_toc47894935_anchorobras_costeras_y_.qmd
-    - capitulos/cap_13_toc47894936_anchormodelo_de_gestion.qmd
-    - capitulos/cap_14_toc47894937_anchorgestion_del_riesg.qmd
 
 format:
   html:
     theme: cosmo
     toc: true
+    toc-depth: 3
     number-sections: false
     page-navigation: true
-
-resources:
-  - media/
 
 execute:
   eval: false
