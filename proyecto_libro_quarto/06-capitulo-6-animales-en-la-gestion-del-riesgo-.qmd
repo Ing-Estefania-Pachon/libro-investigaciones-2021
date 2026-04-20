@@ -1,0 +1,459 @@
+# Capítulo 6: Animales en la gestión del riesgo de los desastres
+
+**Diego Hernández Pulido****1*****, Nicolás Hernández Gallo****1****, Leonardo Arias Bernal****1****, Rodrigo Forero Carrillo****1**** & Gonzalo Jiménez Alonso****2 **
+
+1Facultad de Medicina Veterinaria, 2Facultad de Zootecnia, Fundación Universitaria Agraria de Colombia. Calle 170 N° 54ª – 10, Bogotá, Colombia
+
+*Autor de contacto: Diego Alexander Hernández Pulido. Facultad de Medicina Veterinaria, Fundación Universitaria Agraria de Colombia Calle 170 N° 54ª – 10, Bogotá, Colombia. Correo-e: 
+
+**Resumen**
+
+El presente capitulo aborda la importancia de los animales en situaciones de emergencias y desastres. Adicionalmente, aborda algunos aspectos que deben considerarse por los diferentes actores locales y nacionales al presentarse estos incidentes como el rol de los animales en la sociedad, el manejo y comportamiento en desastres, cómo es su impacto dentro de la gestión del riesgo de desastres, salud pública, bioseguridad, ambiente y toma de decisiones.  Colombia, pese a que actualmente cuenta con protocolos y procedimientos donde se considera la situación de desplazamiento, salud, albergue y control de la población humana, no ha incluido en su totalidad la situación de los animales que también son víctimas directas durante los diferentes fenómenos ocasionados por la naturaleza o por acciones del ser humano. Incorporar e integrar los animales dentro de la gestión del riesgo de los desastres en todos los sectores, permite la protección de la vida humana que, junto con la investigación basada en la recolección continua de datos, ha mostrado que la preparación adecuada y la eficaz coordinación en el manejo de los animales, aumenta la capacidad del personal de la emergencia y de esta manera se logra salvaguardar la salud, la seguridad humana y animal. Muchos animales han muerto, se han lesionado gravemente, han quedado separados de sus propietarios y tienen que valerse por sí mismos como resultado de diversos incidentes en el país, convirtiéndose en potenciales fuentes de riesgo. Por tal motivo, y como se plantea en este capítulo es imprescindible contar con la información necesaria, que sea considerada dentro del marco de la gestión del riesgo de desastres, el bienestar y estado de medios de subsistencia pecuario, animales de compañía y fauna silvestre que convive en su mismo entorno. 
+
+**Palabras clave**
+
+Gestión del riesgo, animales, una salud, desastres, medios de vida, salud pública
+
+**Animals in disasters risk management**
+
+**Abstract**
+
+This chapter addresses the importance of animals in emergencies and disasters. Additionally, addresses some aspects that must be considered by different local and national actors when these incidents occur such as the role of animals in society, disaster management and behavior, such as their impact within disaster risk management, public health, biosecurity, environment and decision-making. Colombia, even though it currently has protocols and procedures that consider the situation of displacement, health, shelter and control of the human population, has not fully included the situation of animals that are also direct victims during the different phenomena caused by nature or by human actions. Incorporating and integrating animals into disaster risk management in all sectors enables the protection of human life which, together with research based on continuous data collection, has shown that adequate preparation and effective coordination in the handling of animals, it increases the capacity of emergency personnel and in this way it is possible to safeguard health, human and animal safety. Many animals have died or been seriously injured or have been separated from their owners and must fend for themselves as a result of various incidents, becoming potential sources of risk. For this reason, it is essential to have the necessary information, which is considered within the framework of disaster risk management, the welfare and state of livelihoods for livestock, companion animals and wildlife that lives in the same environment.
+
+**Keywords**
+
+Animals, one health, risk management, disasters, livelihoods, public health 
+
+## INTRODUCCION       
+
+Colombia y el resto de los países de la región, tanto los gobiernos como sus pobladores han conocido muy bien los efectos y la devastación ocasionada por los diferentes eventos como inundaciones, terremotos, temporada de huracanes, erupciones volcánicas, deslizamientos, incendios y sequias entre otros. En la mayoría de los incidentes declarados emergencias o desastres, muchos animales domésticos y silvestres pierden sus vidas, son abandonados o dejan sus nichos naturales, lo que puede aumentar el riesgo de transmisión de enfermedades zoonóticas endémicas de las zonas afectadas, además de las consecuencias sobre la economía, la inocuidad y seguridad alimentaria. Tanto en el caso de animales de compañía, como animales de producción y especies silvestres en áreas rurales y urbanas. Históricamente en muchas emergencias los animales son abandonados para que se valgan por si mismos mientras que el bienestar del humano es la prioridad. Aplicando el concepto One Health se tienen en cuenta los recursos, el talento humano, la infraestructura física y la interdependencia entre la salud humana y la de los demás seres vivos animales y el ambiente [1].
+
+**Caja 1. One Health**
+
+“El concepto de «One Health (Una salud)» corresponde al enfoque mundial creado para fortalecer la colaboración interdisciplinar y la comunicación y las alianzas entre médicos, veterinarios y otros profesionales de la salud en la promoción de fortalezas en el liderazgo y la gestión para trabajar coordinadamente en la salud humana y animal” [2].
+
+Hay numerosos servicios de emergencias, organizaciones de rescate, organizaciones veterinarias, servicios de control animal y otras agencias que han trabajado en la gestión del riesgo de desastres con animales en varios países del mundo, Colombia incursiona desde hace varios años en este tema**.** Históricamente las primeras intervenciones de la profesión datan de la primera guerra mundial, la cual es considerada como emergencia compleja; el uso de equinos fue representativo y requirieron atención médica. Después de un desastre, la preocupación y esfuerzos inmediatos se orientan a recobrar las actividades normales y productivas que se desarrollaban antes de la emergencia, desde la perspectiva de las ciencias animales como la zootecnia y la medicina veterinaria, se requiere abordar los problemas de atención primaria en salud, reestablecer las actividades económicas, generar programas de control de animales y salvaguardar la salud pública humana y veterinaria. Las emergencias y desastres han puesto en evidencia la importancia de la interacción entre el hombre, los animales y ambiente, señalando la necesidad de integrar la sanidad animal con la salud pública en un todo homogéneo que contribuya a garantizar la sanidad de las diferentes poblaciones del mundo [3]. 
+
+Este capítulo examina algunas razones del porqué la gestión del riesgo de desastres con animales no debe ser una preocupación solo de sus propietarios, sino que debe ser de las producciones pecuarias, de las autoridades de manejo de emergencias y de la población en general. Se describe aspectos generales de salud pública en situaciones de desastres que incorporan diferentes factores que influyen cuando los animales son afectados. De esta manera ir integrando el componente animal dentro de los planes de respuesta de la nación y servir de guía para los países de la región que no lo hayan implementado.
+
+## IMPORTANCIA DE LOS ANIMALES EN SITUACIONES DE DESASTRE
+
+### El rol de los animales en la sociedad
+
+Como en varios países de América Latina, el sector agropecuario en Colombia tiene una gran contribución al PIB total del país [3]. Según cifras de FEDEGAN (2019) la producción pecuaria contribuye con el 6.4% del PIB nacional, la ganadería contribuye con el 1.6% del PIB nacional, la ganadería aporta el 24.8% del PIB agropecuario, la ganadería aporta el 48.7% del PIB pecuario y genera alrededor de 700 mil empleos directos que representan el 6% del empleo nacional y el 19% del empleo agropecuario. Las diferentes actividades con animales vivos generan aproximadamente un 48% de las actividades agropecuarias además de esto, los diferentes sistemas de trabajo con animales pueden llegar a generan otros beneficios, tales como la calidad de vida que algunos productores consiguen por vivir y trabajar con animales, los cuales llegan a ser considerados como compañía, confidentes, facilitadores de salud, símbolo de estatus y medios de vida. Esto a su vez se ha visto ampliamente reflejado por el incremento generado en comercializadoras y tiendas para animales de compañía, además de la industria de animales de producción. La importancia de los animales en Colombia se evidencia por un incremento significativo en el vínculo humano/animal, como reflejo de estos cambios, los medios de comunicación a menudo informan las necesidades de los animales, tanto domésticos como silvestres afectados por desastres, de esta manera las necesidades de los animales y sus propietarios entran a jugar un papel importante en la respuesta a emergencias en Colombia [4].
+
+### Respuesta de las personas a los animales en desastres
+
+Tradicionalmente la preocupación primordial que involucra animales durante un desastre incluye:
+
+Deterioro en el suministro de agua y alimento.
+
+Accidentes por mordedura en caso de animales de compañía.
+
+Brotes de enfermedades zoonóticas.
+
+Interacción social entre los animales y el hombre.
+
+Otros problemas incluyen el significante impacto en la salud pública mental, debido a las emociones de los propietarios sobre sus animales.  Estos aspectos son particularmente evidentes en adultos de tercera edad y niños. Sentimientos de culpa, duelo e ira son los aspectos más significativos [5].  Algunas personas se preocupan más por sus animales durante una emergencia que por ellos mismos. Esto puede perjudicar seriamente su sensibilidad a su propia seguridad y la de los equipos de rescate. Algunos ejemplos incluyen:
+
+Fallas en los procesos de evacuación e intentos de retorno.
+
+Intentos inseguros de rescate.
+
+La aplicación de la ley 1774 del 2016 Por medio de la cual se modifican el Código Civil, la Ley 84 de 1989, el Código Penal, el Código de Procedimiento Penal y se dictan otras disposiciones, determina a los animales como seres sintientes y no como cosas, recibirán especial protección contra el sufrimiento y el dolor, en especial, el causado directa o indirectamente por los humanos, por lo cual en la presente ley se tipifican como punibles algunas conductas relacionadas con el maltrato a los animales, y se establece un procedimiento sancionatorio de carácter policivo y judicial, rompe el antiguo paradigma. Demográficamente los principales animales de compañía son perros, seguidas por gatos, aves, caballos y en una pequeña proporción otras especies. [5]
+
+### El vínculo entre humanos, animales y ambiente
+
+Fundamentalmente, el ambiente afecta cómo viven los organismos, prosperan e interactúan, debe considerarse seriamente con el fin de lograr una salud óptima para personas y animales [6]. La definición de entorno según la epidemiología de riesgo incluye "factores y procesos químicos, físicos y biológicos, el crecimiento y la supervivencia de un organismo o una comunidad de los organismos" [7]. Este concepto abarca diferentes contextos y escalas, que van desde la casa de un individuo, a los entornos sociales, los ecosistemas regionales, el aire que respiramos y al clima en el que existimos. En salud pública, la definición de ambiente son contextos construidos, tales como los sistemas urbanos y los ecosistemas modificados y los naturales [8].
+
+### Cuidado de los animales y manejo de emergencias
+
+En algunos desastres y emergencias puede identificarse la forma en que los animales se cuidan, esto a su vez puede medir la calidad de la atención humana a cargo de los equipos de emergencia. Si bien el cuidado de los animales no siempre es la prioridad en una emergencia, la atención oportuna de estos podría facilitar la seguridad personal y la atención de un gran segmento de la población humana. La atención de los animales en las emergencias y desastres tiene que ser coherente con las condiciones establecidas internacionalmente y abarcan todos los aspectos de bienestar Animal [9]. 
+
+
+| Caja 2. Bienestar Animal “El bienestar animal en situaciones de desastres es una responsabilidad humana que abarca aspectos como un albergue adecuado, nutrición optima, prevención y tratamiento de enfermedades, cuidado responsable, manejo adecuado y cuando sea necesario, sacrificio humanitario” [9]. La Organización Mundial de Sanidad Animal (OIE) define el bienestar animal como el término amplio que describe la manera en que los individuos se enfrentan con el medio ambiente y que incluye su sanidad, sus percepciones, su estado anímico y otros efectos positivos o negativos que influyen sobre los mecanismos físicos y psíquicos del animal. Últimamente, este tema ha tomado mayor importancia en el mundo entero, y particularmente en los países más desarrollados, así como en los que intercambian productos pecuarios con ellos [10]. |
+| --- |
+
+Tanto la comunidad, como los organismos encargados de manejo de emergencias, deben trabajar juntos con el fin de establecer planes que involucren en cuidado de los animales y de los propietarios en caso de un desastre. Los planes deben respetar los intereses de los propietarios de animales y las preocupaciones de las personas que no poseen animales y que por razones médicas o psicológicas deben permanecer a distancia de los animales. Además de esto evitar la innecesaria exposición de personas con alergias o fobias a los animales. Estas razones, junto con la higiene de alimentos y otras preocupaciones de Salud Pública, son algunas de las razones de porque los animales no son permitidos en algunos de los albergues para humanos [11].
+
+
+| Caja 3. Directriz sobre gestión de desastres en relación con la sanidad, bienestar y salud pública veterinaria.  Las directrices de la OIE emplean un planteamiento que engloba todos los riesgos en materia de gestión de desastres, ya sean naturales, causados por el hombre y tecnológicos, y sugieren una amplia participación de las partes interesadas tanto del gobierno como de la sociedad civil, adaptando sus intervenciones a las necesidades locales y regionales. Así mismo, defienden la integración de las medidas de gestión de desastres y reducción de los riesgos propias a los servicios veterinarios nacionales en redes y políticas de respuesta más amplias en términos de gestión de desastres y de resiliencia, es decir, aquellas que promueven la salud y el bienestar de los animales, protegen la salud humana y medioambiental y ayudan a los países miembros a restaurar y reforzar las condiciones económicas y sociales tras un desastre [12]. |
+| --- |
+
+### ¿Quién hace parte de la respuesta?
+
+En muchas emergencias, los primeros respondientes en arribar al incidente son las autoridades policiales. Dependiendo las características y circunstancias, arriban servicios de emergencia médica, bomberos u otro personal de rescate activado durante la emergencia. Muchos de estos grupos de respuesta a emergencia han recibido entrenamiento en como asistir víctimas humanas, pero a muy pocos les es familiar como pueden ayudar o incluso el manejo de un animal atrapado o herido, muchos de ellos tienen muy poca o ninguna experiencia con el manejo de animales, lo que hace que la manipulación y manejo de estos no solo se convierta en dificultosa y peligrosa, sino que también potencialmente letal. Los bomberos son en la mayoría de las veces quienes más responden en casi todas las situaciones de emergencias, son estos grupos y sus líderes, quienes cuentan con las habilidades para evaluar los posibles riesgos en el incidente y la seguridad de los grupos de respuesta. En muchos incidentes se clasifica que tan valioso o invaluable es este. Así, que cuando la emergencia involucra animales, estos pueden financieramente representar un bien o propiedad, pero también una vida valiosa. De manera que muchos de los grupos de rescate se convierten en jurados para su protección. Los sistemas de Emergencia médica están altamente entrenados en salvar vidas, proveer primeros auxilios y primer respondiente para la gente en los diferentes incidentes. Este personal puede ser fácilmente entrenado para evaluar los parámetros físicos básicos en un animal (p.ej. pulso, temperatura, respiración, etc.) y puede ser de gran ayuda mientras el arribo de los veterinarios [11].
+
+### Concentración de animales
+
+Durante los últimos cincuenta años ha habido un incremento en la concentración de animales en el país, tanto en áreas urbanas como rurales. Esto a su vez incrementa el riesgo de incidentes, puede ser durante el transporte o condiciones inseguras medioambientales. Mucha gente vive con animales e incluso zonas en las que convive con caballos y bovinos en áreas urbanas. La relación cercana que los propietarios de los animales tienen de acuerdo con sus condiciones de vida es muy diferente a la relación de los propietarios en fincas y granjas en áreas rurales [11].
+
+### Mantenimiento de la salud pública 
+
+Es muy difícil el mantenimiento de agua y comida limpia tanto para humanos y animales en ambientes de desastre. Las medidas más importantes incluyen minimizar el número de carcasas de animales muertos, reduciendo la contaminación, pérdida de productos y previniendo el daño de los recursos de aguas y del medioambiente [13]. Recobrar las carcasas de animales muertos antes de que ellas afecten el ambiente y la salud, es vital para la protección de la salud pública después de un desastre. Para lograr esto, debe haber una coordinación prioritaria con los diferentes organismos, agricultores y establecimientos comerciales de animales para que los equipos y el personal reciba un adecuado entrenamiento. Esto puede incluir equipo pesado, camiones, tráileres, volquetas, botes y equipo indicado de protección personal [11]. Por otro lado, las infecciones bacterianas (*Staphylococcuspp, Streptococcusspp, Coliformes*, etc) y virales (Rabia) pueden resultar por mordidas de animales domésticos y silvestres, los cuales pueden servir también como reservorios. Muchas de las enfermedades zoonóticas son transmitidas por mordeduras y genera una gama de síntomas desde inflamaciones localizadas y procesos sépticos e infecciosos en múltiples órganos. Medidas para prevenir mordidas, incluye el correcto uso de guantes y ropa apropiada y métodos de restricción mecánica, física, y química [11]. 
+
+
+| Caja 4. Condiciones ambientales Las condiciones ambientales que favorecen la multiplicación de vectores también son un factor para considerar dentro de estos incidentes. Proteger la Salud pública también requiere la protección de los primeros respondedores y voluntarios. Todo el personal debe estar inmunizado apropiadamente de acuerdo con el riesgo de exposición a una enfermedad prevenible por vacunación y enfermedades endémicas en zona. |
+| --- |
+
+También se requiere un conocimiento y entrenamiento en prevención de zoonosis y técnicas apropiadas de higiene personal. Provisiones de agua y comida para emergencias y desastres debe estar en un mantenimiento apropiado. El resumen diario de seguridad debe ser realizado con el fin de concientizar acerca de los riesgos ambientales en campo y tiempos de trabajo en cada incidente [14].
+
+## MANEJO DE ANIMALES
+
+### El comportamiento animal en incidentes
+
+Los diferentes aspectos sicológicos que pueden ocurrir durante incidentes deben ser tomados en cuenta tanto para los animales como para los rescatistas. Un animal aterrorizado puede herir seriamente o incluso matar a un humano si no se toma la apropiada precaución y preparación [15]. Mantener la calma y el manejo silencioso, es vital durante un incidente con animales, además de entender los patrones de comportamiento de las especies. Durante la respuesta, los accidentes con animales ocurren cuando ellos reaccionan con miedo, bien sea cuando los machos agreden por dominancia o cuando las hembras por su instinto maternal protegen a los más jóvenes.  El peligro es inherente cuando se manejan animales [16]. En los animales no humanos los órganos de los sentidos; tacto, audición, visión y olfato son cientos de veces más sensitivos que los del humano, consecuentemente el uso de expresiones faciales, corporales, tono de voz, ruidos (sirenas, máquinas de extricación), aromas (humo, sudor, etc.), tacto (caricias calmadas o palmadas nerviosas), determinaran si estas personas son percibidas como una amenaza o como una figura de tranquilidad por la victima animal.
+
+### Factores clave para recordar cuando se manejan animales
+
+Las personas que responden a incidentes con animales deben estar conscientes que los animales perciben lo que sucede alrededor de ellos y sienten dolor. En general los sentidos están muy exaltados (olfato y oído) más que en los humanos, en especial en animales que son presa en condiciones silvestres o naturales. (équidos y bovinos en general) [15]. 
+
+Comportamiento animal bajo condiciones de estrés
+
+Muchos animales tienen que ser conducidos a confinamientos, especialmente si tienen espacio para correr. Un animal verdaderamente asustado puede romper y atravesar vallas, saltar por encima de los carros e inclusive herirse él mismo saltando por acantilados. El entendimiento de porque los animales toman estas acciones que son casi siempre malinterpretadas, son cruciales para el éxito en un incidente de quienes manejan los animales [15]. 
+
+### Peligros presentes
+
+Grandes animales pueden ocasionalmente llegar a lesionar gravemente a una persona, esto puede incluir a personas que trabajan con ellos diariamente, patean tan fuerte que pueden lesionar órganos internos vitales y fracturar huesos. Pero no solamente sus extremidades suelen ser fuertes, tienen músculos poderosos en su maxilar y cuello y pueden exceder suficiente poder para levantar a un adulto del suelo. Algunas investigaciones reportaron que un 70% de las lesiones causadas por animales mamíferos fueron heridas avulsivas (separación de tejido). Vacas, ovejas, cabras no muerden como un propósito de defensa, mientras que caballos, cerdos, llamas y camellos pueden hacerlo y causar severas heridas [15]. 
+
+### La aproximación
+
+Los animales son más perceptivos que los humanos, cuando se trata de sentir presión en las zonas alrededor de sus cuerpos. Cuando una persona avanza hacia un animal desde el frente, el animal puede interpretar el movimiento como una aproximación agresiva y puede llegar a atacar si se siente acorralado o voltear y correr si perciben a los humanos como agresores. Los caballos y las vacas usualmente utilizan su nariz como una manera de identificarse de uno a otro, estos animales son curiosos cuando se trata de oler a una nueva persona y esto debe ser permitido de una manera pasiva.
+
+Para extraer un animal atrapado, el personal de rescate deberá acercarse para así poder ubicar el equipo de extracción. Se debe considerar aspectos relevantes de manejo de acuerdo con las características de cada especie. Al acercarse al animal se pasa a través de tres zonas visibles alrededor del animal, zona de concientización, zona de vigilancia y zona de acción. La respuesta del animal depende del tipo de aproximación, lenguaje corporal y posición del respondiente [15,27].
+
+### Registro e identificación de animales
+
+Toda la documentación y formatos que se establezcan deben ser considerados documentos legales. Completar estos documentos ayudara a mantener un adecuado registro de actividades y procedimientos a través de los años. Cualquier incidente con animales debe ser documentado con fotografías o video y reportar por escrito toda actividad realizada durante el tiempo que se está en el incidente. Estos registros podrán ser la única prueba de lo que sucedió en el incidente una vez haya pasado, así se evitara alguna medida negativa por parte del propietario [15,27]. Los datos de referencia que se deben incluir en incidentes que involucran animales son [15,26,27]:
+
+Documentar el origen del animal envuelto en la emergencia: Georreferenciación de la ubicación, descripción del lugar, ubicación de cómo fue encontrado el animal.
+
+Descripción física del o los animales.
+
+Registro fotográfico.
+
+Identificación del o los animales (raza, tatuajes, números de microchip, marcas, etc.)
+
+Alguna información médica y procedimiento medico realizado al animal.
+
+Autorización por escrito en caso de ser necesaria la eutanasia y bajo que método fue realizada.
+
+Manejo de carcasas acorde a procedimientos sanitarios establecidos para manejo de cadáveres animales.
+
+Destino de los animales en caso de que queden bajo su custodia.
+
+Anillos de miembro inferior para aves y foto identificación en reptiles.
+
+Marcadores no tóxicos para escribir sobre caparazones y algunas faneras de animales de granja.
+
+Collares de plástico con broches en los cuales se puede escribir sobre ellos.
+
+Pintura oscura para marcar el ganado.
+
+Bandas en los tobillos de algunos bovinos.
+
+Pintura en espray.
+
+Orejeras de identificación para cerdos y bovinos.
+
+Por otro lado, los propietarios de animales pueden proveer un positivo sistema de identificación, que podrá ayudar para el reconocimiento y encuentro con sus animales después de una emergencia o un desastre.
+
+Microchip documentado.
+
+Fotografías de sus animales.
+
+Registros de raza.
+
+Tatuajes de identificación y registro.
+
+Registros de producción de la finca.
+
+Marcas externas y certificados de vacunación.
+
+### Fundamentos de bioseguridad para respuesta a animales
+
+El manejo de riesgos biológicos, en el contexto de la respuesta de los animales, se refiere a las medidas adoptadas para mantener agentes patógenos fuera de la población o grupos de animales en donde no existen y las medidas a tomar para evitar que los equipos de respuesta propaguen la enfermedad cuando abandonen el lugar de la emergencia. El principio de bioseguridad se centra en:
+
+Prevenir o disminuir la liberación de agentes infecciosos en el ambiente.
+
+Prevenir la propagación del agente infeccioso entre los huéspedes.
+
+Eliminación del agente infeccioso.
+
+Por lo tanto, las medidas pueden incluir cualquiera de los puntos de la triada eco-epidemiológica y se basa en:
+
+Acceso controlado.
+
+Equipos de protección.
+
+Desinfección.
+
+Rebaños cerrados (minimizando el movimiento).
+
+### Importancia de la bioseguridad en las emergencias y desastres con animales
+
+La bioseguridad es importante en el contexto del desastre. El agua puede estar contaminada, infraestructuras destruidas, los animales y humanos estresados y tienen menor resistencia y pueden ser obligados a vivir fuera de las condiciones normales. Las densidades de los animales y las personas pueden ser altas ya que entran a un proceso de desplazamiento y necesitan buscar refugio en zonas habitadas por otros grupos [17]. Por lo tanto, la bioseguridad es aún más importante de lo habitual, en la prevención de la propagación de la enfermedad compartidas entre los animales y humanos (zoonosis).
+
+### Medidas de bioseguridad
+
+La bioseguridad se describe como un concepto que al igual que la reducción de riesgos puede aplicarse a través de una serie de medidas como:
+
+Medidas estructurales que se aplican, por ejemplo, en los equipos de protección para el personal, equipos de rescate, desinfección de corrales, contenedores para animales de compañía, etc.
+
+Prácticas de manejo, tales como poner en cuarentena o aislar los animales, cambiarse de ropa, desinfección de las botas cuando se asisten a diferentes grupos de animales (bio-contención) [15,26]. 
+
+### Manejo de especies silvestres 
+
+Durante situaciones de emergencia y desastre, el manejo de animales silvestres es complicado ya que no existen protocolos claros sobre los cursos de acción que se deben seguir. La literatura que se encuentra hace referencia a movilización de animales en situaciones controladas sin embargo durante desastres y emergencias los animales silvestres se desplazan voluntariamente a zonas seguras, muchas de ellas son lugares poblado, causando un conflicto hombre animal. La principal recomendación en estos casos es recurrir a personal debidamente entrenado para el manejo y manipulación de fauna silvestre, Es recomendable que los potenciales respondientes visiten lugares donde puedan aprender cómo manejar y manipular diferentes especies de animales, además de conocer sus hábitos y comportamientos naturales. 
+
+
+| Caja 5. Especies silvestres  Aunque sería una práctica ilegal, muchos animales silvestres y en algunos casos mascotas exóticas están en casas y ciudades alrededor del mundo, pese a la prohibición existente de su tenencia; el escape de estos animales, especialmente durante los desastres puede presentar cambios preocupantes de seguridad pública, lo cual puede llegar a ser extremadamente peligroso e impredecible. |
+| --- |
+
+De una manera similar, los animales domésticos, silvestres e incluso animales pertenecientes a colecciones zoológicas pueden escapar de sus lugares de contención, presentarse desorientados y en algunos casos se pueden tornar agresivos con las personas cuando se encuentran buscando refugio o comida [26].
+
+Principios generales 
+
+La consideración más importante cuando se manejan especies silvestres es la seguridad de las personas; se debe tener en cuenta nuestra propia integridad física, la seguridad de quienes asisten la emergencia, algunos transeúntes y la seguridad de los animales. Por otro lado, existen unos peligros primarios que deben tenerse en cuenta siempre que se asista a una emergencia con animales silvestres, estos incluyen cuernos, garras, dientes, picos, cascos y venenos, entre otros. Las precauciones generales con la vida silvestre son derivadas del desplazamiento de estos animales en emergencias y desastres, por ejemplo, las migraciones de estos animales a tierras de cultivo pueden dar lugar a daños considerables además de amenazar en algunos casos la vida humana dependiendo la especie desplazada. Cuando los animales silvestres son forzados a cruzar carreteras y a desplazarse dentro de las comunidades, puede haber un incremento en la incidencia de accidentes fomentados por vehículos. 
+
+Durante situaciones de emergencia y desastre hay variación en las estrategias y técnicas de manejo de los mismos; en condiciones de animales silvestres bajo cuidado humano deben existir protocolos definidos para el manejo en estos casos, pero en situaciones de fauna silvestre en estado silvestre es indispensable conocer el comportamiento normal y defensivo de los animales, las condiciones del entorno natural y el estado de vulnerabilidad de los individuos para poder tomar decisiones adecuadas frente a esta de conservación de los animales, por ejemplo con especies animales que se encuentren amenazadas de extinción.  Existen diferentes tipos de asociaciones e instituciones que pueden apoyar esta labor como es el caso de centros de rescate y rehabilitación de fauna, zoológicos y algunos zoocriaderos, donde encontrarán personal idóneo con los implementos básicos de captura, restricción y transporte de fauna, también en estos lugares se puede contar con capacitaciones relacionadas al manejo y tenencia temporal.  Se deben revisar diversas fuentes bibliográficas como manuales de manejo –escritos en su mayoría por asociaciones locales e internacionales de zoológico como la asociación americana de zoológicos y acuarios (AZA) y la asociación latinoamericana de parques, zoológicos y acuarios (ALPZA) –, y planes de emergencia ante el escape de especies potencialmente peligrosas para los humanos (animales que pueden causar la muerte inminente de un ser humano, por ejemplo grandes depredadores y animales venenosos). Por ningún motivo se debe intentar manejar este tipo de animales sin acompañamiento de personas con experiencia en el manejo de dichas especies y el respaldo de autoridades ambientales competentes [18].
+
+### Consideraciones para optimizar la seguridad en incidentes
+
+La seguridad se constituye como un factor importante durante la atención de incidentes, es necesario conocer y comprender el comportamiento de los animales que se van a abordar y determinar los peligros de las diferentes especies para facilitar su movimiento, captura, manejo y transporte, ya que de esta manera se minimizara el estrés y el riesgo de lesiones. 
+
+Realizar un análisis de riesgo/beneficio, desarrollar un plan de operaciones y comunicar este plan a todo el personal envuelto en la operación, antes de empezar los procedimientos de manejo de los animales, contar con el apropiado equipo de protección individual, medicamentos y personal listo y disponible, crear un ambiente lo más posiblemente tranquilo, calmado y silencioso. Si es posible, manejar a los animales antes de que desarrollen miopatía por captura y desarrollar un plan de contingencias en caso de algo inesperado. Wayne [11] en 2009, aporta los elementos de un plan de para animales en desastres, al igual que la planeación en la práctica privada, comunitaria y respuesta estatal. 
+
+De manera similar cuando un animal percibe una amenaza, real o imaginaria, su instinto es alejarse de la amenaza. Esta reacción es desarrollada por el sistema nervioso central a través del sistema límbico, en donde hay liberación de catecolaminas incluyendo epinefrina y norepinefrina. 
+
+
+| Caja 6. Seguridad en incidentes Vale la pena resaltar que cualquier incidente de emergencia debe incluir un sistema de administración que permita un adecuado manejo de los recursos y procedimientos que garanticen el cumplimiento de los objetivos establecidos. Es vital el conocimiento del Sistema Comando de Incidentes (SCI) como medio para manejo adecuado de la emergencia o desastre. |
+| --- |
+
+### Preocupaciones de salud pública
+
+Cualquier incidente, ya sea ocasionado por la naturaleza o provocado por el hombre, puede causar un daño inmediato a la salud en general y al bienestar de la comunidad, lo cual debe considerarse como un problema de salud pública. Estos problemas pueden dañar a humanos, animales, o ambos. Las investigaciones sobre enfermedades tienen un manejo similar cuando se aplican a estos dos. Un desastre, dependiendo de su alcance, puede causar deterioro de los servicios que generalmente usa la población. Alguna de las preocupaciones resultantes puede ser la contaminación de alimentos y agua, perdida de la comunidad, incremento en la prevalencia de enfermedades debido a la disminución de saneamiento y perdida de bienestar psicológico. Además, los planes de emergencia rara vez tienen en cuenta el cuidado de los animales, siendo de gran importancia extender en el ámbito de la respuesta, proporcional refugio, alimento y agua para los animales. Estos temas de salud pública pueden llegar a prevenirse mediante la prevención y capacitación de los respondientes para que sean capaces no solo de asistir a humanos sino también a los animales con los apropiados equipos de protección personal [11].
+
+Al año 2020 varias áreas del territorio no cuentan con los suficientes recursos para desarrollar estos planes de acción, para lograrlo es imprecindible contar con un profesional veterinario debidamente entrenado en este campo para que soporte y apoye las acciones preventivas.
+
+Para manejar de manera adecuada y eficiente los problemas de salud pública, hay ciertos pasos que siguen los investigadores (epidemiólogos de campo). Estos pasos generalmente incluyen una búsqueda sistemática, documentación y análisis de la información epidemiológica sobre un caso para desarrollar una prioridad para las acciones de intervención [14]. El público en general debe mantenerse bien informado sobre los problemas relacionados con la salud pública en incidentes, contemplar actividades de vigilancia, control ambiental, educación en prevención y preparación, así como promover la comunicación apropiada con las autoridades y agencias de salud. 
+
+### Efectos de los desastres en las actividades económicas agropecuarias   
+
+Las actividades de producción de alimentos en los países vinculan un porcentaje importante de personas. Esta concentración demográfica del sector agropecuario hace que estos productores de alimentos sean vulnerables a emergencias y desastres [19]. Por otro lado, algunas enfermedades como leptospirosis, tuberculosis, giardiasis, toxoplasmosis, accidente rábico, accidente ofídico entre otras, han emergido y representan la amenaza más grande en el sector agropecuario, las emergencias y los desastres de la naturaleza y los causados por el hombre, también pueden tener un impacto significativo en estas comunidades del sector agropecuario. En Colombia, en épocas de lluvia, durante las inundaciones los ganaderos que no estaban preparados para evacuar a sus animales, fueron seriamente afectados por las pérdidas significativas en la producción láctea, la pérdida de pasturas y en algunos casos, el ahogamiento de sus animales. Como resultado de esto, algunos productores pueden llegar a dejar su actividad debido al miedo e incertidumbre que otra emergencia pueda generar [20]. Por otro lado, las pérdidas económicas de las regiones afectadas resultan siendo de gran impacto para la economía del país. Por esta y muchas más razones, existe un gran potencial para proteger estos sistemas productivos, mantener la calidad e inocuidad y el suministro de alimentos de la región y de los países, manteniendo de esta forma su forma de vida [19].
+
+### Zoonosis y enfermedades zoonóticas
+
+Una de las áreas objetivo más reconocidos del enfoque de One Health es el de las enfermedades emergentes y reemergentes, en particular los de origen animal. De ellos, más del 60% son zoonóticas [21]; de estas zoonosis emergentes, casi las tres cuartas partes de ellos se han originado en la fauna silvestre [22]. Hacerle frente al constante cambio y relaciones ecológicas entre parásitos, patógenos, vectores, y huéspedes que conducen a la aparición de la enfermedad, es vital para su control y prevención [23].
+
+
+| Caja 7. Zoonosis en situaciones de desastres Las zoonosis se refieren a enfermedades compartidas causados por una variedad de organismos biológicos, que pueden ser transmitidos bidireccionalmente a los humanos en condiciones naturales. La diseminación de la zoonosis es controlada a través de la salud pública y la inspección de los servicios de comida [24]. |
+| --- |
+
+Algunos organismos que causan enfermedades zoonóticas se enumeran a continuación. Los seres humanos tienen más probabilidades de exponerse a patógenos con potencial zoonótico, cuando los residuos animales contaminan el agua potable. Esto puede ocurrir en las inundaciones y después de una falla en las plantas de tratamiento de aguas. El agua también se puede contaminar con materiales peligrosos a través del viento por el estiércol animal o los animales muertos que contaminan los pozos o embalses [24]. Algunos organismos comunes que causan enfermedades zoonóticas son:
+
+Bacterias coliformes (diarrea).
+
+*Salmonella enteriditis, S.entérica serotipo Typhimurium (diarrea).*
+
+*Campylobacter jejuni, C. coli. (diarrea).*
+
+*Cryptosporidium parvun, C.hominis, C.meliagridis * (diarrea).
+
+Giardia *canis*, *G. lamblia, *genotipos A y B (diarrea).
+
+*Microsporum canis, M. gallinae, M. gypseum, M.* *equinum* (infección de la piel)
+
+Lyssavirus.
+
+Enfermedades transmitidas por vectores (por ejemplo, la encefalitis equina familia *Togaviridae*, Género *Alphavirus*).
+
+*Clostridium perfringens* (diarrea).
+
+*Clostridium botulinum* (debilidad y colapso).
+
+*Bacillus anthracis.* 
+
+Después de emergencias o desastres, el personal de búsqueda y rescate puede estar en riesgo y por lo tanto debe tener extrema precaución frente a la exposición de algunas de estas zoonosis [14]. 
+
+### Políticas de los Albergues
+
+Algunos lugares aceptan animales en sus refugios, por ejemplo, en algunos países entidades como la Cruz Roja establecen que solo los perros de asistencia serán aceptados en los refugios. Las razones de estas políticas son importantes para entender la forma en que se debe considerar la evacuación con animales. 
+
+Algunas de las razones por las que los albergues no aceptan animales son los siguientes:
+
+Regulaciones de salud pública: Las autoridades locales pueden prohibir a los animales en las instalaciones públicas, tales como centros comerciales, restaurantes, iglesias, escuelas, etc., con excepción de los animales que ayudan a las personas con discapacidad. Los albergues en los desastres requieren operar con conformidad con los reglamentos de salud pública existentes en la localidad en la que se prestan servicios.
+
+Bienestar de los residentes del refugio: Las preocupaciones incluyen lesiones, ansiedad y la falta de privacidad que sufren los residentes del refugio con las mascotas ya que pueden morder o causar reacciones alérgicas, fobias y ruido [15].
+
+## SALUD PÚBLICA Y EPIDEMIOLOGIA ALREDEDOR DE LA GESTION DEL RIESGO DE LOS ANIMALES EN DESASTRES
+
+Históricamente, la mayor preocupación con respecto a los animales en casos de desastres y emergencias se ha tratado de la salud pública.  Una especial preocupación por la salud pública incluye [25]:
+
+Contaminación de alimentos y suministro de agua.
+
+Suministro limitado de alimentos.
+
+Transmisión de enfermedades zoonóticas. 
+
+Independientemente de su naturaleza, generalmente la demanda de recursos en un desastre, supera la capacidad de oferta por lo que es fundamental establecer cuáles son las necesidades prioritarias de acuerdo con los objetivos establecidos. Para lograr este propósito es importante l aplicación de una evaluación de daños y análisis de necesidades (EDAN o DANA, por sus siglas en inglés “Damage Assessment and needs Analysis”) como instrumento de campo impulsado por los Estados Unidos, permitiendo diagnosticar, priorizar y planificar las principales acciones asistenciales pos-desastre [26].  
+
+### Salud mental
+
+La salud mental es un componente de Salud pública que es preocupante por el impacto sicológico de las personas durante o post desastres. Varias publicaciones sobre la sicología de los humanos víctimas de los desastres han reportado que las personas que están separadas de sus animales pueden experimentar [27]:
+
+Reintentos de entrada.
+
+Fallos en la evacuación.
+
+Ansiedad por la separación.
+
+Pena. 
+
+Duelo. 
+
+Ira.
+
+Culpa. 
+
+Síntomas sicosomáticos.
+
+Estrés por separación y fatiga compacional. 
+
+Tomar decisiones irracionales sobre su propia salud.
+
+Mantener los animales y sus propietarios juntos es una forma de reducir el estrés sobre las víctimas de los desastres. Tratar con propietarios que están separados de sus animales puede llegar a convertirse en una situación de cuidado, muchas personas arriesgan sus vidas entrando a zonas de peligrosas intentando rescatar a sus animales. Para evitar que esto suceda se puede considerar una evacuación a gran escala que incluya tanto animales de compañía, como animales de granja [27]. Estos son problemas reales que los trabajadores en manejo de emergencias tienen que tratar. Esto ya no es una cuestión de si este comportamiento es adecuado o no. Es simplemente una cuestión de la mejor manera de manejarlo. Incluso en ausencia de un plan formal de preparación para desastres, veterinarios locales y los directores de control de animales pueden coordinar las evacuaciones y rescates de animales en formas que son compatibles con los procedimientos del Sistema Comando de Incidentes (SCI).
+
+
+| Caja 8. Sistema Comando de Incidentes Sistema eficiente y eficaz diseñado para la gestión de incidentes mediante la combinación de instalaciones, equipamiento, personal, comunicaciones, protocolos y procedimientos que operan bajo una estructura organizativa común y esta estructurado para facilitar actividades funcionales de comando, seguridad, información pública, enlace, planificación, operaciones, logística, administración y finanzas. |
+| --- |
+
+### Preocupaciones ambientales
+
+Los animales pueden escapar o morir en desastres y emergencias. La descomposición de cadáveres puede afectar el ambiente. Las carcasas de animales pueden generar residuos biológicos y en algunos casos atraer vectores como la Moscarda de la carne (*Sarcophaga carnaria*) [28]. 
+
+Otros aspectos que han impactado a los animales dentro del marco ONE WELFARE, son los asociados a los temas ambientales; la polución, el calentamiento global y de los océanos, han incluido la perdida de hábitats, biodiversidad y áreas naturales entre otros [29].
+
+
+| Caja 9. One Welfare De la misma forma que One Health, la iniciativa One Welfare “Un bienestar” encara una cooperación colaborativa que puede tener resultados y beneficios en cada una de las áreas que captura esta esencia. La aproximación al One Welfare puede ayudar a todas aquellas acciones en donde el bienestar animal hace parte de su enfoque y pensar en ellos como individuos susceptibles. |
+| --- |
+
+También hay posibilidad de contaminación de las aguas subterráneas y los malos olores. Animales que se escapan pueden contaminar el abastecimiento de agua, pueden causar una acumulación de estiércol y el pastoreo excesivo vuelve sensibles a los ecosistemas y causar daños a los cultivos [28]. 
+
+
+| Caja 10. Proceso de planeación El proceso de planeación es tan importante como el plan final mismo. Durante el proceso de planeación, las personas y organizaciones aprenden a trabajar en equipo. Un plan de emergencias construido con estos principios puede resultar en un modelo de preparación comunitaria creado a partir de las necesidades identificadas en función de la emergencia. |
+| --- |
+
+## RECOMENDACIONES GENERALES
+
+Es importante destacar que el cuidado de los animales y el cuidado de las personas exige preparación técnica, planificación y una importante capacidad de coordinación entre quienes participan en ella. El mejoramiento del bienestar animal en situaciones de emergencias y desastres no siempre progresa a lo esperado, la mayor parte del tiempo son los humanos quienes causan la mayoría de los problemas de bienestar animal. Por lo tanto, es necesario garantizar que se tenga en cuenta los aspectos del bienestar humano para lograr mejoras efectivas en el bienestar animal [30]. 
+
+Para facilitar la atención a las personas y a los animales, las autoridades de manejo de emergencias y la comunidad, debe realizar alianzas en esta etapa de planificación. Una vez hecho esto, es más probable que los asuntos importantes puedan atenderse durante el desastre. Además, los recursos o personas más calificadas o con más experiencia pueden hacerles frente a los asuntos pertinentes y hablar con el público. Hay funciones en asuntos públicos adicionales que pueden ser utilizados para construir un programa fuerte ante emergencias. Aquí están algunas sugerencias:
+
+Concientizar a los grupos comunitarios
+
+Brindar formación a grupos humanitarios locales, tiendas de animales, asociaciones y federaciones. Se deben asignar roles y funciones a diferentes entidades de manejo de emergencias, veterinarios, trabajadores de alberges y educadores para lograr un trabajo conjunto. 
+
+Desarrollar relaciones personales con los medios de comunicaciones locales y no solo a través de llamadas o correos electrónicos para los comunicados públicos. 
+
+Ofrecer presentaciones en las escuelas locales primarias y secundarias sobre cómo mejorar el cuidado de los animales en situaciones de emergencias y desastres.
+
+Invitar a los medios de comunicaciones a participar cuando se realicen ejercicios de simulación o simulacros, ya sea como participante o como evaluador.
+
+En el entrenamiento de preparación para desastres, se debe suponer que el personal de manejo de emergencias está familiarizado con sus derechos y responsabilidades, y que los proveedores de cuidado animal son competentes para tratar los asuntos relacionados con animales. Ningún agente infeccioso, podría explicar las diferencias existentes entre humanos y animales, sin embargo, los gobiernos, las instituciones académicas, los profesionales de la salud y las entidades que se deberían ocupar de ello, se han mantenido separados entre ramas de la misma ciencia médica, separando entre médicos humanos y médicos veterinarios saberes, experiencias y soluciones.
+
+## CONCLUSIONES
+
+En Colombia se encuentra una gran variedad de especies; entre animales silvestres y domésticos podemos encontrar una problemática basada en la interrelación de estos con el humano. En los últimos años se ha evidenciado un impacto mayor en los fenómenos de la naturaleza, afectando directamente poblaciones humanas y animales.  Pese a que algunas ciudades cuentan con censos no actualizados por especies en el caso de animales de compañía con dueño o habitantes de calle, no existe un dato real. En este capítulo, se socializan algunos aspectos de trabajo en la atención de animales en emergencias y desastres, además de brindarle al profesional y las demás personas interesadas, la información necesaria que les permita atender dichas situaciones de forma adecuada y segura. Direccionar aspectos de Salud pública, como un área de trabajo en desastres con animales que en algunas ocasiones se pasa por alto. Las enfermedades endémicas o enzootias, son condiciones que están constantemente presentes en poblaciones animales que tienen una morbilidad baja, pero son clínicamente reconocidos en sólo unos individuos. Es importante que el personal esté familiarizado con las enfermedades endémicas y su epidemiología en cualquier lugar en que ellos están trabajando. Muchas enfermedades son zoonóticas, pero se requieren condiciones particulares para su ocurrencia y debe tenerse cuidado en asegurar todo el personal de campo, estar pendiente señales clínicas, modos de transmisión y cualquier tratamiento terapéutico profiláctico disponible. 
+
+
+| PUNTOS CLAVE No todos los profesionales en ciencias animales están familiarizados con la mayoría de las situaciones de emergencias y como tratarlas. Los trabajadores del control de animales y de refugios humanitarios a menudo están familiarizados con la captura y rescate de animales, así como de las necesidades de vivienda y alimentación. Los educadores pueden estar familiarizados con los animales de granja, los recursos de la comunidad y sus cuestiones financieras. |
+| --- |
+|  |
+
+
+| RECOMENDACIÓNES PARA TOMAR DECISIONES Fortalecer el control y vigilancia de los problemas de enfermedades compartidas entre animales y humanos, las cuales se reconocen como una amenaza creciente a la salud global, así como para las economías mundiales. Durante algunas emergencias y desastres hay un aumento de enfermedades relacionadas con el estrés. Esto incluye cambios en la respuesta inmune, disminución en la ingesta de alimento y de su metabolismo, y aumento de la susceptibilidad a determinadas enfermedades.    Entender adecuadamente el comportamiento y las respuestas de los animales en un incidente ayuda a los respondientes a predecir como el animal puede reaccionar en la escena.   Las personas encargadas del manejo del animal deben conocer los métodos o técnicas para disminuir el miedo o estrés de una víctima animal, esto puede definir el éxito en una respuesta. |
+| --- |
+
+## MATERIALES Y METODOS
+
+Recopilación, búsqueda, selección, filtración de información y de datos de los últimos 10 años, revisión bibliográfica a partir de diferentes fuentes como documentos oficiales, textos escritos y digítales; nacionales e internacionales identificando los aspectos asociados al manejo, salud y seguridad de los animales en la gestión del riesgo de los desastres y su papel en la sociedad, que permiten llevar a cabo una adecuada guía para la toma de decisiones frente a los animales en emergencias y desastres, garantizando la seguridad del personal operativo que interviene. Se priorizan el análisis a las acciones que contemplan estándares asociados al enfoque One Health y se prepara el contenido de una manera significativa y agregándole contenido relevante por parte de cada uno de los autores. 
+
+**CONFLICTO DE INTERESES**
+
+Los autores declaran no tener conflicto de interés.
+
+**IDENTIFICACIÓN POR AUTOR**
+
+Diego Alexander Hernández Pulido		 
+
+Nicolás Hernández Gallo  			
+
+Leonardo Arias Bernal			 
+
+Rodrigo Forero Carrillo			 
+
+Gonzalo Jiménez Alonso			 
+
+## BIBLIOGRAFÍA
+
+Barrett A., & Osofsky S. (2014). *Unprecedented challenges, holistic solutions. One Health: Interdependence of People, Other Species and the Planet*. New York: Cambridge University Press, págs. 364-365. 
+
+Sispvet, Sociedad Interamericana de Salud Pública. (2009). "Declaración de Bonito". Bonito: Memorias de la I Conferencia Mundial de Salud Pública Veterinaria. *III Congreso Brasilero de Salud Pública Veterinaria*. pág. 85.
+
+World Bank. (2012). *People, pathogens and our planet: the economics of one health*. Washington, DC: World Bank.
+
+Díaz, A., Murillo, J., & Trelles, S. (2015). *La Gestión del Riesgo y la Atención de Animales en Desastres*; Recuperado de 
+
+Federal Emergency Management Agency FEMA (2015). *Animals in Disasters* IS-10. A: Awareness and Preparedness. Recuperado de 
+
+Gibbs, E., & Paul, J. (2014). The evolution of One Health: a decade of progress and challenges for the future. *Veterinary Record*, pages. 85-91. 
+
+Myers, S., & Patz, J. (2009). Emerging threats to human health from global environmental change. *Annual Review of Environment Resource*. pages. 223-252. 5. 
+
+Christensen, N., Leege, L. (2015). *The environment and you*. Boston: Pearson Ed.
+
+Bergaglio, J., Palau, H., & Senesi, S. (2017). Instrumentación de un protocolo de bienestar animal y su impacto sobre una explotación ganadera en la provincia de buenos aires. *Agronomía & Ambiente*, 37(1). Recuperado de 
+
+Rojas, H., Stuardo, L. (2005). Políticas y prácticas de bienestar animal en los países de América: estudio preliminar. *Revue scientifique et technique (International Office of Epizootics)*, *24*(2), 549-565. 
+
+Wingfield, W., & Palmer, S. (2009). *Veterinary disaster response*. John Wiley & Blackwell Ed.
+
+Organización Mundial de Sanidad Animal OIE. (2016). *Directrices sobre gestión de desastres y reducción de los riesgos en relación con la sanidad, el bienestar animal y la Salud Pública veterinaria*. Recuperado de 
+
+Noji, E. (2000). *Impacto de los desastres en la Salud Pública*. Bogotá Colombia. Organización Panamericana de la Salud Ed.
+
+Arcos, P. I., Castro, R., & Busto, F. (2002). Desastres y Salud Pública: un abordaje desde el marco teórico de la epidemiología. *Revista Española de Salud Pública*, *76*, 121-132. 
+
+Gimenez, R., Gimenez, T., & May, K. (2009). *Technical large animal emergency rescue*. John Wiley & Sons Ed. 
+
+Grandin, T., & Johnson, C. (2006). *Animals in translation: Using the mysteries of autism to decode animal behavior*. SUNY Press. 
+
+Stoltenow, C. (2008). Animal Biosecurity and Protection. North Dakota State University. Recuperado de 
+
+Dickstein, S. (2019). *The Role of the Wildlife Rehabilitator in Disaster Preparedness and Response*. 
+
+Salcedo, S., & Guzmán, L. (2014). A*gricultura familiar en América Latina y el Caribe: recomendaciones de política*. Santiago de Chile, Chile. Food and Agriculture Organization of the United Nations FAO 2014. 
+
+Food and Agriculture Organization of the United Nations FAO. (2018). *The impact of Disasters and crises on agriculture and food security*. FAO ed.  
+
+Maudlin, I., Eisler, M. (2009). Neglected and endemic zoonoses. Philosophical Transactions of the Royal Society London B, 364(1530), 2777-2787. .
+
+Chatham House. (2010). *Shifting from emergency response to prevention of pandemic disease threats at source. Londres*, Chatham House. 
+
+Okello, AL., Gibbs, PJ., & Vandersmissen, A. (2011). One Health and the neglected zoonoses: turning rhetoric into reality. *Veterinary Records*, 169, 281-285. 
+
+Macpherson, C. N. (2012). *Dogs, zoonoses and public health*. CABI Ed. 
+
+Schoenbach, V. J. (1999). *Comprendiendo los Fundamentos de la Epidemiología-un texto en desarrollo*. University of North carolina.  
+
+Mota, R., Velarde, C., & Cajiao, M. (2016). *Bienestar animal una visión global en Iberoamérica*. Editor ELSEVIER.
+
+Ordóñez, G. A. (2000). Salud ambiental: conceptos y actividades. *Revista Panamericana de Salud Pública*, *7*, 137-147. 
+
+Wingfield, W. E., Nash, S. L., Palmer, S. B., & Upp, J. J. (2013). *Veterinary Disaster Medicine: Working Animals*. Wayne E. Wingfield Ed. 
+
+Garcia, R. P. (Ed.). (2018). *One welfare: a framework to improve animal welfare and human well-being*. Osfordshire, UK: CABI Ed.
+
+**7**
+

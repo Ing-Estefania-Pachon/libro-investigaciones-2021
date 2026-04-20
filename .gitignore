@@ -1,0 +1,29 @@
+# Entornos virtuales de Python
+venv/
+env/
+.env
+
+# Archivos temporales y metadatos del sistema operativo
+*Zone.Identifier
+.DS_Store
+Thumbs.db
+
+# Archivos de caché y compilados de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Directorios generados por Quarto
+proyecto_libro_quarto/.quarto/
+proyecto_libro_quarto/_book/
+proyecto_libro_quarto/_site/
+
+# IDEs y editores de código
+.vscode/
+.idea/
+
+# Archivos compilados o exportados grandes
+# (Descomenta las siguientes líneas si no quieres subir los PDFs o el HTML generado)
+# *.pdf
+# *.htm
+# LGRD_CAPITULOS_V16.docx # Descomentar si el .docx es muy pesado y no debe ir en el repo

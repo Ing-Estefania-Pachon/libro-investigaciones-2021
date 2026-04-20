@@ -1,0 +1,31 @@
+project:
+  type: book
+  output-dir: _book
+
+book:
+  title: "Investigaciones en Gestión del Riesgo"
+  chapters:
+    - index.qmd
+    - 01-capitulo-1-actualizacion-de-los-coeficientes-.qmd
+    - 02-capitulo-2-mitigacion-del-riesgo-sismico-de-l.qmd
+    - 03-capitulo-3-evaluacion-probabilista-del-riesgo.qmd
+    - 04-capitulo-4-contribucion-de-la-geodesia-espaci.qmd
+    - 05-capitulo-5-nociones-performativas-del-reasent.qmd
+    - 06-capitulo-6-animales-en-la-gestion-del-riesgo-.qmd
+    - 07-capitulo-7-iniciativas-para-la-reduccion-del-.qmd
+    - 08-capitulo-8-comunicacion-del-riesgo-reflexione.qmd
+    - 09-capitulo-9-la-perspectiva-historica-en-la-ges.qmd
+    - 10-capitulo-10-estudio-de-riesgo-por-movimientos.qmd
+    - 11-capitulo-11-de-la-percepcion-de-la-amenaza-a-.qmd
+    - 12-capitulo-12-obras-costeras-y-clima-maritimo-c.qmd
+    - 13-capitulo-13-modelo-de-gestion-y-analisis-del-.qmd
+    - 14-capitulo-14-gestion-del-riesgo-por-inundacion.qmd
+    - 15-post-lista-de-pares-revisores.qmd
+    - 16-post-indice-tematico.qmd
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    number-sections: true
+    html-math-method: mathjax
