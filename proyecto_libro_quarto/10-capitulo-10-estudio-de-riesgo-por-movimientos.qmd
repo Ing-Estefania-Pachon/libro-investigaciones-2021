@@ -1,4 +1,4 @@
-# Capítulo 10: Estudio de riesgo por movimientos en masa en cuencas hidrográficas abastecedoras en el suroeste antioqueño usando métodos probabilistas
+# Capítulo 10: Estudio de riesgo por movimientos en masa en cuencas hidrográficas abastecedoras en el suroeste antioqueño usando métodos probabilistas {.unnumbered}
 
 **Cesar Augusto Hidalgo M.****1***** & Johnny Alexander Vega G.****2**
 
@@ -26,7 +26,7 @@ Landslides are considered one of the natural hazards that cause the most signifi
 
 Hazard, landslide, mass movement, risk, vulnerability, water supply basins
 
-## INTRODUCCIÓN 
+## INTRODUCCIÓN  {.unnumbered}
 
 Debido a los altos niveles de afectación de los movimientos en masa, a nivel mundial se ha generado una gran dinámica en el estudio de los fenómenos asociados en procura de entender los aspectos físicos [1-6] y económicos [7-11] relacionados con los movimientos en masa. En particular, se ha identificado la ocurrencia de procesos complejos en los cuales de movimientos en masa de suelo obstruyen corrientes de agua relativamente pequeños formando represamientos que al romperse generan avenidas torrenciales que terminan generando una gran afectación a las comunidades asentadas en las riberas y una gran afectación a la infraestructura.
 
@@ -95,9 +95,9 @@ Para ampliar la información y obtener un análisis más concluyente sobre la oc
 
 **Figura 2**. Registros de movimientos en masa para el departamento de Antioquia (Desinventar) (**A**). Distribución mensual de los movimientos en masa en Antioquia (**B**). Distribución de movimientos en masa en Antioquia por regiones (excluyendo el Valle de Aburrá) (**C**). Distribución mensual de movimientos en masa en el Suroeste (**D**). Movimientos en masa por municipios del Suroeste (**E**).
 
-## RESULTADOS DE LOS MODELOS DE ESTIMACIÓN
+## RESULTADOS DE LOS MODELOS DE ESTIMACIÓN {.unnumbered}
 
-### Amenaza
+### Amenaza {.unnumbered}
 
 Se aplicó la metodología mostrada en la Figura  6 y descrita en la Sección 6, para calcular la probabilidad de falla, considerando que la superficie de falla se presenta a una profundidad media de *H* = 2 m, con coeficiente de variación de 25%, para simular un deslizamiento superficial, que corresponde al tipo característico de movimiento en masa en terrenos montañosos tropicales como la zona de estudio, los cuales suelen inducirse por lluvias de alta intensidad o larga duración principalmente. Los coeficientes de variación empleados para los demás parámetros corresponden a 5% para el peso específico del suelo, 10% para el ángulo de fricción interna, 30% para la cohesión, y finalmente, 50% para el coeficiente de aceleración horizontal de sismo. La lluvia usada para la evaluación de la probabilidad de saturación del suelo y la probabilidad anual de falla del terreno, tiene un periodo de retorno de 20 años.
 
@@ -113,7 +113,7 @@ En el proceso de estimación de la amenaza, se calculan los factores de segurida
 
 **Figura 3.** Resultados del factor de seguridad (*FS*) en condición saturada estática para la cuenca del río San Juan (**A**). Se hace un zoom sobre la quebrada La Liboriana para presentar y detallar los resultados del factor de seguridad en condición húmeda estática (*FSHE*) (**B**) y en condición saturada estática (*FSSE*) (**C**).
 
-### Vulnerabilidad
+### Vulnerabilidad {.unnumbered}
 
 Se realizó el análisis de vulnerabilidad física calculando para esto la intensidad de acuerdo con las Ecuaciones 6 y 7. Analizando la intensidad de afectación de los cauces en una zona de 100 m a lado y lado de los mismos, se obtiene un valor promedio de 0.052 (grado de afectación del 5.2%) en las corrientes principales de la zona de estudio. Como ejemplo, en la Figura 4B se muestran los resultados de vulnerabilidad obtenidos para la quebrada La Liboriana.
 
@@ -127,9 +127,9 @@ Usando el procedimiento descrito en la Sección 6 e ilustrado en la Figura , se 
 
 **Figura 4.** Resultados de probabilidad total de falla en la cuenca del río San Juan (**A**). Vulnerabilidad (en término de “Intensidad”) en una zona de influencia de 100 m a cada lado de la quebrada La Liboriana (**B**). Riesgo anual ($) en una zona de influencia de 100 m a cada lado de la quebrada La Liboriana (**C**).
 
-## DISCUSIÓN
+## DISCUSIÓN {.unnumbered}
 
-### Factor de seguridad 
+### Factor de seguridad  {.unnumbered}
 
 Se consideraron como zonas críticas de estabilidad, aquellas celdas con un valor de factor de seguridad (*FS)* < 1.1, obteniendo los resultados mostrados en la Tabla .
 
@@ -161,7 +161,7 @@ Adicionalmente, el área bajo la curva ROC (area under curve, AUC) se puede usar
 
 Es importante destacar que tanto en el enfoque de validación por correlación espacial efectuado inicialmente como en el análisis de área bajo la curva ROC, se obtuvo un resultado promedio del orden de 68% de correspondencia para un valor umbral de *FSSE* de 1.1, que quizá en las condiciones de alta variabilidad espacial de los parámetros geomecánicos, no sea el valor umbral más apropiado para determinar rigurosamente la estabilidad del terreno. En este sentido, y para analizar la sensibilidad de este valor umbral, se recalcularon las tasas ROC para un umbral de *FSSE* < 1.25, valor referenciado por la norma NSR-10 para taludes en condiciones de saturación normal del suelo por efecto de las lluvias, obteniendo un *TPR* de 75% y un *FPR* de 58%, lo refleja un incremento en la capacidad de predicción del modelo propuesto.
 
-### Probabilidad de falla 
+### Probabilidad de falla  {.unnumbered}
 
 Se calculó la probabilidad de falla (PF) considerando las dos metodologías de evaluación de la probabilidad de saturación del suelo (*P**s*), es decir, mediante el establecimiento de umbrales de lluvia a partir de los registros de la base datos de lluvia censados a partir de satélite CHIRPS, y mediante la evaluación del avance del frente húmedo a partir curvas de saturación del suelo. 
 
@@ -191,19 +191,19 @@ A continuación, en la Tabla  se presenta el análisis de resultados de la amena
 | Tarso | El municipio presenta una PAF promedio de 0.024957 (Alta). | ZONA 1. Corresponde a parte de la cuenca del río San Juan, al margen derecho del río, entre las veredas La Herradura y San Francisco. |
 | Pueblorrico | El municipio presenta una PAF promedio de 0.025107 (Alta). | ZONA 1. Corresponde a parte de la cuenca del río San Juan, al margen derecho del río, entre las desembocaduras del río Bolívar y el río Barroso con el río San Juan, jurisdicción de la vereda Hoyo Grande. |
 
-### Vulnerabilidad
+### Vulnerabilidad {.unnumbered}
 
 Aplicando el procedimiento descrito en el Capítulo 6.2, se estimó la vulnerabilidad de la quebrada. Los valores más altos de vulnerabilidad (> 0.06) corresponden a zonas escarpadas de alta montaña con pendientes que superan los 30° en las riberas de los cauces, los cuales se presentan generalmente en la parte alta de las sub cuencas que conforman la cuenca del río San Juan. Esto implica que la masa deslizante proveniente de un movimiento en masa puede generar una mayor obstrucción en los cauces debido a la geomorfología encañonada de las corrientes de agua en estas zonas. 
 
 De acuerdo a los resultados obtenidos, se debe prestar especial atención en la parte alta de las quebradas La Liboriana y el río Barroso en el municipio de Salgar; Santa Rosa, La Linda y Sucre en el Municipio de Ciudad Bolívar; quebrada San Antonio, Guadalejo y río Pedral en el municipio de Betania; quebradas Santa Rita, El Silencio, Santa Bárbara, ríos Chaparrala y San Agustín en el municipio de Andes; parte baja del río Dojurgo en el municipio de Jardín, y del río San Juan en la jurisdicción de los municipio de Salgar, Ciudad Bolívar y Pueblorrico.
 
-### Riesgo
+### Riesgo {.unnumbered}
 
 Con respecto al riesgo anual asociado a un periodo de retorno de 20 años para la lluvia detonante de los movimientos en masa, se obtiene un valor promedio de $58,990 y un valor total de $3,782,883,043 en potenciales pérdidas económicas directas por efecto de obstrucciones de los principales cauces de la cuenca de estudio. A esto, se le debe tener en cuenta adicionalmente, los costos indirectos y el impacto social generado por los potenciales desabastecimientos hídricos parciales o totales de las comunidades aledañas.
 
 Los resultados indican que los valores más altos de riesgo corresponden a zonas con alta probabilidad de ocurrencia de un movimiento en masa en zonas de riberas escarpadas cerca de las corrientes de agua, las cuales poseen una cobertura vegetal tipo mosaico de cultivos, es decir, tierras productivas con alto valor comercial, en especial zonas cafeteras dentro de las cuencas de los Municipio de Andes, Ciudad Bolívar, Betania, Salgar y Jardín.
 
-## CONCLUSIONES
+## CONCLUSIONES {.unnumbered}
 
 Se realizó un análisis de ocurrencia de movimientos en masa en Antioquia usando la base de datos de Desinventar sin incluir el Valle de Aburrá, a partir del cual se ha identificado que la subregión de mayor afectación es el suroeste, en especial los municipios como Andes y Támesis. Igualmente, se identifica que los movimientos en masa se presentan más frecuentemente en los trimestres abril-junio y septiembre-noviembre meses que corresponden a las temporadas lluviosas de la región. Con base en los registros existentes es difícil identificar si todos los municipios tienen la misma calidad en la información. Con base en lo anterior se seleccionó la cuenca del rio San Juan como el caso de estudio para la metodología de evaluación de riesgo en cuencas abastecedoras. Es de anotar que la información de movimientos en masa en general es incompleta en cuanto a ubicación, tipología del movimiento y sus consecuencias. Por lo anterior es recomendable que se propenda por mejorar el sistema de recolección y gestión de esta información en el departamento. Una alternativa para mejorar esto registros, es usar imágenes de satélite de alta resolución espacial y temporal y herramientas informáticas que competen a la rama de la geomática como los Sistemas de Información Geográfica (SIG).
 
@@ -223,7 +223,7 @@ Como una recomendación general para la evaluación de estos riesgos, se propone
 | TRABAJO FUTURO Para disminuir la incertidumbre en los parámetros usados y la inclusión del proceso de infiltración con base física, se deben efectuar caracterizaciones geotécnicas de los suelos superficiales en esta región tanto de parámetros de resistencia al cortante como hidráulicos en condiciones no saturadas. |
 | --- |
 
-## MATERIALES Y MÉTODOS
+## MATERIALES Y MÉTODOS {.unnumbered}
 
 Se planteó una metodología que permite el cálculo del riesgo definido mediante la ecuación general:
 
@@ -243,7 +243,7 @@ donde *R* es el riesgo, *P[T]* es la amenaza entendida como la probabilidad de q
 
 Como se observa en la Figura , la determinación de la amenaza se hace considerando la saturación del suelo y el efecto de los sismos, y la vulnerabilidad considera la exposición y las consecuencias de la falla.
 
-### Amenaza
+### Amenaza {.unnumbered}
 
 El modelo de estimación de la amenaza fue implementado usando el software EPADYM, desarrollado por el Grupo de Investigación en Ingeniería Civil (GICI) de la Universidad de Medellín, y que calcula el índice de confiabilidad, la probabilidad de falla y el factor de seguridad del terreno bajo condiciones sísmicas y estáticas. 
 
@@ -273,7 +273,7 @@ $R3=75-0.5R15$ 						(4)
 
 Donde R15 es la lluvia acumulada precedente de 15 días y R3 la lluvia acumulada antecedente de 3 días.
 
-### Vulnerabilidad
+### Vulnerabilidad {.unnumbered}
 
 La vulnerabilidad (*V*) de un elemento puede ser entendida como la probabilidad de daño que ésta presenta cuando se somete al efecto particular de un fenómeno natural o antropogénico potencialmente dañino, pero en este caso se asocia a un movimiento en masa. Cuantitativamente se puede establecer como una función de la intensidad (*I*) de un movimiento en masa y de la fragilidad (*S*) de los elementos expuestos a tal movimiento, es decir:
 
@@ -313,7 +313,7 @@ Donde:
 
 **Figura 9. **Ejemplo de curva de daño para la afectación de una quebrada.
 
-### Costos de los elementos expuestos
+### Costos de los elementos expuestos {.unnumbered}
 
 La afectación a la corriente debido a la obstrucción se puede considerar de varias formas:
 
@@ -343,7 +343,7 @@ $Ccelda=Cvias+Czv+Cconst$ 				(8)
 
 Donde *C**celda* es el costo total de la celda ($), *C**vias* es el costo de las vías ($) que se obtiene como el costo de las vías por el área de vías en la celda, *C**zv* es el costo de las zonas verdes que se obtiene como el costo de las zonas verdes por el área de zonas verdes en la celda ($) y *C**const* es el costo de las construcciones ($).
 
-### Riesgo
+### Riesgo {.unnumbered}
 
 El riesgo se calcula en términos de las pérdidas económicas que pueden ser generadas en la corriente de agua debido a los movimientos en masa, de acuerdo a la ecuación:
 
@@ -359,7 +359,7 @@ $R=PAF×PEP$ 						(10)
 
 **Figura 10.** Esquema metodología adoptada para la evaluación del riesgo
 
-## CASO DE APLICACIÓN
+## CASO DE APLICACIÓN {.unnumbered}
 
 Para el desarrollo y explicación de la metodología propuesta, se tomó como caso de estudio la cuenca del río San Juan. Esta cuenca presenta unas condiciones geomorfológicas, geológicas y climáticas que la hacen particularmente susceptible a movimientos en masa, como lo demuestra la información existente en las bases de datos. En específico, las corrientes de agua han causado grandes avenidas torrenciales, que a su vez han estado ligadas a la ocurrencia previa de movimientos en masa debidos a las lluvias. Debido a la complejidad de cada proceso, la amenaza por movimiento en masa se determinó para la totalidad de la cuenca, mientras que la vulnerabilidad y el riesgo se determinaron en la subcuenca de la quebrada La Liboriana en jurisdicción del municipio de Salgar, la cual se encuentra bien documentada y facilitó el proceso de validación de los resultados obtenidos con el modelo propuesto. 
 
@@ -395,17 +395,17 @@ Parámetros geotécnicos: Bases de datos de los proyectos de la Universidad de M
 
 Los autores no declaran conflicto de intereses
 
-## AGRADECIMIENTOS
+## AGRADECIMIENTOS {.unnumbered}
 
 Los autores agradecen a la Universidad de Medellín y a Corantioquia por el apoyo en la realización de la investigación que dio pie a este estudio.
 
-## IDENTIFICACIÓN DEL AUTOR
+## IDENTIFICACIÓN DEL AUTOR {.unnumbered}
 
 Cesar Hidalgo 	
 
 Johnny Vega		
 
-## **BIBLIOGRAFÍA**
+## BIBLIOGRAFÍA {.unnumbered}
 
 Jibson, R. W., Harp, E. L., & Michael, J. A. (1998). A method for producing digital probabilistic seismic landslide hazard maps. *Engineering Geology*, 58, 271-289. 
 
@@ -433,7 +433,7 @@ Dragicevic, S., Lai, T., & Balram, S. (2015). GIS-based multicriteria evaluation
 
 Saboya, F., Alves, M., & Pinto, W. (2006). Assessment of failure susceptibility of soil slopes using fuzzy logic. *Engineering Geology*, 86, 211–224. 
 
-Sepulveda, S. A., & Petley, D. N. (2015). Regional trends and controlling factors of fatal landslides in Latin America and the Caribbean. *Natural Hazards and Earth Systems Science*, 15, 1821–1833. 
+Sepulveda, S. A., & Petley, D. N. (2015). Regional trends and controlling factors of fatal landslides in Latin America and the Caribbean. *Natural Hazards and Earth Systems Science*, 15, 1821–1833. https://doi.org/10.5194/nhess-15-1821-2015
 
 Isaza-Restrepo, P. A., Martinez, H. E., & Hidalgo, C. A. (April de 2016). Methodology for quantitative landslide risk analysis in residential projects. Habitat International, 53, 403-412. https://doi.org/10.1016/j.habitatint.2015.12.012
 
@@ -441,7 +441,7 @@ Klose, M. (2015). *Landslide Databases as Tools for Integrated Assessment of Lan
 
 Bryant, E. A., Head, L., & Morrison, R. J. (2005). Planning for natural hazards-how can we mitigate the impacts. En R. J. Morrison, S. Quin, & E. A. Bryant (Eds.), *Proceedings of a symposium Planning for natural hazards-how can we mitigate the impacts, *(pp. 1-21). Wollongong: GeoQuEST Research Centre and School of Earth and Environmental Sciences, University of Wollongong.
 
-Chowdhury, R., Flentje, P., & Bhattacharya, G. (2010). *Geotechnical Slope Analysis*. London, England: Taylor & Francis, p. 737. 
+Chowdhury, R., Flentje, P., & Bhattacharya, G. (2010). *Geotechnical Slope Analysis*. London, England: Taylor & Francis, p. 737. https://doi.org/10.1201/9780203864203-f
 
 Aristizabal, E., & Gomez, J. (2007). Inventario de emergências e desastres no vale de Aburrá originados por fenómenos naturais e antrópicos no período 1880-2007.* Revista Gestión y Ambiente, *10(2), 17-30. 
 
@@ -463,7 +463,7 @@ Vega, J. A., & Hidalgo, C. A. (2016). Quantitative risk assessment of landslides
 
 Ruiz-Vásquez, D., & Aristizábal, E. (2018). Landslide susceptibility assessment in mountainous and tropical scarce-data regions using remote sensing data: A case study in the Colombian Andes. *Geophysical Research Abstracts*, 20, EGU2018-3408
 
-Fawcett, T. (2006). An introduction to ROC analysis. Pattern Recognition Letters, 27, 861–874. 
+Fawcett, T. (2006). An introduction to ROC analysis. Pattern Recognition Letters, 27, 861–874. https://doi:10.1016/j.patrec.2005.10.010
 
 Pourghasemi, H. R., Jirandeh, A. G., Pradhan, B., Xu, C., Gokceoglu, C. (2013). Landslide susceptibility mapping using support vector machine and GIS at the Golestan Province, Iran. *Journal of Earth System Science*, 122, 2, 349–369. 
 

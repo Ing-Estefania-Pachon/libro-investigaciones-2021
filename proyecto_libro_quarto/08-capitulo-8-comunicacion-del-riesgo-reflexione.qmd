@@ -1,4 +1,4 @@
-# Capítulo 8: Comunicación del riesgo: reflexiones y experiencias locales en el departamento del Valle del Cauca
+# Capítulo 8: Comunicación del riesgo: reflexiones y experiencias locales en el departamento del Valle del Cauca {.unnumbered}
 
 **Javier Thomas****1***** & Julio Rubio****1,2**
 
@@ -26,7 +26,7 @@ This work presents the results of an investigation entitled *Armero 30 years: Fr
 
 Risk communication, communication theory, risk management, communication strategies, local experiences, community workshops
 
-## INTRODUCCIÓN
+## INTRODUCCIÓN {.unnumbered}
 
 Este capítulo se sustenta en procesos investigativos de carácter participativo sobre la gestión del riesgo y la comunicación del riesgo, del grupo de investigación Armero 85. La investigación desarrollada evaluó el papel de las estrategias comunicativas desplegadas por el Departamento del Valle del Cauca en la reducción de las condiciones de vulnerabilidad de las comunidades expuestas ante eventos potencialmente destructivos, tomando como referencia para la evaluación seis municipios del Valle del Cauca: Jamundí, Yumbo, Buga, Buenaventura, Sevilla y Ansermanuevo, que al localizarse en los diversos puntos cardinales del departamento y tener distintas categorías administrativas son representativos de sus condiciones.	
 
@@ -34,7 +34,7 @@ Los talleres comunitarios buscaron acercar la gestión territorial del riesgo a 
 
 El presente trabajo tiene dos grandes secciones. La primera, se refiere a los aspectos teóricos sobre comunicación del riesgo que atravesaron transversalmente los ejercicios referenciados. La segunda, presenta los resultados más significativos de las experiencias desarrolladas.
 
-## LA COMUNICACIÓN DEL RIESGO: ALGUNAS REFLEXIONES
+## LA COMUNICACIÓN DEL RIESGO: ALGUNAS REFLEXIONES {.unnumbered}
 
 Hablar de comunicación del riesgo nos obliga inicialmente a referenciar los trabajos centrales de la teoría de la comunicación planteados por Carey [1], Anderson [2], Holmes [3] y Lunenburg [4], y luego aquellos que implican directamente la comunicación del riesgo (Luhmann [5], Beck [6], Gonzalo y Farré [7]; Thomas, Rubio y Muñoz [8]), como parte integral de la gestión del riesgo, pero vinculada necesariamente con la teoría de la comunicación. Pero ¿qué implican una y otra? 
 
@@ -86,13 +86,13 @@ En esa medida, la comunicación del riesgo debe asumirse como un pilar en la con
 
 Sin embargo, el objetivo de la comunicación del riesgo no debe ser inducir a la gente a aceptar lo que el comunicador cree que es mejor para ellos. El programa de comunicación ideal debe propiciar la formación de sujetos activos capaces de valorar la información disponible, para formar juicios bien equilibrados, de acuerdo con la evidencia de los hechos, el peso de los diversos argumentos y sus propias necesidades, intereses y expectativas. El objetivo final de la comunicación de riesgos es reconciliar la experiencia, los intereses y las preferencias públicas, con las realidades políticas e institucionales de la sociedad, para así coadyuvar en la construcción de comunidades más informadas y conscientes de las situaciones territoriales más equitativas y seguras.
 
-## LA FUERZA DE LAS EXPERIENCIAS
+## LA FUERZA DE LAS EXPERIENCIAS {.unnumbered}
 
 La comunicación del riesgo se abre como un campo importante de reflexión académica y de trabajo gubernamental, en el sentido de lograr contener creativamente, la disonancia o disyunción de tres registros de saberes geográficos que históricamente se suceden separados: el saber geográfico universitario, el saber geográfico de los ciudadanos y el saber geográfico de la escuela [25]. Esta separación también se expresa en términos comunicativos, en particular, en la comunicación del riesgo. Es decir, la experticia ha construido un lenguaje y medios de comunicación que le son propios de la institucionalidad (académica o gubernamental), y las comunidades, ciudadanos o pobladores han configurado sus repertorios y formas de comunicar y comunicarse sobre estos temas. El reto es intentar poner en dialogo ambos mundos comunicativos, en la perspectiva de una mejor gestión del riesgo en los territorios.
 
 Teniendo como marco de acción las reflexiones anteriores, el Grupo de Investigación Armero 85 emprendió un ejercicio investigativo con enfoque participativo, con la intención de explorar las tensiones y posibilidades que supone la comunicación de riesgo en entes territoriales específicos (como se mencionó al inicio del capítulo). Las siguientes ideas quieren poner énfasis en aquellos aprendizajes que a consideración de los autores, dan cuenta de la experiencia y al tiempo, pueden servir como elementos a tener en cuenta para ser profundizados en una propuesta de comunicación del riesgo.
 
-### El taller comunitario
+### El taller comunitario {.unnumbered}
 
 Una de las claves identificadas en el proceso de investigación, además de las diferencias en los códigos comunicativos de los actores que hacen parte potencial de la gestión del riesgo, fue el hecho de no encontrar claramente una concepción desde la institucionalidad, de los conocimientos y/o saberes que las comunidades, pobladores, e incluso ONG´s tenían acerca de los riesgos en sus zonas. Ello porque los espacios de encuentro y los diálogos se establecen, en la mayoría de las ocasiones, en un régimen discursivo que privilegia el saber experto y sus dispositivos o tecnologías de soporte. Se supone que mucha de la información experta es producto del reconocimiento de las realidades territoriales, pero lo interesante fue la insistencia desde las comunidades de plantear que no siempre esa información es verídica, en tanto las realidades territoriales son cambiantes y están sujetos a las dinámicas del clima y a las acciones ciudadanas y gubernamentales.
 
@@ -128,19 +128,11 @@ Dimensión comunicativa que ayuda a complejizar y diagnosticar los sentidos que 
 
 ![](media/img_c7eca523.jpeg)
 
-
-
-![](media/img_e25c45af.png)
-
 **Figura 1.**  Taller Sevilla, Valle del Cauca. En este taller los participantes con sus ojos vendados (**A** y **B**), que simulan la noche, experimentan a través de sonidos, cómo reaccionarían ante un sismo, para salvaguardar sus vidas, como permanecer inmóvil en el piso, por ejemplo (**C**).
-
-
-
-![](media/img_e25c45af.png)
 
 En síntesis, los dos aprendizajes mencionados dentro de una estrategia de comunicación del riesgo permiten reconocer los territorios de primera mano y con los pobladores, por lo que el trabajo de campo es un dispositivo de producción de conocimiento de primer orden que acude a los recorridos y a las narrativas de vida espacial [26] que se expresan en diálogos cotidianos peripatéticos, notas de campo y registros fotográficos que los sujetos producen in situ. Información que es vital para posteriores análisis y fuente esencial para la producción de las estrategias comunicativas. Así mismo, el Taller como acontecimiento colectivo favorece el diálogo y el debate sobre las problemáticas de la gestión del riesgo y las potencialidades para la construcción colectiva de las estrategias. Este dialogo de saberes resulta fructífero para comprender de mejor manera problemas y soluciones, como también mutuos reconocimientos a la hora de diseñar y emprender la acción territorial.
 
-### La crónica. Otra manera de comunicar
+### La crónica. Otra manera de comunicar {.unnumbered}
 
 Expandir la perspectiva sobre la comunicación del riesgo supuso, en el transcurso de la experiencia investigativa, pensar y discutir cómo enfrentar la separación o disociación entre los lenguajes expertos de la academia y la institucionalidad, con los lenguajes del sentido común y de la vivencia territorial de las comunidades. Producto de la revisión documental de las oficinas de gestión de riesgo de la gobernación y de las alcaldías visitadas, y al ver su lenguaje técnico, a veces críptico, se optó por experimentar con la escritura de crónicas como mediación comunicativa en la gestión del riesgo. En el sentido de que la crónica, como genero discursivo, permite mayores márgenes de flexibilidad en el uso del lenguaje y se puede combinar con imágenes que operan, no como ilustraciones, sino como piezas comunicativas. Estas crónicas son producto del trabajo de campo antes descrito. 
 
@@ -170,7 +162,7 @@ Pero, así como estos incendios se han convertido en problema de verano, tambié
 
 Lo sectores señalados y afectados por estos riesgos tienen la característica de ser habitados por gentes de clase popular, que como en muchas ciudades del país, han hecho de las laderas su sitio de vivienda y se han apropiado y asentado hasta configurar conglomerados humanos. Si bien la existencia de la falla geológica es un rasgo natural del territorio, los pobladores han construido su lugar, su hábitat, quizás sin conocer los riesgos de ello, pero encontrando en esos territorios la posibilidad de vivienda. Roberto, un llegado hace cuarenta años a la zona de laderas de Yumbo y de origen patiano, resume en una frase el sentido del lugar: “hace mucho llegamos y nos tocó hacer la casita aquí, este pedacito de tierra es la vida de muchos de nosotros”. Aferrado a esa historia y a los años de andar y vivir en este lugar, Roberto termina sus palabras mirando las calles entrecruzadas por las casas de bahareque que aún son señal de los tiempos: “Esta loma se nos tragó la vida, por eso de aquí no nos vamos. Imagínese, yo con hijos y nietas”. 
 
-### El fanzine. La comunicación flexible
+### El fanzine. La comunicación flexible {.unnumbered}
 
 El diagnóstico inicial de las estrategias comunicativas que los entes de gobierno tenían e implementaban, se reducía a las cartillas que desde el gobierno nacional se proponían, con sus características genéricas y lenguajes técnico-instrumentales que terminaban convirtiéndose en política para la gestión de riesgo. Algunas de esas cartillas tenían años de desactualización que se confirmaba en las entrevistas con los funcionarios a cargo de estos temas. La segunda estrategia identificada, en algunos de los municipios, eran noticias audiovisuales que comentaban sobre los riesgos y vulnerabilidades de sectores específicos, invitando a la comunidad a tener cuidado y a ser corresponsables con la gestión del riesgo. Lo preocupante de estas noticias, como casi todas, era su efecto post-facto, es decir, aparecen y comunican cuando ya han sucedió los hechos.
 
@@ -179,10 +171,6 @@ El diagnóstico inicial de las estrategias comunicativas que los entes de gobier
 | --- |
 
 Teniendo en cuenta este hallazgo, y reconociendo que las comunidades dependen de las comunicaciones que las instituciones producen y circulan sobre los riesgos, se pensó en los talleres como una posibilidad para que las comunidades mismas pudiesen diseñar y comunicar con sus propias estrategias. Del conjunto de estrategias posibles, se escogió al fanzine por su versatilidad, flexibilidad y potencial comunicativo, en tanto es la comunidad con sus saberes y recursos, quienes elaboran y ponen a circular los fanzines. Además, estos pueden ser una herramienta importante para la prevención y advertir sobre situaciones problemáticas. Lo más significativo de esta estrategia, es la producción colectiva de conocimiento y el diseño colectivo de la comunicación que se valora pertinente socializar. 
-
-
-
-![](media/img_e25c45af.png)
 
 
 
@@ -196,10 +184,6 @@ Teniendo en cuenta este hallazgo, y reconociendo que las comunidades dependen de
 
 ![](media/img_c55ee891.jpeg)
 
-
-
-![](media/img_e25c45af.png)
-
 **Figura 3.** Taller Fanzine. Jamundí. Luego de las explicaciones sobre la importancia de la comunicación del riesgo (**A**), los participantes diseñan en grupos (**B**) un fanzine, a partir de problemáticas identificadas en los territorios donde habitan (**C**).
 
 Entendiendo lo anterior y reconociendo la flexibilidad enorme de esta herramienta, se subrayan una serie de rasgos o características que orientan la producción del fanzine, no solo en lo técnico, sino su labor y papel comunicativo. Las características más sobresalientes del fanzine son las siguientes [8]:
@@ -212,7 +196,7 @@ Una comunicación ágil y viajera. Debe ser en su diseño un formato ágil que g
 
 Expresión lúdica y didáctica. En su dimensión educativa, esta herramienta, que se produce en un taller de actores o sujetos ciudadanos, institucionales y académicos, debe propiciar el diálogo en un ambiente de respeto y goce del trabajo colectivo, que potencie la producción de la información y su comunicación de tal manera que sea entendible y replicable por el ciudadano o usuario de la herramienta.
 
-## CONCLUSIONES
+## CONCLUSIONES {.unnumbered}
 
 Las experiencias mostradas han permitido reconocer que es posible construir espacios y mecanismos de divulgación de saber, técnico y comunitario, que de forma situada, responde en forma más orgánica a códigos, símbolos y significados de las comunidades, y en esa medida, puedan ser más eficientes como proceso de gestión del riesgo. 
 

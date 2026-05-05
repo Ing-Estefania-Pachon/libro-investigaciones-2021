@@ -1,4 +1,4 @@
-# Capítulo 4: Contribución de la geodesia espacial en la gestión del riesgo en Colombia. Casos de estudio
+# Capítulo 4: Contribución de la geodesia espacial en la gestión del riesgo en Colombia. Casos de estudio {.unnumbered}
 
 **Héctor Mora-Páez****1*****, Fredy Díaz Mila****1****, Takeshi Sagiya****2****, Leidy Giraldo Londoño****1**** & Yuli Corchuelo Cuervo****1**
 
@@ -26,11 +26,11 @@ In order to advance in the knowledge of the phenomena that occur in the earth's 
 
 GNSS, geodynamics, North Andean Block, InSAR, subsidence, plate tectonics
 
-## INTRODUCCIÓN
+## INTRODUCCIÓN {.unnumbered}
 
 La Tierra es eminentemente un sistema dinámico. Los procesos que ocurren en el interior de la Tierra y el movimiento de grandes volúmenes en la superficie terrestre se ligan estrechamente a la tectónica de placas, y a ello, la sismicidad y el volcanismo. De igual manera, los movimientos de grandes masas tanto en la atmósfera como en los océanos se asocian a procesos dinámicos. Muchas inquietudes que han surgido, generalmente relacionadas con geoamenazas, ciclo hidrológico e incluso acerca del cambio global, entre otras, no pueden explicarse si no se tiene conocimiento y entendimiento de los procesos relacionados con transporte de masas en el sistema Tierra. Para detectar movimientos asociados a procesos dinámicos que ocurren en el sistema Tierra, con alta precisión y resoluciones temporales, se emplean técnicas de geodesia espacial, en dos de sus componentes: geodesia de posicionamiento y geodesia de imágenes. Así, los grandes avances en las técnicas geodésicas espaciales y el rápido desarrollo de sistemas y fortalecimiento de las capacidades de transmisión de datos dan lugar al surgimiento de una verdadera revolución en el campo de estudio de la geodesia, tanto global como regional y local, permitiendo su aplicación en diversas disciplinas del conocimiento, entre ellas las relacionadas con las geociencias. La observación de desplazamientos en la superficie terrestre permite establecer el estado de deformación de la corteza terrestre, y su posible asociación con la ocurrencia de sismos, tsunamis, erupciones volcánicas, entre diversos tipos de amenazas [1]. Este artículo presenta dos casos de aplicación de técnicas geodésicas espaciales que contribuyen aportando nuevo conocimiento para la gestión del riesgo en Colombia.
 
-## GEODESIA ESPACIAL GPS Y EL ESTUDIO DE LA DEFORMACIÓN DE LA CORTEZA TERRESTRE EN COLOMBIA
+## GEODESIA ESPACIAL GPS Y EL ESTUDIO DE LA DEFORMACIÓN DE LA CORTEZA TERRESTRE EN COLOMBIA {.unnumbered}
 
 La esquina noroccidental de Suramérica y sureste de Centroamérica es una zona de alto interés científico en las geociencias donde se conjugan diferentes elementos de orden tectónico y volcánico. No hay otra parte en el mundo en la cual exista una placa tectónica mayor subduciendo por debajo de una gran placa continental a lo largo de una trinchera de casi 6,000 km, como es el caso de la subducción de la placa de Nazca por debajo de Suramérica [2]. Esta región se caracteriza por una directa relación de la actividad tectónica y volcánica con la interacción de las placas tectónicas de Suramérica, Nazca, Cocos y Caribe y los bloques Norte de los Andes, Maracaibo, Chocó y Panamá acuñados dentro de dichas placas, Figura 1 [3 -15]. 
 
@@ -42,7 +42,7 @@ La esquina noroccidental de Suramérica y sureste de Centroamérica es una zona 
 
 Esta compleja tectónica dinámica e intensa deformación interplaca se manifiesta en una alta densidad de fallas, muchas de las cuales se consideran como activas o potencialmente activas. Además, la sismicidad se distribuye sobre un área que corresponde a un límite amplio que abarca el noroeste de Suramérica, Centro América y suroeste del Caribe, complejidad referida por Trenkamp [12] como un Margen amplio de placas. Dicha condición, junto con el potencial de ocurrencia de grandes sismos megathrust y tsunamis relacionados con la zona de subducción en el océano Pacífico, significa que un alto porcentaje de la población colombiana habita bajo una amenaza permanente de ocurrencia de sismos y tsunamis, con el potencial de causar grandes daños en términos de pérdida de vidas y destrucción de infraestructura [17]. Otra amenaza se asocia a los volcanes activos localizados en la región norte de los Andes, que tienen el potencial de generar erupciones devastadoras como la ocurrida en el volcán Nevado del Ruiz en noviembre 13 de 1985, el segundo peor desastre a nivel mundial de origen volcánico del siglo pasado [18-19].
 
-### Impacto de la geodesia espacial GNSS con propósitos científicos
+### Impacto de la geodesia espacial GNSS con propósitos científicos {.unnumbered}
 
 Dada la complejidad de la región y la potencialidad de ocurrencia de grandes sismos y tsunamis así como de erupciones volcánicas entre otros eventos de origen geológico, se requiere adelantar un estudio sistemático para determinar la actual situación de la deformación de la corteza terrestre. Hay una conciencia creciente a nivel mundial acerca de la valiosa contribución de la geodesia espacial para la observación detallada, análisis y comprensión de la cinemática de la corteza terrestre en regiones tectónicamente activas. Los estudios geodésicos espaciales son ahora el principal método para el estudio de la cinemática en los límites de placas en la superficie terrestre; las mediciones geodésicas espaciales se estiman en virtud de un marco global de referencia, lo cual permite medir los movimientos en los límites de placas así como los movimientos relativos globales al interior de las placas [20]. Así, las redes integradas GPS/GNSS suministran un excelente marco de referencia para el estudio de los procesos tanto en la tierra sólida como en la tierra atmosférica, a escalas globales, regionales y locales. La posición de las estaciones geodésicas a través del tiempo permite generar campos de velocidad para constreñir modelos de bloques cinemáticos y de zonas de deformación en límites de placas [21].  
 
@@ -52,7 +52,7 @@ A pesar de las limitaciones espaciales debido a la cobertura incompleta de redes
 | Caja 1. Términos comunes en geodesia espacial GNSS de posicionamiento  BEIDOU: sistema de navegación por satélite desarrollado por China. CORS: estación geodésica GPS/GNSS de referencia de operación continua. GALILEO: sistema europeo de radionavegación y posicionamiento por satélite desarrollado por la Unión Europea mediante operación de la Agencia Espacial Europea. GIPSY-OASIS: (GNSS-Inferred Positioning System and Orbit Analysis Simulation Software), software científico desarrollado por JPL-NASA de Estados Unidos. GLONASS: sistema de posicionamiento y navegación por satélite desarrollado por la Unión Soviética y administrado en la actualidad por la Federación Rusa. GNSS: (Global Navigation Satellite System). Constelación de satélites que transmite señales de radio utilizadas para posicionamiento y localización en cualquier parte del mundo. En la actualidad, solo los sistemas GPS y GLONASS forman parte del concepto de GNSS. En un futuro cercano, GALILEO y BEIDOU serán parte integrante de este concepto. GPS: Sistema de Posicionamiento Global de Estados Unidos. IERS: Servicio Internacional de Rotación de la Tierra y Sistemas de referencia. IGS: Servicio Internacional GNSS. ITRF: Marco Internacional Terrestre de Referencia. PPP:  Punto preciso de posicionamiento. RINEX: formato universal de intercambio de datos GNSS independiente del receptor. TEQC: herramienta desarrollada por UNAVCO para conversión, edición y análisis de calidad de datos GNSS. UNAVCO: University NAVSTAR Consortium. Consorcio sin ánimo de lucro creado para facilitar la investigación y educación en geodesia. |
 | --- |
 
-### Geodesia espacial GPS en Colombia con propósitos geodinámicos
+### Geodesia espacial GPS en Colombia con propósitos geodinámicos {.unnumbered}
 
 Colombia empezó en 1988 a incursionar en la aplicación de geodesia espacial GPS con el  proyecto internacional CASA (Central And South America GPS Project), en el cual científicos de más de 25 organizaciones y 13 países cooperaron en el entonces proyecto más grande de GPS en el mundo, patrocinado por National Science Foundation-NSF y la Agencia Espacial-NASA de Estados Unidos junto con las instituciones de cada uno de los países participantes, el cual permitió establecer una red de estaciones de campo de ocupación episódica en Costa Rica, Panamá, Venezuela, Ecuador y Colombia [28]. Colombia fue el centro de las campañas de campo en el norte de los Andes; la participación entusiasta del entonces INGEOMINAS, hoy Servicio Geológico Colombiano, con logística, entrenamiento y personal fue la clave del éxito del proyecto.
 
@@ -64,7 +64,7 @@ En la actualidad, los resultados de la implementación de redes de estaciones GP
 
 GeoRED es un proyecto de investigación y desarrollo basado en tecnología geodésica espacial para estudiar la geodinámica en el noroeste de Suramérica. GeoRED, que tiene como propósito principal mejorar la capacidad técnica, científica y operacional en Colombia para el análisis e interpretación del estado actual de deformación de la corteza en Colombia usando tecnología geodésica GNSS [33] es ejecutado por el Grupo Investigaciones Geodésicas Espaciales-GIGE de la Dirección de Geoamenazas del Servicio Geológico Colombiano. GeoRED se compone por dos sub-redes: la primera, por estaciones permanentes de operación continua (CORS), y la segunda, por estaciones geodésicas de ocupación episódica bajo la modalidad de campañas de campo. Es importante señalar que la entidad, a través de los observatorios vulcanológicos y sismológicos establecidos en las ciudades de Manizales, Popayán y Pasto, también han desplegado redes de estaciones geodésicas GNSS para el monitoreo y estudio de la deformación volcánica, empleando algunas de las estaciones de GeoRED como estaciones de referencia [34].
 
-### Datos y procesamiento
+### Datos y procesamiento {.unnumbered}
 
 El Centro Regional de Procesamiento de Datos GNSS del GIGE procesa en la actualidad más de 180 estaciones permanentes de operación continua localizadas en Colombia, Ecuador, Venezuela, Panamá, Costa Rica, en algunos países de Centro América y de la región Caribe. Los datos de los otros países se obtienen mediante intercambio de datos, o del proyecto COCONet (Continuously Operating Caribbean GPS Observational Network), el cual surgió a raíz de la ocurrencia del sismo de Haití de magnitud 7 en enero de 2010, que ocasionó más de 300 mil víctimas [35]. Este proyecto, patrocinado por NSF, se concibió con el fin de implementar una infraestructura geodésica y meteorológica de última generación en el Caribe, que sirviera además como plataforma para establecer alianzas internacionales para aplicaciones científicas y sociales [36, 37]. Bajo este proyecto, se instalaron cuatro estaciones en Colombia, las cuales se integraron a GeoRED; además, se actualizó la estación SAN0 de la isla de San Andrés, la cual se instaló en diciembre de 2007 mediante convenio con UCAR (University Corporation for Atmospheric Research) de Estados Unidos. 
 
@@ -92,7 +92,7 @@ La Figura 2 muestra ejemplos de series de tiempo y los correspondientes diagrama
 
 A partir de las series de tiempo con observaciones hasta finales de 2017 superiores a 2.5 años [50], se realizó la estimación de las velocidades geodésicas horizontales con respecto al marco de referencia ITRF2008 [51].
 
-### Resultados
+### Resultados {.unnumbered}
 
 El uso de datos de estaciones geodésicas permanentes permite estudiar procesos de deformaciones transitorias, así como aquellos asociados a actividad sismotectónica y otros tipos de señales geofísicas. Esto es posible a partir de las soluciones diarias de las estaciones permanentes, que permiten obtener una estimación más precisa de las tasas de deformación que aquellas obtenidas con mediciones episódicas mediante la ejecución de campañas de campo [52]. Cuando por condiciones de seguridad no es posible la instalación de estaciones permanentes, las estaciones de campo son esenciales en el estudio de la cinemática de fallas, con arreglos geométricos acordes con el tipo de análisis que se requiere obtener, complementando la información obtenida con estaciones permanentes.
 
@@ -222,13 +222,13 @@ El modelo de la Figura 4 izquierda, de la zona Centro-Sur del BNA, confirma la a
 
 **Figura 4.** Modelos de deformación de los sectores Centro-Sur y Norte del Bloque Norte de los Andes. Los círculos rojos corresponden a las estaciones empleadas para la estimación de los respectivos polos de Euler.
 
-## GEODESIA DE IMÁGENES PARA EL ESTUDIO DE LA SUBSIDENCIA EN LA CIUDAD DE BOGOTÁ
+## GEODESIA DE IMÁGENES PARA EL ESTUDIO DE LA SUBSIDENCIA EN LA CIUDAD DE BOGOTÁ {.unnumbered}
 
-### 3.1 Introducción
+### 3.1 Introducción {.unnumbered}
 
 El término subsidencia hace referencia al fenómeno que corresponde al hundimiento de la superficie terrestre en un área determinada, lo cual es posible debido a varios factores, tanto naturales como antrópicos [58]**. **La Sabana de Bogotá, donde se ubica la ciudad de Bogotá, corresponde a una cuenca tectónica-sedimentaria consolidada después de la elevación del Norte de los Andes, ocurrida hace alrededor de 5 Ma [59]**, **localizada en zona sísmica moderada, es propensa a la ocurrencia de deslizamientos e inundaciones por su compleja topografía. La subsidencia de la ciudad de Bogotá ha sido objeto de discusión y análisis en diversos escenarios; varios autores y entidades han adelantado investigaciones en este tema, dado que este fenómeno puede afectar directamente las edificaciones y obras civiles de la ciudad. 
 
-### Metodología
+### Metodología {.unnumbered}
 
 Bajo el concepto de geodesia de imágenes, la técnica conocida como InSAR (Interferometric Synthetic Aperture Radar), permite determinar cambios de posición del terreno, especialmente en su componente vertical, mediante el uso imágenes de radar de apertura sintética adquiridas en diversos períodos de tiempo [60]. La Figura 5 muestra la forma cómo funciona esta técnica a partir de dos imágenes de dos épocas diferentes para un caso de subsidencia.    
 
@@ -396,7 +396,7 @@ Realizada la integración de resultados GPS-InSAR, se efectuó un análisis simi
 | Caja 4. Glosario de términos de InSAR  Coherencia: coeficiente de correlación cruzada del par de imágenes SAR estimado en una pequeña ventana (pocos píxeles en rango y azimut), una vez que se compensan todos los componentes deterministas de fase.  Decorrelación: pérdida de coherencia entre un par interferométrico, lo que se traduce como ruido en la fase y afectación directa en el desarrollo de ésta.   Espectro electromagnético: Es la distribución energética del conjunto de ondas electromagnéticas, a partir de la cual se puede identificar la energía que emiten los cuerpos en virtud de su longitud de onda. Dicha distribución inicia con longitudes de onda muy cortas como los rayos gamma hasta la mayor longitud de onda que son las ondas de radio.   Fase interferométrica: medición de la posición de un punto en un momento especifico en el ciclo de la onda. El radar solo puede medir la parte del eco reflejada en la dirección de la antena (retrodispersión).  Geocodificación: corrección geométrica de la imagen y consiste en el remuestreo de la imagen teniendo en cuenta la geometría de la toma del sensor y el elipsoide de referencia.    Sensor activo: dispositivo capaz de emitir un haz energético que es posteriormente captado tras su reflexión sobre la superficie que se pretende observar. Entre ellos, el sistema más conocido es el Radar.  Sensor pasivo: plataforma que obtiene la energía electro-magnética procedente de la cobertura terrestre, sea ésta reflejada de los rayos solares o emitida en virtud de su propia temperatura.  Resolución espacial: tamaño de la mínima unidad de información incluida en una imagen denominada píxel. |
 | --- |
 
-## CONCLUSIONES
+## CONCLUSIONES {.unnumbered}
 
 Las amenazas geológicas asociadas a la ocurrencia de sismos y el fenómeno de subsidencia pueden afectar a las poblaciones que habitan en zonas vulnerables a estos eventos. Por tal motivo, es fundamental el despliegue de redes instrumentales, entre ellas de GPS y el uso de técnicas diversas para avanzar en el entendimiento de este tipo de fenómenos.  
 
@@ -434,7 +434,7 @@ Yuli Corchuelo Cuervo
 
 Leidy Giraldo Londoño	
 
-## **BIBLIOGRAFÍA**
+## BIBLIOGRAFÍA {.unnumbered}
 
 Plag, H. & Pearlman, M. (Eds) (2009). *Global Geodetic Observing System: Meeting the Requirements of a Global Society on a Changing Planet in 2020*. Springer, Berlin, Heidelberg. 
 
@@ -454,7 +454,7 @@ Ego, F., Sebrier, M., Lavenu, A., Yepez, H., & Eguez, A. (1993). A new geodynami
 
 Kellogg, J. & Vega, V. (1995). Tectonic development of Panama, Costa Rica, and the Colombian Andes: Constraints from Global Positioning System geodesy studies and gravity. En P. Mann (Ed.), *Geologic and Tectonic Development of the Caribbean Plate Boundary in Southern Central America *(pp. 75-90)*.* Boulder, Colorado. Geological Society of America Special Paper, 295. 
 
-Pindell, J.L., Higgs, R. & Dewey, J. F. (1998). Cenozoic palinspastic reconstruction, paleogeographic evolution, and hydrocarbon setting of the northern margin of South America, En J. L. Pindell & C. L. Drake (Eds.), *Paleogeographic Evolution and Non-glacial Eustasy, Northern South America.* Society for Sedimentary Geology (pp. 45-86). Tulsa, Oklahoma, Special Publication, 58. 
+Pindell, J.L., Higgs, R. & Dewey, J. F. (1998). Cenozoic palinspastic reconstruction, paleogeographic evolution, and hydrocarbon setting of the northern margin of South America, En J. L. Pindell & C. L. Drake (Eds.), *Paleogeographic Evolution and Non-glacial Eustasy, Northern South America.* Society for Sedimentary Geology (pp. 45-86). Tulsa, Oklahoma, Special Publication, 58. https://doi.org/10.2110/pec.98.58.0045
 
 Taboada, A., Rivera, L. A., Fuenzalida, A., Cisternas, A., Hervé, P., Harmen, B., Olaya, J., & Rivera, C. (2000). Geodynamics of the northern Andes: Subductions and intracontinental deformation (Colombia). *Tectonics*, 19 (5), 787-813. 
 
@@ -474,7 +474,7 @@ Herd, D. (1986). The 1985 Ruiz Volcano Disaster. *Eos, Transactions American Geo
 
 Banks, N., Carvajal, C., Mora, H. & Tryggvasson, E. (1990). Deformation monitoring at Nevado del Ruiz, Colombia - October 1985 - March 1988. *Journal of Volcanology and Geothermal Research,* 41 (19), 269-295. .
 
-Stein, S. & Sella, G. (2002). Plate Boundary Zones: Concepts and Approaches. En S. Stein, & J. Freymueller (Eds.), *Plate Boundary Zones *(pp. 1-26)*.* Geodynamics Series 30, American Geophysical Union, Washington, D.C. .
+Stein, S. & Sella, G. (2002). Plate Boundary Zones: Concepts and Approaches. En S. Stein, & J. Freymueller (Eds.), *Plate Boundary Zones *(pp. 1-26)*.* Geodynamics Series 30, American Geophysical Union, Washington, D.C. https://doi.org/10.1029/GD030p0001.
 
 Davis, J. L., Fialko, Y., Holt, W. E., Miller, M. M., Owen, S. E., & Pritchard, M. E. (Eds.). (2012). A Foundation for Innovation: Grand Challenges. En *Geodesy, Report from the Long-Range Science Goals for Geodesy Community Workshop*, UNAVCO, Boulder, Colorado, 79 p.	
 
@@ -560,7 +560,7 @@ Lu, Z. & Dzurisin, D. (2014). *InSAR Imaging of Aleutian Volcanoes: Monitoring a
 
 Mora-Páez, H., Díaz-Mila, F. & Cardona, L. 2019. Mapping land subsidence in Bogotá, Colombia, using the interferometric synthetic aperture radar (InSAR) technique with TerraSAR-X images. En: J. Gómez & A.O. Pinilla-Pachon (Eds,), *The Geology of Colombia, Volume 4 Quaternary *(pp. 663-705). Servicio Geológico Colombiano, Publicaciones Geológicas Especiales 38. Bogotá. 
 
-Rosen, P., Fielding, E., Agram, P., Pritchard, M. & Baker, S. (2014). *InSAR: an introduction to processing and Applications for geoscientists, Short course*. Unavco, Boulder CO, august 4-6, 2014.	
+Rosen, P., Fielding, E., Agram, P., Pritchard, M. & Baker, S. (2014). *InSAR: an introduction to processing and Applications for geoscientists, **Short** course*. Unavco, Boulder CO, august 4-6, 2014.	
 
 Rosen, P.A., Gurrola, E., Sacco, G.F. & Zebker, H., 2012. The InSAR scientific computing environment, EUSAR 2012; *9th European Conference on Synthetic Aperture Radar*, 730-733.
 

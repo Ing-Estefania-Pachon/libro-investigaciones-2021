@@ -1,4 +1,4 @@
-# Capítulo 2: Mitigación del riesgo sísmico de la infraestructura escolar
+# Capítulo 2: Mitigación del riesgo sísmico de la infraestructura escolar {.unnumbered}
 
 **Rafael Fernández****1*****, Luis Yamin****1****, Juan Carlos Reyes****1****, Angie Garcia****1****, Gustavo Fuentes****1**** & Juan Echeverry****1**
 
@@ -24,7 +24,7 @@ The development of risk mitigation plans for school infrastructure is a priority
 
 Mitigation, retrofitting, risk, school’s infrastructure, typologies
 
-## INTRODUCCIÓN
+## INTRODUCCIÓN {.unnumbered}
 
 El sector escolar es uno de los más vulnerables frente a eventos naturales en particular para eventos sísmicos. Esto se debe a la vulnerabilidad física de edificaciones antiguas y a las características de sus ocupantes [1]. Por otra parte, sus características arquitectónicas permiten que esta infraestructura se utilice como espacios de refugios para damnificados por eventos de desastre de gran magnitud. La alta vulnerabilidad de este tipo de infraestructura se ha evidenciado en eventos sísmicos recientes en los cuales se han visto colapsos parciales y totales de la infraestructura. En edificaciones de concreto reforzado se han evidenciado daños en diferentes territorios; en particular EERI ha identificado colapsos o daños graves en India, Indonesia, Perú, Turquía, Estados Unidos y Haití en edificaciones con sistemas de pórticos y muros [2]. Construcciones en muros de mampostería también han sufrido daños importantes como lo evidencia Chen et al. [3], en donde se identifican casos de daños y colapsos de edificaciones escolares en el sismo de Ghorka, Nepal en el 2015. En Latinoamérica se han presentado daños importantes en el sector. Por ejemplo, en México, en el sismo de Puebla del 2017 alrededor de 280 escuelas sufrieron daños que necesitaron reparaciones [4] y en Ecuador en el sismo de Muisne 2016 se registraron colapsos totales o parciales de escuelas en Manta, Pedernales y Portoviejo [5].
 
@@ -36,9 +36,9 @@ Por otro lado, también existen trabajos detallados como el desarrollado por Chr
 
 Teniendo en cuenta este contexto, el objetivo de este capítulo es presentar una metodología general para el análisis y desarrollo de planes de mitigación del riesgo en el sector escolar. En la Sección 2 se presentará la metodología propuesta para abordar el problema. La sección 3 describe las tipologías escolares más comunes encontradas en diferentes proyectos. La sección 4 presenta dos casos de estudio de la metodología indicada desarrollados en Colombia por los autores. Por último, las secciones 5 y 6 presentan las recomendaciones y trabajo futuro y los agradecimientos respectivamente.  
 
-## METODOLOGÍA
+## METODOLOGÍA {.unnumbered}
 
-### Metodología para el desarrollo de planes de mitigación del riesgo
+### Metodología para el desarrollo de planes de mitigación del riesgo {.unnumbered}
 
 Con el fin de desarrollar una estrategia adecuada para la mitigación del riesgo de desastres es necesario realizar un análisis detallado de la situación actual. En primer lugar, se debe recolectar información para consolidar una base de datos de la infraestructura expuesta que represente adecuadamente la infraestructura de la zona de estudio. Esta base de datos debe contener al menos información en cada colegio del número de edificaciones, el número de pisos y aulas escolares en cada uno, número de estudiantes, año de construcción, material y sistema estructural, y nivel de diseño. Para esto se recomienda desarrollar un sistema taxonómico de identificación o utilizar uno existente como el desarrollado en el marco del Programa Global para Escuelas Seguras (GPSS por sus siglas en inglés) del Banco Mundial, en el cual participaron los autores [12]. En particular, el nivel de diseño es una variable difícil de obtener puesto que cada país tiene sus propias normativas y cada región sus técnicas constructivas. Se recomienda para esto asignar un nivel de diseño a partir de parámetros como el año de construcción, características estructurales, dimensiones, constructor y experiencias locales según la información disponible.
 
@@ -50,7 +50,7 @@ Una vez se tiene esta base de datos, se debe realizar un análisis del riesgo en
 
 **Figura 1. **Metodología para desarrollo de planes de mitigación del riesgo sísmico en el sector escolar.
 
-### Evaluación del riesgo
+### Evaluación del riesgo {.unnumbered}
 
 Análisis de riesgo sísmico
 
@@ -102,7 +102,7 @@ La vulnerabilidad sísmica de las construcciones se representa mediante una func
 
 En la literatura se pueden encontrar diferentes catálogos de funciones de vulnerabilidad de edificaciones. Entre las principales fuentes de información se encuentra el programa HAZUS el cual propone una metodología para desarrollar funciones de fragilidad para diferentes tipos de amenazas producida por el FEMA (Agencia Federal para el Manejo de Emergencias por sus siglas en inglés) desde el año 1997 [19]. Estas funciones de fragilidad se adaptaron y transformaron para el contexto latinoamericano mediante la asignación de pesos relativos para obtener una única función de vulnerabilidad en el marco del proyecto GAR13 [20]. Estos catálogos se realizaron para diferentes tipos de edificaciones, no necesariamente edificaciones escolares por lo que se debe tener especial cuidado al utilizarlos en este contexto. Teniendo en cuenta esto se recomienda generar funciones particulares para cada proyecto que tengan en cuenta las características constructivas de cada región. Existen diferentes guías metodológicas para la generación de funciones de vulnerabilidad. Entre estas se destacan la iniciativa para la evaluación de vulnerabilidad propuesta por el GEM (Modelo Global de Terremotos) [21], la metodología de generación de funciones propuesta por Yamin et al. [22] y el GLOSI del Banco Mundial [13] entre otros. 
 
-### Alternativas de reforzamiento estructural
+### Alternativas de reforzamiento estructural {.unnumbered}
 
 Una vez se ha determinado la vulnerabilidad de cada edificación, es necesario identificar el mecanismo de colapso a partir de un análisis no lineal tridimensional como se indicó anteriormente. Esta identificación permite proponer alternativas de reforzamiento con el fin de reducir la vulnerabilidad. Existen varias limitaciones que deben tenerse en cuenta en este proceso, en particular el cumplimiento de las normativas nacionales que pueden ser más o menos exigentes según el país. Cada país tiene actualmente sus propias normativas que limitan los tipos de reforzamiento. En algunos casos las normas exigen llevar las edificaciones a niveles de desempeño equivalente al de edificaciones nuevas, esto hace que los reforzamientos en ciertos casos no sean costo-efectivos, por lo que se vuelve necesario analizar alternativas como la del reforzamiento incremental en donde la intervención se divide en fases con el fin de reducir la posibilidad de colapso en el menor tiempo y con el menor costo posible para proteger las vidas de los ocupantes [23].
 
@@ -116,7 +116,7 @@ British Columbia Ministry of Education [26].
 
 FEMA 308 [27].
 
-### Priorización y Planes de Mitigación del Riesgo Sísmico (PMRS)
+### Priorización y Planes de Mitigación del Riesgo Sísmico (PMRS) {.unnumbered}
 
 Los planes de mitigación del riesgo deben desarrollarse a partir de los resultados de los análisis anteriores, pero también deben concertarse con las autoridades locales de cada proyecto. Es fundamental concertar estos planes con el objetivo que su aplicabilidad sea mayor. Los PMRS se deben formular siguiendo los siguientes objetivos, en orden de importancia:
 
@@ -136,11 +136,11 @@ Una vez se tienen identificados los planes, debe realizarse una priorización de
 
 $EC= PAEActual-PAEEstado Mitigado*No. de estudiantes beneficiadosCosto del reforzamiento*Costo de oportunidad$         (1)
 
-## TIPOLOGÍAS PREDOMINANTES EN EL SECTOR
+## TIPOLOGÍAS PREDOMINANTES EN EL SECTOR {.unnumbered}
 
 El primer paso para la reducción del riesgo en el sector es consolidar el portafolio de edificaciones. Por las características arquitectónicas de este tipo de edificaciones es común encontrar edificaciones cuyas características se repiten en diferentes países. En particular, se ha evidenciado que la mayor parte de estas edificaciones son de concreto reforzado o de mampostería [6]. En este capítulo se presentan algunas de estas tipologías comunes en el sector escolar. En primer lugar, se presentan las tipologías cuyo sistema estructural es principalmente de concreto reforzado y en después se presentan las tipologías de muros de mampostería.
 
-### Tipologías de concreto reforzado
+### Tipologías de concreto reforzado {.unnumbered}
 
 Pórticos de concreto reforzado
 
@@ -172,7 +172,7 @@ En este sistema, los muros divisorios contribuyen a la resistencia lateral, pero
 
 **Figura 7. **Ejemplos de pórticos de concreto reforzado resistente a momento con muros de mampostería generando columna corta. (**A**) Edificación escolar en Perú. (**B**) Edificación escolar en El Salvador. (**C**) Edificación escolar en Colombia. (**D**) Edificación escolar en República Dominicana. Fotos tomadas del GPSS y del archivo personal de los autores.
 
-### Tipologías de mampostería
+### Tipologías de mampostería {.unnumbered}
 
 Mampostería no reforzada
 
@@ -208,9 +208,9 @@ El sistema de mampostería reforzada es un sistema de muros de mampostería con 
 | Caja 1. Tipologías escolares en concreto reforzado y en mampostería  Tipologías escolares principales en concreto reforzado: Pórticos de concreto reforzado. Pórticos de concreto reforzado con muros de mampostería. Pórticos de concreto reforzado con muros de mampostería generando columna corta. Tipologías escolares predominantes en mampostería: Mampostería no reforzada. Mampostería confinada. Mampostería reforzada. |
 | --- |
 
-## CASOS DE ESTUDIO
+## CASOS DE ESTUDIO {.unnumbered}
 
-### Cali, Colombia
+### Cali, Colombia {.unnumbered}
 
 La Universidad de los Andes, en el marco del Programa Global de Escuelas Seguras (GPSS) del Banco Mundial, realizó el acompañamiento técnico a la Alcaldía de Cali con el objetivo de diseñar un plan de intervención a corto, mediano y largo plazo para reducir la vulnerabilidad de la infraestructura educativa del Municipio de Cali frente a amenazas naturales y cambio climático en el marco de la política de Mejoramiento de Ambientes Escolares del Municipio de Cali.
 
@@ -323,7 +323,7 @@ Por último, con el objetivo de priorizar los recursos se utilizó el criterio d
 
 **Figura 19. **Priorización de intervenciones por programas en Cali.
 
-### Valle de Aburrá, Colombia
+### Valle de Aburrá, Colombia {.unnumbered}
 
 Mediante el convenio de asociación 1108 de 2016 entre la Universidad de los Andes y el Área Metropolitana del Valle de Aburra (AMVA) se realizó el estudio de la vulnerabilidad y riesgo sísmico de las edificaciones del sector escolar en los diez municipios del Valle de Aburrá. El objetivo principal fue identificar las intervenciones estructurales y no estructurales requeridas en cada una de estas edificaciones, y con base en esto diseñar un Plan de Mitigación del Riesgo Sísmico como parte del Plan Metropolitano del Riesgo Sísmico desarrollado por el AMVA. El plan incluía, entre otras cosas, las propuestas preliminares de intervención, la información básica para la eventual contratación de las obras identificadas, el presupuesto aproximado requerido y una programación tentativa de actividades para la contratación y ejecución de las obras.
 
@@ -446,7 +446,7 @@ Por último, con el objetivo de priorizar los recursos se utilizó el criterio d
 
 **Figura 29. **Priorización de intervenciones por programas en el Valle de Aburrá.
 
-## CONCLUSIONES
+## CONCLUSIONES {.unnumbered}
 
 Existen diferentes metodologías para el desarrollo de planes de mitigación del riesgo en el sector escolar. Para esto el primer paso es desarrollar una base de datos con información suficiente para caracterizar el portafolio de infraestructura expuesta. Este paso es uno de los más importantes pues su resolución y calidad determinarán la resolución y la calidad del plan de mitigación del riesgo. Se han identificado diferentes tipologías de concreto reforzado y mampostería en diferentes partes del mundo con deficiencias constructivas y estructurales similares. Entre estas se destacan las edificaciones de pórticos de concreto reforzado, de pórticos de concreto reforzado con muros de mampostería y pórticos de concreto reforzado con muros de mampostería generando columna corta. En las edificaciones de muros de mampostería se destacan las edificaciones de mampostería simple, mampostería confinada y mampostería reforzada. La documentación de estas deficiencias y también de técnicas de reforzamiento permite sentar las bases para futuros proyectos en los cuales se analicen edificaciones similares.
 
@@ -468,11 +468,11 @@ Los resultados de los casos de estudio presentados como ejemplo son el punto de 
 
 Los autores no declaran conflicto de intereses.
 
-## AGRADECIMIENTOS
+## AGRADECIMIENTOS {.unnumbered}
 
 Los autores agradecen en primer lugar al Banco Mundial y en particular al equipo de trabajo del Programa Global de Escuelas Seguras (GPSS) por impulsar iniciativas de reducción del riesgo en el sector escolar. Así mismo, agradecen a la Alcaldía de Santiago de Cali por el desarrollo de la Asistencia técnica para el diseño de una estrategia de intervención y un plan de inversión para la reducción de la vulnerabilidad sísmica de edificaciones educativas en el municipio de Cali, y al Área Metropolitana del Valle de Aburrá por el desarrollo conjunto del Convenio de Asociación 1108 del 2016. Adicionalmente, los agradecimientos se extienden a los integrantes del Centro de Investigación en Materiales y Obras Civiles de la Universidad de los Andes que participaron en el desarrollo de los proyectos mencionados anteriormente.
 
-## IDENTIFICACIÓN DEL AUTOR
+## IDENTIFICACIÓN DEL AUTOR {.unnumbered}
 
 Rafael Fernández	
 

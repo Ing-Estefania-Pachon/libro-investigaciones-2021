@@ -1,4 +1,4 @@
-# Capítulo 12: Obras costeras y clima marítimo: casos del Caribe colombiano
+# Capítulo 12: Obras costeras y clima marítimo: casos del Caribe colombiano {.unnumbered}
 
 Serguei Lonin1* & Julio Monroy1
 
@@ -24,7 +24,7 @@ Hard coastal protection structures are the preferred method used both to mitigat
 
 Breakwaters, coastal protection, erosion, jetties, maritime climate, sea level
 
-## INTRODUCCIÓN
+## INTRODUCCIÓN {.unnumbered}
 
 Las costas del Caribe colombiano en gran parte están compuestas de material arenoso con poca fracción de los finos cohesivos. En su mayoría, estas arenas son resultado del aporte de los ríos, arroyos y, en menor medida, de la abrasión de acantilados. Para las áreas coralinas, el material es calcáreo resultado del ciclo de vida de arrecifes de coral y la erosión paulatina de las terrazas marinas. 
 
@@ -38,7 +38,7 @@ En el presente capítulo se describen algunos casos de efectos naturales y obras
 | Caja 1. Definiciones Costa dominada por energía de olas: predominancia climática de la acción de olas sobre la variación de la marea astronómica como una proporción entre altura significante de la ola (H) y el rango de la marea (TR), 0.5 < TR/H < 1 [9].  Aumento del nivel del mar: usualmente se refiere al aumento global del nivel medio de la superficie de los océanos debido al calentamiento de la Tierra.  Erosión costera: retroceso de la línea de costa y pérdida de los sedimentos en el perfil subacuático adyacente relacionados con déficit de aporte sedimentario de una fuente o con la obstaculización, antrópica o natural, del transporte litoral. |
 | --- |
 
-## OBRAS COSTERAS Y SU EFECTO
+## OBRAS COSTERAS Y SU EFECTO {.unnumbered}
 
 El aumento global del nivel del mar es un hecho y para el futuro próximo tendrá un incremento más progresivo [1-4]. También es conocido y cuantificable con una regla de Bruun [5] que las playas con menor pendiente sufren la erosión costera debido al aumento del nivel con mayor magnitud que las costas abruptas. Por lo anterior, los escenarios de riesgo podrían caracterizarse en una primera aproximación para todo el país con base en un relativamente simple análisis topográfico de los perfiles subacuáticos de las playas.
 
@@ -148,7 +148,7 @@ Resulta que el uso del agua del río en agricultura, la alteración de su caudal
 
 ¿Cuál es entonces el impacto de los cambios climáticos en la erosión costera, manifestados al menos en el aumento del nivel del mar, en comparación con las causas antrópicas locales? Definitivamente, el aumento del nivel del mar está causando siempre una erosión, nunca acreción en una costa dada. Estos cambios de escala global, al sumarse con aquellos de escala local y regional, incrementan el proceso de erosión costera, cuya dinámica sería menos pronunciada con un buen manejo de las costas.  
 
-## CONCLUSIONES
+## CONCLUSIONES {.unnumbered}
 
 La erosión se clasifica como una amenaza para la población, infraestructura y actividades humanas en la zona costera. Las obras de mitigación de la erosión en las costas del Caribe colombiano, en general, hasta la fecha se caracterizan como obras *duras*, generalmente de material pétreo y, con mayor frecuencia, éstas son espolones debido a su bajo costo de construcción y mantenimiento. 
 
@@ -180,13 +180,13 @@ Serguei Lonin
 
 Julio Monroy       
 
-## **BIBLIOGRAFÍA**
+## BIBLIOGRAFÍA {.unnumbered}
 
-Douglas, B. C. (1991). Global sea level rise. *Journal of Geophysical Research: Oceans*, 96(C4), 6981-6992. 
+Douglas, B. C. (1991). Global sea level rise. *Journal of Geophysical Research: Oceans*, 96(C4), 6981-6992. https://doi.org/10.1029/91JC00064
 
 Rahmstorf, S. (2007). A semi-empirical approach to projecting future sea-level rise. *Science*, 315(5810), 368-370. 
 
-Cazenave, A., & Llovel, W. (2010). Contemporary sea level rise. *Annual review of marine science*, 2, 145-173. 
+Cazenave, A., & Llovel, W. (2010). Contemporary sea level rise. *Annual review of marine science*, 2, 145-173. https://doi.org/10.1146/annurev-marine-120308-081105
 
 DeConto, R. M., & Pollard, D. (2016). Contribution of Antarctica to past and future sea-level rise. *Nature*, 531(7596), 591. 
 

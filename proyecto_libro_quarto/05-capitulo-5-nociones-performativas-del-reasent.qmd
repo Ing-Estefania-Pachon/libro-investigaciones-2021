@@ -1,4 +1,4 @@
-# Capítulo 5: Nociones performativas del reasentamiento social por riesgo de desastre en Colombia: componentes psicosociales estratégicos para la sostenibilidad
+# Capítulo 5: Nociones performativas del reasentamiento social por riesgo de desastre en Colombia: componentes psicosociales estratégicos para la sostenibilidad {.unnumbered}
 
 **William Oswaldo Gaviria Gutiérrez****1*****, Viviana Ramírez Loaiza****2**** & Lina Andrea Zambrano Hernández****3**
 
@@ -10,25 +10,25 @@
 
 *Autor de contacto: William Oswaldo Gaviria Gutiérrez. Programa de Psicología y Observatorio Psicosocial para la Gestión del Riesgo de Desastres. Universidad de Manizales. Manizales, Colombia. Correo-e: wgaviria@umanizales.edu.co
 
-## Resumen
+## Resumen {.unnumbered}
 
 El reasentamiento se ha convertido en un generador de nuevos riesgos para las comunidades al no priorizar el marco social que le constituye. Así, el estudio tuvo como objetivo identificar y conceptualizar los componentes psicosociales estratégicos para la planificación, ejecución y seguimiento de procesos correctivos de reasentamiento social para el contexto colombiano, con el fin de fortalecer los modos de vida de las comunidades, el desarrollo sostenible y la ampliación de libertades humanas. Se utilizó un diseño de corte cualitativo con enfoque hermenéutico centrado en el estado de la cuestión, usando como método el análisis de contenido categorial. Se analizaron doscientos documentos realizados en países latinoamericanos en el periodo 1991–2015 a partir de la categoría de análisis: reasentamiento poblacional asociado a amenaza natural, se adelantaron seis grupos focales y siete entrevistas semiestructuradas. Los resultados evidencian diez componentes sociales claves en proyectos de reasentamiento: territorial, ambiental, económico, estrategias sociales de afrontamiento, salud mental y física, prácticas socio culturales, percepción social del riesgo, jurídico-político, participación y organización social, e institucional. Se propone en la discusión el carácter performativo de estos componentes sociales, en cuanto la planeación, ejecución y seguimiento de cada uno implica que sea reinventado según las tensiones, rupturas y sintonías del contexto. 
 
-## Palabras clave
+## Palabras clave {.unnumbered}
 
 Reasentamiento social, acompañamiento psicosocial, reducción del riesgo de desastres, integridad socio-ambiental, sostenibilidad
 
 **Performative notions of social resettlement as disaster risk reduction in Colombia: strategic psychosocial components for sustainability**
 
-## Abstract
+## Abstract {.unnumbered}
 
 Resettlement has come through new risks for communities as its social framework has not been prioritized. Thus, the study aimed to identify and conceptualize the strategic psychosocial components for the planning, execution and monitoring of corrective processes of social resettlement for the Colombian context, in order to strengthen community livelihoods, sustainable development, and expansion of valuable freedoms. It was used a qualitative design with a hermeneutical approach focused on the state of the question, using categorical content analysis as a method. Two hundred documents made in Latin American countries in the period 1991–2015 were analyzed based on the category of analysis: population resettlement associated with natural hazards, six focus groups and seven semi-structured interviews were carried out. The results stress out ten key social components in resettlement projects: territorial, environmental, economic, social coping strategies, mental and physical health, socio-cultural practices, social risk perception, legal-political, social and institutional participation, and organization. In the discussion, the performative is embedded in these social components as the planning, execution and monitoring of each one should be reinvented according to the tensions, ruptures and tunings of the context.
 
-## Keywords
+## Keywords {.unnumbered}
 
 Social resettlement, psychosocial support, disaster risk reduction, socio-environmental integrity, sustainability
 
-## INTRODUCCIÓN
+## INTRODUCCIÓN {.unnumbered}
 
 Los casos de reasentamiento correctivos asociados a amenazas socio-naturales se soportan en el diagnóstico de riesgo no mitigable en una zona específica, donde la vulnerabilidad construida puede desencadenar un conjunto de afectaciones negativas para la integridad física, mental, social, económica y cultural de los habitantes de la zona. Bajo este marco, el reasentamiento correctivo es un proceso que constituye la última alternativa para reducir los riesgos de un determinado grupo poblacional al considerarse su complejidad [1]. 
 
@@ -62,7 +62,7 @@ Reconocer la sostenibilidad de los procesos de reasentamiento social como medida
 | Caja 1. Primeros puntos clave para procesos de reasentamiento Conocimiento y reconocimiento del contexto de las comunidades a reasentar así como de los contextos receptores.  Imperativo de no ser la fuente de nuevos riesgos naturales o sociales en otros territorios o para otras formas de vida. Articulación institucional y comunitaria desde el momento de la planeación. Concertación desde las voces de todos los actores. Invertir en recursos humanos y materiales para el abordaje del enfoque social en los procesos de reasentamiento. |
 | --- |
 
-## RESULTADOS 
+## RESULTADOS  {.unnumbered}
 
 Los resultados del presente estudio se categorizaron en diez componentes psicosociales del reasentamiento social. La tabla 1 sintetiza los componentes encontrados en la revisión documental según país, por su parte la figura 1 condensa la relación encontrada entre los componentes psicosociales. 
 
@@ -153,7 +153,7 @@ Estos procesos productivos son sujeto de la relación entre instituciones gubern
 | Caja 6. Puntos orientadores para el componente económico Estudios socioeconómicos donde se identifiquen las unidades de negocio formal e informal que contribuyen a la consolidación de la economía local. Empresas privadas y entidades públicas con cobertura o posibilidad de esta en el territorio destino, que favorezcan la empleabilidad o el intercambio de recursos bajo un accionar de defensa y promoción de los derechos humanos y del desarrollo sostenible. Programas específicos de promoción de empleo, formación y fondos de apoyo a emprendimiento. Análisis de características contextuales que permitan determinadas actividades económicas en el territorio de origen y receptor, así como los posibles cambios en actividades productivas. Capacidades comunitarias para el intercambio de actividades productivas. Estrategias que fomenten la planeación y protección financiera de las comunidades que hacen uso de prácticas mercantiles (programas de ahorro y crédito), con la finalidad de fortalecer y de ser posible ampliar sus capacidades. Diagnóstico del poder adquisitivo de las familias reasentadas y receptoras de bienes muebles e inmuebles. Propuestas claras de acciones que permitan la distribución de recursos y remuneración de factores de producción, respetando saberes locales y la coexistencia de la naturaleza en el territorio. |
 | --- |
 
-**Componente prácticas socioculturales**
+**Componente prácticas**** socioculturales**
 
 Este componente hace referencia a las construcciones colectivas de trayectoria socio-histórica en familias, comunidades u organizaciones sociales, evidenciadas en tradiciones religiosas y espirituales, espacios de vecindad habituales, ideologías compartida respecto a fenómenos específicos e intenciones explícitas en cada uno de los grupos sociales. Permean el accionar entre significados y sentidos que configuran continuamente la identidad social y el impacto en la calidad de vida de los habitantes. Si bien este componente tiene íntima relación con el de participación y organización social, este hace énfasis en acciones y creencias colectivas, muchas veces sucedidas de generación en generación, que no necesariamente implica la consecución de escenarios de participación. 
 
@@ -217,7 +217,7 @@ Balazote [49] refiere la importancia de comunicar sentires frente a las vivencia
 | Caja 11. Puntos orientadores para el componente de salud mental y física Caracterización epidemiológica. Programas de seguridad alimentaria a partir de usos y costumbres de las comunidades. Reconocimiento de la soberanía alimentaria Plan de promoción de hábitos de vida saludables en el territorio receptor. Programa sobre sexualidad, derechos sexuales y derechos reproductivos, en diálogo con los saberes propios de las comunidades, tal como el rol que ejerce “la partera”. Identificación de riesgos laborales que pueden surgir por vinculaciones de la comunidad en procesos de construcción de viviendas u otras labores productivas o logísticas. Espacios de participación que induzcan a la comunicación y valoración de cada una de las fases del reasentamiento. |
 | --- |
 
-## DISCUSIÓN Y CONCLUSIONES
+## DISCUSIÓN Y CONCLUSIONES {.unnumbered}
 
 Reubicación, relocalización y reasentamiento poblacional suelen ser categorías de estudio homologables en su abordaje e implementación a nivel latinoamericano [2,52,53,54], sin embargo, el abordaje metodológico, político, administrativo, económico y social de cada uno de ellos, guarda significativas diferencias [20]. Mientras que la reubicación y la relocalización implican ejercicios de menor impacto, en tanto pueden ser temporales, o darse en el mismo territorio, el reasentamiento, por el contrario, involucra una transformación de vínculos que afectan directamente el tejido social, conformado por cada una de las redes relacionales con el entorno, en consecuencia, amerita una mayor complejidad en su abordaje.
 
@@ -241,7 +241,7 @@ En conclusión, si bien la complejidad de la interacción humana con el territor
 | PUNTOS CLAVE El reasentamiento social como estrategia de reducción del riesgo de desastres, tiene como propósito fortalecer los modos de vida, la ampliación de libertades humanas y el desarrollo sostenible, a través de una relación de corresponsabilidad entre el Estado, las instituciones, públicas y privadas, y las comunidades.  El reasentamiento social deviene en una oportunidad para la construcción de comunidades y territorios situados en el conocimiento y la dignidad para la reducción del riesgo de desastres. |
 | --- |
 
-## METODOLOGÍA
+## METODOLOGÍA {.unnumbered}
 
 La investigación fue de corte cualitativo en tanto permitía profundizar en elementos determinados de la realidad social desde dinámicas particulares del contexto [56]. Siguió los principios del enfoque hermenéutico centrado en el estado de la cuestión, entendiéndose como
 
@@ -251,15 +251,15 @@ Aquellas vivencias, esto es, los efectos particulares de lo vivido que provocan 
 
 Los instrumentos empleados fueron: (1) matriz de análisis por medio de la cual se develaron tendencias y rupturas entre posibles unidades de significación, que llevaron a la conformación de categorías emergentes y, en consecuencia, a la organización de los hallazgos, (2) Fichas técnicas que en palabras de Hochman y Montero [59] constituyen “la memoria fiel del investigador…el depósito donde se acumulan los datos que obtiene en su trabajo” en consecuencia, es el instrumento donde se consignaron los principales elementos de los documentos revisados, con el fin de tener “una constante fuente de información, creciente y flexible” [59].
 
-## CONFLICTO DE INTERESES
+## CONFLICTO DE INTERESES {.unnumbered}
 
 Las autoras y el autor no declaran conflicto de intereses
 
-## AGRADECIMIENTOS
+## AGRADECIMIENTOS {.unnumbered}
 
 El presente proyecto de investigación fue posible gracias al convenio de asociación No. 9677-PPAL001-637-2015 celebrado entre el Fondo Nacional de Gestión del Riesgo de Desastres – FIDUPREVISORA S.A. y la Universidad de Manizales.
 
-## IDENTIFICACIÓN DE AUTOR
+## IDENTIFICACIÓN DE AUTOR {.unnumbered}
 
 William Oswaldo Gaviria Gutiérrez	
 
@@ -267,7 +267,7 @@ Viviana Ramírez Loaiza
 
 Lina Andrea Zambrano Hernández	
 
-## BIBLIOGRAFÍA
+## BIBLIOGRAFÍA {.unnumbered}
 
 Correa, E., Sanahuja, H. y Ramírez, F. (2011). *Guía de Reasentamiento para poblaciones en riesgo de desastre.* Washington DC: Banco Mundial y GFDRR.
 
@@ -339,7 +339,7 @@ Aronsson, L. (1992). Impresiones de un proyecto de reasentamiento. *Alteridades*
 
 García, A. (2010). *Plan de reasentamiento involuntario para las unidades sociales de la inspección de Boquerón *(Trabajo de grado). Girardot, Cundinamarca: Corporación Universitaria Minuto de Dios.
 
-Hurtado, J. (2010) *Análisis físico-espacial de la vivienda de interés social en los procesos de reasentamiento poblacional desde la perspectiva del hábitat: de los asentamientos autogestionados vulnerables a las soluciones institucionales masivas de vivienda. Estudio de caso: barrio Altos de Santa Ana. Comuna Ciudadela del Norte, Manizales*. (Tesis 694 Maestría). Universidad Nacional de Colombia.
+Hurtado, J. (2010) *Análisis físico-espacial de la vivienda de interés social en los procesos de reasentamiento poblacional desde la perspectiva del hábitat: de los asentamientos **autogestionados vulnerables a las soluciones institucionales masivas de vivienda. Estudio de caso: barrio Altos de Santa Ana. Comuna Ciudadela del Norte, Manizales*. (Tesis 694 Maestría). Universidad Nacional de Colombia.
 
 Mejía-Escalante, M. (2012). Habitabilidad en la vivienda social en edificios para población reasentada. El caso de Medellín, Colombia. *Revista Latinoamericana de Estudios Urbanos Regionales*, 38 (114), 203-227.  http://dx.doi.org/10.4067/S0250-12012000200008
 
@@ -387,7 +387,7 @@ Gadamer, H. (2002). *Verdad y método II*. Salamanca: Ediciones Sígueme.
 
 Hochman, E. y Montero M. (2005). *Investigación Documental. Técnicas y procedimientos*. Caracas: Panapo.
 
-Botzen, W., Bouwer, L., Scussolini, P., Kuik, O., Haasnoot, M., Lawrence, J., Aerts, J. (2019). Integrated Disaster Risk Management and Adaptation. En R. Mechler, L. Bouwer, T. Schinko, S. Surminski & J. Linnerooth-Bayer (Eds.), *Loss and Damage from Climate Change. Climate Risk Management, Policy and Governance*. Springer, Cham. 
+Botzen, W., Bouwer, L., Scussolini, P., Kuik, O., Haasnoot, M., Lawrence, J., Aerts, J. (2019). Integrated Disaster Risk Management and Adaptation. En R. Mechler, L. Bouwer, T. Schinko, S. Surminski & J. Linnerooth-Bayer (Eds.), *Loss and Damage from Climate Change. **Climate Risk Management, Policy and Governance*. Springer, Cham. 
 
 Bello, M. y Chaparro, R. (2010). *El daño desde el enfoque psicosocial. Iniciativas Universitarias para la paz y la convivencia*. Universidad Nacional de Colombia. Bogotá: Universidad Nacional.
 

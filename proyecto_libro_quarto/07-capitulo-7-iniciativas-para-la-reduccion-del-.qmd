@@ -1,4 +1,4 @@
-# Capítulo 7: Iniciativas para la reducción del riesgo de desastres en el programa de Ingeniería Ambiental y Sanitaria de la Universidad de La Salle: un tema de responsabilidad social universitaria
+# Capítulo 7: Iniciativas para la reducción del riesgo de desastres en el programa de Ingeniería Ambiental y Sanitaria de la Universidad de La Salle: un tema de responsabilidad social universitaria {.unnumbered}
 
 **Víctor Leonardo López Jiménez****1***
 
@@ -8,7 +8,7 @@
 
 **Resumen**
 
-Es necesario asumir desde la academia tareas encaminadas a disminuir el impacto que los humanos causan sobre su entorno natural, ya que su forma de actuar, sumada a la falta de conocimiento sobre las *fuerzas de la naturaleza*, son las causas de que muchos de los eventos de origen natural alcancen la categoría de desastres. Al respecto, Gómez [1] escribe: "No basta educar para incidir en el sistema imperante que, a todas luces, no es sustentable en el tiempo, tanto por la concentración de la riqueza que conlleva, como por el modelo de desarrollo depredador del medio ambiente; sistema destructor del tejido social donde la solidaridad no es posible, facilitador del consumismo y del egoísmo a ultranza, y destructor del planeta y de los procesos naturales.” Es claro que, el incremento de los eventos potencialmente catastróficos en Colombia, un país ubicado sobre la franja de mayor actividad sísmica del planeta y con un importante régimen de lluvias al año, tiene que ver con el notorio aumento de la pobreza, la ubicación de asentamientos humanos en zonas de alto riesgo y las malas prácticas de construcción; estas condiciones han hecho necesaria la búsqueda de alternativas encaminadas a la prevención y mitigación de los desastres partiendo del conocimiento y manejo de los factores de riesgo, temas que debe asumir la comunidad educativa como parte de su responsabilidad social. Conscientes de esto, en el Programa de Ingeniería Ambiental y Sanitaria (PIAS) de la Universidad de La Salle, se crea el espacio académico Gestión del Riesgo (GR) donde nace la experiencia *La gestión del riesgo, de la universidad a la comunidad*. Así, en un trabajo colaborativo y en concordancia con el Programa Educativo de la Universidad de La Salle (PEUL) se trabaja por la resiliencia de la comunidad. 
+Es necesario asumir desde la academia tareas encaminadas a disminuir el impacto que los humanos causan sobre su entorno natural, ya que su forma de actuar, sumada a la falta de conocimiento sobre las *fuerzas de la naturaleza*, son las causas de que muchos de los eventos de origen natural alcancen la categoría de desastres. Al respecto, Gómez [1] escribe: "No basta educar para incidir en el sistema imperante que, a todas luces, no es sustentable en el tiempo, tanto por la concentración de la riqueza que conlleva, como por el modelo de desarrollo depredador del medio ambiente; sistema destructor del tejido social donde la solidaridad no es posible, facilitador del consumismo y del egoísmo a ultranza, y destructor del planeta y de los procesos naturales.” Es claro que, el incremento de los eventos potencialmente catastróficos en Colombia, un país ubicado sobre la franja de mayor actividad sísmica del planeta y con un importante régimen de lluvias al año, tiene que ver con el notorio aumento de la pobreza, la ubicación de asentamientos humanos en zonas de alto riesgo y las malas prácticas de construcción; estas condiciones han hecho necesaria la búsqueda de alternativas encaminadas a la prevención y mitigación de los desastres partiendo del conocimiento y manejo de los factores de riesgo, temas que debe asumir la comunidad educativa como parte de su responsabilidad social. Conscientes de esto, en el Programa de Ingeniería Ambiental y Sanitaria (PIAS) de la Universidad de La Salle, se crea el espacio académico Gestión del Riesgo (GR) donde nace la experiencia *La gestión del riesgo, de la **universidad a la comunidad*. Así, en un trabajo colaborativo y en concordancia con el Programa Educativo de la Universidad de La Salle (PEUL) se trabaja por la resiliencia de la comunidad. 
 
 **Palabras clave**
 
@@ -24,7 +24,7 @@ It is necessary to assume from the academy tasks aimed to reduce the impact that
 
 Risk management, social responsibility, collaborative work, educational experience
 
-## INTRODUCCIÓN 
+## INTRODUCCIÓN  {.unnumbered}
 
 Como bien lo anota el Banco Mundial en su publicación *Análisis sobre la Gestión del Riesgo en Colombia* [2], nuestro país, como diversas regiones del mundo, enfrenta grandes retos que amenazan seriamente su desarrollo. Factores como el desplazamiento de población de las zonas rurales a las zonas urbanas, la degradación ambiental y el cambio acelerado del uso del suelo amplifican la magnitud de estos retos. Además, es posible observar en el estudio del Banco Mundial cómo las condiciones socioeconómicas que acompañan a distintos sectores de la población colombiana, junto con la propensión a la ocurrencia de fenómenos de origen natural tales como los sismos, inundaciones y deslizamientos confirman un proceso continuo de construcción y acumulación de riesgos. La vulnerabilidad socioeconómica y ambiental de gran parte de nuestra población se incrementa a su vez por las acciones humanas y las condiciones cada vez más variantes y rigurosas del clima. Es importante tener en cuenta que la materialización de estos riesgos muchas veces se convierte en desastres que afectan las condiciones normales de funcionamiento de una comunidad, impidiendo la ejecución de las actividades de su vida diaria, provocando la pérdida de bienes, y en muchas ocasiones de vidas humanas, trastornando el desarrollo de la región y retrasando el logro de las metas de bienestar social trazadas por el Estado. 
 
@@ -42,7 +42,7 @@ Todo esto sumado a la normatividad jurídica de la Universidad (Caja 1), que sir
 
 En este espacio académico nació la experiencia de extensión denominada “La gestión del riesgo, de la universidad a la comunidad” desde donde no solo se fortalece el conocimiento y lo que significa una buena relación del ser humano con la naturaleza, sino que también privilegia los principios y valores que caracterizan la educación lasallista y hacen parte de la responsabilidad social que hoy demanda el ejercicio de un buen profesional.
 
-## BREVE RESEÑA DE LOS DESASTRES EN COLOMBIA
+## BREVE RESEÑA DE LOS DESASTRES EN COLOMBIA {.unnumbered}
 
 Solo hasta noviembre de 1985 –cuando la avalancha provocada por la activación del Volcán del Nevado del Ruiz generó la gran catástrofe que enlutó al pueblo colombiano afectando de manera directa los departamentos de Tolima y Caldas, provocando alrededor de 25,000 víctimas y perdidas económicas calculadas en 211.8 millones de dólares (cifras suministradas por el PNUD)–  se detectó la necesidad urgente de contar con un Sistema que coordinara las acciones encaminadas a la prevención y atención de desastres en el territorio nacional. En consecuencia, se crea en 1989 el Sistema Nacional de Prevención y Atención de Desastres (SNPAD), hoy Sistema Nacional para la Gestión del Riesgo de Desastres (SNGRD), red institucional que tiene como función la administración del riesgo. 
 
@@ -64,9 +64,9 @@ Además de las severas inundaciones que captaron la mayor atención por su exten
 
 Otros eventos como los derrames de petróleo, escapes o fugas de sustancias químicas peligrosas, incendios, explosiones y colapso de estructuras, todos ellos considerados de origen antrópico y/o tecnológico, completan la larga lista de las amenazas presentes en el país. Como un ejemplo de materialización de estas amenazas se pueden citar: el desplome de la torre 6 del edificio Space en la ciudad de Medellín el 12 de octubre de 2013, donde murieron 12 personas y centenares resultaron damnificadas; la caída del puente Chirajara en la vía Bogotá-Villavicencio el 15 de enero de 2018, donde 9 obreros perdieron la vida y hubo un inmenso impacto en el desarrollo social y económico de la región. 
 
-## LA GESTIÓN DEL RIESGO: DE LA UNIVERSIDAD A LA COMUNIDAD  
+## LA GESTIÓN DEL RIESGO: DE LA UNIVERSIDAD A LA COMUNIDAD   {.unnumbered}
 
-### Detalles de la experiencia
+### Detalles de la experiencia {.unnumbered}
 
 Como se anotó anteriormente, la experiencia educativa nace en el seno del Programa en Ingeniería Ambiental y Sanitaria. Desde este programa se orientan los esfuerzos para formar facilitadores y que con los conocimientos y competencias adquiridas apoyen a la comunidad en la formulación e implementación de alternativas dirigidas a disminuir sus condiciones de riesgo frente a la posible ocurrencia de eventos de origen natural como los sismos. Estos eventos que debido a la participación del ser humano pueden considerarse de origen socio-natural como las inundaciones, deslizamientos e incendios forestales, y de aquellos cuyo origen se relaciona con la actividad del ser humano como las explosiones y los incendios estructurales.  
 
@@ -80,7 +80,7 @@ Es clara entonces la responsabilidad que cabe a los futuros profesionales como m
 
 El hecho de que el espacio académico Gestión del Riesgo haga parte de las materias electivas, permite ver que la vinculación de los jóvenes a este espacio se hace con toda libertad, asumiendo que por parte de estos se dará cumplimiento al programa planteado en el Syllabus donde se establece que a lo largo del semestre es necesario desarrollar un trabajo con y para la comunidad, apoyando procesos encaminados a reducir los niveles de vulnerabilidad y creando alternativas que conduzcan a la disminución del riesgo de desastres y el incremento de su resiliencia. Aunque la misión del espacio académico deja ver una preparación de los estudiantes para adelantar labores de identificación y evaluación de los factores de riesgo a nivel local, municipal y regional, se ha tomado como línea de acción con metas semestrales el apoyo a los centros educativos, hogares de la tercera edad y todas aquellas instituciones que albergan comunidades altamente vulnerables, dando prioridad a la población menos favorecida. 
 
-### Aspectos relevantes de la experiencia
+### Aspectos relevantes de la experiencia {.unnumbered}
 
 Nuevo conocimiento
 
@@ -118,9 +118,9 @@ Como ejemplo de cooperación entre instituciones, a mediados de 2009 el FOPAE (h
 
 De otro lado, desde el 2010, la Defensa Civil apoya muy de cerca los procesos de capacitación (principalmente prácticas de campo) de los alumnos que se forman en el espacio académico Gestión del Riesgo del PIAS. La universidad, como política de relaciones interinstitucionales, desde el Programa de Ingeniería Ambiental y Sanitaria participa desde hace varios años en las mesas de trabajo sobre Agua y Saneamiento, Gestión del Riesgo y Cambio Climático organizadas por el Ministerio de Ambiente y Desarrollo Sostenible y el IDIGER; además, desde el 2014 ha tenido asiento en la comisión de investigación liderada por la Unidad Nacional para la Gestión del Riesgo de Desastres.
 
-## ALCANCES DE LA EXPERIENCIA
+## ALCANCES DE LA EXPERIENCIA {.unnumbered}
 
-### Desde los proyectos de aula
+### Desde los proyectos de aula {.unnumbered}
 
 Vallaeys François [12]  escribe “La universidad produce impactos sociales, en tanto que influye fuertemente en la sociedad y su desarrollo económico, cultural y político; no sólo tiene un impacto directo sobre el futuro del mundo en cuanto forma a sus profesionales y líderes, sino que ella es también un referente y un actor social que puede promover (o no) el progreso, que puede crear (o no) capital social, vincular (o no) la educación de los estudiantes con la realidad social exterior, hacer accesible (o no) el conocimiento a todos.” 
 
@@ -150,7 +150,7 @@ Asesoría y formulación de Planes de Emergencia en algunas fundaciones e instit
 | Cárceles | 1 | 4 | 365 |
 | Totales | 196 | 553 | 64,650 |
 
-### Desde la investigación y desempeño profesional
+### Desde la investigación y desempeño profesional {.unnumbered}
 
 Como resultado del quehacer del espacio académico, en el año 2008 se crea el GRYCC, como un espacio abierto de estudio conformado por docentes y estudiantes comprometidos con la reducción de la vulnerabilidad y el incremento de la resiliencia de las comunidades frente a la posible ocurrencia de eventos adversos, y al mismo tiempo con el desarrollo humano, integral y sustentable. Desde ese entonces, el grupo GRYCC y su semillero de investigación desarrollan proyectos de investigación orientados tanto al conocimiento de los eventos de origen natural y antrópico, que por sus características pueden afectar el crecimiento social y económico de la población, como a la gestión del riesgo de desastres. 
 
@@ -162,13 +162,13 @@ Desde el espacio académico y GRYCC se han adelantado proyectos con alta respons
 
 Como un ejemplo de proyección con responsabilidad social y, con la intención de brindar una oportunidad de vida a quienes temporalmente han perdido su libertad y permanecen olvidados por una gran parte de la sociedad, los estudiantes vinculados al SI-GRYCC, hicieron posible la formulación de los planes de emergencia para la cárcel de mujeres El Buen Pastor y el centro de reclusión La Picota, trabajos que por su importancia fueron avalados como proyecto de grado. Como la responsabilidad comienza por casa, es bueno mencionar que, estudiantes del semillero tomaron como tema para su trabajo de grado la *Estructuración del plan integral para la prevención y control de emergencias en la **Sede Centro de la Universidad de La Salle*.
 
-También desde el GRYCC se han llevado a cabo proyectos que muestran alternativas para hacer frente a la nueva realidad que plantea el amenazante fenómeno del calentamiento global, el cual según informe del Panel Intergubernamental de Expertos de Cambio Climático (IPCC) [15] es causado por las emisiones antropogénicas y seguirá causando nuevos cambios a largo plazo en el sistema climático. El informe asegura (con un nivel de confianza alto) que “ya se han observado impactos en los sistemas naturales y humanos como consecuencia del calentamiento global”. Como un ejemplo pueden citarse proyectos como el *Análisis sobre la capacidad de **adaptación socio-económica**, ambiental e institucional de la sub-cuenca del río Bajo Ubaté, frente a los escenarios de cambio climático* y el de *Vulnerabilidad hídrica** en la cuenca del Río Blanco, municipio de La Calera, considerando los escenarios de cambio climático propuestos por la Corporación Autónoma Regional de Cundinamarca*.
+También desde el GRYCC se han llevado a cabo proyectos que muestran alternativas para hacer frente a la nueva realidad que plantea el amenazante fenómeno del calentamiento global, el cual según informe del Panel Intergubernamental de Expertos de Cambio Climático (IPCC) [15] es causado por las emisiones antropogénicas y seguirá causando nuevos cambios a largo plazo en el sistema climático. El informe asegura (con un nivel de confianza alto) que “ya se han observado impactos en los sistemas naturales y humanos como consecuencia del calentamiento global”. Como un ejemplo pueden citarse proyectos como el *Análisis sobre la capacidad de **adaptación socio-económica**,** ambiental e institucional de la sub-cuenca del río Bajo Ubaté, frente a los escenarios de cambio climático* y el de *Vulnerabilidad hídrica** en la cuenca del Río Blanco, municipio de La Calera, considerando los escenarios de cambio climático propuestos por la Corporación Autónoma Regional de Cundinamarca*.
 
 Incluyendo los proyectos mencionados en párrafos anteriores, cuyos informes reposan en la biblioteca de la Universidad y el archivo documental del PIAS, entre 2007 y 2019 se adelantaron en el programa alrededor de cuarenta trabajos (la mayoría de ellos como proyectos de grado) con los que, en buena medida, se ha contribuido con la gestión del riesgo en municipios y regiones del país. En el desarrollo de estos trabajos estuvieron vinculados cerca de un centenar de estudiantes, la mayoría de ellos pertenecientes al semillero de investigación SI-GRYCC.
 
 Es bueno anotar que muchos de los estudiantes que pasaron por el espacio académico Gestión del Riesgo y que hicieron parte del semillero de investigación han encontrado en la experiencia vivida como facilitadores de procesos con la comunidad, algo más que una oportunidad para llevar sus conocimientos sobre gestión del riesgo “de la universidad a la comunidad”, han encontrado, además de esto, una plataforma para su crecimiento y desarrollo profesional. Algunos, como ya se anotó, han tomado este campo como marco de referencia para la elaboración de sus trabajos de grado y varios de ellos han tenido la oportunidad de vincularse con instituciones como la UNGRD, el IDIGER, la CCO y el MADS, donde han podido hacer realidad su aporte como profesionales a la gestión del riesgo en el país.  
 
-## CONCLUSIONES
+## CONCLUSIONES {.unnumbered}
 
 La responsabilidad social, en especial en lo que hace referencia a la gestión del riesgo, es un tema que apenas se está abordando en las instituciones de educación superior, donde se sabe se forman los futuros tomadores de decisiones. En este sentido, la universidad de La Salle reconoce, desde su misión, visión y política, la responsabilidad que, como institución, debe asumir para contribuir con el desarrollo humano e integralmente sostenible del país, es así que apoya los proyectos que se adelantan para incrementar la resiliencia de la población en distintos sectores del territorio nacional.
 
@@ -198,7 +198,7 @@ Quiero manifestar mis más sinceros agradecimientos a la UNGRD por abrir un espa
 
 Víctor Leonardo López Jiménez	
 
-## **BIBLIOGRAFIA**
+## BIBLIOGRAFIA {.unnumbered}
 
 Gómez Restrepo, Fsc., H. G. (2010). La responsabilidad social de la universidad lasallista: elementos para la reflexión y el debate. *Revista de la Universidad de La Salle*, 51, 15-53. 
 
