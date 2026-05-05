@@ -121,11 +121,16 @@ def limpiar_nombre_archivo(texto):
 def es_titulo_principal(texto):
     if MODO_CORTE == 'REGEX_CAPITULO':
         return bool(re.match(r'(?i)^cap[íi]tulo\s+.*', texto))
-    return False
-
 def es_seccion_final(texto):
     patron = r'(?i)^(anexos?|glosario|autores|sobre los autores|acerca de|índice|agradecimientos|identificación del autor|lista de pares revisores)\b'
     return bool(re.match(patron, texto.strip()))
+
+def normalizar_comparacion(texto):
+    """Normaliza texto eliminando acentos y convirtiendo a minúsculas para comparaciones robustas."""
+    if not texto: return ""
+    texto = unicodedata.normalize('NFD', texto)
+    texto = "".join(c for c in texto if unicodedata.category(c) != 'Mn')
+    return texto.lower().strip()
 
 def generar_yaml(dir_salida, lista_archivos):
     ruta_yaml = os.path.join(dir_salida, '_quarto.yml')
@@ -133,8 +138,8 @@ def generar_yaml(dir_salida, lista_archivos):
         f.write("project:\n  type: book\n  output-dir: _book\n\n")
         f.write("book:\n  title: \"Investigaciones en Gestión del Riesgo\"\n  chapters:\n    - index.qmd\n")
         for archivo in lista_archivos: f.write(f"    - {archivo}\n")
-        # Aseguramos que MathJax esté activo para renderizar bien el $ y $$
-        f.write("\nformat:\n  html:\n    theme: cosmo\n    toc: true\n    number-sections: true\n    html-math-method: mathjax\n")
+        # Aseguramos que MathJax esté activo y desactivamos numeración de secciones
+        f.write("\nformat:\n  html:\n    theme: cosmo\n    toc: true\n    number-sections: false\n    html-math-method: mathjax\n")
 
 def procesar_documento(ruta_docx, dir_salida):
     print("Iniciando extracción nativa unificada (Texto fluido, Ecuaciones inline e Imágenes)...")
@@ -146,74 +151,132 @@ def procesar_documento(ruta_docx, dir_salida):
     capitulo_num = 0
     lista_archivos = []
     
-    archivo_actual = open(os.path.join(dir_salida, 'index.qmd'), 'w', encoding='utf-8')
-    archivo_actual.write("# Preliminares {.unnumbered}\n\n")
+    # Estructura para preliminares
+    PRELIM_TITLES = ["Presentación del libro", "Página Legal", "Prólogo", "Lista de autores"]
+    prelim_buffers = {t: [] for t in PRELIM_TITLES}
+    current_prelim_section = None
+    buffer_pre_capitulo = []
     
+    flag_primer_capitulo_encontrado = False
     flag_post_bibliografia = False
+    
+    archivo_actual = None
 
     for block in iter_block_items(doc):
-        # 1. TABLAS
+        # 1. IDENTIFICACIÓN DE TEXTO Y TÍTULOS
         if isinstance(block, Table):
-            archivo_actual.write(tabla_a_markdown(block))
-            continue
-            
-        parrafo = block
-        texto_base = parrafo.text.strip()
-        
-        # Extraer imágenes del bloque
-        imagenes_md = extraer_imagenes_del_parrafo(parrafo, doc.part, dir_media)
-        
-        # Extraer texto integrado con ecuaciones
-        texto_md = extraer_texto_integrado(parrafo)
-        
-        if not texto_md.strip() and not imagenes_md: 
-            continue
-            
-        texto_limpio = texto_md.lstrip()
-        if texto_limpio.startswith('['): texto_limpio = '\\' + texto_limpio
-        
-        # 2. EVALUACIÓN DE SECCIONES (Capítulos, Bibliografía, etc.)
-        es_biblio = bool(re.match(r'(?i)^(bibliograf[íi]a|referencias|literatura citada)\b', texto_base))
-        
-        if es_titulo_principal(texto_base):
-            flag_post_bibliografia = False
-            archivo_actual.close()
-            capitulo_num += 1
-            nom = f"{capitulo_num:02d}-{limpiar_nombre_archivo(texto_base)}.qmd"
-            archivo_actual = open(os.path.join(dir_salida, nom), 'w', encoding='utf-8')
-            archivo_actual.write(f"# {texto_base}\n\n")
-            lista_archivos.append(nom)
-            print(f"-> Capítulo: {nom}")
-            
-        elif es_biblio:
-            flag_post_bibliografia = True
-            archivo_actual.write(f"## {texto_limpio}\n\n")
-            
-        elif flag_post_bibliografia and texto_base and es_seccion_final(texto_base):
-            archivo_actual.close()
-            capitulo_num += 1
-            nom = f"{capitulo_num:02d}-post-{limpiar_nombre_archivo(texto_base)}.qmd"
-            archivo_actual = open(os.path.join(dir_salida, nom), 'w', encoding='utf-8')
-            archivo_actual.write(f"# {texto_base} {{.unnumbered}}\n\n")
-            lista_archivos.append(nom)
-            print(f"-> Sección Final: {nom}")
-            
+            texto_base = ""
+            contenido_bloque = tabla_a_markdown(block)
         else:
+            parrafo = block
+            texto_base = parrafo.text.strip()
+            # Extraer imágenes y texto
+            imagenes_md = extraer_imagenes_del_parrafo(parrafo, doc.part, dir_media)
+            texto_md = extraer_texto_integrado(parrafo)
+            if not texto_md.strip() and not imagenes_md: continue
+            
+            texto_limpio = texto_md.lstrip()
+            if texto_limpio.startswith('['): texto_limpio = '\\' + texto_limpio
+            
+            # Formatear según estilo
             if texto_limpio:
                 estilo = parrafo.style.name.lower()
                 if 'heading 1' in estilo or 'título 1' in estilo:
-                    archivo_actual.write(f"## {texto_limpio}\n\n")
+                    contenido_bloque = f"## {texto_limpio} {{.unnumbered}}\n\n"
                 elif 'heading 2' in estilo or 'título 2' in estilo:
-                    archivo_actual.write(f"### {texto_limpio}\n\n")
+                    contenido_bloque = f"### {texto_limpio} {{.unnumbered}}\n\n"
                 else:
-                    archivo_actual.write(f"{texto_limpio}\n\n")
-                
-        # 3. Inyectar las imágenes debajo del párrafo al que pertenecen
-        if imagenes_md:
-            archivo_actual.write(imagenes_md)
+                    contenido_bloque = f"{texto_limpio}\n\n"
+            else:
+                contenido_bloque = ""
+            
+            if imagenes_md:
+                contenido_bloque += imagenes_md
+
+        # 2. LÓGICA DE DISTRIBUCIÓN
+        
+        # Check if it's a main chapter title
+        if es_titulo_principal(texto_base):
+            flag_primer_capitulo_encontrado = True
+            flag_post_bibliografia = False
+            if archivo_actual: archivo_actual.close()
+            
+            capitulo_num += 1
+            nom = f"{capitulo_num:02d}-{limpiar_nombre_archivo(texto_base)}.qmd"
+            archivo_actual = open(os.path.join(dir_salida, nom), 'w', encoding='utf-8')
+            # Los capítulos conservan su nombre sin prefijo numérico manual, Quarto no los numerará
+            archivo_actual.write(f"# {texto_base} {{.unnumbered}}\n\n")
+            lista_archivos.append(nom)
+            print(f"-> Capítulo: {nom}")
+            continue
+
+        if not flag_primer_capitulo_encontrado:
+            # Estamos en la zona de preliminares. Buscamos títulos de secciones requeridas.
+            texto_norm = normalizar_comparacion(texto_base)
+            found_title = None
+            for pt in PRELIM_TITLES:
+                if texto_norm == normalizar_comparacion(pt):
+                    found_title = pt
+                    break
+            
+            if found_title:
+                current_prelim_section = found_title
+            elif current_prelim_section:
+                prelim_buffers[current_prelim_section].append(contenido_bloque)
+        else:
+            # Estamos después del primer capítulo
+            es_biblio = bool(re.match(r'(?i)^(bibliograf[íi]a|referencias|literatura citada)\b', texto_base))
+            
+            if es_biblio:
+                flag_post_bibliografia = True
+                archivo_actual.write(f"## {texto_base} {{.unnumbered}}\n\n")
+            elif flag_post_bibliografia and texto_base and es_seccion_final(texto_base):
+                archivo_actual.close()
+                capitulo_num += 1
+                nom = f"{capitulo_num:02d}-post-{limpiar_nombre_archivo(texto_base)}.qmd"
+                archivo_actual = open(os.path.join(dir_salida, nom), 'w', encoding='utf-8')
+                archivo_actual.write(f"# {texto_base} {{.unnumbered}}\n\n")
+                lista_archivos.append(nom)
+                print(f"-> Sección Final: {nom}")
+            else:
+                archivo_actual.write(contenido_bloque)
+
+    # 3. ESCRITURA DE PRELIMINARES (Archivos individuales)
+    lista_preliminares = []
+    
+    # El primer preliminar con contenido (preferiblemente Presentación) será el index.qmd
+    # ya que Quarto requiere que el primer archivo de capítulos sea index.qmd
+    index_asignado = False
+    
+    for pt in PRELIM_TITLES:
+        if prelim_buffers[pt]:
+            nom_base = limpiar_nombre_archivo(pt)
+            
+            if not index_asignado:
+                nom_archivo = "index.qmd"
+                index_asignado = True
+            else:
+                nom_archivo = f"prelim-{nom_base}.qmd"
+                lista_preliminares.append(nom_archivo)
+            
+            with open(os.path.join(dir_salida, nom_archivo), 'w', encoding='utf-8') as f_pre:
+                f_pre.write(f"# {pt} {{.unnumbered}}\n\n")
+                for block_content in prelim_buffers[pt]:
+                    f_pre.write(block_content)
+            
+            print(f"-> Preliminar: {nom_archivo} ({pt})")
+
+    # Si por alguna razón no hubo preliminares, creamos un index.qmd genérico
+    if not index_asignado:
+        with open(os.path.join(dir_salida, "index.qmd"), 'w', encoding='utf-8') as f_idx:
+            f_idx.write("# Introducción {.unnumbered}\n\nContenido en preparación.\n")
+        index_asignado = True
 
     if archivo_actual: archivo_actual.close()
-    generar_yaml(dir_salida, lista_archivos)
+    
+    # Combinamos preliminares y capítulos (index.qmd no se añade a lista_archivos porque generar_yaml ya lo incluye)
+    todos_los_archivos = lista_preliminares + lista_archivos
+    generar_yaml(dir_salida, todos_los_archivos)
     print("\n¡Procesamiento estandarizado completado con éxito!")
 
 if __name__ == "__main__":
